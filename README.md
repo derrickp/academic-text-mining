@@ -9,3 +9,6 @@ academic-text-mining (actemin)
 ## Dependencies
 
 - [spaCy](https://spacy.io/)
+- [pdfrw](https://github.com/pmaupin/pdfrw)
+    - pdfrw is a library for reading and writing pdf files.  
+      In this package it will be used to read the text from the pdf files in the configured directories. This text will then be sent through spaCy to eventually pull out information.
