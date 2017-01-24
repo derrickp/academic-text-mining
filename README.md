@@ -1,4 +1,4 @@
-academic-text-mining
+academic-text-mining (actemin)
 ===
 
 ## Description
