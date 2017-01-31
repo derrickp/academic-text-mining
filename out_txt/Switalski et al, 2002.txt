@@ -1,0 +1,643 @@
+Natural Resources and Environmental Issues
+
+Volume 10 Wolves in Utah
+
+Article 7
+
+1-1-2002
+
+Potential strategies for managing Utah's wolf-
+livestock conflicts
+
+T. Adam Sw italski
+
+Department of Fisheries and Wildlife, Utah State University, Logan
+
+Trey Simmons
+
+Department of Fisheries and Wildlife, Utah State University, Logan
+
+Shiree L . Duncan
+
+Department of Forest Resources, Utah State University, Logan
+
+Andreas S. Chavez
+
+Department of Fisheries and Wildlife, Utah State University, Logan
+
+Robert H. Schmidt
+
+Department of Environment and Society, Utah State University, Logan
+
+Follow this and additional works at: http://digitalcommons.usu.edu/nrei
+
+Recommended Citation
+
+Sw italski, T. Adam; Simmons, Trey; Duncan, Shiree L.; Chavez, Andreas S.; and Schmidt, Robert H. (2002) "Potential strategies for
+managing Utah's wolf-livestock conflicts," Natural Resources and Environmental Issues: Vol. 10, Article 7.
+Available at: http://digitalcommons.usu.edu/nrei/vol10/iss1/7
+
+This Article is brought to you for free and open access by the Quinney
+
+Natural Resources Research Library, S.J. and Jessie E. at
+
+DigitalCommons@USU. It has been accepted for inclusion in Natural
+
+Resources and Env ironmental Issues by an authorized administrator of
+
+DigitalCommons@USU. For more information, please contact
+
+becky.thoms@usu.edu.
+
+Switalski et al.: Potential strategies for managing Utah's wolf-livestock conflicts
+
+Wolves in Utah 
+
+6. Potential Strategies for Managing Utah’s Wolf-Livestock Conflicts 
+
+6.1. Overview 
+
+The United States Fish and Wildlife Service (USFWS) classifies gray wolf populations as 
+
+either endangered, threatened, or nonessential/experimental. Therefore, if wolves enter 
+
+Utah under their current legal classification, the USFWS will be the primary agency 
+
+responsible for wolf management (see Section 2). For the last 30 years, this agency has 
+
+been responsible for managing recovering wolf populations in other parts of the United 
+
+States, both in the Great Lakes and the Rockies. Unfortunately, wolves have come into 
+
+conflict with livestock in all of their recovery areas. As a result, the USFWS has taken 
+
+various measures to minimize these conflicts, while maintaining their objectives to 
+
+continue to recover wolf populations. 
+
+Some of the measures the USFWS has implemented in the Northern Rockies Recovery 
+
+Area for reducing wolf-livestock conflicts include (1) drafting the Interim Wolf Control 
+
+Plan (IWCP) (USFWS, 1988) to serve as a guideline for controlling problem wolves in 
+
+the northern Rockies; (2) classifying wolves in the Greater Yellowstone and Idaho 
+
+Recovery Areas as nonessential/experimental populations, which prompts wolf 
+
+management regulations under separate experimental population rules (Federal Register 
+
+Vol. 59. No. 224) and allows for more liberal management of problem wolves; and (3) 
+
+cooperating with the U.S. Department of Agriculture/Animal and Plant Health Inspection 
+
+Service/Wildlife Services and wolf interest groups (Defenders of Wildlife and Turner 
+
+Endangered Species Fund) for better wolf depredation management.  
+
+The cornerstone of any Utah wolf management plan will clearly be developing strategies 
+
+for minimizing wolf-livestock conflicts, and instituting mechanisms for dealing with 
+
+those that do occur. Niemeyer et al. (1994) advocated the protection of rural interests, 
+
+promotion of public tolerance, and responsible management and protection for wolves as 
+
+key elements in a wolf management program. Responsible wolf management ensures that 
+
+the resolution of wolf-livestock conflicts meets the interests of livestock producers, 
+
+natural resource managers, and the general public. The number of states that have dealt 
+
+with wolf-livestock conflicts has increased dramatically since wolves were put on the 
+
+endangered species list in the early 1970s. Originally, Minnesota was the only state that 
+
+had to address wolf-livestock conflicts; this has now expanded to include Wisconsin, 
+
+Michigan, Montana, Idaho, Wyoming, Arizona, and New Mexico. We have gleaned 
+
+information from existing wolf management plans from around the U.S. and from the 
+
+literature and here offer guidelines for preventing and reacting to wolf-livestock conflicts 
+
+(e.g., MGWRT, 1997; WWAC, 1999; ID LWOC, 2000; MN DNR, 2001; MT DFWP, 
+
+2001). In general, we recommend a two-pronged approach: (1) preventing wolf 
+
+depredations on livestock and (2) implementing wolf control. 
+
+6.2. Preventing Wolf Depredations on Livestock  
+
+A number of techniques have been used to minimize livestock depredation; however, 
+
+they vary widely in effectiveness, selectivity, and humaneness (Cluff and Murray, 1995). 
+
+Even effective techniques are not applicable in every situation, and therefore effective 
+
+Published by DigitalCommons@USU, 2002
+
+1
+
+31
+
+Natural Resources and Environmental Issues, Vol. 10 [2002], Art. 7
+
+                             Natural Resources and Environmental Issues                              Vol. 10 
+
+predator deterrence requires an integrated approach (Fritts et al., 1992). Some of these 
+
+methods have only been studied for their effectiveness in deterring predation by coyotes 
+
+(Wagner, 1988; Cluff and Murray, 1995; and Knowlton et al., 1999), and so their ability 
+
+to deter wolf predation has not been determined. However, coyotes and wolves share 
+
+many morphological, behavioral, physiological, and sensory attributes, and therefore the 
+
+results from studies on coyotes may be applicable for wolves as well, at least in some 
+
+cases. In addition, various agencies and interest groups are currently testing new 
+
+techniques, which, although they may prove to be effective, are not reviewed here. With 
+
+this in mind, the following techniques may minimize wolf depredations on livestock in 
+
+areas where wolves and livestock may coexist in Utah.  
+
+• 
+
+• 
+
+• 
+
+Altering livestock husbandry practices. Adjustments in livestock-rearing practices 
+
+can be beneficial for the protection of livestock from predators, although their 
+
+effectiveness varies depending on the size and location of pastures and type of 
+
+livestock. Preventative methods include: 
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Removing livestock carcasses promptly from grazing lands.  
+
+Calving or lambing in a confined area (e.g, a fenced pasture), to reduce mother-
+
+offspring separation and therefore vulnerability of neonate livestock (Wagner, 
+
+1988).
+
+Stricter human vigilance or closer proximity (e.g., herding) to livestock herds 
+
+(Davenport et al., 1973a, 1973b), especially during lambing and calving.  
+
+Adequate fencing when possible, including antipredator electric fencing (Gates et 
+
+al., 1978; Linhart et al., 1982; Acorn and Dorrance, 1994), to keep predators out 
+
+of livestock areas.  
+
+Synchronized lambing and calving to reduce the period of maximum vulnerability 
+
+in lambs and calves (Knowlton et al., 1999).
+
+Using livestock guarding dogs. For centuries, some breeds of domestic dogs have 
+
+been bred specifically for the protection of livestock (e.g., Hungarian Komondor and 
+
+Great Pyrenees). Although they are known to be helpful in minimizing predation by 
+
+coyotes, little empirical evidence is available demonstrating that livestock-guarding 
+
+dogs mitigate wolf depredation in the United States (e.g., Coppinger and Coppinger 
+
+1995). However, M. Smith et al. (2000) discuss potential strategies for using 
+
+livestock-guarding dogs effectively with wolves. For coyotes, livestock-guarding 
+
+dogs work by being attentive to livestock and fending off intruders (McGrew and 
+
+Blakesley, 1982), whereas for wolves these dogs may establish territories excluding 
+
+wolves, or may distract wolves and disrupt their normal predatory sequence (M. 
+
+Smith et al., 2000). It should be noted that few, if any, guard dogs specifically trained 
+
+to defend livestock against wolf depredation have been used in the United States. 
+
+Such training might increase the effectiveness of guard dogs in reducing wolf 
+
+depredations.
+
+Relocating livestock into other grazing lands. It is possible that in some areas 
+
+livestock will graze in habitats where the management of wolves will be biologically 
+
+or politically difficult. Therefore, in these cases, it may be beneficial to move 
+
+32 
+
+http://digitalcommons.usu.edu/nrei/vol10/iss1/7
+
+2
+
+ 
+Switalski et al.: Potential strategies for managing Utah's wolf-livestock conflicts
+
+Wolves in Utah 
+
+• 
+
+livestock to other grazing areas where the risk from wolf depredations will be smaller 
+
+or non-existent, or where wolves can be more easily managed.
+
+Relocating wolves into other areas or stocking grazing lands with native 
+
+ungulates. It is also possible that in some areas livestock may graze in habitats where 
+
+they may be the most abundant large prey species for wolves. In these cases, removal 
+
+of wolves might be the best approach. For example, the USFWS recently relocated 
+
+Yellowstone’s Boulder Mountain wolf pack when they denned near a private grazing 
+
+operation. On the other hand, if the continuing presence of wolves in such an area is 
+
+the preferred policy, then stocking with native ungulates might reduce the impacts of 
+
+wolf depredation on livestock. This was recommended for reducing wolf 
+
+depredations on livestock in northern Portugal, where native ungulates were at very 
+
+low densities and livestock production was intensive (Vos, 2000). However, given 
+
+the limited evidence, it is difficult to determine how effective this approach might be 
+
+for Utah.
+
+6.3. Implementing Wolf Control  
+
+In 1999, the revised Interim Wolf Control Plan (IWCP) defined wolf control as the 
+
+(a) application of aversive conditioning techniques to problem wolves; (b) 
+
+capturing problem wolves on Federal, state or private lands, radio tagging and 
+
+releasing them on site; (c) relocating problem wolves to remote areas; (d) placing 
+
+problem wolves in captivity; or (e) killing problem wolves. (USFWS, 1999, p.4)  
+
+In order to minimize depredation events following wolf recolonization in Utah, it is vital 
+
+that a well-planned wolf control program be ready for pending conflicts between wolves 
+
+and livestock. The IWCP elucidated this argument very convincingly, not only for the 
+
+northern U.S. Rocky Mountain region but also for any area that has the potential for 
+
+wolf-livestock conflicts to occur: 
+
+Application of a practical, responsive management program including control is 
+
+essential to the recovery effort. Implementation of a control program will enhance 
+
+the general survival of the wolf by showing that responsible Federal agencies will 
+
+act quickly to resolve depredation problems. Timely response to depredations will 
+
+alleviate the perception of Government inaction that often results in landowner 
+
+frustration, which, in turn, may lead to the indiscriminate killing of wolves. 
+
+Removal of problem animals does more than stop the depredation. It relieves the 
+
+pressures or antagonisms directed toward the total population by the landowner(s) 
+
+incurring the losses or other members of the public. Consequently, the local 
+
+(wolf) population is in less danger from potential nonselective illegal attempts at 
+
+damage control. In addition, control actions will focus on control of problem 
+
+wolves and, in doing so, will resolve wolf/human conflicts through removal of a 
+
+minimum number of wolves. Based on the low rates of livestock depredation in 
+
+northwestern Montana and the availability of ungulate biomass, the number of 
+
+wolves killed under this wolf control strategy is not likely to impede overall 
+
+recovery efforts though temporary reductions in local areas may occasionally 
+
+occur, as in 1997. The Service's biological opinion on the draft Control Plan, 
+
+Published by DigitalCommons@USU, 2002
+
+3
+
+33
+
+Natural Resources and Environmental Issues, Vol. 10 [2002], Art. 7
+
+                             Natural Resources and Environmental Issues                              Vol. 10 
+
+August 5, 1988, concluded that the proposed action is not likely to jeopardize the 
+
+continued existence of the wolf. The biological opinion on the modified Control 
+
+Plan, July 22, 1999, reached the same conclusion. By enhancing the survival 
+
+chances of those non-offending wolves and removing those wolves that do kill 
+
+livestock, the control program will contribute to the ultimate recovery of the wolf 
+
+in . . . the Rocky Mountains. (USFWS, 1999, p.6) 
+
+Until the USFWS decides that another agency is responsible, we assume that they will be 
+
+the primary agency for wolf management in Utah.  Furthermore, Wildlife Services has 
+
+provided wolf control specialists for other wolf recovery areas. Therefore, for the purpose 
+
+of these recommendations we have assumed that they will continue these services. We 
+
+recommend a two-step approach for wolf control actions. These recommendations are 
+
+similar to those in the IWCP. First, it is necessary to identify whether or not wolves are 
+
+responsible for a given depredation event. If wolves are found to not be responsible, then 
+
+no wolf control action should take place. If wolf involvement is verified, then conducting 
+
+wolf control actions will be necessary. 
+
+Verification of Wolf Involvement 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Efforts should be directed toward locating, capturing, radio-collaring, and 
+
+monitoring of wolves in Utah. Intensive monitoring of radio-collared wolves 
+
+would assist wolf control personnel in anticipating conflicts and in locating 
+
+depredating wolves. Telemetry information would inform agency personnel of 
+
+any collared wolves that are in close proximity to a site where livestock were 
+
+damaged or killed. 
+
+Trained specialists from appropriate agencies should be responsible for prompt 
+
+responsiveness (within 48 hours) to reports of wolf/livestock or wolf/pet conflicts. 
+
+To ensure proper verification, wounded livestock or remains of a livestock carcass 
+
+should be present with clear evidence that wolves were responsible for the 
+
+damage.
+
+Before initiating wolf control efforts, there should be reason to believe that 
+
+additional losses would occur in the absence of wolf control.
+
+Before initiating wolf control efforts, animal husbandry practices should be 
+
+verified as being reasonably responsible (“best management practices”) for 
+
+reducing losses to wolves.  
+
+Conducting Wolf Control 
+
+• 
+
+It is difficult to offer recommendations for wolf control without clear population 
+
+objectives for wolves in Utah. Once population objectives have been defined, then 
+
+recommendations for control should mesh with those management objectives. 
+
+http://digitalcommons.usu.edu/nrei/vol10/iss1/7
+
+4
+
+34 
+
+ 
+Switalski et al.: Potential strategies for managing Utah's wolf-livestock conflicts
+
+Wolves in Utah 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Any non-lethal control, trapping, relocating, or killing of wolves should be 
+
+conducted by authorized personnel from either the USFWS, Wildlife Services, 
+
+tribes, and/or other cooperating Utah, tribal, and federal agencies. 
+
+In the northern Rockies, the IWCP recommends that control efforts should be 
+
+selective for individual problem wolves only, as opposed to local populations. 
+
+Efforts are restricted to within one mile of the depredation site or to identified 
+
+activity centers where the probability of capturing the problem animal(s) is 
+
+maximized within a 10-day period. If depredations reoccur in the area within 
+
+three months, then control efforts are conducted for up to 21 days. Although it is 
+
+not possible to predict how effective these particular parameters may be for Utah, 
+
+we recommend as a first step that Utah adopt similar guidelines for wolf control 
+
+actions.
+
+When efforts to use non-lethal techniques fail or are not desirable and 
+
+depredations continue, lethal control should be used according to USFWS 
+
+guidelines. 
+
+Areas in which problem wolves are to be released or relocated should be decided 
+
+by the USFWS with consent from the proper land management agencies or 
+
+landowners. Relocated wolves should be radio-collared, permanently marked, and 
+
+monitored.
+
+There should be some flexibility for non-agency personnel (e.g., individual 
+
+ranchers) to control wolves if they are frequenting livestock or domestic animal 
+
+areas and represent a threat as determined by wolf control specialists. For 
+
+example, permits for the lethal take of depredating wolves could be issued to 
+
+livestock producers when USFWS and Wildlife Services have not adequately 
+
+prevented further depredations. Wolf control specialists should evaluate these on 
+
+a case-by-case basis.
+
+6.3.1. Wolf Control Techniques 
+
+Wolf control techniques fit into one of two categories: non-lethal or lethal. Below we list 
+
+various techniques that have been used by other wolf control specialists in North America 
+
+and that should be appropriate for Utah too.
+
+Non-lethal
+
+• 
+
+Aversive agents. Aversive agents induce a physiological illness in a predator 
+
+after attacking livestock, producing a learned avoidance by the predator against 
+
+future attacks (Wagner, 1988). For example, researchers have conducted captive 
+
+and field studies using taste aversion with lithium chloride (LiCl), a substance that 
+
+induces vomiting once consumed.  Results were mixed and difficult to apply in a 
+
+field setting (Gustavson et al., 1982; Conover et al., 1977; Burns et al., 1984). In 
+
+Published by DigitalCommons@USU, 2002
+
+5
+
+35
+
+Natural Resources and Environmental Issues, Vol. 10 [2002], Art. 7
+
+                             Natural Resources and Environmental Issues                              Vol. 10 
+
+• 
+
+• 
+
+2001, there were no aversive agents registered by the Environmental Protection 
+
+Agency for mammalian predators. 
+
+Light and sound repellents. Repellents are different from aversive agents, in that 
+
+they don’t require a learned avoidance, but rather rely on a novel disturbance that 
+
+irritates specific sensory systems to repel predators away from livestock. Strobe 
+
+lights, propane exploders, sirens, and recorded sounds all have been tested with 
+
+coyotes and recently with wolves. Light and sound repellents work by discharging 
+
+a novel frightening-stimulus (Linhart et al., 1984), scaring away intruding wolves. 
+
+Results have been ambiguous when tested on wolves in Minnesota (Fritts, 1982). 
+
+Further research on these devices is being conducted in Montana by the USFWS, 
+
+in cooperation with Wildlife Services and the Turner Endangered Species Fund. 
+
+These techniques have been shown to be effective in the short term, but 
+
+habituation may reduce their effectiveness in the long term. 
+
+Other techniques. Relocation of problem wolves may also be a non-lethal 
+
+control technique (see Section 6.2). Additionally, aversive conditioning is 
+
+currently being tested by the Turner Endangered Species Fund. Furthermore, 
+
+many ranchers in the northern Rockies are authorized to use non-lethal munitions, 
+
+including “bean bags,” rubber bullets, and “cracker” shells, to harass potentially 
+
+depredating wolves.
+
+Lethal
+
+• 
+
+• 
+
+Traps and snares. Foothold traps and foot snares do not kill animals and require 
+
+a specialist to kill or release the animal once it has been caught. Neck snares can 
+
+be set to kill an animal by strangulation. They can also be set to capture an animal 
+
+by placing a stop on the snare that restricts closure of the cable. Trap tranquilizer 
+
+devices have been developed to reduce foot injuries to wolves captured in 
+
+foothold traps (Sahr and Knowlton, 2000). 
+
+Aerial gunning. Since wolves are difficult to locate on the ground, aerial 
+
+shooting has been used occasionally as a selective method for removing livestock-
+
+killing predators (Connolly and O’Gara, 1988).
+
+6.4. Conclusion 
+
+When wolves recolonize Utah, some conflict with livestock producers is inevitable. 
+
+Although we do not expect to see significant wolf depredations on livestock in the near 
+
+future, a proactive, integrated approach to reducing any conflicts will be necessary if 
+
+wolves are to be accepted, not only by livestock producers but also by members of the 
+
+general public who may share their antipathy. None of the techniques we discussed has 
+
+been shown to be 100% effective. Instead, each should be thought of as “one tool in the 
+
+toolbox.” A concerted effort to evaluate how and when to apply various methods should 
+
+facilitate the development of a successful, cost-effective program to minimize livestock 
+
+losses. On the other hand, when depredations inevitably occur, it will be just as important 
+
+to have in place an effective program for controlling problem wolves. Such a program 
+
+should include a full range of management options that will be implemented in a timely 
+
+36 
+
+http://digitalcommons.usu.edu/nrei/vol10/iss1/7
+
+6
+
+ 
+

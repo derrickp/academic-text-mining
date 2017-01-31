@@ -1,0 +1,1247 @@
+Experimental use of dog-training shock collars to deter depredation by gray wolves
+
+Author(s): Ronald N. Schultz, Kenneth W. Jonas, Lesa H. Skuldt, and Adrian P. Wydeven
+
+Source: Wildlife Society Bulletin, 33(1):142-148.
+
+Published By: The Wildlife Society
+
+DOI: http://dx.doi.org/10.2193/0091-7648(2005)33[142:EUODSC]2.0.CO;2
+
+URL: http://www.bioone.org/doi/full/10.2193/0091-7648%282005%2933%5B142%3AEUODSC%5D2.0.CO%3B2
+
+BioOne (www.bioone.org) is a nonprofit, online aggregation of core research in the biological, ecological, and environmental
+sciences. BioOne provides a sustainable online platform for over 170 journals and books published by nonprofit societies,
+associations, museums, institutions, and presses.
+
+Your use of this PDF, the BioOne Web site, and all posted and associated content indicates your acceptance of BioOne’s Terms
+of Use, available at www.bioone.org/page/terms_of_use.
+
+Usage of BioOne content is strictly limited to personal, educational, and non-commercial use. Commercial inquiries or rights and
+permissions requests should be directed to the individual publisher as copyright holder.
+
+BioOne sees sustainable scholarly publishing as an inherently collaborative enterprise connecting authors, nonprofit publishers, academic institutions, research libraries, and
+research funders in the common goal of maximizing access to critical research.
+
+17 (Schultz).qxp  6/24/2005  12:37 PM  Page 142
+
+CCaarrnniivvoorreess  aanndd  OOmmnniivvoorreess
+
+142
+
+GRAY WO L F AV ER S IV E COND IT ION ING
+
+Experimental use of dog-training shock
+collars to deter depredation by gray wolves
+
+Ronald N. Schultz, Kenneth W. Jonas, Lesa H. Skuldt, 
+and Adrian P. Wydeven
+
+Abstract We examined the use of dog shock collars on 2 different wolves (Canis lupus) over a 4-year
+period to assess whether this system could be used to reduce wolf depredation on livestock.
+In 1998 we used human-induced shock and determined that the shock collar could keep a
+depredating wolf off a farm while maintaining normal den- and rendezvous-site attendance,
+but it did not seem to have a long-term effect on the wolf’s behavior.  In 1999 we captured
+a wolf prior to any depredations and used a command center with a beeper that remotely
+shocked the wolf while also providing aversive stimuli; no depredations occurred in 1999.
+We used the beeper unit alone in 2000, when only 2 calves were killed.  A second wolf
+was captured in 2001 after depredations began, and although it was kept off the farm, other
+pack members caused further depredation and were removed from the farm.  It appears that
+in some situations shock collars with a command center and beeper device may be useful
+for reducing wolf depredations, but more research is needed.
+
+Key words
+
+aversive conditioning, Canis lupus, command center, depredation, shock collar, wolf
+
+Gray wolf (Canis lupus) populations recolonized
+
+lars have been 
+
+tested on captive coyotes 
+
+(C.
+
+the state of Wisconsin in the mid-1970s, and by
+
+latrans) as a way to prevent them from killing
+
+2003 over 335 wolves occurred 
+
+in 
+
+the 
+
+state
+
+domestic lambs (Andelt et al. 1999), and 3 of 4 coy-
+
+(Wydeven and Wiedenhoeft 2003). With the wolf
+
+otes were conditioned to avoid black domestic rab-
+
+population increase, depredation on domestic ani-
+
+bits and prey on white rabbits with a prototype
+
+mals also increased (Treves et al. 2002).
+
+Because
+
+electronic collar (Linhart et al. 1976). However, we
+
+wolves were 
+
+listed as a 
+
+federally endangered
+
+are unaware of any references or studies demon-
+
+species until April 2003, the state had little authori-
+
+strating the use of dog-training shock collars on
+
+ty 
+
+for killing problem wolves.
+
+Although adult
+
+free-ranging wild gray wolves to prevent livestock
+
+wolves could be translocated, females with young
+
+depredation. We evaluated the use of a dog-training
+
+pups at den sites posed special problems.
+
+shock collar fitted to wild, free-ranging gray wolves
+
+Flashing lights and sirens (Fritts et al. 1992), taste
+
+to prevent livestock depredation.
+
+aversion (Gustavson 1982, Jelinski et al. 1983), elec-
+
+tronic howling devices,
+
+artificial scent marking
+
+(Schultz et al. 1999), and trained domestic animals
+
+Study area
+
+(Fritts et al. 1992) have been used to deter wolves
+
+The study was conducted on a 536-ha beef cattle
+
+from killing livestock.
+
+Electronic dog-training col-
+
+farm in Burnett County, Wisconsin.
+
+Depredation
+
+Address for:Address for Ronald N. Schultz: Wisconsin Department of Natural Resources, 8770 Highway J, Woodruff, WI 54568,
+USA; e-mail: Ronald.Schultz@dnr.state.wi.us.  Address for Kenneth W. Jonas: Wisconsin Department of Natural Resources, 810 W.
+Maple Street, Spooner, WI 54801, USA.  Address for Lesa H. Skuldt: University of Wisconsin-Madison, Department of Wildlife
+Ecology, 226 Russell Labs, 1630 Linden Drive, Madison, WI 53593, USA.  Address for Adrian P. Wydeven: Wisconsin Department
+of Natural Resources, 875 S. 4th Ave., Park Falls, WI 54552, USA.
+
+Wildlife Society Bulletin 2005, 33(1):142–148
+
+Peer refereed
+
+losses had occurred since 1995.
+
+Approximately
+
+300–560 calves were born on the farm each year
+
+during April–May in outside pastures. Calves were
+
+rotated among 2–3 
+
+fenced pastures during 
+
+the
+
+course of the summer. Cattle were contained with
+
+a 4–6-strand 1.4-m-tall barbed wire fence with an
+
+additional 1 strand of electric wire in the center.
+
+The farm included mixtures of oak–pine–aspen
+
+(Quer cus–Pinus–Populus 
+
+spp.) 
+
+forest,
+
+brushy
+
+grasslands, and open pastures dominated by cool-
+
+season grasses.
+
+Lowlands adjacent to a small (5-m-
+
+wide) 
+
+stream compr ised
+
+about 10% of 
+
+the 
+
+farm.
+
+County 
+
+forest 
+
+lands, used
+
+extensively 
+
+by 
+
+wolves
+
+since 
+
+the 
+
+early 
+
+1990s
+
+(Kohn et al.
+
+2000),
+
+sur-
+
+rounded much of the farm
+
+to 
+
+the west,
+
+nor th,
+
+and
+
+south.
+
+A pair of wolves
+
+established 
+
+a 
+
+ter r itor y
+
+(Chase Brook Pack) near
+
+the farm during the winter
+
+of 1994–1995. During the
+
+study per iod,
+the pack
+occupied a 156-km2
+
+terri-
+
+tor y 
+
+encompassing 
+
+the
+
+farm (Figure 1 [minimum
+
+convex polygon based on
+
+246 
+
+radiolocations of 2
+
+adult female wolves from
+
+Ap r i l 
+
+1998–Sep tembe r
+
+2001]). We assumed this
+
+pack was responsible 
+
+for
+
+the majority of wolf depre-
+
+dation on 
+
+the 
+
+farm 
+
+from
+
+1998–2001.
+
+White-tailed deer (Odo-
+
+coileus virginianus) densi-
+
+ties in the area ranged from
+12–16 per km2 (Wisconsin
+
+Depar tment 
+
+of 
+
+Natural
+
+Resources,
+
+unpublished
+
+data).
+
+Other wolf prey
+
+species included snowshoe
+
+hare (Lepus americanus),
+
+beaver 
+
+(Castor canaden-
+
+sis),
+
+and cottontail rabbit
+
+(Sylvilagus 
+
+f loridanus).
+
+Black bears (Ursus ameri-
+
+canus) 
+
+and coyotes oc-
+
+curred 
+
+frequently on 
+
+the
+
+farm, but neither was determined to be responsible
+
+for any livestock losses.
+
+Methods
+
+Wolves have been live-trapped and tracked with
+
+radiotelemetry since 1979 in Wisconsin (Wydeven
+
+et al. 1995). We captured wolves in number 4 and
+
+number 14 foot-hold traps (Kuehn et al 1986), tran-
+
+quilized them with 5:1 ratios of ketamine HCl and
+
+xylazine HCl, and reversed with yohimbine. All ani-
+
+Gray wolf aversive conditioning (cid:127) Schultz et al. 
+
+143
+
+Figure 1.  Map showing location of farm and Chase Brook Wolf Pack territory 1998–2001
+Burnett County, Wisconsin.
+
+17 (Schultz).qxp  6/24/2005  12:37 PM  Page 143
+
+mals in this study were handled in a humane man-
+
+ner in accordance with Wisconsin Department of
+
+Natural Resources (DNR), Animal Care and Use
+
+Committee guidelines. We normally located radio-
+
+collared wolves once or twice per week by air-
+
+planes. Wolf depredations on the farm were veri-
+
+fied by United States Department of Agriculture
+
+(USDA) technicians using field sign (Acorn and
+
+Dorrance 1990).
+
+On 28 May 1997 an adult female wolf (724F) was
+
+captured and 
+
+radiocollared as part of another
+
+research project (Kohn et al. 2000). She was lactat-
+
+ing at the time and was assumed to be the alpha
+
+female of the Chase Brook Pack. We located wolf
+
+724F from the air 1–3 times per week to determine
+
+location, territory area (minimum convex polygon),
+
+and size of the pack (Mohr 1949, Fuller and Snow
+
+1988).
+
+We began data collection on 14 May 1998 when
+
+wolf 724F was recaptured on the farm after 2 calf
+
+depredations had occurred. At that time we fitted
+
+her with an electronic dog-training shock collar
+
+(INNOTEK Pet Products, Inc. Garrett, Ind.) in addi-
+
+tion to her transmitter collar. The shock collar was
+
+assumed to have a battery life of about 2 months.
+
+We located wolf 724F day and night in 8-hour seg-
+
+ments, 5–7 days per week, by radiotelemetry from
+
+the ground (triangulation) as often as possible. We
+
+gave the wolf an electrical shock via a hand-held
+
+sending unit every time her location indicated trav-
+
+el within 300 m of the cattle pasture. We deter-
+
+mined locations 30, 60, and 120 minutes following
+
+each 
+
+shock.
+
+We compared distances moved
+
+between 
+
+intervals to distances moved at similar
+
+intervals during normal (nonshock) activities. The
+
+percentage of locations at her known den site at 60-
+
+and 120-minute 
+
+intervals 
+
+following each shock
+
+were compared to locations obtained >24 hours
+
+after she had been shocked. We used independent
+
+2-sample T-test, chi-square and Spearman rank cor-
+
+relation tests to compare normal and post-shock
+
+movements and locations.
+
+On 26 April 1999 we recaptured wolf 724F off
+
+the farm, prior to any depredations on calves, and
+
+fitted her with a new shock collar.
+
+She was again
+
+lactating. We used a shock command center to
+
+automatically emit a beep and trigger the shock
+
+when 724F came within 0.4 km of the command
+
+center. This eliminated the need for intensive mon-
+
+itoring and ensured that wolf 724F would be given
+
+a shock every time she approached the calves.
+
+The command center consisted of 1) a deep-
+
+cycle, 12-volt marine battery, 2) a voltage reducer
+
+(12 to 9 volts), 3) an INNOTEK dog shock collar
+
+sending unit with antenna (INNOTEK Pet Products,
+
+Inc,
+
+.Garrett,
+
+Ind.), 4) 1.5-volt clock runner with
+
+magnetic reed switch attached to the second hand,
+
+5) clock mounting plate with 2 magnetic reed
+
+switches, and 6) Pirzo beeper 275-075, 6-28VDC,
+
+25MA. MAX, (Radio Shack, Minocqua, Wisc.). We
+mounted these items in a 50.8 × 50.8 × 30.5-cm
+weatherproof camouf laged wooden box (Figure 2).
+
+We set the command center to emit a shock sig-
+
+nal to the collar 2–3 seconds of every minute. We
+
+set the signal range to cover the pasture where
+most calving occurred (0.5 km2). The beeper unit
+
+would emit a beep for 2–3 seconds immediately
+
+before the shock command was sent. We could
+
+hear the beeper from 200 m, and because wolves
+
+can hear other wolves howl about 3 times as far as
+
+humans can 
+
+(Harrington and Mech 1982), we
+
+assumed that wolves heard the beep >600 m away.
+
+We set up the command center in the center of the
+
+calving pasture from 26 April 1999–15 August 1999
+
+(Figure 3). Monitoring of wolves in 1999 and sub-
+
+sequent years was done mainly from the air, with
+
+weekly aerial locations and infrequent field checks,
+
+including howl 
+
+surveys 
+
+(Harrington and Mech
+
+1982).
+
+We were not able to replace the shock collar on
+
+wolf 724F in 2000, but we set up the command cen-
+
+ter with beeper unit only in the calving pasture
+
+from 26 April–August 2000 (Figure 3). We set the
+
+command center in 2000 to activate 2 beepers for
+
+3–5 seconds every 30 minutes.
+
+On 26 May 2001, we captured the second study
+
+animal, an adult female (367F), on the farm. Wolf
+
+367F was lactating when captured and was fitted
+
+144
+
+Wildlife Society Bulletin 2005, 33(1):142–148
+
+Figure 2.  Shock command center set up by cattle pasture in
+Burnett County, Wisconsin 2000.  Photo by Ronald N. Schultz.
+
+17 (Schultz).qxp  6/24/2005  12:37 PM  Page 144
+
+with a shock collar and
+
+released 5.3 km nor th-
+
+west of the farm (Figure
+
+4). Wolf 367F apparently
+
+displaced wolf 724F. Wolf
+
+724F moved to the east
+
+side of the farm,
+
+to the
+
+southeast corner of 
+
+the
+
+pack territory.
+
+From 31 May 2001–13
+
+August 2001, we strategi-
+
+cally located 5 automatic
+
+command centers around
+
+the cattle pasture (Figure
+
+3).
+
+On 13 August 2001,
+
+we 
+
+removed 
+
+the 
+
+com-
+
+mand centers 
+
+from 
+
+the
+
+farm while 
+
+conducting
+
+trapping.
+
+Results
+
+We shocked wolf 724F
+
+25 
+
+times 
+
+from 18 May
+
+through 20 July 1998, the
+
+period when her shock
+
+collar was assumed to be
+
+active.
+
+Mean distances
+
+moved 1 hour (3.49 km)
+
+and 2 hours 
+
+(4.72 km)
+
+after being shocked were
+
+greater 
+
+(P < 0.01) 
+
+than
+
+normal movements 
+
+of
+
+1.55 km and 2.98 km,
+
+respectively,
+
+for 
+
+similar
+
+time per iods 
+
+(Table 1).
+
+Repeated 
+
+shocking did
+
+not affect the size or loca-
+
+tion of her home range.
+
+Shocking did not affect
+
+den- and rendezvous-site
+
+attendance.
+
+We 
+
+located
+
+wolf 724F at the den site
+
+20% of the time (Figure 5)
+
+and at the rendezvous site
+
+48% of the time 2 hours
+
+following a shock (Figure
+
+6). These were similar to
+
+periods when she had not
+
+been shocked (P = 0.27).
+
+Nine calves were con-
+
+firmed killed by wolves
+
+Gray wolf aversive conditioning (cid:127) Schultz et al. 
+
+145
+
+Table 1.  Number of wolf 724F observations in her territory 18 May through 20 July 1998
+(n), mean distance (km) moved, and standard deviation (s) 30 minutes, 1 hour, and 2 hours
+following a shocka and controlb.
+
+Shocka
+
+Controlb
+
+Time period
+
+n
+
+mean
+
+s
+
+n
+
+mean
+
+s
+
+t-value 
+
+P–value
+
+30 minutes
+
+22
+
+2.01
+
+1.16
+
+27
+
+1.34
+
+1.44
+
+1.76
+
+0.09
+
+1 hour
+
+25
+
+3.49
+
+1.53
+
+27
+
+1.55
+
+1.41
+
+4.76
+
+<0.01
+
+2 hours
+
+23
+
+4.72
+
+1.76
+
+30
+
+2.98
+
+2.48
+
+2.85
+
+0.01
+
+a Administration of a single shock to the wolf.
+b A day and hour similar to those of the shocks but >24 hours following the administration
+of a shock.
+
+Figure 3.  Shock command center locations in 1999, 2000, and 2001, on farm in Burnett
+County, Wisconsin, used to evaluate the area in which the wolf would receive a shock.
+
+17 (Schultz).qxp  6/24/2005  12:37 PM  Page 145
+
+17 (Schultz).qxp  6/24/2005  12:37 PM  Page 146
+
+146
+
+Wildlife Society Bulletin 2005, 33(1):142–148
+
+Figure 4.  Wolf 367F released 26 May 2001, 5.3 miles northeast
+of farm in Burnett County, Wisconsin with shock collar and
+conventional tracking collar.  Photo by Ronald N. Schultz.
+
+on the farm in 1998, but only 1 was killed after the
+
+shock collar was placed on wolf 724F. This calf may
+
+have been killed by other members of the Chase
+
+Brook Pack.
+
+Figure 6.  Percent of wolf 724F locations at rendezvous site 18
+May through 20 July 1998, (A) 1 hour, and (B) 2 hours follow-
+ing the administration of a single shock (treatment), and (con-
+trol) during a day and hour similar to those of the shocks, but
+>24 hours following a shock.
+
+After we recaptured 724F 3.3 km north of the
+
+to the sound of the beeper. After a 3-second acti-
+
+farm on 26 April 1999, the command center, auto-
+
+vation of the beeper, she moved 0.8 km away from
+
+matically sending beeps and shocks, seemed to keep
+
+the beeper within 7 minutes. We also tested the
+
+her off the farm. No calf kills were found on the
+
+beeper on 2 other collared alpha female wolves in
+
+farm in 1999 (Table 2). We did not locate wolf 724F
+
+2 different packs from similar distances. One wolf
+
+on the farm while the command center was active.
+
+did not move at all in response to the sound of the
+
+The command center operated 24 hours per day, 7
+
+beeper, and the second moved toward the unit.
+
+days per week, for >3.5 months without requiring
+
+During summer 2000 no active collars were
+
+labor, except for periodic maintenance and moving
+
+operating in the Chase Brook Pack, but we placed a
+
+the unit from pasture to pasture with the calves.
+
+single command center on the farm from late April
+
+On 23 December 1999, we approached wolf
+
+through August. Wolf 724F was not detected on the
+
+724F to within 200 m to see if she would react just
+
+farm in 2000. Only 2 depredations on calves were
+
+reported on the farm that year.
+
+We captured wolf 367F on the farm on 26 May
+
+Table 2.  Number of calves killed by wolves, pack size, and
+number of wolves removed from a farm in northern Burnett
+County, Wisconsin USA, 1995–2001.
+
+Year
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+Calves 
+killeda
+
+Pack sizeb
+
+Wolves
+trappedc
+
+Wolves
+collaredd
+
+3
+
+1
+
+9
+
+9
+
+0
+
+2
+
+9
+
+2
+
+2
+
+3
+
+4
+
+4
+
+3
+
+4
+
+0
+
+0
+
+2
+
+3
+
+0
+
+0
+
+8
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+Figure 5.  Percent of wolf 724F locations at den site 18 May
+through 20 July 1998, 1 hour (A), and 2 hours (B), following the
+administration of a single shock (treatment), and (control) dur-
+ing a day and hour similar to those of the shocks, but >24 hours
+following a shock, and >3.5 km from the den.
+
+a
+b
+c
+d
+
+Calves killed by wolves, as verified by Wildlife Service.
+Number of wolves in the Chase Brook Pack.
+Wolves trapped and removed from the farm.
+Wolves fitted with shock collars on or near the farm. 
+
+2001, after 6 calves had been killed there. We fitted
+
+her with shock and transmitter collars and released
+
+her 5.3 km northwest of the farm. Wolf 367F was
+
+lactating and appeared to have displaced 724F as
+
+the alpha female.
+
+Both collared females appeared
+
+to stay off the farm while 5 command centers were
+
+in place there. Wolf depredation resumed on 17
+
+July, when wolves killed a calf on the west side of
+
+the 
+
+farm after 
+
+the command centers and most
+
+calves were moved to the east side of the farm.
+
+Trapping by Wildlife Services resumed on 19 July,
+
+and we removed the command centers from the
+
+farm on 15 August. Between 19 July and 16 August,
+
+4 pups and 3 adults were removed from the farm
+
+and translocated 187–270 km to the east. Captures
+
+included 724F, which was captured 1 day after we
+
+removed command centers from the farm. She con-
+
+tinued to react to the beeper when tested in cap-
+
+tivity prior to being translocated. Wolf 367F con-
+
+tinued to occupy the Chase Brook territory, but was
+
+perhaps the only pack survivor by winter, and was
+
+killed by an adjacent pack in January 2002.
+
+Discussion
+
+We found that use of shock collars activated by a
+
+command center may have potential to help reduce
+
+wolf depredation on domestic animals. Our evalu-
+
+ation did not follow rigorous scientific testing pro-
+
+cedures. Rather, we followed an adaptive manage-
+
+ment approach (Walters 1986) to show that shock
+
+collars seemed to reduce wolf depredation on live-
+
+stock in some situations.
+
+It appeared the shock col-
+
+lar by itself could drive wolves from farms, but
+
+unless wolves were able to relate the negative stim-
+
+ulus to some aversive signal such as beepers asso-
+
+ciated with the shock, long-term avoidance was not
+
+possible. We did not determine whether other
+
+wolves were affected by shock-collared wolves,
+
+because during most of the period we only had
+
+radiocollars on the wolf with a shock collar. When
+
+an alpha female was caught prior to depredations,
+
+it appeared that all depredations were prevented.
+
+When shock collars were placed on wolves after
+
+depredations had begun,
+
+it seemed less likely to
+
+affect other wolves.
+
+Shock collars may be tools for dealing with wolf
+
+depredation 
+
+in 
+
+specialized 
+
+situations,
+
+especially
+
+when farms with wolf depredations are surrounded
+
+by or adjacent to land areas where wolves are pro-
+
+tected.
+
+It might be possible to use the shock-collar
+
+system in conjunction with sterilization (Mech et
+
+al. 1996) to create “conditioned” packs that do not
+
+produce pups but continue to occupy regular terri-
+
+tories.
+
+Under some circumstances, a shock-collar
+
+system may be less costly and longer lasting than
+
+capturing and killing depredating wolves. Because
+
+removal of wolves for translocation and euthaniz-
+
+ing sometimes results in vacated territories rapidly
+
+filled by other wolves (Fritts et al. 1992), efforts to
+
+create “conditioned” packs may be less expensive
+
+than constant trapping efforts. Conditioned packs
+
+maintaining 
+
+terr itor ies may prevent dispersing
+
+wolves 
+
+from establishing 
+
+territories and reduce
+
+local coyote abundance 
+
+(Crabtree and Sheldon
+
+1999), which may further reduce depredation loss-
+
+es.
+
+We believe further studies should continue to
+
+evaluate the effectiveness of shock collars and com-
+
+mand centers on more wolves. Research is needed
+
+to determine more specifically how wolves react to
+
+the shock. More assessment is needed on the long-
+
+term impacts of shock collars on wolves physically
+
+and behaviorally.
+
+We need 
+
+to determine how
+
+wolves not being shocked are reacting to shock-col-
+
+lared animals, to determine this procedure’s effec-
+
+tiveness to alter the pack behavior.
+
+If the shock-col-
+
+lar system appears usable as a depredation control
+
+technique, we need to find the most feasible and
+
+cost-effective means for using this system in wolf
+
+management situations.
+
+Acknowledgments.
+
+Persons assisting in captur-
+
+ing and monitoring wolf 724F and 367F included B.
+
+E. Kohn, P. Keenlance, W. Follis, J. Sprenger, P. Miller,
+
+J. Bronson, J.Yeakel, M. Mettke, J. M. Stewart, and stu-
+
+dents from Northland College. Wolf monitoring
+
+was funded by the Wisconsin Department of Trans-
+
+portation; Nicolet-Chequamegon National Forest;
+
+United States Fish and Wildlife Service, Section 6
+
+Grant; United States Department of Agriculture–
+
+Wildlife Services;Wisconsin Endangered Resources
+
+Fund; and Zoo Pride (Milwaukee Zoo). We would
+
+like to thank Tim and Tony Fornengo, owners of the
+
+livestock farm.
+
+Special thanks go to J. E. Wieden-
+
+hoeft for map editing, and S. Buller, L. Winn, and D.
+
+S. Murphy for their help in editing.
+
+LLiitteerraattuurree  cciitteedd
+
+ACORN, R. C., AND M. J. DORRANCE.
+
+1990. Methods of investigating
+
+predation of livestock. Alberta Agriculture Crop Protection
+
+Branch, Edmonton, Canada.
+
+ANDELT, W. F., R. L. PHILLIPS, K. S. GRUVER, AND J. W. GUTHRIE.
+
+1999.
+
+Coyote predation on domestic sheep deterred with elec-
+
+Gray wolf aversive conditioning (cid:127) Schultz et al. 
+
+147
+
+17 (Schultz).qxp  6/24/2005  12:37 PM  Page 147
+
+

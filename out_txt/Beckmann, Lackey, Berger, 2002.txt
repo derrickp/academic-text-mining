@@ -1,0 +1,634 @@
+14 May 2002 
+
+Jon P. Beckmann 
+
+Program in Ecology, Evolution, and Conservation Biology (MS-186) 
+
+1000 Valley Road 
+
+University of Nevada 
+
+Reno, Nevada 89512 USA 
+
+Phone: 775-784-6393 
+
+Fax: 775-784-4583  
+
+E-Mail: beckmann@unr.nevada.edu 
+
+Running head: Deterrent techniques for bears. Beckmann et al. 
+
+EVALUATION OF DETERRENT TECHNIQUES ON ALTERING BEHAVIOR 
+
+OF BLACK BEARS 
+
+Jon P. Beckmann, Program in Ecology, Evolution, and Conservation Biology, University 
+
+of Nevada, 1000 Valley Road, Reno, Nevada 89512, USA and Department of 
+
+Environmental and Resource Sciences, University of Nevada, 1000 Valley Road, 
+
+Reno, Nevada 89512, USA; beckmann@unr.nevada.edu  
+
+Carl W. Lackey, Nevada Division of Wildlife, 1100 Valley Road, Reno, Nevada 89512, 
+
+USA 
+
+Joel Berger, Program in Ecology, Evolution, and Conservation Biology, University of 
+
+Nevada, 1000 Valley Road, Reno, Nevada 89512, USA and Wildlife 
+
+Conservation Society, Teton Field Office, Moose, Wyoming 83012, USA 
+
+Abstract:  The general public often prefers non-lethality when dealing with problem 
+
+black bears (Ursus americanus).  We evaluated the efficacy of bear deterrent techniques 
+
+in the Lake Tahoe Basin of the Sierra-Nevada range by contrasting animals randomly 
+
+assigned to an experimental (treatment) or to a control (no treatment) group.   
+
+Experimental bears were pepper sprayed, shot with 12-gauge rubber buckshot and a 
+
+ 
+ 
+ 
+Beckmann et al. 
+
+2 
+
+rubber slug, and exposed to cracker shells.  Additionally, half the bears that received the 
+
+treatment were chased by both hounds and Karelian bear dogs.  We modeled the 
+
+effectiveness of deterrents using a survival analysis utilizing Cox proportional hazards. 
+
+Relative success was evaluated by the latency of time between treatment and return 
+
+(days) to the urban patch (RUP).  Predictor variables in the model included: age, weight, 
+
+season, gender, distance moved, treatment/control, dogs, and prior experience with the 
+
+treatment.  Only the use of dogs remained in the most parsimonious model.  The mean 
+
+number of days (154) until RUP after being chased by dogs was three times that for bears 
+
+lacking the dog treatment (55 days).  Nevertheless, in all but 5 cases of 62 possible, bears 
+
+eventually returned to the urban patch and 33 of 62 bears (53%) returned within 1 month.  
+
+We conclude that in the Lake Tahoe Basin the most common deterrents, other than dogs, 
+
+currently used by agencies responsible for the management of black bears are not 
+
+effective at altering their behavior over periods of time >1 month. 
+
+Key words: black bears, deterrents, Karelian dogs, Lake Tahoe, Sierra-Nevada, Ursus 
+
+americanus 
+
+During the last 10-20 years many areas have experienced an increase in the 
+
+number of conflicts between black bears and humans, and such conflicts have been 
+
+disproportional to human population growth.  This is especially true in western North 
+
+America where rapid urban sprawl has led to encroachment into areas adjacent to U.S. 
+
+public lands that have historically contained large carnivores.  In Nevada, as in other 
+
+areas of western North America, human-bear interactions involve the loss of pets, 
+
+localized predation on livestock, property damage, and even human deaths 
+
+(approximately 40 from black bears since 1900 in North America).  Many state and 
+
+Beckmann et al. 
+
+3 
+
+federal entities seek non-lethal solutions (i.e., deterrents) for dealing with ‘nuisance’ 
+
+carnivores, especially black bears.  Deterrents such as lithium chloride, protection collars, 
+
+and loud noises, have been tested on other species of carnivores, mostly coyotes (Canis 
+
+latrans) (Giffiths et al. 1978, Burns 1983, Jelinski et al. 1983, Burns et al. 1996).  Yet, 
+
+there is a paucity of rigorous study of the effectiveness of the most common deterrent 
+
+techniques management agencies currently use to alter the behavior of ‘nuisance’ bears, 
+
+although exceptions clearly exist (e.g., Gilllin et al. 1994, Ternent and Garshelis 1999, 
+
+Clark et al. 2002).    
+
+A survey conducted by the Virginia Department of Game and Inland Fisheries in 
+
+2001 revealed that 33 states currently manage black bears and respond to citizen 
+
+complaints about ‘nuisance’ bears (D. Kocka, Virginia Department of Game and Inland 
+
+Fisheries, personal communication).  Of those, 26 administer deterrent techniques with 
+
+the aim of behavioral alteration of ‘nuisance’ individuals.  The use of deterrent 
+
+techniques, although not a new management tool, has been increasing rapidly in both 
+
+Canada and the USA, primarily in response to the public’s request for non-lethal 
+
+management of bears near urban-wildland interface areas.  Fifteen of 26 states that 
+
+currently utilize deterrents began in the 1990s (D. Kocka, Virginia Department of Game 
+
+and Inland Fisheries, personal communication).  In contrast, only 4 states administered 
+
+deterrents in the 1960s and 1970s.  The 6 most common techniques used on trapped 
+
+bears, according to the 33 states surveyed, are: 1) rubber buckshot; 2) rubber slugs; 3) 
+
+pepper spray; 4) cracker shells; 5) dogs; and 6) loud noises (D. Kocka, Virginia 
+
+Department of Game and Inland Fisheries, personal communication).  Although many 
+
+states and other entities, such as national parks (e.g., Yosemite National Park, California), 
+
+Beckmann et al. 
+
+4 
+
+spend many dollars on an annual basis for such deterrents, to date no research has 
+
+rigorously analyzed the efficacy of these deterrents.  
+
+We capitalized on the extent to which human population growth and their 
+
+coincident food stores in the Lake Tahoe Basin in the Sierra-Nevada Range in western 
+
+Nevada offer an experimental setting in which to examine the effectiveness of deterrent 
+
+techniques on behavior of black bears.  From 1990-2000 the human population in the 
+
+Lake Tahoe Basin increased by 26% and the number of complaints by citizens 
+
+concerning black bears increased by >10-fold during the same time period.  Our goal here 
+
+is modest, to examine the effectiveness of the 6 most common deterrents used on black 
+
+bears.  
+
+Methods 
+
+Black bear distribution in Nevada is restricted to the Sierra-Nevada and near-by 
+
+mountains that include the Sweetwater, Pine Nut, and Wassuk Ranges (Goodrich 1990), 
+
+all of which were the focus of our work.  Bears in this region are at the eastern edge of 
+
+their known range in the Great Basin with the closest population to the east being about 
+
+750 km away in Utah.  Although black bears are listed as a game species in Nevada, there 
+
+has never been a legal harvest. 
+
+Bears were captured in culvert traps (Teton Welding, Chateau, Montana) and by 
+
+tranquilizing free-ranging individuals from 1 July 1997 to 1 April 2002 and immobilized 
+
+with a mixture of Telazol/Xylazine.  Each bear was weighed and radio-collars with 
+
+mortality sensors were attached to adults (Advanced Telemetry Systems, Isanti, 
+
+Minnesota).  Age was estimated from annuli of the first upper premolar (PM1), the 
+
+standard tooth for age analysis in black bears (Matson’s Laboratory, Milltown, Montana; 
+
+Beckmann et al. 
+
+5 
+
+Stoneberg and Jonkel 1966) and animals were classified as cubs (<1.5 years), juveniles 
+
+(1.5-3 years) or adults (> 3 years).  
+
+We tested the effectiveness of the 6 most common deterrents utilized by state 
+
+agencies across the USA (see above).  Sixty-two collared bears captured in urban areas in 
+
+the Lake Tahoe Basin of the Sierra-Nevada were randomly assigned to an experimental 
+
+group, which received deterrents (treatment), or to a control group (no treatment).  The 
+
+experimental treatment consisted of bears being hit with pepper spray, 12-gauge rubber 
+
+buckshot and a rubber slug, and being exposed to cracker shells and yelling.   In addition, 
+
+half the bears in the treatment group were chased by hounds or Karelian bear dogs.  
+
+Individual bears were moved varying distances from the capture site for the 
+
+administration of deterrents.  These distances ranged from zero km (on-site release) to 75 
+
+km and distance was included as a continuous variable in the model.   
+
+We measured effectiveness as time (in days) required between treatment and for 
+
+the bear to ‘return to urban patch’, designated as RUP.  Animals were located weekly, 
+
+weather permitting, from a Cessna 206 fixed-wing airplane, and from the ground 
+
+(
+
+number of locations per individual + 1SD = 105 + 39).  Most flights occurred from 0500 to 1600 
+
+Pacific Standard Time.  We assigned Universal Transverse Mercator coordinates to each 
+
+location from a global positioning system unit on-board the aircraft.  All locations were 
+
+entered into coverage maps and urban areas were defined by town and city delineation in 
+
+ArcView 3.2.  If an individual’s RUP was separated by the approximately weeklong 
+
+interval between flights, we averaged date of return.   The time interval between flights 
+
+never exceeded two weeks.   
+
+Statistical analyses 
+
+XBeckmann et al. 
+
+6 
+
+We modeled the effectiveness of deterrents using a multivariate approach that 
+
+included a survival analysis utilizing a Cox proportional hazards model (through PROC 
+
+PHREG in SAS statistical software; SAS Institute 2001).  The analysis of survival data, 
+
+in this case time to return (i.e., ‘failure’ or ‘death’), requires special techniques because 
+
+the data are almost always incomplete, and thus parametric assumptions may be 
+
+unjustifiable.  For example, in our case, 5 individuals failed to RUP at the time of our 
+
+analyses and thus, beyond that time their status was ‘unknown’.  The problem is onerous 
+
+because, the 5 bears may never come back, or they could return at any unknown future 
+
+time. These 5 survival times, which comprised 8% of the observations, were censored.  
+
+The remaining 57 bears were non-censored survival times and were referred to as event 
+
+times.  Methods for survival analysis, such as the proportional hazard regression model 
+
+reported here, must account for both censored and non-censored data.  The Cox 
+
+proportional hazards model is an excellent tool for making inferences on the population 
+
+average effect of covariates on incomplete failure time data.   
+
+Predictor variables in the full model included: age, weight, season, gender, 
+
+distance moved, treatment/control, dogs, and previous number of experiences with the 
+
+treatment.  Categorical predictor variables were assigned dummy variables for the 
+
+purpose of the proportional hazard regression model.  All possible models for each 
+
+number of parameters (i.e., 8,7,6,5,4,3,2, and 1) were examined.  We compared 255 
+
+potential models beginning with the saturated 2-way interactive model using information-
+
+theoretic methods to direct model selection.  For each model we calculated Akaike 
+
+information criteria (AIC) and adjusted these for small sample sizes (AICc) as suggested 
+
+by Hurvich and Tsai (1989) and Anderson et al. (1994).  These values (AICc) were used 
+
+Beckmann et al. 
+
+7 
+
+to compare candidate models to achieve the most parsimonious one that accurately 
+
+represented the data (Anderson et al. 2000).  We also utilized the application of a 
+
+bootstrap technique in PROC PHREG (SAS Institute 2001) to estimate the survival curve 
+
+of individuals 1) in treatment versus controls; and 2) within the treatment that were 
+
+chased by dogs and were not.  Means + 1SD are presented unless otherwise noted. 
+
+Results 
+
+In 57 of the 62 cases that bears were released, the individuals returned back to the 
+
+urban patch by the point in time of the analysis.  Of the 62 bears, 33 (53%) returned in 
+
+less than 1 month (30 days), 17 (27%) returned between 31 and 180 days, 7 (11%) 
+
+returned between 181 and 365 days, and 5 (9%) were gone for >365 days.  The latency of 
+
+RUP varied significantly, but only the use of dogs fit in the most parsimonious model 
+
+(hazard ratiodogs = 0.454; P = 0.0061; Figure 1; Table 1).  RUP was greater when chased 
+
+by dogs (
+
+days = 154 + 202; range 5-641 days) than in their absence (
+
+days = 55 + 83; 
+
+range 1-283 days).  Dogs chased individuals in 4 of the 5 cases in which they had yet to 
+
+‘fail’ (i.e., return) at time of the analysis.  The mean number of days that had elapsed 
+
+between the deterrent and time of analysis for the 5 bears that had not yet ‘failed’ was 
+
+481 days (range 224-641 days).  In all 255 possible models, none of the other predictor 
+
+variables or any interactions accounted for a significant amount of the variation in RUP.   
+
+However, mean RUP was slightly greater when deterrents were given (
+
+days = 104 + 
+
+165; range 1-641 days) than that for the control group (
+
+days = 71 + 102; range 2-283 
+
+days; Figure 2). 
+
+Discussion 
+
+XXXXBeckmann et al. 
+
+8 
+
+In our analyses, we included 8 ecological and biological parameters of individuals 
+
+that, a priori, we believed might prove relevant.  Our analysis revealed that 92% of the 
+
+time, black bears exposed to deterrents returned to the urban patch.  Although ideally, it 
+
+would be wonderful if treated bears did not return, the more realistic issue is not whether 
+
+bears return but when.  Our data indicate that 70% of the bears returned in <40 days.  
+
+Based on our assessment of 8 ecological and biological parameters, we were unable to 
+
+produce a model that allowed us to predict which individuals and under what 
+
+circumstances deterrents would be a useful management strategy.  However, the use of 
+
+deterrents did slightly shift the probability curve for not failing (i.e., not returning) for 
+
+bears by delaying the time until RUP (Figure 2).      
+
+The only significant variable that affected RUP was the use of dogs.  Bears 
+
+chased by either hounds or Karelian bear dogs returned approximately 100 days later on 
+
+average than bears that were not chased by dogs.  The use of dogs in combination with 
+
+the other 6 deterrents did significantly alter the ‘return curve’ (RUP) (Figure 1).  
+
+However, an indication that even dogs may not be an effective deterrent is that of the 
+
+tremendous variation in RUP. 
+
+There are obvious limitations in approaches that involve study of large wild 
+
+carnivores.   First, although 62 collared individuals may be a decent sample, larger ones 
+
+will have to be used to have adequate power to detect the true effectiveness of some 
+
+deterrents.  Second, with 62 bears we were unable to establish a group that received only 
+
+dogs without the other deterrents, as this would have created too many categories for the 
+
+limited sample.  Additional research in the area of deterrents on black bears should 
+
+examine the effectiveness of dogs when used alone. 
+
+Beckmann et al. 
+
+9 
+
+We recommend that any group that deals with ‘nuisance’ black bears conduct a 
+
+serious cost/benefit analysis to decide if monetary investments in deterrents are worth it.  
+
+If, a priori, agencies define success of deterrents as never having to deal with a 
+
+‘nuisance’ bear again, then our data suggest that this objective will most likely always be 
+
+met with failure.  If the goal is to establish positive public relations or not having to deal 
+
+with an individual bear for several weeks or months, then the use of deterrents may be an 
+
+effective management tool.  The Nevada Division of Wildlife has had far fewer negative 
+
+responses from the local media and public in the Lake Tahoe Basin as the result of the 
+
+use of non-lethal deterrents compared to the time period before these techniques were in 
+
+use in their management of bears (C. Healy, Nevada Division of Wildlife, personal 
+
+communication).  The use of non-lethal deterrents may have the added benefit of 
+
+increasing public awareness of human-bear conflicts that are created through the 
+
+availability of urban food sources in the form of garbage.  For example, two homeowner 
+
+associations and a private campground at the south shore of Lake Tahoe spent a 
+
+combined $100,000 on 350 bear-proof garbage containers in response to the use of non-
+
+lethal deterrents on bears in Nevada (M. Paulson, Tahoe Village Homeowners 
+
+Association, personal communication).   
+
+Management implications 
+
+Our results indicate that the most commonly used deterrents to alter the behavior 
+
+of ‘nuisance’ black bears: 1) rubber buckshot; 2) rubber slugs; 3) pepper spray; 4) cracker 
+
+shells; and 5) loud noises, are not effective at altering the behavior of bears.  The only 
+
+significant factor in RUP was the use of dogs.  We recommend that management 
+
+agencies that deal with ‘nuisance’ black bears pursue non-lethal strategies or programs by 
+
+ 
+Beckmann et al. 
+
+10 
+
+incorporation of hounds, Karelian bear dogs, or both.  Bears that are both human-food 
+
+(i.e., garbage) conditioned and habituated to living near or in urban-wildland interface 
+
+areas are unlikely to alter their behavior in response to the deterrent techniques currently 
+
+adopted by most state and federal agencies.  A more effective strategy to reduce human-
+
+bear conflicts is to begin aggressive public education, as is being done in numerous areas, 
+
+states, and parks.  Also, areas that contain black bears should pass laws, ordinances, and 
+
+regulations against the intentional or non-intentional feeding of bears or any wildlife that 
+
+may inadvertently bring bears into an area.  These areas should pass ordinances requiring 
+
+private landowners and businesses to obtain and use bear-proof garbage containers.  
+
+Acknowledgements 
+
+We thank the University of Nevada, Nevada Agricultural Experiment Station, 
+
+Nevada Division of Wildlife, and the U. S. National Science Foundation for funding.  We 
+
+also are extremely grateful for the many hours of safe flights provided by Mike 
+
+Wiklanski, John Kelly and the entire staff at El Aero Services in Carson City, Nevada.  
+
+We thank Dr. Jim Nelson, D. V. M. who graciously volunteered many hours of his time.  
+
+We also thank Mark Herzog, Mo Beck, and Amy Beckmann for helpful comments.  Drs. 
+
+Mary Peacock, Bill Longland, Pete Brussard, and Stephanie Livingston provided keen 
+
+insights.  Finally, we thank Sean Shea and Gregg Bracket who assisted us in the field and 
+
+for their expertise in handling hounds.  Research was conducted under UNR Animal Care 
+
+and Use Protocol #A99/00-02. 
+
+Literature cited 
+
+Anderson, D. R., K. P. Burnham, and G. C. White.  1994.  AIC model selection in 
+
+overdispersed capture-recapture data.  Ecology 75:1780-1793. 
+
+Beckmann et al. 
+
+11 
+
+Anderson, D. R., K. P. Burnham, and W. L. Thompson.  2000.  Null hypothesis testing: 
+
+problems, prevalence, and an alternative.  Journal of Wildlife Management 
+
+64:912-923. 
+
+Burns, R. J.  1983.  Micro encapsulated lithium chloride bait aversion did not stop coyote 
+
+(Canis latrans) predation on sheep.  Journal of Wildlife Management 47:1010-
+
+1017. 
+
+Burns, R. J., D. E. Zemlicka, and P. J. Savarie.  1996.  Effectiveness of large livestock 
+
+protection collars against depredating coyotes.  Wildlife Society Bulletin 24:123-
+
+127. 
+
+Clark, J. E., F. T. van Manen, and M. R. Pelton.  2002.  Correlates of success for on-site 
+
+releases of nuisance black bears in Great Smoky Mountains National Park.  
+
+Wildlife Society Bulletin 30:104-111. 
+
+Giffiths, R. E., Jr., G. E. Connolly, R. J. Burns, and R. T. Sterner.  1978.  Coyotes, sheep 
+
+and lithium chloride.  Proceedings of the Vertebrate Pest Conference 8:190-196. 
+
+Gillin, C. M., P. M. Hammond, and C. M. Peterson.  1994.  Evaluation of an aversive 
+
+conditioning technique used on female grizzly bears in the Yellowstone 
+
+Ecosystem.  International Conference on Bear Research and Management 9:503-
+
+512. 
+
+Goodrich, J. M.  1990.  Ecology, conservation, and management of two western Great 
+
+Basin black bear populations.  Thesis, University of Nevada, Reno, Nevada, USA.  
+
+Hurvich, C. M., and C. Tsai.  1989.  Regression and time series model selection in small 
+
+samples.  Biometrika 76:297-307. 
+
+Jelinski, D. E., R. C. Rounds, and J. R. Jowsey.  1983.  Coyote predation on sheep, and 
+
+Beckmann et al. 
+
+12 
+
+control by aversive conditioning in Saskatchewan.  Journal of Wildlife 
+
+Management 36:16-19. 
+
+SAS Institute.  2001.  SAS software: usage and reference.  Version 8.02.  SAS 
+
+Institute, Cary, North Carolina, USA. 
+
+Stoneberg, R. P. and C. J. Jonkel.  1966.  Age determination of black bears by cementum 
+
+layers.  Journal of Wildlife Management 30:411-414. 
+
+Ternent, M. A. and D. L. Garshelis.  1999.  Taste-aversion conditioning to reduce 
+
+nuisance activity by black bears in a Minnesota military reservation.  Wildlife 
+
+Society Bulletin 27:720-728.       
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beckmann et al. 
+
+13 
+
+Figure 1.  Probability curves for failing to return to an urban patch (i.e., success) over 
+
+time following the administration of deterrents for adult black bears (Ursus americanus) 
+
+that were either chased (dashed line) or not chased (solid line) by dogs.  A bear that 
+
+returned to an urban area was equivalent to ‘failure’ or ‘death’ in the survival analysis.  
+
+Figure 2.  Probability curves for failing to return to an urban patch (i.e., success) over 
+
+time for adult black bears (Ursus americanus) that were either exposed (dashed line) or 
+
+not (solid line) to deterrents.  A bear that returned to an urban area was equivalent to 
+
+‘failure’ or ‘death’ in the survival analysis.  
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,498 @@
+University of Nebraska - Lincoln
+
+DigitalCommons@University of Nebraska - Lincoln
+
+Proceedings of the 8th Vertebrate Pest Conference
+(1978)
+
+Vertebrate Pest Conference Proceedings collection
+
+3-1-1978
+
+TOXIC COLLAR FOR CONTROL OF SHEEP-
+KILLING COYOTES: A PROGRESS REPORT
+
+Guy E. Connolly
+
+U.S. Fish and Wildlife Service, Denver Wildlife Research Center, Building 16, Federal Center, Denver, Colorado
+
+Richard E. Griffiths Jr.
+
+U.S. Fish and Wildlife Service, Denver Wildlife Research Center, Building 16, Federal Center, Denver, Colorado
+
+Peter J. Savarie
+
+U.S. Fish and Wildlife Service, Denver Wildlife Research Center, Building 16, Federal Center, Denver, Colorado
+
+Follow this and additional works at: http://digitalcommons.unl.edu/vpc8
+
+Part of the Env ironmental Health and Protection Commons
+
+Connolly, Guy E.; Griffiths, Richard E. Jr.; and Savarie, Peter J., "TOXIC COLLAR FOR CONTROL OF SHEEP-KILLING
+COYOTES: A PROGRESS REPORT " (1978). Proceedings of the 8th Vertebrate Pest Conference (1978). Paper 11.
+http://digitalcommons.unl.edu/vpc8/11
+
+This Article is brought to you for free and open access by the Vertebrate Pest Conference Proceedings collection at DigitalCommons@University of
+
+Nebraska - Lincoln. It has been accepted for inclusion in Proceedings of the 8th Vertebrate Pest Conference (1978) by an authorized administrator of
+
+DigitalCommons@University of Nebraska - Lincoln.
+
+TOXIC COLLAR FOR CONTROL OF SHEEP-KILLING COYOTES:                                      
+A PROGRESS REPORT 
+
+GUY E. CONNOLLY, RICHARD E. GRIFFITHS, JR., and PETER J. SAVARIE, U.S. Fish and 
+
+Wildlife Service, Denver Wildlife Research Center, Building 16, Federal Center, Denver, Colorado    
+80225 
+
+ABSTRACT:  The toxic sheep collar is the most selective method known for killing coyotes that prey on 
+domestic sheep. The concept dates back to the early 1900's, and has been studied at the Denver Wildlife 
+Research Center (DWRC) since 1974.  Field tests with sodium cyanide (NaCN) in 1975 were unsuccessful 
+due to repellent properties of the toxicant and to the apparent reluctance of coyotes to attack 
+tethered lambs wearing bulky collars.  Coyotes attacked one or more tethered, collared lambs in 7 of 
+the 19 test pastures.  In all, 14 collared lambs were attacked.  Eight of the collars were punctured 
+but no dead coyotes were recovered. 
+A smaller collar containing diphacinone was field tested in 1976. The diphacinone-filled collars 
+were readily accepted by coyotes and lethal to them, but the slow action (5-16 days between dosing and 
+death) of diphacinone made it difficult to assess the effectiveness of these collars under field 
+conditions. Target flocks containing 1 to 12 collared lambs plus uncollared ewes were placed in 15 
+fenced pastures from which the larger ranch flocks had been removed after repeated coyote predation.  
+One or more collared lambs were attacked in 11 of the 15 tests.  An unknown number of coyotes was 
+killed, and in most tests the subsequent incidence of predation was lower than that before the test. 
+Captive coyotes continued to kill sheep for 4 or 5 days after they received a lethal dose of diphacinone; 
+therefore a faster-acting toxicant is needed. 
+This research has shown that problem coyotes can be killed with toxic collars, but further studies 
+are needed to determine the feasibility of this approach compared with traditional means of control.  
+In most tests to date the frequency of coyote predation has been too low and too irregular to permit 
+effective use of the collar; target flocks were in the field for an average of 10 days before being 
+attacked. The known disadvantages of the method include the need to sacrifice live lambs, the human 
+hazards associated with the use of toxicants under field conditions, and the costs of managing target 
+flocks and other sheep in the problem areas. 
+
+For many years the Animal Damage Control (ADC) Program of the U.S. Fish and Wildlife Service has 
+attempted to limit predator control as closely as possible to the individual predator or local predator 
+population that is causing or about to cause damage. In keeping with that objective, the ADC Program, 
+through its research arm at the Denver Wildlife Research Center (DWRC), has worked to improve the 
+safety and selectivity of methods for reducing coyote depredations on livestock. Of all the methods 
+available, the toxic sheep collar is the most selective one for killing coyotes that prey upon domestic 
+sheep.  Since coyotes typically kill sheep by biting them on or under the neck (Figure 1; Connolly 
+et al., 1976; Nass, 1977; Henne, 1977), the coyotes that attack collared sheep usually rupture the 
+collar with their teeth and thus receive a lethal, oral dose of the toxicant. 
+The toxic collar concept dates back at least to Duncombe (1920) who patented a wire-ring device 
+consisting of two toxicant-filled syringes attached to either side of a sheep's neck. The DWRC has 
+worked with the toxic collar concept since 1974. Earlier, a collar containing 1080 solution had been 
+developed in Texas by Roy McBride, a former employee of the ADC Program and the DWRC.  Before the 
+1972 Presidential ban on the use of toxicants in predator control, McBride used the collars to stop 
+depredations on sheep ranges where problem coyotes had eluded all other means of control.  His 
+procedure was to put collars on 15 to 20 lambs and place them with their ewes on the bedground where 
+kills had been taking place. The remaining sheep were corralled or herded away from the trouble zone 
+until one or more collared lambs were killed.  On 13 of 14 ranches where these tactics were used, 
+dead lambs with ruptured collars were found and the predation losses immediately stopped (R. McBride, 
+personal communication). On the basis of these results, McBride (1974) patented the leather-sheathed 
+collar containing a rubber bladder to be filled with either a toxicant or aversive solution. 
+In February 1972, all uses of toxicants for predator control by Federal agents or on Federal lands 
+were prohibited by Executive Order No. 11643.  This prohibition applied to research as well, but when 
+it appeared that the Order might be modified to permit the use of NaCN in the M-44 device, or sodium 
+cyanide spring loaded ejector mechanism (Matheny, 1976), the DWRC began work on a toxic collar to use 
+this toxicant. The collar research program of the DWRC proceeded through seven phases, as follows: 
+(1) 
+Development of a sheep collar that killed captive coyotes with NaCN. 
+(2) 
+Field tests of the NaCN collar. 
+(3) 
+Pen tests to develop alternate toxicants and to improve the collar configuration. 
+(4) 
+Field tests of the diphacinone collar. 
+(5) More pen tests to develop alternate toxicants, including 1080, and to further improve the 
+collar device itself. 
+
+197 
+
+(6) 
+Negotiations with the Environmental Protection Agency (EPA) for an experimental use permit 
+for 1080 in the toxic collar. 
+(7) 
+Field tests of the 1080 collar. 
+Phase (1), the development of the NaCN collar, has been reported elsewhere (Savarie and Sterner, 
+1977), and the field tests with 1080 (phase 7) are now in progress under EPA Experimental Use permit 
+No. 6704-EUP-14 issued in September 1977.  Therefore this report is limited to the field tests with 
+NaCN and diphacinone, together with the related chemical screening and collar modifications that led 
+to the issuance of the current experimental use permit. 
+FIELD TESTS OF THE SODIUM CYANIDE TOXIC COLLAR 
+By early 1975, a polyvinylchloride (PVC) toxic collar had been developed at the DWRC. It consisted 
+of 10 packets, each containing 50 ml of 33% NaCN in water, that were assembled and attached to the lamb 
+with nylon cord (Figure 2). Of 12 captive coyotes that attacked sheep equipped with this collar or 
+previous models, 9 were killed.  Four of these coyotes attacked tethered, collared lambs, and all 4 
+were killed (Savarie and Sterner, 1977). 
+
+Figure 2.  A sodium cyanide toxic collar at a test 
+site in North Dakota in 1975.  This 
+collar contained 500 ml of 33% NaCN 
+solution. The lamb is tethered by its 
+right hind foot. USFWS photo by G.E. 
+Connolly. 
+
+ Figure 1.  Coyotes usually kill sheep by biting 
+them on the underside of the throat. 
+This characteristic attack pattern led 
+to the idea of a sheep neck collar 
+filled with toxicant, so that any 
+coyote biting through the collar would 
+be poisoned. University of California 
+photo by G.E. Connolly. 
+Field tests of the NaCN collar were conducted in North Dakota (13 ranches), Montana (3 sites on 1 
+ranch), and Texas (3 ranches) from August through October 1975. Most of the work was done in North 
+Dakota because, through previous experience, a key man on the project (R.E. Severson) had intimate 
+knowledge of the coyote problem areas in that state. The intent of each test was to document this 
+sequence of events: 
+(1) 
+Occurrence of frequent and regular coyote predation on sheep; 
+(2) 
+Removal of one or more coyotes with the toxic collar; 
+(3) 
+Reduced incidence of predation after removal of the problem coyotes. 
+Because it would have been neither feasible nor safe to put a NaCn collar on every sheep in a 
+large flock, collars were placed only on a few tethered lambs (Figure 2) in each test. Previous trials 
+without collars had shown that coyotes could be induced to attack lambs that were tethered along the 
+routes habitually traveled by sheep-killing coyotes. In each pasture where the NaCN collars were 
+tested, we attempted to place the collared lambs where they would be encountered by approaching coyotes. 
+The number of collars in each test varied from one to five. 
+Under these test conditions, the NaCN collar was ineffective. Coyotes attacked collared lambs at 
+only 7 of the 19 test sites.  In 574 exposure nights (1 exposure night = 1 collared lamb tethered in 
+the field for 1 night) only 14 collared sheep were attacked. Eight of the 14 collars were punctured. 
+Because NaCN takes effect within minutes, we expected to find the carcasses of attacking coyotes within 
+a few hundred yards of the punctured collars. However, no dead coyotes were recovered. Most of the 
+attacks on collared sheep were followed by additional kills of uncollared sheep in the test areas; 
+therefore we believe that the problem coyotes were neither killed nor repelled from the test areas.  
+The failure of the NaCN collar was attributed to 3 causes:  (1) reluctance of coyotes to attack 
+tethered lambs; (2) frequent avoidance of collars by attacking coyotes, presumably because of repellent 
+properties of the collar or toxicant, or both; and (3) repellent properties of the toxicant, which 
+caused coyotes to break off the attack before they received a lethal dose. 
+198 
+
+ 
+The apparent failure of the NaCN collar under field conditions was unexpected, in view of its 
+effectiveness against captive coyotes (Savarie and Sterner, 1977).  We are unable to offer an 
+explanation for this difference between captive and wild coyotes, other than to speculate that the 
+captive animals were exposed and possibly accustomed to a variety of unnatural artifacts, so that they 
+may have been less wary of the collar and toxicant than were wild coyotes. In any event, it appeared 
+that a smaller, less conspicuous collar and a non-repellent toxicant were needed.  And because the 
+rate of attack on tethered, collared lambs was low (1 attack per 41 exposure nights), we felt that the 
+tethered lamb concept should be abandoned in favor of other means of inducing coyote predation on the 
+collared lambs. All three of these avenues for improvement were explored. 
+THE SEARCH FOR ALTERNATE TOXICANTS 
+After the unsuccessful field tests with NaCN, a systematic search was made for other toxicants 
+(including alternative formulations of NaCN) that might be more effective. Computer searches, 
+literature reviews, and personal contacts with chemical companies and universities were used to seek 
+chemicals that met the following criteria: 
+(1) 
+No taste or odor, or non-repellent taste or odor. 
+(2) 
+Single, low oral dose that would kill the coyote within 24 hours. 
+(3) 
+Commercially available and economical. 
+(4) 
+Low residue after death of the coyote, so as to minimize secondary toxicity problems. 
+(5) 
+Antidote or practical treatment available. 
+(6) 
+Potential for EPA registration for use in predator control. 
+Chemicals with established pesticide uses were given high priority because the published data on 
+these compounds could be used in support of registration. Not all of the toxicants that have been 
+considered for possible use in the toxic collar are listed here. The search for effective toxicants is 
+still in progress and will be reported elsewhere.  In 1976, this search resulted in the identification 
+of 4 compounds that appeared to merit at least preliminary trials in the collar. These compounds--
+diphacinone, mandelonitrile, 4-aminopyridine, and phosphamidon--were tested against captive coyotes in 
+1976, and 1080 was tested in early 1977. 
+In addition to the search for alternate toxicants, a concerted effort was made to reformulate NaCN 
+so as to reduce its repellent properties.  Because we believed that NaCN in water had an offensive 
+taste due to its high pH (+12), we attempted to reduce the pH with phosphate and boric acid buffers. 
+NaCN also was formulated in five thixotropic suspensions, in glycerine, and in microencapsulated form 
+in the hope that these treatments would mask its undesirable taste and odor. All of these efforts were 
+unsuccessful. 
+Pen tests with a variety of toxicants and formulations were conducted with both pen-reared and wild, 
+captive coyotes in 1-hectare (2.5-acre) pens at Logan, Utah (Table 1). Before exposure to a collared 
+sheep, each coyote was fed lamb meat and penned with sheep until it would readily attack and kill lambs 
+of at least 60 pounds (27 kg) live weight.  The candidate toxicants were tested in toxic collars on 
+sheep that were exposed to the coyotes. Twenty-six coyotes were killed in 60 tests; one or more coyotes 
+was killed with most formulations. 
+Of all the chemical mixtures that were tested in toxic collars at Logan, only diphacinone and 1080 
+appeared to be effective enough to warrant field use. A 5% concentration of diphacinone killed all the 
+coyotes exposed to it. At lower concentrations about half of the coyotes were killed. Compound 1080 
+killed all 6 coyotes that punctured PVC collars containing 5 mg/ml or more, and was partly effective at 
+lower concentrations. Neither diphacinone nor 1080 appeared to have the repellent or aversive properties 
+that were seen with every other toxicant, including all formulations of NaCN. 
+The coyotes that punctured collars containing NaCN, mandelonitrile, 4-aminopyridine, or phosphamidon 
+characteristically released their grip on the lamb as soon as they detected the toxicant.  Immediately 
+they shook their heads and rubbed their muzzles on the ground in what we interpreted as efforts to 
+clear the undesirable taste from their mouths. Mandelonitrile and phosphamidon exhibited the additional 
+disadvantage of chemical incompatibility with the PVC collars. 
+These results reinforced our conviction that a non-repellent toxicant was essential to a success-
+ful toxic collar. The only alternative would have been a pressurized device to expell the toxicant 
+rapidly upon puncture; this concept was rejected on grounds of excessive hazard to humans. 
+Throughout these evaluations of alternate toxicants, 1080 appeared to be the chemical of choice 
+except for two problems: it has no effective antidote and it may be unregisterable because of its 
+controversial history of use in predator control. Nevertheless we believe that 1080 can be used 
+safely in the toxic collar. Limited field tests with this compound are planned in 1978. 
+
+199 
+
+Table 1.  Effectiveness of selected toxicants in toxic sheep collars against captive coyotes at Logan, 
+Utah, in 1976 and 1977. 
+
+1Collar configurations: 
+I: Four PVC packets, each containing 40 ml of the formulations, arranged as shown in Figure 3. 
+II: Two PVC packets, similar to configuration I but with one packet on each side of the neck of 
+the sheep. 
+III: One-piece PVC collar with two reservoirs containing 20-25 ml each, mounted underneath the 
+neck of the sheep (Fig. 4).                                                             
+IV: One-piece collar similar to configuration III, but made of rubber rather than PVC. 
+230.6% NaCN, 43.5% H20, 23.1% Glycerol, and 2.8% KOH. 
+333% NaCN, 66% light mineral oil, and 0.1% Atlas G-1702 surfactant. 
+425% NaCN in vinyl resin capsules with 48% cod liver oil and 2% Silanox 101; Southwest Res. Institute     
+formulation #6-957. 
+5C6H5CH(0H)CN, technical grade. 
+6Avitrol, 100 mg/ml in cod liver oil. 
+7Commercial spray, 958 mg/ml. Low rate of punctures was due to chemical reaction which made the PVC  
+bladders flaccid. 
+8Vampiricida suspension made by Motomco, Clark, NJ. This was diluted with water to obtain the 2 1/2% 
+and 1 1/4% concentration s,  
+9Several coyotes that killed the lambs missed the collars, apparently because of deep snow that altered 
+the attack pattern. In addition to the attacking coyotes that were killed, 3 other coyotes also died 
+after feeding on the carcasses of the collared sheep. 
+10Compound 1080, technical grade, made by Tull Chemical Co., Oxford, AL.  This material is warranted 
+to contain at least 90% sodium monofluoroacetate. Thus the collars with 11.1 mg/ml of 1080 contained 
+10 mg/ml of sodium monofluoroacetate.                                                                       
+11The second collar ruptured along a seam when the coyote bit it, so that the poison was not expelled      
+into the coyote's mouth. 
+IMPROVEMENTS IN THE CONSTRUCTION AND CONFIGURATION OF THE TOXIC COLLAR 
+As noted earlier, the field tests of the NaCN collar indicated an apparent reluctance by coyotes 
+to attack and bite it. Therefore we reduced its size and bulk, and also improved the mode of attachment 
+and camouflage. These aspects of the collar development program were pursued both by project personnel 
+and by Roy McBride under contract with the DWRC, and all improvements were tested against captive 
+coyotes at Logan, Utah. In most of these tests the collars contained water, cod liver oil, or other 
+non-toxic materials so as to reduce the number of coyotes sacrificed in the testing program. 
+
+                                               200 
+
+ 
+Beginning with the 10-packet collar (Figure 2) used in the NaCN tests, the following modifications 
+were tested: (1) reduced number of packets; (2) reduced size of individual packets; (3) variations in 
+thickness of PVC from which packets were made (original material was 0.020 inches thick); (4) use of 
+other plastics and rubber, rather than PVC; (5) redesigned fill value to protrude internally rather 
+than externally; and (6) use of velcro rather than nylon cord to attach collars to sheep. 
+The packets used in the NaCN collars were made of white PVC. Numerous types of camouflage were 
+tested, including wool glued on with rubber cement, fiberglass flocking, burlap fabric covering, and 
+pieces of women's pantyhose. No camouflage was satisfactory. A completely different, and apparently 
+successful, approach to this problem was suggested by R.J. Burns (personal communication), a cooperating 
+biologist with another project at Logan. He had observed that coyotes were attracted to black-colored 
+areas on other coyotes, so he proposed that the collars should be black. We have been using black, 
+uncamouflaged collars since August 1976 and find that coyotes bite them readily. 
+The NaCN collars were assembled and attached to the lambs with nylon cord.  This worked well in 
+pen tests where the collars were in place for only a few hours, but in field trials the cord cut into 
+the skin of the lambs and caused open wounds. We solved the abrasion problem by using 0.75-inch wide 
+velcro straps in place of the nylon cord. In addition, the velcro holds the collars more securely and 
+permits more rapid attachment and removal of the collars. 
+By March 1976, these efforts to improve the configuration of the toxic collar had resulted in a 
+4-packet collar (Figure 3) that contained only 40 percent as much toxicant as did the earlier model 
+(Figure 2). The 4-packet collar was used in field tests during spring 1976. Experience soon revealed 
+that whenever a collar of this type was broken by a coyote, one or both of the uppermost packets were 
+broken. Therefore the bottom packet on each side was deleted, reducing the total number of packets to 
+two. During field tests in 1976, sixteen lambs with 4-packet collars and 33 lambs with 2-packet collars 
+were attacked by coyotes; 11 (69%) of the 4-packet collars and 24 (73%) of the 2-packet models were 
+punctured. 
+While field tests with these 4-packet and 2-packet collars were in progress, laboratory work to 
+improve the collar configuration continued.  A single, under-the-neck unit (Figure 4) is now believed 
+to be superior to the under-ear models, although it has not yet been tested extensively in the field. 
+This model contains two toxicant reservoirs of 20-25 ml each and can be made of either 20-mil (0.020 
+inches thick) PVC or rubber. On current rubber models the side exposed to coyotes is approximately 
+0.030-0.050 inches thick. The rubber units are more expensive than PVC, in prototype at least, but 
+may be more acceptable to coyotes and more effective in delivering toxicants. Both rubber and PVC are 
+chemically incompatible with many toxic formulations, although they appear to be equally suitable for 
+use with 1080 in water. 
+
+ Figure 3.  The 4-packet toxic collar tested with 
+diphacinone in 1976. Only 2 of the 4 
+packets are visible in this photograph. 
+USFWS photo by G.E. Connolly. 
+In conjunction with our efforts to improve the toxic collar device, warning labels were also 
+improved. We tested many kinds of gummed labels, along with various inks and rubber stamps, and found 
+labels that adhere well to both the PVC and rubber collars.  Each collar in the field bears one or 
+more pre-printed warning labels with skull and crossbones, the identity of the toxicant, and the 
+address and telephone number of the DWRC.  Warning signs are also posted at each logical point of 
+entry to our test areas.      
+
+Figure 4.  The current model of the toxic collar 
+is made of black PVC or rubber.  It 
+contains 40 to 50 ml of toxicant. USFWS 
+photo by G.E. Connolly. 
+
+201 
+
+ 
+ 
+FIELD TESTS OF THE DIPHACINONE COLLAR 
+In early 1976, diphacinone and 1080 were the only available toxicants that appeared to be 
+feasible for use in the toxic collar. At that time, 1080 was not a viable option but diphacinone 
+was. In particular, diphacinone was non-repellent, highly toxic to coyotes (oral LD 50 = about 0.6 
+mg/kg), had a readily available and effective antidote (vitamin K 1), and was safe for use under field 
+conditions. Consequently, we used it in the toxic collar from March through October 1976. All of the 
+tests took place in western Montana, with the Eight Mile ranch of L.W. Cook, near Florence, as the 
+main test site. The history of coyote predation on this ranch has been well documented (Henne, 1977; 
+Brawley, 1977). 
+The diphacinone formulation used in these tests was an aqueous suspension (50 mg/ml) manufactured 
+by Motomco, Inc., Clark, NJ, for vampire bat control in Latin America. This material was loaded into 
+the collar packets with a hypodermic syringe. As in the NaCN collar tests, each cooperating rancher 
+agreed to withhold other means of predator control during the test, and was reimbursed at market value 
+for predator kills verified by us.  Since the tethered lamb procedure had been ineffective with the 
+NaCN collars, the diphacinone collars were placed on free-ranging lambs. Again it was not feasible to 
+collar every lamb, so special tactics were needed to induce coyote attacks on the collared ones. The 
+approaches used in these tests were: 
+(1) Small groups (up to 10) of collared lambs were placed in pastures 2 to 3 weeks before the 
+arrival of the main flocks, with the object of killing the problem coyotes before larger flocks of 
+uncollared sheep were exposed to predation. 
+(2) When coyotes were traveling through a vacant pasture to kill sheep in an adjacent pasture, 
+we put collared sheep in the vacant pasture to intercept or attract the coyote en route to the main 
+band. 
+(3) Flocks in which kills were occurring regularly were moved to a different pasture, and a small 
+flock of collared sheep was left behind. 
+(4) The main flocks were corralled at night, while collared sheep were left out in the pastures. 
+Two series of field tests were made with diphacinone collars. The first tests, during March-June 
+1976, were limited to the Eight Mile ranch where chronic and serious coyote depredations were being 
+documented by Brawley (1977) of the Montana Cooperative Wildlife Research Unit under contract to the 
+DWRC. When these tests began in mid-March the ranch sheep were in the lambing barns, so that only 
+collared lambs were available to coyotes.  Fifteen lambs were killed between March 23 and April 16, 
+and 10 of the 15 collars were broken. An unknown number of coyotes was killed. Because of the delayed 
+action of diphacinone we did not expect to recover the dead coyotes; however, K. Brawley found the 
+fresh carcass of one poisoned coyote. A domestic dog that killed a collared sheep was also recovered 
+after it died at the office of a local veterinarian. 
+One of the ranch flocks went to the field on April 24 and a second flock entered another pasture 
+on May 4. In spite of our previous success in inducing coyote attacks on collared sheep, and presumably 
+in killing some of the attacking coyotes, heavy predation ensued in the large, uncollared flocks. Of 
+106 coyote kills documented in May, only 4 were collared lambs. The coyotes ignored the small, target 
+flocks but killed lambs almost every night in the larger herds.  It appeared that coyote attacks on 
+the collared lambs could be assured only if the main flocks were removed or somehow protected from 
+coyotes. At the same time the effectiveness of the collar was obscured by the time delay (5-16 days) 
+between dosing and death of the attacking coyotes. Pen studies at Logan had shown that coyotes would 
+continue to kill sheep for 4 or 5 days after they received a lethal dose of diphacinone from a toxic 
+collar. On the Eight Mile ranch, therefore, we could not determine whether continuing predation after 
+an attack on a collared lamb was attributable to poisoned coyotes that had not yet died, or whether 
+different coyotes were involved. 
+The best course of action at this point would have been to switch to a faster-acting toxicant. 
+However, the only known alternative to diphacinone was 1080 and we were not yet permitted to use this 
+compound. Therefore the tests were moved to smaller ranches where protective management of the farm 
+flocks was easier. 
+In the second series of field tests with diphacinone collars (Table 2), 15 trials were made in 
+14 pastures ranging from 5 to 300 acres (2-121 hectares) in size. The test sites were selected on the 
+basis of damage complaints received by Jerry Lewis, District Field Assistant in the ADC Program. In 
+every case but one (Ranch #6) the farm flock was moved or protected while the collared sheep were in 
+place. On Ranch #6, circumstances dictated that the collared sheep should be tethered at strategic 
+points, and tethering was successful in this instance. 
+To facilitate analysis of test results (Table 2), we show the dates of collar placement and coyote 
+attacks on collared and uncollared sheep in reference to Day 0, when collars were first placed in the 
+field. The figures for Ranch #1, for example, indicate that a ranch sheep (uncollared) was killed 2 
+days before the start of the test.  Collars were in the field for 5 nights and one collar was broken 
+by an attacking coyote on the 5th night. On the 6th day of the test (Day 5), the collars were removed 
+and the ranch flock returned to the pasture.  A ranch sheep was killed on Day 14, so the collars were 
+put out again on Day 24. The test was stopped on Day 36 and there were no further coyote kills through 
+202 
+
+Table 2.  Summary of field tests in Montana, June-October 1976, of toxic collars containing 5% 
+diphacinone. 
+
+1Counting from Day 0, when toxic collars were placed on the ranch. Day -2 is two days before collars 
+were placed.  
+2Three collars were broken. 
+3Ranch flock was corralled each night because of earlier predation. 
+4Four collars were broken. 
+5Collared lambs were tethered. 
+6Eight collars were broken. One broken collar was missing, as was an unbroken collar from another 
+collared sheep killed. Two decaying coyote carcasses were found on a neighboring ranch on day 57. 
+7Twenty-one lambs were killed in the 20 days just before the test. 
+8Several coyotes were shot or taken with M-44's during these tests.  Therefore the subsequent pattern 
+of predation cannot be interpreted solely in terms of the toxic collar,  
+9Not recorded. 
+10The entire target flock (6 large lambs) was chased out of the pasture by attacking coyotes. Four were   
+killed and 3 collars were recovered (2 had been broken). The other 2 sheep were never found. 
+11Rancher attributed the lack of kills during days 10-37 to removal of over 100 coyotes from the area        
+by ADC personnel. He also sold his lambs and corralled his ewes each night. 
+12Two collared lambs were attacked but neither collar was broken.  
+13Sheep were not returned to the high risk pasture. 
+14Four coyotes taken by helicopter on day 8. 
+15Four coyotes shot by rancher during test. 
+at least Day 129. In this case the coyote that broke the collar on Day 4 could have been poisoned and 
+yet made the kill on Day 14 before succumbing to the toxicant. Unfortunately, this interpretation of 
+the observed results must remain speculative.     
+
+203 
+
+In Table 2, the tests are arranged in three groups, depending on their outcome. Group I consists 
+of those ranches where losses of sheep to coyotes stopped or were reduced after coyotes broke toxic 
+collars. In these 8 cases the problem coyotes may have been killed by the toxicant in the collars. 
+Group II includes two ranches where toxic collars also were broken by attacking coyotes, but these tests 
+were confounded by other forms of predator control while toxic collars were in the field. In the 
+remaining 5 tests (Group III) no toxic collars were punctured and therefore the use of the collar could 
+not have influenced the subsequent pattern of predation. 
+
+The results of these tests illustrate the difficulty of determining with certainty whether coyote 
+predation was stopped through use of the toxic collar. Even though some problem coyotes may have been 
+killed in 10 of the 15 tests and predation subsequently was lower than it had been before the tests, 
+in no case can we be certain that the coyotes were killed. The evaluation problem is particularly 
+difficult with diphacinone because of its slow action. But even with a faster-acting toxicant such as 
+1080, many unknown and uncontrollable variables will continue to influence the tests. If coyote 
+predation continued after one or more collars had been punctured by a coyote, one could conclude that 
+the collar failed to stop losses in that case. But if the losses stopped it usually would not be 
+possible to attribute this result positively to the collar. The coyotes might have been shot by a 
+neighbor or frightened away by unusual human activities associated with the test. During the field 
+work with NaCN, for example, we found that predation dropped substantially during the field tests even 
+though no coyotes were killed. The most likely explanation is that the coyotes were sensitive to 
+increased human presence and changed their habits to avoid the test areas. 
+These evaluation problems are by no means peculiar to the toxic collar; they apply in some measure 
+to every predator control technique, whether operational or experimental, lethal or non-lethal.  
+Because of the intractable variables and expense involved, these problems are all but impossible to 
+resolve by experimental design. Our approach to this problem, as far as the toxic collar is concerned, 
+is simply to conduct as many tests as possible on sites with the greatest possible rate of predation, 
+while withholding other forms of predator control to the best of our ability. But we must accept the 
+fact that the tests will be influenced by many factors beyond our control. 
+SAFETY CONSIDERATIONS 
+As with any toxic device, the use of the toxic collar entails certain hazards, not only to the 
+human user but to other persons who may contact the collars through chance or ignorance. We are 
+attempting to minimize these risks through careful control of the collars and collared sheep, warning 
+labels on the collars, warning signs around the test areas, and notification of hospitals near test 
+areas.  In addition to the human hazards, there is the possibility of secondary poisoning of non-
+target wildlife species that scavenge upon the carcasses of the collared lambs or poisoned coyotes.  
+In our judgment these risks are minimal with the current toxic collars as used with 1080.  The model 
+to be field-tested in 1978 (Figure 4) contains approximately 3 to 8 human LD5 0s of 1080, compared 
+with 650 to 1300 LD50s of NaCN in the collar that was used in 1975 (Figure 2). Still it must be 
+acknowledged that toxic collars can be lost in the field.  Eight toxic collars or parts of collars 
+were lost during the field tests with diphacinone. Such losses are unavoidable; they usually occurred 
+when the collared lambs were killed and eaten, scattered, or carried off by coyotes.  One lost collar 
+was later found intact approximately one-half mile away from and 2 1/2 months after the kill. 
+
+In addition to the possibility of lost collars, several other collars were ruptured accidentally 
+when the target sheep ran into or through fences.  Coyotes also broke the collars on 6 lambs that 
+were attacked but not killed.  These "walking wounded" lambs with leaking collars present special risks 
+to anyone who might handle the lambs without being aware of the hazard involved. It is noteworthy 
+that the firms supplying our prototype collars have expressed concern over the product liability aspects 
+of collar manufacture, even though they would not logically be held liable for incidents resulting 
+from our uses of the collar in research. 
+OUTLOOK AND FUTURE PROSPECTS 
+The work to date has shown that sheep-killing coyotes can be killed selectively with toxicant-
+filled, sheep neck collars. The outstanding advantage of this method is its selectivity for coyotes 
+that attack sheep. The collar may be effective against coyotes that have eluded other means of control. 
+The known disadvantages include the need to sacrifice lambs to the offending coyotes, hazards associated 
+with the use of toxicants under field conditions, and the expense of collaring and managing the target 
+lambs as well as removing or otherwise protecting uncollared sheep in the problem area. 
+We believe that the toxic collar will be most useful where depredations are frequent and regular. 
+Where predation is infrequent and unpredictable, as is often the case, one would have to keep collared 
+sheep in position for several days or even weeks before coyotes attacked them.  A major obstacle in 
+our field work, in fact, has been the difficulty of finding test sites where the incidence of predation 
+was sufficiently high to make a test feasible. In the latest diphacinone tests (Table 2), the lapsed 
+time from placement of collared lambs to puncture of the first collar ranged from one to 23 days with 
+an average of 10 days.  From an operational standpoint, however, the collar will be most useful where 
+an attack can be obtained in one or two days. It remains to be seen how many actual damage cases will 
+meet this criterion.    
+                                           204 
+
+

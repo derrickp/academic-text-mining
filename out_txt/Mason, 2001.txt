@@ -1,0 +1,1881 @@
+MANAGEMENT ALTERNATIVES RELATIVE TO PREDATORS
+
+J. R. MASON, USDA-APHIS-WS-National Wildlife Research Center, U.C. 5295, Utah
+State University, Logan, UT 84322.
+
+Abstract: Predator management to protect livestock, big game, and other species of wildlife
+is controversial. Lethal methods, while frequently effective, are increasingly criticized. This
+criticism reflects misconceptions about the availability of effective and economical non-
+lethal strategies, uncertainty about the effects of lethal control on predator populations, and
+the fact that predation continues even when lethal management practices are in place. This
+paper reviews various methods available for predation management, with a special focus on
+the availability and practicality of non-lethal strategies for game management. The overall
+conclusion is that few non-lethal methods are available, although new strategies are being
+sought. At present, the most ecologically and economically sound methods of predator
+control remain the selective lethal removal of individuals or groups of predators.
+
+INTRODUCTION
+
+ The basic principles of predator
+management for game protection are well-
+known.  These principles are central to the
+discipline and have been recognized as such
+for 75 years. Game Management (1933) was
+the first text for wildlife professionals; it
+remains an important contribution today.1
+Aldo Leopold wrote 
+that managing 
+a
+property 
+to 
+increase 
+game 
+species
+concurrently 
+increases 
+the 
+number 
+of
+predators for several reasons (e.g., increases
+in both game and buffer species, changes in
+predator habits, and influx of predators from
+surrounding areas). He cautioned that game
+managers 
+should 
+expect 
+predation 
+to
+increase as an unavoidable consequence of
+successful management. The question was
+whether losses would increase to levels that
+had significant negative impacts on game
+(Leopold 1933:235).
+
+Historically, predation management
+has involved the lethal removal of problem
+animals (Knowlton et al. 1999). While lethal
+control remains an important method for
+
+game 
+protection, 
+these methods 
+are
+increasingly unacceptable 
+to 
+the public
+(Reiter et al. 1999). Because social values
+drive the management of natural resources
+(Schmidt et al. 1992), considerable efforts
+are being devoted to a search for non-lethal
+alternatives (Mason 1997). Such alternatives
+are now useful components of strategies to
+manage damage by avian species and some
+mammalian herbivores (e.g., deer, beavers;
+Mason 1997). But non-lethal options for the
+management of losses to predators remain
+few (Knowlton et al. 1999), particularly in
+relation to the protection of wildlife. 
+
+Below, the methods available for
+predator management are reviewed, and the
+relative utility of these methods in different
+contexts 
+is 
+assessed. Because more 
+is
+known about coyotes (Canis latrans) than
+other species, and since nearly all non-lethal
+methods have been developed with coyotes
+in mind, this species is emphasized. Lethal
+and 
+non-lethal methods 
+are 
+presented
+sequentially, but the reader should note that
+effective management is always a blend of
+strategies and techniques (Slate et. al. 1992).
+
+144
+
+And, prior 
+to any management action,
+several 
+fundamental 
+issues 
+should 
+be
+considered (Leopold 1933). These are:
+
+1. The density of the game population;
+2. The species and densities of predator     
+populations;
+3. The food preferences of the predator     
+species;
+4. The physical condition of game and the 
+    quality of habitat available to it;
+5. The availability and species of buffer
+prey      available to predators.
+
+Information 
+pertinent 
+to 
+these
+concerns can determine whether predator
+control 
+is biologically warranted, which
+species of predators require management,
+and what practices should be implemented.
+Mos t 
+impor tan t , 
+the 
+manage r 
+can
+objectively 
+decide when management
+objectives have been met. A decision model
+that subsumes the issues above is used to
+guide decision-making in wildlife damage
+complaints by USDA-Wildlife Services
+(Slate et al. 1992). In the present context,
+the useful components of this model are (a)
+assess the nature of damage, (b) evaluate
+wildlife 
+damage 
+control methods, 
+(c)
+formulate 
+a wildlife 
+damage 
+control
+strategy, and (d) monitor and evaluate the
+results of control actions.
+
+LETHAL METHODS
+
+Most of the lethal methods that are
+effective for livestock protection also can be
+implemented to protect big game and game
+bird populations.  Where state and/or local
+regulations permit2, methods include the
+selective removal of individual predators by
+calling 
+and 
+shooting 
+(e.g., 
+Blejwas,
+unpublished manuscript), and population
+suppression by aerial hunting, 
+trapping,
+
+snaring and, where livestock are present, the
+use of M-44 cyanide ejectors and Livestock
+Protection Collars (LPCs) (Knowlton et al.
+1999). Factors affecting selection of the
+specific method include (a) the nature of the
+problem, (b) the presence or absence of
+historical loss, (c) the relative size of the
+area involved, (d) season of the year and
+timing 
+with 
+regard 
+to 
+predation 
+or
+anticipated predation, and (e) the efficiency,
+selectivity, and efficacy of various methods
+of removal (Knowlton et al. 1999).
+
+Population suppression is most often
+used when every individual in a predator
+population poses a potential threat to game
+(Guthery and Beason 1977, Connolly 1978,
+Smith et al. 1986, Teer et al. 1991, Cypher
+and Scrivner 1992, Henke 1995). Meeting
+the goal of suppression usually involves
+removing significant numbers of animals
+(e.g., > 60%) over relatively large areas
+(Stoddart et al. 1989, Pitt et al. 2001)3.
+Effecting removals as close as possible to
+the anticipated risks both in time (Knowlton
+1972) and proximity (Stoddart et al. 1989) is
+critical. Even under the most severe removal
+regimes 
+(e.g., 
+>90%), 
+coyotes 
+latrans) can repopulate areas within 4-5
+years 
+(Pitt 
+et 
+al. 
+2001). 
+Population
+suppression is most effective in reducing
+predation when removals occur after the
+dominance 
+and 
+territorial 
+patterns 
+of
+predators are set in any given year, and
+immediately prior to whelping.  This timing
+reduces the possibility that other individuals
+can repopulate an area, establish pair-bonds,
+and produce offspring (Knowlton 1972,
+Connolly 1978, 1995). At least for coyotes,
+this is important because livestock, and,
+quite likely, big game fawns are preferred in
+many areas by coyotes feeding pups. 
+
+(Canis
+
+Once suppression is accomplished,
+
+145
+
+the timing of additional predator control will
+vary among situations depending on the
+species and fecundity of the predators in
+question, their rates of  immigration into
+removal areas and territory size, and game
+abundance in relation to habitat. 
+
+In many 
+instances, 
+the selective
+removal 
+of 
+individual 
+predators 
+can
+a c comp l i sh 
+th e 
+s ame 
+m an ag emen t
+objectives 
+as 
+population 
+suppression
+(Conner 1995).  This reflects the fact that
+territory holders are typically responsible
+for 
+depredation 
+on 
+livestock, 
+and 
+by
+extension, big game (Till and Knowlton
+1983, Sacks 1996) within their territorial
+boundaries 
+(Blejwas et al. unpublished
+manuscript). Selective 
+removal has 
+the
+additional advantage of only 
+removing
+offending animals, leaving other individuals
+to prey on rodents and other species that
+degrade habitat, or in some instances, act as
+predators 
+on 
+game 
+themse lves(e .g . ,
+mesopredators that feed on game birds and
+their eggs). 
+
+However, 
+the methods used 
+for
+selective removal require a high degree of
+skill 
+(Knowlton et al. 1999), are 
+time-
+consuming, and relatively expensive. As for
+population 
+suppression, 
+the 
+timing 
+of
+removal is important (Knowlton 1972).
+
+The most selective method for the
+removal of territorial animals is calling and
+shooting with or without the use of decoy
+dogs. For coyotes, this method is easiest to
+implement during denning and pup-rearing
+(Alcorn 1946, Coolahan 1990), and it can be
+used to remove bobcats and fox in some
+situations. Although data bearing directly on
+the issue are unavailable, selective removals
+may be useful in settings where the threat to
+big game 
+is analogous 
+to 
+the 
+threat 
+to
+
+146
+
+breeding livestock. Another highly selective
+method for the removal of canid predators
+that 
+kill 
+livestock 
+is 
+the 
+Livestock
+Protection Collar or LPC (Burns et al. 1988,
+1996, Connolly and Burns 1990, Connolly
+1993, Rollins 1995). It 
+is probable 
+that
+removing coyotes that have learned to kill
+sheep could benefit big game in the vicinity
+of the livestock.
+
+While 
+all 
+predators 
+have 
+the
+potential of causing loss, control actions
+should be implemented only when predator
+impacts on game populations are sufficient
+to warrant concern. The mere presence of
+predators in an area is insufficient motive
+for management action. Efforts should be
+made 
+to 
+systematically 
+census 
+game
+numbers and gauge recruitment by young
+into the general population in relation to
+carrying capacity (Bartmann et al. 1992).
+There are 
+situations when 
+the positive
+impacts of predators outweigh the losses
+they might cause (Gese and Grothe 1995).
+Predators control rodent and 
+lagomorph
+species that compete with game for food. In
+addition, larger predators such as coyotes
+will hunt and kill mesopredators 
+(e.g.,
+Abrams 1992, Palomares and Caro 1999),
+including raccoons (Procyon lotor), skunks
+
+(Meph i t is 
+spp . , 
+Sp i loga le 
+pu tor ius ,
+Conepatus leuconotus),  and foxes (Vulpes
+fulva, Urocyon cinereoargenteus) that are
+
+highly 
+effective 
+avian 
+predators 
+(and
+arguably more effective than coyotes; see
+also Henke and Bryant 1999). Finally, when
+game populations are stable and at carrying
+capacity (as determined by management
+objectives), the presence of predators that
+cull surplus animals and thus foster the
+production of trophy animals is beneficial
+(Bodenchuk et al. 2001).
+
+NON-LETHAL METHODS
+
+The majority 
+of 
+non-lethal methods
+developed for livestock protection are not
+suitable for the protection of wildlife. Of
+those methods with potential application,
+most have not been evaluated with game
+management in mind.
+
+Guard animals 
+
+Dogs, llamas, and donkeys are the
+most commonly used livestock guardian
+species. The most extensive evaluations
+have been with dogs (Linhart et al. 1979,
+Coppinger et al. 1983, Black and Green
+1984, Green 
+et 
+al. 
+1984, Green 
+and
+Woodruff 1983, 1987), and the evidence
+shows that canines are effective in some
+settings (e.g. Linhart et al. 1979), but not
+others (Timm and Schmidt 1989, Conner
+1995).  Reasons for these differences are not
+well-understood, but sheep, for example,
+can be difficult to protect when they are in
+large flocks, dispersed over rough terrain,
+and where there is cover that effectively
+conceals predators. 
+ Whatever 
+the case,
+while dogs are 
+sometimes useful with
+livestock, there are few or no situations
+where they can be used to protect game.
+Wildlife 
+typically prefer habitats where
+dogs are least effective, and dogs harass and
+kill game 
+(Timm 
+and Schmidt 1989).
+Moreover, the presence of dogs precludes
+the use of other 
+techniques (e.g., 
+traps,
+snares, M-44s) 
+that might otherwise by
+implemented to protect game.
+
+Unlike 
+dogs, 
+llamas may 
+have
+applications for game protection in some
+settings. Recent evaluations with livestock
+are promising (Cavalcanti 1997; Meadows
+and Knowlton, 2000). Llamas do not require
+special 
+feeding 
+programs, 
+are 
+usually
+tractable with humans, have a long working
+life 
+compared with dogs, 
+and do not
+
+interfere with the implementation of other
+predator control methods.  For species of
+big game that aggregate during fawning, or
+for species of game birds that prefer grass
+pastures, the presence of llamas in fenced
+pastures could 
+serve as a deterrent 
+to
+coyotes, foxes, and feral dogs.
+
+There is little or no evidence that
+donkeys 
+are 
+effective 
+guardians 
+for
+livestock or wildlife. In fact, donkeys can
+behave aggressively 
+towards 
+lambs (W.
+Andelt, personal communication). Because
+donkeys might also behave aggressively
+towards fawns, the use of this species for
+wildlife protection s not recommended.
+
+Husbandry
+
+A number of husbandry practices
+have been developed to protect livestock
+from 
+predators, 
+but 
+few 
+have 
+been
+systematically 
+evaluated 
+in 
+terms 
+of
+efficacy, cost or benefit. Some of the more
+frequently mentioned techniques include:
+confining or concentrating flocks during
+periods of vulnerability, using herders, shed
+lambing, removing livestock carrion from
+pastures 
+that might 
+attract 
+predators,
+synchronizing birthing to reduce the period
+of maximum vulnerability, and pasturing
+young animals in areas with little cover and
+in close proximity to humans (Robel et al.
+1981, Wagner 1988). 
+
+Seve ra l 
+l ives tock 
+husband ry
+methods 
+could 
+have 
+applicability 
+for
+wildlife protection.  Removing carrion that
+attracts predators, and synchronizing births
+among big game would both be beneficial.
+For mule deer and other species, synchrony
+can be facilitated by allowing animals to
+concentrate 
+during 
+the 
+rut 
+without
+harassment or hunting (T. A. Messmer,
+personal communication).
+
+147
+
+ 
+Habitat manipulation
+
+ramos iss ima) 
+
+There 
+are 
+situations 
+in which
+invasive exotics, such as tamarack (Tamarix
+or 
+undes irab le 
+na t ive
+vegetation, such as dense stands of juniper
+(Juniperus communis), can degrade habitat
+and 
+provide 
+cover 
+for 
+predators. The
+removal of this vegetation by prescribed
+burning or other methods (e.g., chaining)
+can 
+improve habitat 
+for native species,
+increase 
+beneficial 
+forage 
+plants, 
+and
+diminish predation risk.
+
+Fencing
+
+Barriers can exclude mammalian
+predators and deter their use of specific
+areas (DeCalesta and Cropsey 1978, Linhart
+et al. 1982, Shelton 1984, 1987, Nass and
+Theade 1988). Fencing also can increase the
+efficiency with which predators can be
+removed when necessary (Knowlton et al.
+1999). However, no fence is completely
+predator-proof, 
+and 
+at 
+the 
+very 
+least,
+periodic selective removals of predators that
+cross fences may be necessary (e.g., Shelton
+and Wade 1979). 
+ Most 
+likely, electric
+fences are more effective than non-electric
+fences, with effectiveness dependent upon
+post and wire spacing, number of wires,
+fence height and fence maintenance (Green
+et 
+al. 1994)4. Existing 
+fences 
+can be
+retrofitted with electric strands attached to
+offset insulators to exclude canid predators.
+Hi-tensile 
+electric 
+fences 
+are 
+effective
+against mountain lions (Felis concolor) and
+bears, as well as canids (Pratt 1990). An
+important caveat is that predator fencing can
+hamper 
+the movement of wildlife (e.g.,
+
+antelope, Antilocapta americana). 
+
+Fladry 
+
+Recent reports suggest that cloth or
+
+plastic flagging on single strand fences (i.e.,
+fladry) can prevent wolf depredation on
+livestock and game (Musiani et. al. 2000).
+At 
+the 
+least, 
+this 
+possibility 
+remains
+controversial. Whether or not fladry is an
+effective deterrent to wolves (Canis lupus)
+and whether they have any utility for the
+protection of big game is untested.  No data
+have been collected with coyotes or other
+predators 
+(e.g., 
+bobcats, 
+Because flagging is attractive to cats and
+commonly used as a visual trap attractant
+for 
+coyotes 
+(Mason 
+et 
+al. 1999), 
+the
+technique is unlikely to be effective except
+in specialized circumstances.
+
+rufus).
+
+Lynx 
+
+Electronic devices  
+
+Apparatuses that periodically emit
+bursts of light or sound can temporarily (3-4
+weeks) deter predation on 
+livestock 
+in
+fenced pastures (Linhart et al.1992, Linhart
+1984a,b, Linhart et al.1984) and on the open
+range (Linhart et al. 1992, Bomford and
+O'Brien 1990, Koehler et al. 1990). The
+duration of effectiveness can be increased
+when devices (such as the Electronic Guard
+available from the Pocatello Supply Depot)
+a r e 
+u s e d 
+in 
+app rop r i a t e 
+numb e r s
+(approximately 1 per 10-15 acres), moved
+periodically, and programmed to vary the
+temporal pattern of stimulus presentations.
+Use of such 
+frightening devices 
+is not
+widespread even for livestock protection, in
+part because operating sirens and strobe
+lights at night near people is unacceptable,
+and because the strategy is costly and labor-
+intensive5.  Although there are no published
+data, 
+the 
+likelihood 
+is 
+that devices 
+that
+frighten predators will also frighten big
+game, and that habituation to the devices by
+big game will approximate habituation by
+predators. The 
+devices might 
+be 
+less
+upsetting to game birds and, when used in
+comb ina t ion 
+w i th 
+o the r 
+s t ra teg ie s ,
+
+148
+
+frightening devices might have utility for
+small game protection. There are anecdotal
+reports consistent with this possibility (R.
+Johnson, personal communication).
+
+Repellents and learned aversions
+
+There are no commercially available
+predator 
+repellents with 
+demonstrated
+effectiveness6. While 
+sensory 
+repellents
+such as quinine hydrochloride and capsaicin
+discourage coyote damage 
+to 
+inanimate
+objects 
+(Werner 
+et 
+al. 
+1997), 
+these
+substances are not commercially available
+for this purpose, and there is no evidence
+that they deter attacks on live prey (Lehner
+1987). Instead, the available data suggest
+that 
+predation 
+continues 
+despite 
+the
+presence 
+of 
+these materials, 
+although
+predators 
+sometimes 
+redirect attacks 
+to
+a v o i d 
+s i t e s 
+t r e a t e d 
+w i t h 
+h i g h e s t
+concentrations of 
+repellent 
+(Burns 
+and
+Mason 1997).
+
+There are a 
+few 
+repellents 
+that
+reduce 
+food 
+consumption 
+by 
+captive
+preda tors . 
+These 
+inc lude 
+pu legone ,
+cinnamaldehyde, and allyl sulfide (Hoover
+1996). The possibility exists that these or
+similar substances may be useful to deter
+predators from feeding on eggs. However,
+none of these substances are registered with
+the U.S. Environmental Protection Agency,
+a prerequisite for their sale (Hushon 1997).
+Registration costs are invariably high, and
+sometimes exceed several million dollars.
+This is true even when the materials in
+question are harmless, and already approved
+for use in human and animal feeds by other
+federal agencies7.
+
+Conditioned taste aversion (CTA),
+using 
+lithium chloride or other emetic
+compounds to make animals sick, has been
+tested as a way to reduce depredation by
+
+149
+
+spp.) 
+
+(Corvus 
+
+(Ursus americanus, Ternent 
+
+coyotes, resolve nuisance issues with black
+bears 
+and
+Garshelis 1999), and curtail egg predation
+by raccoons, skunks, mongooses, ravens and
+crows 
+(e.g., Semel 
+and
+Nicolaus 1992, Nicolaus et al. 1982, 1983,
+Nicolaus and Nellis 1987).  Although no
+CTA method has been approved for use by
+the U.S. EPA, 
+the 
+available 
+evidence
+concerning egg depredation is promising.
+Provided that ‘poisoned eggs’ resemble the
+eggs to be protected, and that alternative
+foods 
+are 
+readily 
+available, 
+significant
+reductions in loss are usually observed. Not
+so with livestock predation. So far as sheep-
+killing by coyotes is concerned, the results
+are equivocal. Some investigators report
+success (Gustavson et al.1974, Ellins and
+Martin 
+1981, 
+Gustavson 
+et 
+al.1982,
+Forthman-Quick et al.1985a,b), and others
+reporting failure (Conover et al. 1977, Burns
+1980, Bourne and Dorrance 1982, Burns
+1983, Burns and Connolly 1985). Ten years
+after the most extensive field trial involving
+use of lithium chloride (Gustavson et al.
+1982, Jelinski et al. 1983), a survey of
+participating sheep producers showed that
+while 54% of 
+the participants 
+initially
+considered CTA  "successful" or "somewhat
+successful," only one still used it (Conover
+and Kessler 1994). There are no data that
+bear directly on the use CTA to protect big
+game. CTA, as attempted to date, should not
+be considered as a method 
+to protect
+livestock or big game. 
+
+Reproductive interference
+
+For more than 25 years, sterilants
+and abortifacients have been 
+tested as
+strategies to control over-abundant wildlife
+such 
+as while-tailed 
+deer 
+virginianus) and non-migratory populations
+of Canada 
+geese 
+(Miller 1995, DeLiberto et al. 1998). The
+
+(Odocoileus
+
+canadensis)
+
+(Branta 
+
+results of these investigations have been
+ambiguous. 
+ Despite continuing public
+support of sterilization as an alternative
+(Lauber and Knuth 2000), no reproductive
+inhibitor has been used to successfully drive
+declines in wildlife numbers regardless of
+the species considered.
+
+Reproductive interference to control
+predator behavior (rather than to reduce
+t h e i r 
+n umb e r s ) 
+i s 
+n ow 
+r e c e i v i n g
+considerable attention as a 
+strategy 
+to
+control coyote damage. The strategy 
+is
+predicated 
+on 
+research 
+showing 
+that
+depredation can be reduced by removing
+pups of depredating 
+coyotes 
+(Till 
+and
+Knowlton 1983, Sacks 1996, Zemlicka
+1995).
+
+Recently, 
+Bromley 
+and 
+Gese
+completed an investigation of sterilization
+as a method of reducing coyote predation on
+domestic sheep (Bromley 2000).  In the
+winter 
+of 
+1998, 
+these 
+investigators
+surgically 
+sterilized 
+and 
+radio-collared
+members of 5 coyote packs, while 6 packs
+remained intact. The following summer, the
+5 sterile packs killed one lamb, while the 6
+intact packs killed 11 lambs. During the
+winter of 1999, the investigators monitored
+4 sterile packs and 8 
+intact packs. The
+following summer, the sterile packs killed 3
+lambs while 
+the 
+intact packs killed 22
+lambs. The significance of these results for
+wildlife management 
+is 
+twofold. First,
+surgical sterilization could have benefits for
+the protection of big game fawns. Second,
+surgical sterilization is a tool that could be
+used almost 
+immediately by any game
+manager following training in the relevant
+surgical procedures.
+
+Important caveats 
+to 
+the use of
+sterilization to manage depredation are first
+that 
+the method only has demonstrated
+
+utility with coyotes, and second, that it is
+probably effective only when fawning and
+pup-rearing coincide. When these events are
+asynchronous, 
+sterilization may 
+not
+influence loss. For example, in north-coastal
+California, depredations peak during 
+a
+lambing season which is out-of-phase with
+pup-rearing (Scrivner et al. 1985, Conner
+1995, Sacks 1996). 
+In 
+this 
+situation,
+presence of lambs, not the presence of pups,
+is the important determinant of predation
+patterns in some situations. Because birthing
+seasons in some areas of Texas may be
+asynchronous 
+with 
+pup 
+produc tion ,
+sterilization may be useful in some areas but
+not others.
+
+CONCLUSIONS
+
+Integrated strategies, involving both
+lethal and non-lethal methods, are required
+for effective predator control. However,
+despite 
+extensive 
+on-going 
+research,
+effective non-lethal strategies do not exist
+for many wildlife 
+applications. Every
+situation 
+is 
+different, 
+and 
+no 
+simple
+solutions apply. There will be settings in
+which reductions in predator numbers are
+unwarranted. These include instances where
+game is close to carrying capacity, or when
+the 
+removal 
+of 
+relatively 
+unimportant
+predators (e.g., coyotes in relation to quail)
+permits the number of relatively important
+predators (e.g., foxes, raccoons, skunks) to
+increase . Whenever 
+possible , 
+sma l l
+properties 
+should 
+band 
+together 
+in
+coordinated management plans that increase
+the 
+acreage 
+under 
+control. Otherwise,
+predators will move into managed ‘sinks’
+from surrounding unmanaged areas, and
+swamp whatever benefits might accrue from
+individual management plans. 
+
+Whatever 
+the 
+strategy, 
+habitat
+manipulations alone are often insufficient to
+
+150
+
+  
+ 
+ 
+increase game numbers, so that they meet
+management expectations. Large sums can
+be 
+expended 
+acquiring 
+and 
+improving
+habitat, but the success or failure of an
+entire management scheme may depend on
+whether or not predator management is a
+component of the overall management plan.
+
+ACKNOWLEDGMENTS
+
+  I thank John Shivik and Will Pitt of
+the National Wildlife Research Center for
+comments on early manuscript drafts.
+
+LITERATURE CITED
+
+Clark, 
+editor. 
+ Economics 
+of wildlife
+damage management, 
+Colorado 
+State
+University Press, Ft. Collins, Colorado, in
+
+press.
+
+Bomford, M., and P. H. O'Brien.  1990.
+Sonic deterrents in animal damage control:
+a review of device tests and effectiveness.
+Wildlife Society Bulletin 18:411-422.
+
+Bourne, J., and M. J. Dorrance.  1982.  A
+field test of lithium chloride aversion to
+reduce coyote predation on domestic sheep.
+Journal of Wildlife Management 46:235-
+239.
+
+Abrams, P. A. 1992. Predators that benefit
+prey and prey that harm predators: unusual
+effects of interacting foraging adaptations.
+American Naturalist. 140:573-600.
+
+Bromley, C. 2000. Sterilization as a method
+of reducing coyote predation on domestic
+sheep. M. S. Thesis, Utah State University,
+Logan, Utah. 
+
+Alcorn, J. R.  1946.  On the decoying of
+coyotes.  Journal of Mammalogy. 27:122-
+126.
+
+Bartman, R. M., G. C. White, and L. H.
+Carpenter. 1992. Compensatory mortality in
+a Colorado mule deer population. Wildlife
+Monographs 121:1-39.
+
+Black, H. L., and J. S. Green.  1984.  Navajo
+use of mixed-breed dogs for management of
+predators.  Journal of Range Management
+38:11-45.
+
+Blejwas, K. M., B. N. Sacks, M. M. Jaeger,
+and D. McCullough. The effectiveness of
+selective removal of breeding coyotes in
+reducing 
+sheep 
+predation. Unpublished
+manuscript.
+
+Bodenchuk, M. J., J. R. Mason, and W. W.
+Pitt. 
+2001. 
+Economics 
+of 
+predation
+management 
+in 
+relation 
+to 
+agriculture,
+wildlife, and human health and safety. In: L.
+
+Burns, R. 
+J. 
+1980. 
+ Evaluation 
+of
+cond i t ioned 
+p reda t ion 
+ave rs ion 
+fo r
+controlling coyote predation.  Journal of
+Wildlife Management 44:938-942.
+
+Burns, R. J. 
+ 1983. 
+ Microencapsulated
+lithium chloride bait aversion did not stop
+coyote predation on sheep. 
+ Journal of
+Wildlife Management 47:1010-1017.
+
+Burns, R. J., and G. E. Connolly. 1980.
+Lithium chloride bait aversion did not
+influence 
+prey 
+killing 
+by 
+coyotes.
+Vertebrate Pest Conference 9:200-204.
+
+Burns, R. J., G. E. Connolly, and P. J.
+Savarie.  1988.  Large livestock protection
+c o l l a r s 
+e f f e c t i v e 
+a g a i n s t 
+c o y o t e s .
+Proceedings 
+of 
+the 
+Vertebrate 
+Pest
+Conference 13:215-219.
+
+Burns, R. J., and J. R. Mason. 
+ 1997.
+Effectiveness of Vichos non-lethal collars in
+deterring 
+coyote 
+attacks 
+on 
+sheep.
+
+151
+
+ 
+Proceedings 
+of 
+the 
+Conference 17:204-206.
+
+Vertebrate 
+
+Pest
+
+California ranch.  M. S. Thesis, University
+of California, Berkeley, California.
+
+Burns, R. J., D. E. Zemlicka, and P. J.
+Savarie. 
+ 1996. 
+ Effectiveness of 
+large
+l ives tock 
+pro tec t ion 
+co l lars 
+aga ins t
+depredating 
+coyotes. 
+ Wildlife Society
+Bulletin 24:123-127.
+
+Conover, M. R., J. G. Francik, and D. E.
+Miller.  1977.  An experimental evaluation
+of using taste aversion to control sheep loss
+due to coyote predation.  Journal of Wildlife
+Management 41:775-779.
+
+( L a m a 
+
+Cavalcanti, S. M. C.  1997.  Evaluation of
+physical and behavioral 
+traits of 
+llamas
+a s s o c i a t e d 
+w i t h
+aggressiveness 
+toward 
+sheep-threatening
+canids.  M. S. Thesis, Utah State University,
+Logan, Utah.
+
+g l a m a ) 
+
+Connolly, G. E.  1978.  Predator control and
+coyote populations: a review of simulation
+models. Pages 327-345 in M. Bekoff, editor.
+C o y o t e s : 
+b i o l o g y , 
+b e h a v i o r , 
+a n d
+management.  Academic Press, New York,
+New York.
+
+Connolly, G. E.  1993.  Livestock protection
+collars in the United States, 1988-1993.
+Proceedings of the Great Plains Wildlife
+Damage Control Workshop 11:25-33.
+
+Connolly, G. E. 
+ 1995. 
+ The effects of
+control on coyote populations: another look.
+Pages 23-29  in D. Rollins, C. Richardson,
+T. Blankenship, K. Canon, and S. Henke,
+editors. 
+ Coyotes 
+in 
+the 
+southwest: 
+a
+compendium of our knowledge. 
+ Texas
+Parks and Wildlife Department, Austin,
+Texas. 
+
+Connolly, G. E., and R. J. Burns.  1990.
+Efficacy of 
+compound 1080 Livestock
+Protection Collars for killing coyotes that
+attack sheep.  Proceedings of the Vertebrate
+Pest Conference 14:269-276.
+
+Conover, M. R., and K. K. Kessler.  1994.
+Diminished producer participation 
+in an
+aversive conditioning program to reduce
+coyote depredation on sheep. 
+ Wildlife
+Society Bulletin 22:229-233.
+
+Coolahan, C.  1990.  The use of dogs and
+calls to take coyotes around dens and resting
+areas.  Proceedings of the Vertebrate Pest
+Conference 14:260-262.
+
+Coppinger, R., J. Lorenz, and L. Coppinger.
+1983.  Introducing livestock guarding dogs
+to sheep and goat producers.  Proceedings of
+the Eastern Wildlife Damage Control
+Conference 1:129-132.
+
+Cypher, B. L., and J. H. Scrivner.  1992.
+Coyote control to protect endangered San
+Joaquin kit foxes at the Naval Petroleum
+Reserves, California.  Proceedings of the
+Vertebrate Pest Conference 15:42-47.
+
+DeCalesta, D. S., and M. G. Cropsey.  1978.
+Field test of a coyote-proof fence.  Wildlife
+Society Bulletin 6:256-259.
+
+DeLiberto, T. J., M. R. Conover, E. M.
+Gese, F. F. Knowlton, R. J. Mason, L.
+Miller, R. H. Schmidt and M. Holland.
+1998.  Fertility control in coyotes: is it a
+potential management tool?  Proceedings of
+the Vertebrate Pest Conference 18:144-149.
+
+Conner, M. M.  1995.  Identifying patterns
+of coyote predation on sheep on a northern
+
+Ellins, S. R. and G. C. Martin. 
+ 1981.
+Olfactory discrimination of lithium chloride
+
+152
+
+by the coyote (Canis latrans).  Behavioral
+and Neural Biology 31:214-224.
+
+Forthman-Quick, D. L., C. R. Gustavson,
+and K. W. Rusiniak.  1985a.  Coyote control
+and taste aversion. Appetite 6:253-264.
+Forthman-Quick, D. L., C. R. Gustavson,
+and K. W. Rusiniak.  1985b.  Coyotes and
+taste aversion: the authors' reply.  Appetite
+6:284-290.
+
+Gese, E. M., and S. Grothe.  1995.  Analysis
+of coyote predation on deer and elk during
+winter 
+in Yellowstone National 
+Park,
+Wyoming.  American Midland Naturalist
+133:36-43.
+
+Green, J. S., F. R. Henderson, and M. D.
+Collinge. 1994. Coyotes. Pages C51-C76 in
+Prevention and Control of Wildlife Damage.
+Cooperative Extension Division, Institute of
+Agriculture 
+and 
+Natural 
+Resources ,
+University 
+of Nebraska, Great 
+Plains
+Agricultural Council Wildlife Committee,
+and USDA-APHIS-Animal Damage Control
+(Wildlife Services), University of Nebraska
+Press, Lincoln, Nebraska.
+
+Green, J. S., and R. A. Woodruff.  1983.
+The use of three breeds of dog to protect
+rangeland sheep from predators. Applied
+Animal Ethology 11:141-161.
+
+Green, J. S., and R. A. Woodruff.  1987.
+Livestock-guarding 
+dogs 
+for 
+predator
+control.  Pages 62-68 in J. S. Green, editor.
+Protecting livestock from coyotes.  USDA
+Agricultural Research Service, U.S. Sheep
+Experiment Station, Dubois, Idaho.
+
+Green, J. S., R. A. Woodruff, and T. T.
+Tueller.  1984.  Livestock-guarding dogs for
+predator 
+control: 
+costs, 
+benefits 
+and
+practicality. 
+ Wildlife Society Bulletin
+12:44-50.
+
+Gustavson, C. R., J. R. Jowsey, and D. N.
+Milligan.  1982.  A 3-year evaluation of
+t a s t e 
+a v e r s i o n 
+c o y o t e 
+c o n t r o l 
+i n
+Saska tchewan . 
+Jou rna l 
+o f 
+Range
+Management 35:57-59.
+Gustavson, C. R., J. Garcia, W. G. Hankins,
+and K. W. Rusiniak. 
+ 1974. 
+ Coyote
+predation control by aversive conditioning.
+Science 184:581-583.
+
+Guthery, F. S., and S. L. Beasom.  1977.
+Responses of game and non-game wildlife
+to predator control in South Texas.  Journal
+of Range Management 30:404-409.
+
+in 
+
+Henke, S. E. 
+ 1995. 
+ Effects of coyote
+control on their prey: a review.  Pages 35-40
+D . 
+Rollins , 
+C . 
+Richardson , 
+T .
+Blankenship, K. Canon, and S. E. Henke,
+editors. 
+ Coyotes 
+in 
+the 
+southwest: 
+a
+compendium of our knowledge. 
+ Texas
+Parks and Wildlife Department, Austin,
+Texas. 
+
+Henke, S. E. and F. C. Bryant. 1999. Effects
+of coyote removal on the faunal community
+in western Texas. 
+Journal of Wildlife
+Management 63:1066-1081.
+
+Hoover, S. E. 1996. Effectiveness of volatile
+trigeminal 
+irritants 
+at 
+reducing 
+egg
+consumption by mammalian predators: an
+experimental analysis. M. S.  Thesis, Utah
+State University, Logan, Utah.
+
+Hushon, J. M. 1997. Review of regulatory-
+imposed marketing constraints to repellent
+development. Pages 423-428 in J. R. Mason,
+editor.  Repellents in Wildlife Management.
+Proceedings of the Second Denver Wildlife
+Research 
+Center 
+Special 
+Symposium,
+Denver 
+Colorado, 
+National Wildlife
+Research Center, Ft. Collins, Colorado.
+
+153
+
+ 
+Jelinski, D. E., R. C. Rounds, and J. R.
+Jowsey.  1983.  Coyote predation on sheep,
+and control by aversive conditioning 
+in
+Saska tchewan . 
+Journa l 
+of 
+Range
+Management 36:16-19.
+
+Knowlton, F. F. 
+ 1972. 
+ Preliminary
+interpretations 
+of 
+coyote 
+population
+mechan ics 
+w i th 
+some 
+managemen t
+imp l ica t ions . 
+Journa l 
+of Wi ld l ife
+Management 36:369-382.
+
+Knowlton, F. F., E. M. Gese, and M. M.
+Jaeger. 1999. Coyote depredation control:
+an 
+in terface 
+be tween 
+b io logy 
+and
+management. Journal of Range Management
+52:398-412.
+
+Koehler, A. E., R. E. Marsh, and T. P.
+Salmon. 1990.  Frightening methods and
+devices/stimuli to prevent animal damage -
+a review.  Proceedings of the Vertebrate
+Pest Conference 14:168-173.
+
+Lauber, T. B. and B. A. Knuth. 2000.
+Suburban residents’ criteria for evaluating
+contraception and other deer management
+techniques. Human Dimensions of Wildlife
+5:1-17.
+
+Leopold, A. 1933. Game Management.
+University of Wisconsin Press, Madison,
+Wisconsin.
+
+Lehner, P. N. 
+ 1987. 
+ Repellents and
+conditioned avoidance.  Pages 56-61 in J. S.
+Green, editor. Protecting 
+livestock from
+coyotes.  U.S. Department of Agriculture,
+Agricultural Research Service, U.S. Sheep
+Experiment Station, Dubois, Idaho.
+
+Linhart, S. B.  1984a.  Managing coyote
+damage problems with nonlethal techniques:
+recent advances in research.  Proceedings of
+the Eastern Wildlife Damage Conference
+
+1:105-118.
+
+Linhart, S. B.  1984b.  Strobe-light and siren
+devices for protecting fenced-pasture and
+range 
+sheep 
+from 
+coyote 
+predation.
+Proceedings 
+of 
+the 
+Vertebrate 
+Pest
+Conference 11:154-156.
+
+Linhart, S. B., G. J. Dasch, R. R. Johnson, J.
+D. Roberts, and C. J. Packham. 
+ 1992.
+Electronic frightening devices for reducing
+coyote depredation on domestic 
+sheep:
+efficacy 
+under 
+range 
+conditions 
+and
+operational 
+use. 
+Proceedings 
+of 
+the
+Vertebrate Pest Conference 15:386-392. 
+
+Linhart, S. B., J. D. Roberts, and G. J.
+Dasch. 
+ 1982. 
+ Electric fencing reduces
+coyote predation on pastured sheep.  Journal
+of Range Management 35:276-281.
+
+Linhart, S. B., R. T. Sterner, T. C. Carrigan,
+and D. R. Henne.  1979.  Komondor guard
+dogs reduce sheep 
+losses 
+to coyotes: a
+preliminary evaluation.  Journal of Range
+Management 32:238-241.
+
+Linhart, S. B., R. T. Sterner, G. J. Dasch,
+and J. W. Theade.  1984.  Efficacy of light
+and 
+sound 
+stimuli 
+for 
+reducing coyote
+predation upon pastured sheep.  Protection
+Ecology 6:75-84.
+
+Mason, J. R. 1997. Repellents in Wildlife
+Management. Proceedings of the Second
+Denver Wildlife Research Center Special
+Symposium, Denver Colorado, National
+Wildlife Research Center, Ft. Collins,
+Colorado, 443pp.
+
+Mason, J. R., A. E. Barras, J. W. Guthrie,
+and J. Belant. 1999.  Effectiveness of color
+as an attractant on M-44s for coyotes (Canis
+latrans). Wildlife Society Bulletin. 27:86-
+90.
+
+154
+
+ 
+ 
+ 
+Meadows, L. E. and F. F. Knowlton. 2000.
+Efficacy of guard llamas to reduce canine
+predation on domestic 
+sheep. Wildlife
+Society Bulletin 28:614-622.
+
+Miller, L. A.  1995.  Immunocontraception
+as a tool for controlling reproduction in
+coyotes. Pages 172-176 in D. Rollins, C.
+Richardson, T. Blankenship, K. Canon, and
+S. E. Henke, editors. 
+ Coyotes 
+in 
+the
+sou thwe s t : 
+a 
+compend ium 
+o f 
+ou r
+knowledge. 
+ Texas Parks and Wildlife
+Department, Austin, Texas.
+
+Musiani, M. L. Boitani, C. Callaghan, P .C.
+Paquet, and E. Visalberghi. 2000. Light
+barriers 
+to protect 
+livestock 
+from wolf
+depredation. Carnivores 2000, Defenders of
+Wildlife, Denver, Colorado.
+
+Nass, R. D., and J. Theade.  1988.  Electric
+fences 
+for 
+reducing 
+sheep 
+losses 
+to
+predators.  Journal of Range Management
+41:251-252.
+
+Nicolaus, L. K., J. F. Cassel, B. B. Carlson,
+and C. R. Gustavson. 1983. Taste-aversion
+conditioning of crows to control predation
+on eggs. Science 220:212-214.
+
+Nicolaus, L. K., T. E. Hoffman, and C. R.
+G u s t a v s o n . 
+1 9 8 2 . 
+T a s t e 
+a v e r s i o n
+conditioning 
+in 
+free-ranging 
+raccoons,
+Procyon lotor. Northwest Science 56:165-
+169.
+
+Nicolaus, L. K. and D. Nellis. 1987. The
+first evaluation of the use of conditioned
+taste 
+aversion 
+to 
+control predation by
+mongooses upon eggs. Applied Animal
+Behaviour Science 17:329-334.
+
+Palomares, F. and T. M. Caro. 1999.
+Interspecific killing 
+among mammalian
+
+155
+
+carnivores. American Naturalist 153:492-
+508.
+
+Pitt, W. C., P. W. Box, and F. F. Knowlton.
+2001. A new approach to understanding
+canid populations using an individual-based
+computer model. 
+Endangered 
+Species
+Update. In press. 
+
+Pratt, D. A. 1990. Electric 
+fences 
+for
+predator control. University of California,
+Hopland Field Station Publication 101.
+
+Reiter, D. K., M. W. Brunson, and R. H.
+Schmidt. 1999. Public attitudes 
+towards
+wildlife damage management and policy.
+Wildlife Society Bulletin 27:746-758.
+
+Robel, R. J., A. D. Dayton, F. R. Henderson,
+R. L. Meduna, and C. W. Spaeth.  1981.
+Relationships between husbandry methods
+and 
+sheep 
+losses 
+to 
+canine 
+predators.
+Journal of Wildlife Management 45:894-
+911.
+
+Rollins, D.  1995.  The livestock protection
+collar for removing depredating coyotes: a
+search for perfect justice?  Pages 168-171 in
+D. Rollins, C. Richardson, T. Blankenship,
+K. Canon, and S. Henke, editors. Coyotes in
+the 
+southwest: 
+a 
+compendium 
+of 
+our
+knowledge. 
+ Texas Parks and Wildlife
+Department, Austin, Texas.
+
+Sacks, B. N.  1996.  Ecology and behavior
+of coyotes in relation to depredation and
+control on a California sheep ranch.  M. S.
+Thesis, University of California, Berkeley,
+California.
+
+Schmidt, R. H., B. R. Acord, and D. W.
+Hawthorne. 
+1992. 
+Professionalism 
+in
+wildlife damage management: Issues and
+directions. 
+ Transactions of 
+the North
+
+American Wildlife and Natural Resources
+Conference 57:115-124.
+
+Scrivner, J. H., W. E. Howard, A. H.
+Murphy, and J. R. Hays.  1985.  Sheep
+losses to predators on a California range,
+1973-1983.  Journal of Range Management
+38:418-421.
+
+Semel, B. 
+and L. K. Nicolaus. 1992.
+Estrogen-based aversion 
+to eggs among
+f r e e - r a n g i n g 
+r a c c o o n s . 
+E c o l o g i c a l
+Applications 2:439-449.
+
+Shelton, M.  1984.  The use of conventional
+and 
+electric 
+fencing 
+to 
+reduce 
+coyote
+predation 
+on 
+sheep 
+and 
+goats. Texas
+Agricultural Experiment Station Publication
+No. 1556. 12 pp.
+
+in 
+
+Shelton, M.  1987.  Anti-predator fencing.
+Pages 
+30-37 
+J. 
+S. Green, 
+editor.
+Protecting 
+livestock 
+from coyotes. U.S.
+Department of Agriculture Agricultural
+Research Service, U.S. Sheep Experiment
+Station, Dubois, Idaho. 
+
+Shelton, M., And D. Wade. 1979. Predatory
+losses.- A 
+serious 
+livestock 
+problem.
+Animal Industry Today. January-February
+4-9. 
+
+Slate, D., R. Owens, G. Connolly, and G.
+Simmons. 
+1992. Decision making 
+for
+wildlife management. Transactions of the
+North American Wildlife 
+and Natural
+Resources Conference 57:51-62.
+
+Smith, R. H., D. J. Neff, and N. G. Woolsey.
+1986. Pronghorn response to coyote control-
+a benefit:cost analysis.  Wildlife Society
+Bulletin 14: 226-231.
+
+Stoddart, L. C., F. F. Knowlton, and R. J.
+Taylor. 
+1989. 
+ A 
+first 
+generation
+
+mathematical model for calculating area of
+influence and potential number of animals
+exposed to management programs.  Pages
+28-33 
+in K. A. Fagerstone and R. D.
+Curnow, editors.  Vertebrate Pest Control
+and Management Materials, Volume 6.
+American Society for Testing and Materials
+Special 
+Technical 
+Publication 
+1055,
+Philadelphia, Pennsylvania.
+
+Teer, J. G., D. L. Drawe, T. L. Blankenship,
+W. F. Andelt, R. S. Cook, J. G. Kie, F. F.
+Knowlton, and M. White.  1991.  Deer and
+c o y o t e s : 
+t h e W e l d e r 
+e x p e r ime n t s .
+Transactions 
+of 
+the 
+ North American
+Wildlife Natural. Resources Conference
+56:550-560.
+
+Ternent, M. A. and D. L. Garshelis. 1999.
+Taste-aversion 
+conditioning 
+to 
+reduce
+nuisance 
+activity by black bears 
+in 
+a
+Minnesota military 
+reservation. Wildlife
+Society Bulletin 27:720-728.
+
+Till, J. A., and F. F. Knowlton. 
+ 1983.
+Efficacy of denning in alleviating coyote
+depredations upon domestic sheep.  Journal
+of Wildlife Management 47:1018-1025.
+
+Timm, R. M., and R. H. Schmidt.  1989.
+Management problems encountered with
+livestock guarding dogs on the University of
+California, Hopland Field Station.  Pages
+54-58 
+in Great Plains Wildlife Damage
+Control Workshop.  U.S. Department of
+Agriculture, 
+Forest 
+Service, 
+General
+Technical Report RM- 171.
+
+Wagner, F. H.  1988.  Predator control and
+the 
+sheep 
+industry. 
+ Regina Books,
+Claremont, California.
+
+Werner, S. J., A. El Hani, and J. R. Mason.
+1997.   Repellent coatings for irrigation
+
+156
+
+ 
+

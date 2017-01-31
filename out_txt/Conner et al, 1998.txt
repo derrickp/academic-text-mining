@@ -1,0 +1,1914 @@
+ 
+ 
+EFFECT OF COYOTE REMOVAL ON SHEEP DEPREDATION IN 
+NORTHERN CALIFORNIA 
+
+MARY M. CONNER,,2 Department of Environmental Science, Policy, and Management, 151 Hilgard Hall, University of California 
+at Berkeley, Berkeley, CA 94720, USA 
+MICHAEL M. JAEGER, U.S. Department of Agriculture, Animal and Plant Health Inspection Service, Wildlife Services, National 
+Wildlife Research Center, 151 Hilgard Hall, University of California at Berkeley, Berkeley, CA 94720, USA 
+THEODORE J. WELLER,3 Hopland Research and Extension Center, 4070 University Road, Hopland, CA 95449, USA 
+DALE R. McCULLOUGH, Department of Environmental Science, Policy, and Management, 151 Hilgard Hall, University of 
+California at Berkeley, Berkeley, CA 94720, USA 
+
+Abstract: We used 13 years of historical data to investigate effects of coyote (Canis latrans) removal on 
+depredation of domestic sheep. The 2,168-ha study area maintained >1,000 breeding ewes that produced 
+lambs yearly. Records from 1981 through 1994, which included numbers of sheep, numbers of sheep known 
+killed by coyotes, known numbers of coyotes removed, and annual numbers of trapper hours were summarized 
+and analyzed on a yearly, seasonal, and monthly basis. We used regression analysis and found that annual, 
+seasonal, or monthly depredation losses were not correlated with number of coyotes removed. Both annual 
+number of lambs killed and number of coyotes removed were positively correlated with number of trapper 
+hours. We used a cross-correlation analysis to detect any relation between coyote removal and subsequent 
+depredation losses at all monthly intervals from 0 to 24 months. We found a trend of low negative correlation 
+between depredation losses and number of coyotes removed for lags of 2-12 months, suggesting some reduction 
+of sheep killing due to control efforts. Low correlations within years may be due to inconsistent removal of 
+depredating coyotes while removing primarily young, nondepredating coyotes. Lack of correlation between 
+years may have occurred because past control efforts have not had a lasting reduction on coyote density due 
+to immigration, the compensatory nature of control efforts on coyote mortality, reproductive compensation in 
+the resident coyote population, or all 3 factors. 
+
+JOURNAL OF WILDLIFE MANAGEMENT 62(2):690-699 
+
+Key words: California, Canis latrans, coyote removal, depredation, domestic sheep, Ovis aries. 
+
+Coyote predation on domestic sheep remains 
+a chronic problem in the western United States. 
+A principal control strategy is perennial removal 
+of coyotes 
+from 
+livestock operations 
+(Andelt 
+1996). This local population reduction 
+is selec- 
+tive with respect to the damage site but not nec- 
+essarily selective 
+to particular coyotes 
+that kill 
+sheep 
+(Connolly 1978). Studies have been con- 
+ducted on coyote predation at sheep operations 
+in the presence and absence of removal (Kle- 
+benow and McAdoo 1976, Henne 
+1977, Nass 
+1977, Tigner and Larson 1977, McAdoo and 
+Klebenow 1978). However, variation in annual 
+predation rates between studies and variation in 
+types and 
+intensities of predator control pro- 
+duced inconclusive results (U.S. Department of 
+the Interior 1978, Pearson 1986). Also, because 
+
+1 Present address: Department of Fishery and 
+Wildlife Biology, Colorado State University, Fort Col- 
+lins, CO 80523, USA. 
+
+2 E-mail: mconner@cnr.colostate.edu 
+
+3 Present address: Department of Wildlife Manage- 
+ment, Humboldt State University, Arcata, CA 95521, 
+
+USA. 
+
+of the cost of direct field studies, only a small 
+fraction of the sheep industry has been studied. 
+Of 18 of the large coyote-sheep 
+predation stud- 
+ies compiled by the U.S. Department of the In- 
+terior (1978) for their comprehensive review of 
+in 
+the West, 10 were 
+field 
+predator damage 
+studies and 8 were questionnaire 
+studies. Du- 
+ration of the field studies was short: 1 field study 
+was >5 
+years, while 
+the remaining 7 studies 
+were 
+-3 
+years in duration. Also, the 8 ques- 
+tionnaire studies may be biased by overestimat- 
+ing 
+losses 
+to ensure 
+federal aid for predator 
+control (U.S. Department of the Interior 1978, 
+Pearson 1986), making the effectiveness of con- 
+trol efforts difficult to evaluate. 
+This 
+study was done on 
+the Hopland Re- 
+search and Extension Center (HREC), a sheep 
+ranch in northern California where coyote dep- 
+redation has been chronic (Scrivner et al. 1985, 
+Timm 1990). The HREC offers a unique op- 
+portunity 
+for 
+study of 
+coyote 
+predation 
+on 
+sheep because 
+(1) the dataset on coyote-killed 
+sheep and coyote removals extends over a long 
+period of time (13 yr); (2) daily records of coy- 
+
+690 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+J. Wildl. Manage. 62(2):1998 
+
+COYOTE SHEEP DEPREDATION * Conner et al. 
+
+691 
+
+ote-killed sheep and coyote removals were kept 
+for 13 years, allowing analyses of predation 
+within and between years; (3) sheep were man- 
+aged by university employees, which made re- 
+cords of coyote-killed sheep more accurate and 
+unbiased; and (4) the HREC is similar to many 
+sheep operations in the West, where over half 
+of 
+the 
+feed 
+supplied 
+for commercial 
+sheep 
+comes 
+from private land (U.S. Department of 
+the Interior 1978), typically in pasture grazing. 
+To add to the body of information on effective- 
+ness of coyote control, we focus our analysis on 
+long-term patterns of sheep depredation with 
+respect to coyote removal efforts at 3 different 
+time scales: yearly, seasonally, and monthly. 
+
+STUDY AREA 
+
+The University of California's HREC 
+is a 
+sheep 
+research 
+facility 
+located 
+in Mendocino 
+County, California. Elevations ranged from 150 
+to 915 m. The HREC 
+experienced 
+a typical 
+Mediterranean climate, with hot, dry summers, 
+and mild, rainy winters. Average annual precip- 
+itation was 92 cm; summer rainfall was rare. Av- 
+erage temperatures ranged from 80C in winter 
+to 210C in summer. The vegetation of HREC 
+was a mosaic 
+of 4 habitat 
+types: grassland 
+(27%), woodland-grass 
+(33%), dense woodland 
+(20%), and chaparral (19%; Murphy and Heady 
+1983). Common 
+grassland species were wild 
+oats 
+(Avena barbata), 
+ripgutt 
+(Bromus dian- 
+drus), and 
+foxtail (Festuca megalura). Wood- 
+land-grass patches were dominated by blue oak 
+(Quercus douglasii), valley oak (Q. lobata), and 
+interior live oak (Q. wislizenii); dense woodland 
+was dominated by black oak (Q. kelloggii), ma- 
+drone 
+(Arbutus menziesii), and California bay 
+(Umbellularia californica). Chaparral occurred 
+mainly above 610 m and included chamise (Ad- 
+enostoma fasciculatum), 
+ceanothus 
+(Ceanothus 
+cuneatus), manzanita (Arctostaphylos spp.), and 
+
+scrub oak (Q. durata). 
+
+The HREC maintained 900-1,500 
+ewes dis- 
+persed among 32 fenced pastures averaging 80 
+ha each. Sheep were rotated among pastures 
+according to range quality and research needs. 
+Typically, 8-12 of the pastures contained sheep 
+at any time. Shepherds did not stay with the 
+sheep 
+in 
+the pastures but 
+checked 
+pastures 
+weekly. Between 
+700 and 1,300 
+lambs were 
+born during 2 seasons between mid-November 
+and March. Lambs were born in a main barn 
+
+and held for at least 48 hr prior to placement 
+in pastures. 
+
+Average 
+annual 
+predation 
+rates 
+of 
+ewes 
+(2.0%) and lambs (3.1%) at HREC were similar 
+to those experienced 
+in many operations in the 
+West 
+(U.S. Department 
+of the Interior 1978, 
+Pearson 1986). Coyote density over the entire 
+study period is unknown. However, density es- 
+timates for the 21.68-km2 study area, from pre- 
+and postwhelping during 1994-95, were 0.59 
+coyotes/km2 (95% CI = 0.41-0.95) 
+for coyotes 
+>5 months old, and 0.76 coyotes/km2 (96% CI 
+= 
+0.50-1.41) 
+for coyotes 
+of all ages 
+(Sacks 
+1996). Trapping, snaring, and, more recently, 
+M-44s have been 
+the primary coyote removal 
+methods, but shooting and denning 
+(Till and 
+Knowlton 1983) also have been used. Coyote 
+removal at HREC was similar to other western 
+sheep 
+operations 
+(Gee 
+et al. 1977, U.S. De- 
+partment 
+of 
+the 
+Interior 
+1978), 
+particularly 
+those in northcentral California. The HREC has 
+records of sheep availability, sheep distribution, 
+and dates and locations of predator kills from 
+1981 to 1994. Additionally, U.S. Department of 
+Agriculture, Animal and Plant Health 
+Inspec- 
+tion Service, Wildlife Services program 
+(WS; 
+formally known as Animal Damage Control or 
+ADC) 
+records of coyote removals and annual 
+trapper hours worked on HREC were available 
+for the same period. 
+
+METHODS 
+
+We summarized 13 years of historical data 
+from the HREC from 1981 to 1994 (1986 data 
+were missing). Records were kept on a monthly 
+basis and included number, age classification, 
+and sex of sheep in each pasture, as well as age 
+and sex of all coyote-killed 
+sheep. Coyote kills 
+typically identified by hemorrhaging un- 
+were 
+der the 
+skin at the 
+throat (Wade and Bowns 
+1985). The daily pattern of pasture searching 
+was 
+consistent 
+from 
+year-to-year, 
+although 
+search effort may have been 
+less during 1991- 
+92. Within years, pastures with sheep were vis- 
+ited most days, but pastures with 
+lambs were 
+searched more often. Numbers of coyote-killed 
+sheep did not include the sheep missing in each 
+pasture, because this number was not accurate- 
+ly recorded on a monthly basis. The same shep- 
+herd worked on the station from 1981 to 1994; 
+search effort and recording of missing 
+hence, 
+animals were relatively consistent from year-to- 
+(J. Hays, HREC, 
+communica- 
+year 
+personal 
+tion). Annual records of missing 
+lambs were 
+available for 1977-79 and 1990-94. We exclud- 
+lambs from predation analyses be- 
+
+ed missing 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+692 
+
+COYOTE SHEEP DEPREDATION * Conner et al. 
+
+J. Wildl. Manage. 62(2):1998 
+
+cause missing 
+lambs were 
+only 
+recorded 
+at 
+weaning 
+and sale, 
+there was no relation be- 
+tween annual numbers of missing 
+lambs and 
+number of lambs killed or number of coyotes 
+removed, and causes of missing sheep could not 
+be determined 
+(e.g., whether due 
+to coyote, 
+mountain lion [Felis concolor], black bear [Urus 
+americanus], golden eagle 
+[Aquila chrysaetos], 
+disease, exposure, miscounts, etc.). 
+We also used WS records of date and number 
+of coyotes 'removed and of annual trapper hours 
+from September 
+1981 
+through August 1994. 
+Annual number of coyotes removed by the WS 
+represents a minimum because HREC person- 
+nel, neighbors, and seasonal hunters occasion- 
+ally removed coyotes (typically by shooting), but 
+these 
+efforts were 
+random and 
+independent 
+with 
+to efforts of control personnel. 
+respect 
+Coyote pups were not included in the analyses. 
+Thus, 
+the population of interest was the total 
+number of sheep killed by coyotes and the total 
+number of coyotes removed by WS personnel 
+on HREC. All analyses in this study were done 
+on a sample; that is, known coyote-killed sheep 
+and known coyote removals are a sample of the 
+total number killed and total number removed. 
+losses were represented by the 
+Depredation 
+known number of 
+lambs or ewes killed, and 
+lamb or ewe kill rates. Kill rates were the pro- 
+portion of lambs and ewes killed per month or 
+year, per number of 
+lambs or ewes available. 
+Lambs were present on HREC from November 
+through mid-May, and only the months of this 
+period were used 
+in analyses involving lambs. 
+To avoid confounding patterns of ewe and lamb 
+killing, only months when 
+lambs were absent 
+were 
+used 
+in 
+(May-Oct) 
+analyses 
+involving 
+ewes. Removal of coyotes, which 
+could 
+take 
+place during any month of the year, was re- 
+gressed against only months when 
+lambs were 
+present. The HREC 
+retained relatively small 
+numbers of older 
+lambs as replacements, and 
+these were lambs were counted as ewes, begin- 
+ning in May. 
+We examined annual patterns of predation 
+through relations between 
+the known number 
+and rate of sheep killed, known number of coy- 
+otes removed, 
+total number of trapper hours 
+spent on HREC, and number of missing sheep. 
+We determined 
+effects of coyote 
+removal on 
+depredation losses by regressing annual number 
+of lambs and ewes killed and kill rates against 
+number of coyotes removed, with the null hy- 
+pothesis 
+that depredation 
+losses were not cor- 
+
+related with the number of coyotes removed on 
+a yearly basis. We regressed annual number of 
+lambs and ewes killed and kill rates against an- 
+nual 
+trapper hours 
+to evaluate 
+if control on 
+HREC, 
+at least annually, was preventative or 
+corrective. The null hypothesis was that number 
+of kills or kill rates were not related to trapping 
+effort. We regressed annual number of coyotes 
+removed against annual trapper hours to eval- 
+uate if numbers removed were related to effort 
+and not to changes in coyote population densi- 
+ties. The null hypothesis was that trapping ef- 
+fort was not related to number of coyotes re- 
+moved. Lastly, we regressed annual number of 
+total kills (ewes plus lambs) against annual num- 
+ber of missing 
+to evaluate 
+if missing 
+sheep 
+could be confounding 
+the relation be- 
+sheep 
+tween number of kills and number of coyote 
+removals. The null hypothesis was that number 
+of kills was not related to number of missing 
+sheep. 
+We examined monthly patterns of predation 
+by regressing number of lambs and ewes killed 
+and kill rate against number 
+of coyotes 
+re- 
+moved. The null hypothesis was that depreda- 
+tion losses were not related to the number of 
+coyotes removed on a monthly basis. However, 
+correlations between 
+the number of lambs and 
+ewes killed, or kill rate, and the number of coy- 
+otes removed could occur at intervals different 
+than 1 month or year. For example, removing 3 
+coyotes 
+in 1 month might not decrease 
+the 
+number of lambs and ewes killed until the fol- 
+lowing month, or the following year. Therefore, 
+we 
+used 
+a cross-correlation 
+analysis 
+(Diggle 
+1990) to detect correlations at all monthly in- 
+tervals from 0 to 24 months. Negative correla- 
+tions between 
+coyote depredation 
+losses and 
+number of coyotes removed would suggest that 
+coyote 
+removal was decreasing 
+future depre- 
+dation. Positive correlations may indicate a dis- 
+in existing coyote 
+ruption 
+territories, whereby 
+more coyotes have access 
+to sheep, which re- 
+sults in increased depredation. The null hypoth- 
+esis was that depredation 
+losses were not relat- 
+ed to number of coyotes previously removed for 
+lags of 0-24 months. 
+Seasonal analyses were conducted by parti- 
+tioning 
+time 
+to examine 
+the 
+effects 
+of 
+lamb 
+presence. Because 
+coyote predation on sheep 
+may be related to timing of lamb and sheep use 
+and not related 
+to calendar months, we per- 
+formed an analysis based on seasonal changes 
+in sheep production: 
+lambing I = November, 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+J. Wildl. Manage. 62(2):1998 
+
+COYOTE SHEEP DEPREDATION * Conner et al. 
+
+693 
+
+A 
+
+70 
+60 
+
+Wi50 
+
+r = 0.27 
+P = 0.3 
+
+S40- 
+-40 
+/) 30- - 
+20 - 
+
+m 
+
+S10 
+
+0 
+
+0 
+
+r = 0.29 
+P=0.34 
+
+B 
+
+70 
+60 
+
+50 
+
+30 
+
+20 
+
+10 
+
+w 
+
+' 
+
+I 
+
+I0 
+
+I 
+5 
+10 
+15 
+COYOTES REMOVED 
+
+20 
+
+0 
+
+I 
+5 
+10 
+15 
+COYOTES REMOVED 
+
+20 
+
+C 
+
+D 
+
+r =0.22 
+P=0.4 
+
+0.10 
+
+0.08 
+
+0.06 
+
+S0.04 
+
+<0.02 
+
+--0.02 
+
+0.00 
+
+0 
+
+5 
+10 
+15 
+COYOTES REMOVED 
+
+20 
+
+0.10 
+
+r = 0.29 
+0.08 P = 0.3 
+
+0.06 
+
+0.04 
+
+, 
+
+w 
+
+0.00 
+
+0 
+
+? 
+
+5 
+10 
+15 
+COYOTES REMO(ED 
+
+20 
+
+Fig. 1. 
+(A) Annual number of lambs killed, (B) number of ewes killed, (C) lamb kill rate, and (D) ewe kill rate versus number 
+of coyotes removed from Hopland Research and Extension Center, California, September 1981-August 1994. 
+
+December, and January; lambing 2 = February, 
+March, and April; ewes 
+1 = May, June, and 
+July; and ewes 2 = August, September, and Oc- 
+tober. Both number of kills and number of coy- 
+otes removed were grouped by these 
+seasons. 
+We regressed 
+seasonal number of 
+lambs and 
+ewes killed and kill against number of coyotes 
+removed. Because removal may reduce subse- 
+quent killing, numbers of coyotes removed were 
+regressed at lags of 1-4 
+seasons. The null hy- 
+pothesis was that depredation 
+losses were not 
+related to the number of coyotes removed on a 
+seasonal basis. 
+Statistical analyses of the historical data were 
+post hoc. We used a = 0.05 in all analyses. Pow- 
+er analyses on the correlation coefficients were 
+based on a 1-sided alternative hypothesis 
+(i.e., 
+Ho: p = 0 vs. HI: p < 0). The relations between 
+coyote removal and kill rates cannot be consid- 
+ered causal because of the observational nature 
+of this study. We verified assumptions of nor- 
+
+mality, equal variance, and linearity of residuals 
+for all regression analyses (Ott 1993). 
+
+RESULTS 
+
+Annual lamb and ewe kills and kill rates were 
+not correlated with the number of coyotes re- 
+(P > 0.05; Figs. 1A-D). There was a 
+moved 
+positive correlation between number of lambs 
+killed per year and number of trapper hours 
+worked on HREC per year (r12 = 0.68, P = 
+0.015), but lamb kill rate was not correlated to 
+trapper hours (r12 = 0.50, P = 0.095, 1 - P = 
+0.64). There was also a positive correlation be- 
+tween number of coyotes removed per year and 
+number of trapper hours worked on HREC per 
+year (r12 = 0.75, P = 0.003). Neither number 
+of ewes killed nor ewe kill rate was correlated 
+with number of trapper hours on an annual ba- 
+sis (ewes killed: r12 = 0.20, P = 0.530, 1 - 
+= 
+0.19; kill rate: r12 = 0.14, P = 0.658, 1 - P = 
+0.15). Post hoc power analyses (Zar 1984) 
+in- 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+694 
+
+COYOTE SHEEP DEPREDATION * Conner et al. 
+
+J. Wildl. Manage. 62(2):1998 
+
+, 
+
+- Coyotes removed 
+-- 
+Lambs killed 
+
+killed 
+
+--Ewes 
+
+,' 
+
+2, 
+
+10 
+
+9 
+
+8 
+
+7 
+
+6 
+
+4 
+
+3 
+
+1 
+
+0 
+
+W 
+
+w 
+
+W 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 11 12 
+
+A 
+
+1.8 
+1.8 
+1.6 
+
+S1.4 
+
+Oz 
+
+=0 1.2 
+
+0.8 
+
+0.6 
+
+0.4 
+
+0.82 
+
+0.0 
+
+S 
+
+w 
+
+1.6 
+
+1.4 
+
+1.2 
+
+- - Coyotes removed 
+
+Lamb kill rate 
+-1- 
+-6 Ewe kill rate 
+
+S-.o0.006 
+
+" 
+
+- ' 
+
+,4 
+
+0.010 
+
+0.0081 
+
+) 
+
+W 
+
+-0.002 6c 
+
+0.000 
+
+0.6 
+1.20.004 
+
+z 
+w. 
+
+, 
+
+0.4 
+0.2 
+
+U0.2 
+
+, 
+
+< 
+
+0.0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+7 
+8 
+MONTH 
+
+9 
+
+10 11 12 
+
+Fig. 2. 
+(A) Mean monthly number of coyotes removed, num- 
+ber of lambs and ewes killed and (B) lamb and ewe kill rates 
+on Hopland Research and Extension Center, California, Sep- 
+tember 1981-August 1994. 
+
+dicated an effect size of r = 0.76 was needed 
+to 
+ensure 
+90% power 
+for annual regression 
+analyses. Annual mean number of coyotes re- 
+moved was 10.8 
+(SE = 1.6, n = 13). Annual 
+mean number of missing sheep was 177 (SE = 
+8.9, n = 8), which was an average of 11.8% (SE 
+= 0.5, n = 8) of the HREC flock. Annual num- 
+ber of missing sheep was not correlated with 
+annual number of kills (r7 = 0.55, P = 0.205, 1 
+- p1 = 0.49). 
+Plots of mean monthly sheep kills and coyo- 
+tes 
+removed 
+showed 
+highest 
+lamb kills and 
+lamb kill rates occurred during January through 
+April, while ewe kills and kill rates were highest 
+(Figs. 2A,B). 
+during July through September 
+Coyote removals occurred over the entire year, 
+with peaks in February, April, and September 
+(Figs. 2A,B). Neither monthly number of lambs 
+killed nor 
+lamb kill rate was correlated with 
+number of coyotes removed 
+(lambs killed: r71 
+= 0.19, P = 0.117, 1 - 
+1 = 0.47; kill rate: r71 
+= 0.20, P = 0.093, 1 - 
+13 = 0.51). Similarly, 
+neither monthly number of ewes killed nor ewe 
+
+13 = 
+
+kill rate was correlated with number of coyotes 
+removed 
+(ewes killed: r71 = 0.16, P = 0.196, 1 
+- 13 = 0.48; kill rate r71 = 0.22, P = 0.071, 1 
+- 
+0.56). Post hoc power analyses 
+(Zar 
+1984) indicated an effect size of r = 0.37 was 
+needed 
+to ensure 90% power for monthly re- 
+gression analyses. 
+Monthly effects of coyote removal on num- 
+ber of lambs and ewes subsequently killed and 
+proportion 
+of 
+lambs and 
+ewes 
+subsequently 
+via 
+cross-correlation 
+killed were 
+determined 
+for 
+lags of 0-24 months 
+plots 
+(Figs. 3A-D). 
+Most correlations for lambs were 
+low, nonsig- 
+nificant, and negative. An annual pattern of 
+
+negative correlations for ewe kills and kill rate 
+
+versus number of coyotes removed appeared for 
+lags of 3-11 months. Correlations were all low; 
+97% of all confidence 
+intervals contained zero. 
+However, there were more negative correlations 
+than 
+expected 
+at 
+random 
+for 
+lags of 
+1-12 
+months 
+(P < 
+0.001 
+for all 
+independent 
+vari- 
+ables) and lags of 13-24 months (P < 0.006 for 
+all 
+independent 
+variables). Post 
+hoc 
+power 
+ranged from 0.17 to 0.72 for the cross-correla- 
+tion 
+coefficients. 
+Post hoc power 
+regression 
+analyses (Zar 1984) indicated effect sizes from 
+r = 0.37 for no lag to r = 0.41 for a 24-month 
+lag were needed 
+to ensure 90% power. 
+All of the highest correlations were negative; 
+that 
+is, the numbers of sheep killed and kill 
+rates decreased with increasing numbers of coy- 
+otes removed 
+(Table 1). The 12-month 
+lag of 
+the number of coyotes removed had the highest 
+correlation 
+coefficient 
+for number 
+of 
+lambs 
+killed (Fig. 3A) and lamb kill rate (Fig. 3C). The 
+7-9-, 21-, and 23-month 
+lags of number of coy- 
+otes removed had the highest correlation coef- 
+ficients for number of ewes killed (Fig. 3B) and 
+ewe kill rate (Fig. 3D). 
+Two of the 
+seasonal correlations were bor- 
+derline significant. These were for ewe kills and 
+kill rates during ewes 1, when coyotes were re- 
+moved during 
+lambing 2 
+(ewes killed: r19 = 
+-0.51, 
+P = 0.074; kill rate: r19 = 
+-0.51, 
+P = 
+0.063). 
+
+DISCUSSION 
+
+Temporal Patterns 
+
+On an annual scale, 
+there were 
+significant 
+positive 
+correlations between 
+the number of 
+lambs killed 
+and number 
+of 
+trapper hours 
+worked and number of coyotes 
+removed and 
+number 
+of 
+trapper hours worked. However, 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+J. Wildl. Manage. 62(2):1998 
+
+COYOTE SHEEP DEPREDATION * Conner et al. 
+
+695 
+
+A 
+
+B 
+
+0.30 
+
+0.30 
+
+" 
+
+---?+95%CONFIDENCEBAN 
+... 
+
+- 
+
+* 
+
++95%CONRFIDENCEBAN 
+.. 
+
+0 0.20t- 
+
+I-(cid:127) 
+
+0.20 
+
+wU 
+
+0 
+
+CO0w 
+
+z 
+
+0.00 
+
+..o 
+
+0QO 
+
+-24 -22 -20 - -1-16 
+
+-14 -12-10 
+
+. 
+
+O 
+
+-24 
+
+-21 
+
+-18 
+
+-16- 
+
+-12 
+
+-6 
+
+-3 
+
+0 
+
+. 
+
+-0.10 
+
+-0 
+
+/ 
+
+MONTHO 
+COYOTE REMOVAL 
+LAEMGED crGE 
+MODNs 
+
+MO 
+
+MONTHS COYOTE REMAL LAGGED 
+
+-O -0.20 
+
+-O020 
+
+...... 
+
+- - 
+
+- 
+
+-95% CONFDE 
+C 
+
+BAN 
+
+. . 
+
+. - - 
+
+-95% CONFDENCE BAN "- 
+
+-0.30 
+
+-0.30 
+
+C 
+
+D 
+
+0.30 -0.30 
+
+- 
+
+* 
+
+- 
+
+..+95% 
+
+CONFIDENCE 
+
+BAND.. 
+
+.. 
+
+" 
+
+? 
+
+I 
+
+* 
+
+- 
+
+* 
+
+? 
+
+" 
+
++95% 
+
+CONFIDENCE 
+
+BAND 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+F-0.20-- 
+
+0.20 
+
+z 
+
+z 
+
+L 
+
+0. 10 
+
+Lu . 0.10 
+
+I-- 
+
+L- 
+
+MONTHS 
+
+COY7M 
+
+REMVAL 
+
+LAGGED 
+
+o 
+
+EE 
+
+MONTHSCOYOTEREMOVALMLGGED 
+
+-0.20-- 
+
+0 
+
+-0.20-- 
+
+....... 
+
+. 
+
+.-95%. CONFIDENCE 
+BAN" 
+
+- 
+
+FIDENCE 
+BAND 
+
+1 - 
+
+5.. 
+
+.. 
+
+.. 
+
+C C EcONnFEIEN 
+
+E BANN 
+
+-0.30 
+
+-0.30 
+
+Fig. 3. 
+(A) Plot of correlation and 95% confidence intervals for monthly numbers of lambs killed, (B) numbers of ewes killed, 
+(C) lamb kill rate, and (D) ewe kill rate versus the numbers of coyotes removed monthly for intervals lagged from 0-24 months 
+(previous to analyzed month) on Hopland Research and Extension Center, California, September 1981-August 1994. Correla- 
+tions for lamb kills were done for November-April (lambs and ewes present), while correlations for ewe kills were done May- 
+October (only ewes present). Correlations were significantly different from zero when they cross the 95% confidence band. 
+
+Table 1. Regression statistics for best significant lags between number of coyotes removed per month and number of sheep 
+killed per month, Hopland Research and Extension Center, Califomia, 1981-94. The year 1986 is excluded from analysis, 
+because of missing data. 
+
+Laga 
+(months) 
+
+Sample size 
+(n) 
+
+Slope 
+P-value 
+
+Response variable 
+
+Regression equation 
+
+r 
+
+Lamb kill rate 
+Ewe kill rate 
+No. of lambs killed 
+No. of ewes killed 
+
+-12 
+-9 
+-12 
+-8 
+
+Y = 0.0084 
+- 0.0014x 
+Y = 0.0032 
+- 
+0.0009x 
+Y = 5.90 
+- 0.77x 
+Y = 4.17 
+- 
+0.97x 
+
+66 
+68 
+66 
+69 
+
+0.034 
+0.064 
+0.124 
+0.085 
+
+0.068 
+0.051 
+0.039 
+0.043 
+
+a Lag of 12 months expresses the relation between known number of lambs killed in the present month versus known number of coyotes removed 
+12 months earlier. 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+696 
+
+COYOTE SHEEP DEPREDATION * Conner et al. 
+
+J. Wildl. Manage. 62(2):1998 
+
+there was no relation between number of lambs 
+killed and number of coyotes removed. If only 
+certain coyotes kill sheep, 
+increasing numbers 
+of coyotes removed will have no effect on num- 
+ber of sheep killed unless the problem coyote 
+is removed. Thus, the lack of relation between 
+number of lambs killed and number of coyotes 
+removed may be because most of the coyotes 
+removed were not killing sheep. Superficially, 
+low power appears the culprit in failure to find 
+a relation between 
+sheep killing and coyote re- 
+movals, but 
+low power was an artifact of low 
+effect sizes. 
+Nonlagged monthly patterns of coyote 
+re- 
+moval 
+suggest 
+that coyote 
+control at HREC 
+tended to be more corrective than preventative 
+in that peaks of removals occurred in February 
+and April, when 
+lamb killing was greatest, and 
+in July through September, when ewe killing 
+was greatest (Fig. 1). All response variables for 
+ewe and lamb killing were positively correlated 
+with numbers of coyotes removed on a yearly 
+and monthly basis. Although none of the cor- 
+relations were significant, the consistent pattern 
+of positive correlations was evidence 
+there was 
+a corrective element 
+of coyote removal prac- 
+ticed at HREC. 
+
+Alternatively, 
+increased 
+coyote 
+population 
+densities on HREC could result in high num- 
+bers of kills and coyote removals. Whether high 
+depredation 
+losses and high numbers of coyote 
+removals were positively correlated with high 
+coyote population densities 
+is unknown. How- 
+ever, annual number of coyotes removed was 
+correlated with 
+annual number 
+of 
+positively 
+trapper hours worked at HREC, suggesting that 
+years with higher coyote removals were years 
+with more trapping effort. Also, annual number 
+of 
+lambs killed was positively correlated with 
+annual trapper hours, suggesting 
+that the cor- 
+rective responses focused on number of lambs 
+killed. If number of lambs killed and coyotes 
+removed were not positively correlated to trap- 
+per hours, then fluctuations in coyote density as 
+the 
+cause 
+of higher depredation 
+underlying 
+would be a likely conclusion. Hence, number of 
+removed 
+at HREC 
+likely was deter- 
+coyotes 
+mined by number of lambs killed rather than 
+vice versa. 
+
+Coyote removal during the second 
+lambing 
+season reduced ewe depredation during the fol- 
+lowing 3-month season. Coyote removal may re- 
+duce ewe depredation more than lamb depre- 
+dation because 
+the corrective nature of control 
+
+with respect 
+to 
+lambs 
+leads to a preventative 
+strategy with respect to ewes. However, the ma- 
+jority of negative correlations at all lags suggests 
+some preventative effect of coyote removal for 
+both lambs and ewes. However, preventative ef- 
+fects were 
+low; the highest negative coefficient 
+of determination was 0.08, 
+indicating that only 
+about 8.4% of the variability in kill rates can be 
+explained by the removal of coyotes. Low effect 
+sizes and correlations between kills and number 
+of coyotes 
+removed within years may be ex- 
+plained by the lack of consistency 
+in removing 
+the offending coyotes. 
+There was no indication that removal of coy- 
+otes reduced predation the following year (i.e., 
+intervals >12 months), 
+that 
+lagged 
+suggesting 
+coyote density was not being reduced by re- 
+moval efforts. Thus, 1 year later, territories of 
+removed coyotes were replaced. There are at 
+least 3 explanations for this result. First, immi- 
+gration may be density dependent, 
+thus en- 
+abling coyote densities to remain at or near sat- 
+uration 
+levels 
+(Knowlton and Stoddart 1983). 
+For coyote density to be decreased, 
+there must 
+be 
+isolation 
+from other coyotes 
+geographical 
+within a dispersible distance, or there must be 
+methods 
+available, 
+such 
+as aerial 
+gunning, 
+whereby high numbers of coyotes can be con- 
+sistently removed. The HREC 
+is a relatively 
+small area (2,168 ha). Aerial gunning was not 
+an option, and control efforts could not prevent 
+from adjacent 
+immigration 
+areas, 
+including 
+30,000 ha of land with no coyote control. Sec- 
+ond, control moralities may be only compensa- 
+tory (Gese et al. 1989). Third, coyote reproduc- 
+tive flexibility may make it extremely difficult to 
+reduce 
+coyote 
+density, 
+even within HREC 
+boundaries. Pregnancy rates (Gier 1968), litter 
+size, and pup 
+survival (Knowlton 1972, Gier 
+1975, Connolly 1978, Knowlton and Stoddart 
+1983, Sterling et al. 1983) are inversely corre- 
+lated to coyote population density, which allows 
+a coyote population to maintain itself except at 
+very high 
+levels of control 
+(Clark 1972, Con- 
+nolly and Longhurst 1975). Thus, 
+if lamb and 
+ewe 
+losses were positively correlated with coy- 
+ote population levels, then extremely high levels 
+of coyote removal on HREC and surrounding 
+areas would be required annually to decrease 
+losses. 
+depredation 
+The relation between number of coyotes re- 
+moved and subsequent sheep kills was irregular 
+and highly variable among months. This vari- 
+ability may be due, in part, to factors other than 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+J. Wildl. Manage. 62(2):1998 
+
+COYOTE SHEEP DEPREDATION * Conner et al. 
+
+697 
+
+inconsistent 
+removals of problem coyotes. For 
+example, the effect of trapper-removed coyotes 
+may have been confounded by additional coyote 
+removals 
+by HREC 
+personnel, 
+hunters, 
+or 
+neighboring ranches, but there was no reason 
+to suspect such removals. In general, very few 
+additional coyotes 
+(0-3) were 
+likely removed 
+from the immediate 
+study area each year, and 
+these removals were opportunistic and random 
+in relation to when and where depredation oc- 
+curred. Also, variation among 
+trappers could 
+confound 
+the results. However, only 2 trappers 
+were 
+in charge during 
+the 
+study period; 
+the 
+same trapper worked from 1981 to 1988, and a 
+second trapper worked from 1989 to 1992. We 
+feel trapper effort was a response 
+to depreda- 
+tion and was directed to when and where losses 
+were occurring. If trapper removals were effec- 
+tive, 
+then 
+there 
+should be 
+reduced 
+losses at 
+some monthly 
+lag, irrespective of other occa- 
+sional and temporally scattered removals. 
+
+Factors Influencing Efficacy of Coyote 
+Removal 
+
+Coyote removals on the HREC have had a 
+limited effect on reducing sheep 
+losses, which 
+suggests depredating coyotes were not being re- 
+moved, but our result may not apply to other 
+sheep operations where coyotes are removed. 
+However, a number of factors likely influence 
+the efficacy of coyote removal that is not selec- 
+tive to the offending animal, and these 
+factors 
+vary among situations. First, the vulnerability of 
+offending coyotes to removal may vary between 
+fixed grazing and range operation. Adult, breed- 
+ing territorial coyotes are thought the principal 
+killers of 
+livestock 
+(Till and Knowlton 
+1983, 
+Windberg and Knowlton 1990, Sacks 1996) and 
+may be difficult 
+to 
+remove by conventional 
+means 
+of 
+control 
+(Windberg 
+and Knowlton 
+1988, 1990; Sacks 1996) in areas where animals 
+have prior exposure to capture efforts. The con- 
+trol techniques used on HREC were primarily 
+trapping, and M-44s. Windberg and 
+snaring, 
+Knowlton (1990) 
+found no difference between 
+adults and juveniles 
+in relative vulnerability to 
+M-44s and leghold traps. This finding contrasts 
+to Sacks (1996) who reported that M-44s were 
+effective 
+against juvenile and yearling coyotes 
+but were 
+ineffective against adults. The princi- 
+pal difference between 
+these 
+studies was the 
+long history of control at HREC, where capture 
+efforts had been 
+intensive. The Windberg and 
+Knowlton 
+study was done where prior 
+
+(1990) 
+
+exposure to capture efforts was unlikely. Coyo- 
+tes exposed 
+to control may become wary and 
+harder to remove. This interpretation is consis- 
+tent with the findings of Brand et al. (1995) in 
+southern Africa who 
+found 
+that adult black- 
+backed jackals (Canis mesomelas) avoided coy- 
+ote-getters when 
+exposure duration increased 
+and resulted in high proportions of young jack- 
+als taken. Thus, in areas where coyotes are naive 
+with respect 
+to control efforts, removal of the 
+problem 
+territorial animals may be more suc- 
+cessful. At HREC or other pasture operations 
+with consistent coyote control, typical removal 
+efforts may differentially remove young coyotes 
+and only occasionally remove problem coyotes, 
+resulting in weak negative correlations between 
+total coyotes 
+removed and subsequent 
+sheep 
+kills. 
+Second, there may be seasonal differences 
+in 
+the vulnerability of coyotes 
+to removal. Adult 
+territorial coyotes become more vulnerable 
+to 
+trapping and M-44s during pup rearing season 
+(Till and Knowlton 1983, Sacks 1996). 
+If the 
+peak of lamb killing occurs simultaneously with 
+pup rearing, then removal of problem animals 
+may be more successful than at HREC, where 
+pup rearing begins 2 months after the peak of 
+lambing 
+season 
+and 
+lamb killing. Removing 
+denning coyotes or their pups can stop nearby 
+(Till and Knowlton 1983). In situ- 
+depredation 
+ations such as north-coastal California, where 
+lambing occurs during winter and 
+is out-of- 
+phase with pup rearing, it may be more difficult 
+to remove the territorial animals responsible for 
+most of the killing versus removals in range or 
+pasture 
+operations where 
+pup 
+rearing 
+and 
+lambing coincide. 
+Third, prey availability may buffer depreda- 
+tion (Hamlin et al. 1984, Mech 1988) or curtail 
+the length of high predation rates. Other studies 
+have 
+found 2 peaks in sheep 
+losses 
+to coyote 
+predation similar to those on HREC: 1 in spring 
+during lambing season, and another in late sum- 
+mer and fall (Rosko 1948, Klebenow and Mc- 
+Adoo 1976, Tigner and Larsen 1977, McAdoo 
+and Klebenow 1978). The abundance of food 
+during early summer, in the form of mule deer 
+(Odocoileus hemionus) 
+fawns or small mam- 
+mals, possibly can replace 
+sheep 
+as the pre- 
+ferred coyote prey. Thus, for range or pasture 
+operations, 
+there may be a similarity in tem- 
+poral fluctuations 
+in coyote predation. Timing 
+of removal efforts may vary among operations, 
+but timing removal to occur just prior to know 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+698 
+
+COYOTE SHEEP DEPREDATION * Conner et al. 
+
+J. Wildl. Manage. 62(2):1998 
+
+peaks of predation should be the strategy on all 
+types of operations. 
+
+MANAGEMENT IMPLICATIONS 
+
+Results of the analyses presented here sug- 
+gest 
+the need 
+for more selective 
+targeting of 
+coyotes. 
+Situations 
+similar to 
+the HREC 
+are 
+likely common among sheep grazed on private 
+land and where 
+local population reduction 
+is 
+perennial and nonselective. A method 
+that 
+is 
+selective 
+for sheep-killing 
+coyotes 
+is the 1080 
+Livestock Protection Collar, which is limited in 
+availability by restrictions necessary for its safe 
+use. Denning 
+in dens) and 
+(i.e., killing pups 
+shooting of territorial animals located 
+in areas 
+of high killing may be a practical selective strat- 
+egy. Timing of control should occur just before 
+annual peaks 
+in 
+losses, 
+such as just prior to 
+lambing, otherwise 
+the removal of a problem 
+coyote can result in its replacement before peak 
+killing times. Real effects of coyote removal will 
+not be fully known unless a proper experiment 
+with a treatment 
+(coyote removal) and control 
+site with no coyote removal is examined for ef- 
+fects on predation rates. Monitoring the effect 
+of 
+coyote 
+removals 
+on 
+subsequent 
+livestock 
+depredation 
+is also a necessary component 
+of 
+effective management. 
+
+ACKNOWLEDGMENTS 
+
+We thank S. A. Ardley, V. Bolshov, C. M. Mo- 
+gel, M. S. Murphey, A. Peet, and E. Ruddick 
+for hours spent in the field and behind the com- 
+puter. Also, a special thanks to R. M. Timm and 
+the HREC personnel who made 
+the project 
+possible. W F. Andelt, F. F. Knowlton, J. A. Shi- 
+vik, and G. C. White were most helpful 
+in re- 
+earlier drafts of 
+this manuscript. We 
+viewing 
+also thank Fisher Consultants for all their sup- 
+port. This 
+study was 
+funded 
+primarily by 
+USDA/APHIS/WS/Denver 
+Wildlife Research 
+Center 
+through cooperative agreement 
+12-34- 
+74-0235-CA with 
+the Environmental Science, 
+Policy and Management Department 
+of 
+the 
+University of California at Berkeley. Other sup- 
+port was provided by the University of Califor- 
+nia, Berkeley, from Wildlife Graduate Student 
+Funds. 
+
+LITERATURE CITED 
+
+ANDELT, W. F. 1996. Carnivores. Pages 133-155 
+in 
+P. R. Krausman, editor. Rangeland wildlife. So- 
+ciety for Rangeland Management, Denver, Col- 
+orado, USA. 
+
+BRAND, D. J., N. FAIRALL, AND W. M. ScoTr. 
+1995. 
+The influence of regular removal of black-backed 
+jackals on the efficiency of coyote getters. South 
+African Journal of Wildlife Resources 25:44-48. 
+CLARK, F. W. 1972. 
+Influence of jackrabbit density 
+on coyote population change. Journal of Wildlife 
+Management 36:343-356. 
+CONNOLLY, G. E. 1978. Predator control and coyote 
+populations: a review of simulation models. Pages 
+327-345 
+in M. Bekoff, editor. Coyotes: biology, 
+behavior, and management. Academic Press, New 
+York, New York, USA. 
+
+M. LONGHURST. 1975. 
+
+The 
+
+effects 
+
+-, AND 
+
+W. 
+
+of control on coyote populations: a simulation 
+model. University of California-Davis, Division of 
+Agriculture Bulletin 1872. 
+DIGGLE, P. J. 1990. Time series: a biostatistical in- 
+troduction. 
+Oxford University 
+Press, Oxford, 
+United Kingdom. 
+GEE, C. K., R. S. MAGLEBY, W. R. BAILEY, R. L. 
+GUM, AND L. M. ARTHUR. 1977. 
+Sheep and 
+lamb losses to predators and other causes in the 
+western United States. U.S. Department of Ag- 
+riculture Economic Resource Services Publica- 
+tion 369. 
+GESE, E. M., O. J. RONGSTAD, AND W. R. MYTTON. 
+1989. Population dynamics of coyotes 
+in south- 
+eastern Colorado. Journal of Wildlife Mangement 
+53:174-181. 
+GIER, H. T. 1968. Coyotes 
+in Kansas. Kansas State 
+College Agricultural Experiment Station Bulletin 
+393. 
+. 
+
+1975. Ecology and social behavior of the 
+coyote 
+(Canis latrans). Pages 247-262 
+in M. W. 
+Fox, editor. The wild canids: their systematics, 
+behavior, ecology, and evolution. Van Nostrand 
+Reinhold, New York, New York, USA. 
+HAMLIN, K. L., S. J. RILEY, D. PYRAH, A. R. DOOD, 
+AND R. J. MACKIE. 1984. Relationships among 
+deer fawn mortality, coyotes, and alternative prey 
+species during summer. Journal of Wildlife Man- 
+agement 48:489-499. 
+HENNE, F. R. 1977. Domestic 
+sheep mortality on a 
+western Montana ranch. Pages 133-146 
+in R. L. 
+Phillips and C. Jonkel, editors. Proceedings of the 
+1975 Predator Symposium. Montana Forest and 
+Conservation Experiment Station, School of For- 
+estry, University of Montana, Missoula, Montana, 
+USA. 
+KLEBENOW D. A., AND J. K. MCADOO. 1976. Pre- 
+dation on domestic 
+in northwest Nevada. 
+sheep 
+Journal of Range Management 29:96-100. 
+KNOWLTON, F. F. 1972. Preliminary interpretations 
+of coyote population mechanics with some man- 
+agement 
+implications. Journal of Wildlife Man- 
+agement 36:369-382. 
+
+,, 
+
+AND L. C. STODDART. 1983. 
+
+Coyote 
+
+popu- 
+
+lation mechanics: another look. Pages 93-108 
+in 
+F. L. Bunnell, D. S. Eastman, and J. M. Peek, 
+editors. Natural regulation of wildlife populations. 
+Proceeding 14. Forestry, Wildlife, and Range Ex- 
+periment 
+Station, University of Idaho-Moscow, 
+Moscow, Idaho, USA. 
+McADoo, J. K., AND D. A. KLEBENOW. 1978. Pre- 
+dation on range sheep with no predator control. 
+Journal of Range Management 31:111-114. 
+
+This content downloaded from 136.159.235.223 on Tue, 12 May 2015 16:49:48 UTC
+All use subject to JSTOR Terms and Conditions
+
+

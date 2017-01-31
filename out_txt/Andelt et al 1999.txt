@@ -1,0 +1,1252 @@
+12 
+
+DETERRING COYOTE PREDATION ON SHEEP 
+
+Coyote 
+
+deterred 
+
+predation 
+
+with 
+
+on 
+
+domestic 
+electronic 
+
+sheep 
+
+dog-training 
+
+collar 
+
+William E Andelt, Robert L. Phillips, Kenneth S. Gruver, 
+and Jerry W Guthrie 
+
+Abstract Additional methods are needed to deter predators from killing livestock. We tested the 
+
+effectiveness of an electronic dog-training collar to deter captive coyotes (Canis latrans) 
+from killing domestic 
+lambs by shocking coyotes whenever 
+they attempted to attack 
+lambs during a 22-week period. The collar averted all 13 attempted attacks on lambs 
+by 5 coyotes, 
+greatly reduced 
+the probability of subsequent attempted attacks, and 
+caused coyotes 
+to avoid and retreat from lambs for over 4 months (F=16.28; 1,4 df; 
+P=0.016). We believe 
+this approach to aversive conditioning has potential to reduce 
+coyote predation on domestic sheep in limited areas and may apply to a variety of other 
+problems involving carnivore predation on domestic or endangered species. 
+
+Key words 
+
+aversive 
+conditioning, 
+behavior, Canis 
+livestock predation 
+shock, 
+
+latrans, control, 
+
+coyote, 
+
+damage, electrical 
+
+Predators kill significant numbers of sheep, goats, 
+and calves in the United States despite various types 
+and intensities of predator management used by 
+producers and professional wildlife managers to 
+reduce depredations (National Agricultural Statistics 
+Service 1991, 1995; Andelt 1996). With changing 
+public sentiment about the way wildlife damage is 
+managed and the loss of some lethal control tech- 
+niques, additional methods are needed to manage 
+predation on livestock by carnivores. 
+Gustavson et al. (1974) proposed and tested con- 
+ditioned taste aversion using lithium-chloride-treat- 
+ed baits and carcasses to prevent coyotes 
+(Canis 
+latrans) from killing lambs. The effectiveness of this 
+tactic has been intensively researched (Gustavson et 
+al. 1974, Burns and Connolly 1980, Burns 1983a, 
+Conover and Kessler 1994), and results have been 
+controversial (Burns and Connolly 1985; Forthman 
+Quick et al. 1985a, b; Lehner and Horn 1985). Our 
+
+assessment of the research indicates that coyotes 
+acquired bait aversions but generally did not devel- 
+op an aversion to live prey after feeding on sickness- 
+producing baits and carcasses. Various applications 
+of aversive chemicals 
+to the necks or bodies of 
+sheep have been unsuccessful in establishing aver- 
+sions to live prey in coyotes (Burns 1983b, Burns 
+and Mason 1996). 
+Linhart et al. (1976) used a prototype electronic 
+collar to condition 3 of 4 coyotes 
+to avoid black 
+domestic rabbits while continuing to prey on white 
+rabbits, and thus provided one of the few successful 
+applications of aversive conditioning 
+in coyotes. 
+Electric shock has been used to establish aversions 
+to visual and gustatory stimuli in albino rats (Krane 
+and Wagner 1975). Electronic collars and electronic 
+ear tags also have been used to train cattle to avoid 
+certain portions of pastures, such as riparian areas 
+(Quigley et al. 1990,Tiedemann et al. 1998). Our objec- 
+
+Address for William F. Andelt: 9545 Olsen Court, Wellington, CO 80549, USA. Address for Robert L. Phillips and Kenneth S. Gru- 
+ver: United States Department of Agriculture, Animal and Plant Health Inspection Service, National Wildlife Research Center, 1716 
+Heath Parkway, Fort Collins, CO 80524, USA. Address for Jerry W. Guthrie: United States Department of Agriculture, Animal and 
+Plant Health Inspection Service, National Wildlife Research Center, Utah State University, Logan, UT 84322, USA. 
+
+Wildlife Society Bulletin 1999, 27(1):12-18 
+
+Peer refereed 
+
+Deterring coyote predation on sheep * Andelt et al. 13 
+
+lambs. On 5 May, we moved the 9 coyotes to indi- 
+vidual 4.5-m2 kennels under an elevated observation 
+tower from which we conducted observations of 
+
+in 
+
+a 679-m2, 
+
+trapezoid- 
+
+coyote-lamb 
+
+interactions 
+
+shaped enclosure. We released each of the 9 coyotes 
+into the enclosure with 1 lamb during a 2-hour pre- 
+trial period on 6 or 7 May 1997, to select at least 5 
+coyotes 
+that readily performed 
+lethal attacks on 
+lambs. Four males, but no females, attacked, killed, 
+and partially consumed lambs during the initial peri- 
+od, and the fifth male (5162) exhibited this behavior 
+when 
+it was solely retested on 13 May; we used 
+these 5 males in our electronic collar trials. We pro- 
+vided coyotes water ad 
+libitum and fed them 1 
+unskinned front or hind quarter of a lamb/day for 4 
+days after killing the lamb in the pretrial to enhance 
+experience with sheep as a food source. Thereafter, 
+we fed coyotes approximately 600 g of commercial 
+mink food daily; during electronic collar testing, we 
+fed coyotes after the trials. 
+We restrained coyotes by hand while we attached 
+collars. On 6 and 7 May, we placed non-electronic 
+"dummy" collars (Tri-Tronics, Tucson, Ariz., USA), 
+which were the same size, shape, and weight as the 
+test collar on the 4 coyotes that killed lambs (and on 
+13 May we placed a "dummy" collar on the coyote 
+that killed a lamb on 13 May), to acclimate them to 
+the training collar. On the first day of electronic col- 
+lar testing, we permanently removed the "dummy" 
+collars and clipped 
+the neck hair of coyotes 
+to 
+ensure that electrical contact with 
+the electronic 
+collar would be maintained throughout the study. 
+Coyotes 5348 and 5366 were aggressive and difficult 
+to handle, thus we gave them 0.5-1.5 ml of keta- 
+mine hydrochloride 
+to 
+facilitate 
+attaching 
+and 
+removing the collar 1-24 hours before trials and 
+immediately after trials beginning on 15 and 20 May, 
+respectively. Both coyotes appeared fully recovered 
+from the effects of ketamine hydrochloride before 
+we tested them with lambs. We used 1 Model 100 
+Lite electronic dog-training collar (Tri-Tronics, Tuc- 
+son, Ariz., USA), adjusted to deliver the maximum 
+intensity shock; used the highest power setting on 
+the 
+radiotransmitter, which 
+resulted 
+in 
+325 
+pulses/second 
+of 600-640 
+volts and about 0.032 
+ampere of 
+instantaneous current (D. V'Marie, Tri- 
+Tronics, Tucson, Ariz., USA, personal communica- 
+tion); and removed the collar after each trial. 
+We placed 1 lamb in the test area and a decoy 
+lamb in a 1.0 x 0.75-m cage approximately 1 m out- 
+side the enclosure to attract the test lamb to an eas- 
+ily observed area. We tested each coyote during 2- 
+
+Figure 1. Coyote chasing a domestic 
+Andelt. 
+
+lamb. Photo by William F. 
+
+tives were to determine 
+if an electronic 
+dog-training 
+collar could condition 
+captive coyotes 
+to stop killing 
+domestic 
+lambs and to place 
+the results 
+in the con- 
+text of other attempts 
+at aversive conditioning. 
+
+Methods 
+
+This study was conducted 
+at the National Wildlife 
+Research Center's Predator Research 
+Facility near 
+Logan, Utah. We transported 
+20 Rambouillet 
+lambs 
+to 
+the research 
+site on 30 April 1997. We placed 
+lambs 
+in a pasture with 
+shelter, feed, and water. 
+We attempted 
+to select 
+that had 
+captive 
+coyotes 
+previous 
+experience 
+killing 
+lambs, were 
+similar 
+in 
+age, and were not being used 
+in other studies at the 
+facility. We selected 
+5 male and 4 female 
+coyotes 
+between 
+5 and 9 years old. Male 5037 had previous 
+experience 
+attacking 
+and wounding 
+a 
+lamb; 
+the 
+other coyotes 
+previously were not allowed 
+to attack 
+
+Figure 2. Coyote walking near domestic lamb. Photo by William 
+F. Andelt. 
+
+14 
+
+Wildlife Society Bulletin 
+
+1999,27(1):12-18 
+
+Table 1. Number of attacks (all averted with the electronic shocking collar) on domestic lambs by captive coyotes near Logan, 
+Utah, May-October 1997. 
+
+Datea 
+
+Week 
+
+5348 
+
+13 May 
+14 May 
+15 May 
+20 May 
+21 May 
+3 June 
+4 June 
+24June 
+25June 
+22 July 
+23 July 
+26 August 
+27 August 
+
+8 October 
+9 October 
+
+1 
+1 
+1 
+2 
+2 
+4 
+4 
+7 
+7 
+11 
+11 
+16 
+16 
+
+22 
+22 
+
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+
+0 
+0 
+
+5162 
+
+Not testedb 
+1 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+0 
+
+Coyote 
+
+5037 
+
+3C 
+0 
+Not tested 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+0 
+
+5366 
+
+2 
+1d 
+Not tested 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+
+0 
+0 
+
+5157 
+
+1 
+1 
+Not tested 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+
+0 
+0 
+
+a Trials on 13-15 May were 2 hrs, whereas the other trials were 1 hr. 
+
+b We tested coyotes on 2 consecutive days each week, except coyote 5348, which was tested on 3 consecutive days of the first 
+week because 
+c One attack occurred during the second hr of testing. 
+it may have become fatigued on the first day when we struggled with it while attaching the electronic collar. 
+
+d The attack occurred during the second hr of testing. 
+
+hour periods 
+on 2 consecutive 
+days (except 
+coyote 
+5348, which 
+was 
+tested 
+on 
+3 
+consecutive 
+days 
+because 
+it may have 
+become 
+fatigued when 
+we 
+struggled with 
+it attaching 
+the electronic 
+collar on 
+the first day) during 
+the first week 
+of our trials. We 
+continued 
+each 
+for a 1-hour period 
+testing 
+coyote 
+on each of 2 consecutive 
+days during weeks 
+2,4,7, 
+11, 16, and 22 to determine 
+the duration of the aver- 
+sive conditioning. We attempted 
+to avert all attacks 
+on the 
+lamb during all trials by delivering 
+a 1- to 3- 
+second, 
+continuous 
+or briefly 
+interrupted 
+shock 
+to 
+the coyote 
+each 
+time 
+it actively pursued 
+and was 
+within 5 m (usually within 2 m) of the lamb or when 
+the 
+the 
+lamb 
+from 
+the 
+coyote 
+closely 
+approached 
+rear and attempted 
+to bite 
+it. We considered 
+1 pur- 
+suit to cease and another 
+to begin 
+if the former was 
+interrupted 
+by a shock(s). We defined 
+1 attack as all 
+that occurred within 
+all pur- 
+pursuits 
+30 
+seconds; 
+suits that were part of the same predatory 
+sequence 
+occurred within 
+this interval. We exposed 
+individual 
+lambs to coyotes 
+on 1-3 days of trials and to 1-3 coy- 
+otes on a given day if tested during the first 5 trial days 
+and to all 5 coyotes 
+if tested after the fifth trial day. We 
+used logistic regression with a logit link and a binomi- 
+al distribution (SAS Institute, Inc. 1993) to determine 
+if 
+the probability 
+of an attack by the 5 coyotes 
+during 
+the first hour of testing decreased 
+during the study. 
+
+Results 
+
+Four of 5 coyotes attempted 7 attacks on individ- 
+ual lambs during the first trial on 13 or 14 May 
+(Table 1). The 4 coyotes initially pursued lambs an 
+average of 3.4 minutes (range=0.2-6.2 min) after 
+being introduced into the test area. Coyote 5348 did 
+not attempt an attack. Coyotes 5162 and 5157 
+actively pursued lambs 2 and 4 times, respectively, 
+within 20-second periods (defined as 1 attack each); 
+we shocked both coyotes during each pursuit, and 
+
+Figure 3. Coyote interacting with sheep. Photo by Guy E. Con- 
+nolly. 
+
+Deterring coyote predation on sheep * Andelt et al. 15 
+
+occurred an average of >4 months before the end of 
+the study (Table 1). 
+Coyotes appeared to alter their behavior toward 
+lambs in response to being shocked. During the first 
+day (13 or 14 May) that each coyote attempted an 
+attack, 7 of the attacks consisted of active chases of 
+lambs, whereas 
+1 (the 
+second 
+attack by coyote 
+5366) consisted of a slow frontal approach. During 
+subsequent trials, coyotes slowly approached lambs 
+and attempted to bite or nip the flank area on 3 
+occasions, quickly circled a lamb and attempted to 
+bite the flank on 1 occasion, and ran at a stationary 
+lamb on another occasion. During the first day each 
+coyote attempted an attack, 3 of the attacks consist- 
+ed of 2-4 consecutive chases that were interrupted 
+with shocks; no consecutive chases occurred in subse- 
+quent trials. Before being shocked, coyotes did not 
+tend to avoid lambs, but after being shocked, they 
+often avoided lambs and retreated when a lamb 
+approached; during 2 retreats, coyotes 
+5348 and 
+5037 displayed submissive behaviors. 
+Most shocks that we administered during active 
+pursuits resulted in an immediate interruption of an 
+attack. During slow approaches and flank bites or 
+nips, coyotes quickly backed away from the lambs 
+after being shocked. None of the coyotes contacted 
+lambs immediately after being shocked. 
+
+Discussion 
+
+Coyotes appeared to quickly associate the shocks 
+from 
+the electronic 
+collar with 
+their attempted 
+attacks on lambs. Our training sequence with the 
+collar stopped all attempted attacks, and altered coy- 
+ote behavior toward lambs by decreasing the proba- 
+bility of an attempted attack, eliminating consecu- 
+tive chases, causing switches from active pursuits to 
+sneaking behind lambs and attempting to bite or nip 
+the flank area, and causing avoidance of lambs. This 
+reduction in attacks and the >4-month average dura- 
+tion between the last attempted attack and the end 
+of the study indicate that our approach to aversive 
+conditioning had lasting effects. 
+We believe prey-killing aversion can be most read- 
+ily established by applying response-contingent 
+aversive stimuli during the chase and attack phase of 
+the predatory sequence (Burns and Connolly 1980), 
+as in this study. In contrast, we believe that condi- 
+tioned taste aversion (Gustavson et al. 1978) gener- 
+ally has not led to rejection of live prey under prac- 
+tical field applications (Burns and Connolly 1980, 
+Burns 1983a) 
+because 
+coyotes 
+apparently rely 
+
+Figure 4. Coyote pursuing a lamb and ewe. Photo by Guy E. 
+Connolly. 
+
+both quickly 
+recovered 
+and continued 
+active pur- 
+suits until we administered 
+the 
+last shock. 
+Coyote 
+5366 pursued 
+the 
+lamb, was averted with a shock, 
+the front of the lamb 21 minutes 
+slowly approached 
+later, and again was averted with 
+a shock. 
+Coyote 
+the 
+lamb, was averted with a shock, 
+5037 pursued 
+immediately pursued 
+the lamb, and again was averted. 
+This coyote pursued 
+the lamb 2 and 86 minutes 
+later 
+and each 
+time was averted. 
+We retested 
+the 5 coyotes 
+on 14 or 15 May, 1 day 
+after 
+the 
+first 
+trial (Table 1). Two 
+coyotes 
+(5162, 
+5037) did not pursue 
+lambs. The coyote 
+that 
+(5348) 
+did not attempt 
+to attack a lamb on the previous day 
+a lamb 9.8 minutes 
+after the 
+trial 
+actively pursued 
+began and was averted with a shock. 
+Coyote 
+5157 
+a lamb from the rear and nipped 
+slowly approached 
+at the lamb's flank. Coyote 5366 slowly approached 
+a lamb from 
+the rear and suddenly 
+seized 
+it by the 
+hock 
+before we were 
+aware 
+that 
+it was 
+going 
+to 
+attack. We averted both 
+attacks by an 
+attempted 
+electric 
+shock, and neither 
+lamb was 
+injured by the 
+coyotes. During the first week (on 15 May), we tested 
+coyote 
+5348 a third time and it did not attempt an 
+attack. Only 3 attempted attacks by 3 different coyotes 
+occurred during the remainder of the study, and each 
+was averted by a shock 
+from the training collar. The 
+probability 
+of an attempted 
+attack by the 5 coyotes 
+the first hour of testing decreased 
+during 
+(F=16.28; 
+1,4 df; P=0.016) 
+during the study (Table 1). To min- 
+imize 
+effects 
+of 
+potential 
+confounding 
+increasing 
+size 
+of 
+lambs 
+(5 
+and 4 randomly 
+selected 
+lambs 
+an average of 13.1 kg on 14 May and 32.9 
+weighed 
+kg on 
+24 August 
+1997) 
+on 
+the probability 
+of an 
+attack, we also analyzed 
+the 
+first month 
+attempted 
+of 
+testing 
+separately 
+and 
+found 
+that 
+attacks 
+also 
+decreased 
+that 
+during 
+period 
+(F=18.44; 
+1,4 
+df; 
+P=0.013). 
+The last attempted 
+attack by each coyote 
+
+16 
+
+Wildlife Society Bulletin 1999, 27(1):12-18 
+
+primarily on visual stimuli rather than taste and odor 
+stimuli (Olsen and Lehner 1978, Wells and Lehner 
+1978) when capturing prey, and thus may have dif- 
+ficulty associating a live animal with an aversive bait. 
+Our results and those of Linhart et al. (1976) dif- 
+fer from Burns et al. (1984), who reported coyotes 
+apparently did not learn to avoid sheep after receiv- 
+ing repellent or aversive chemicals in neck collars. 
+We suspect that these results differ because we and 
+Linhart et al. (1976) conditioned most coyotes 2-6 
+times with substantial response-contingent shocks 
+during the pursuit of prey, whereas Burns et al. 
+(1984) conditioned coyotes less frequently, post-inges- 
+tional illness may have been a less severe stimulus, and 
+application of the stimulus often was delayed until 
+after the predatory event. Also, neck collars containing 
+sublethal doses of sodium cyanide or capsicum oleo- 
+resin on sheep or lambs were not effective to control 
+coyote predation because coyotes redirected attacks at 
+the sides and rear of lambs after puncturing a collar 
+(Burns et al. 1984, Burns and Mason 1996). We noted 
+that coyotes 
+redirected their attacks after being 
+shocked, but a major advantage of the electronic col- 
+lar was that it allowed us to avert all attacks. 
+We did not use a control group of coyotes during 
+our study to better establish the duration of aversive 
+conditioning, because of animal care and use con- 
+cerns about allowing coyotes to kill a large number 
+of lambs. To remove the potentially confounding 
+effect of increasing size of lambs, separate control 
+groups of 5 coyotes each would have been needed 
+for testing during each of the 14 (or perhaps sever- 
+al) trials so 
+that treatment and control coyotes 
+would have had similar experience killing lambs. To 
+alleviate some of this concern, we noted that coy- 
+otes 
+significantly decreased 
+the probability of 
+attacks during the first month of testing when lambs 
+did not grow substantially. Additionally, O'Gara et 
+al. (1983) reported that coyotes continued killing 
+lambs as they increased in size, and coyotes also 
+killed adult ewes when lambs were present. 
+In ret- 
+rospect, if lambs become 
+less vulnerable to coyote 
+predation as they increase 
+in size, then our aver- 
+sive conditioning was still successful during the 
+vulnerable period. 
+
+Research and management 
+recommendations 
+
+Electronic training collars likely will have some- 
+what limited applications for resolving conflicts with 
+predators; the effectiveness of these applications 
+
+will need 
+to be 
+confirmed 
+in 
+the 
+field. 
+Primary 
+applications 
+will be where 
+the extent 
+of depreda- 
+tions or the value of the predator or the animals to 
+be protected 
+can justify the costs of equipment, 
+cap- 
+turing the predator, and possibly 
+capturing 
+the ani- 
+mals to be protected. 
+An electronic 
+collar 
+and 
+unit will 
+transmitting 
+need 
+to be 
+developed 
+for practical 
+use 
+in 
+the 
+field. The collar 
+should 
+retain battery 
+for 
+power 
+an extended 
+period 
+of time, and should maintain 
+contact with 
+the predator without 
+causing 
+irrita- 
+tion. The 
+transmitting 
+unit should 
+be versatile 
+so 
+that 
+it can be placed 
+directly 
+on 
+the prey or at a 
+fixed 
+location 
+so it automatically 
+activates 
+the col- 
+lar as the predator 
+approaches. 
+Coupling 
+a fright- 
+stimulus 
+to 
+the 
+event 
+ening 
+auditory 
+shocking 
+may encourage 
+the predator 
+to move 
+away 
+from 
+the 
+unit 
+and may help 
+the 
+animal 
+transmitting 
+learn avoidance. 
+A remote 
+transmitting 
+unit and 
+electronic 
+ear 
+tag have 
+been 
+developed 
+which 
+meet 
+some 
+of the above 
+characteristics 
+(Quigley 
+et al. 1995). 
+Coyotes 
+are territorial, 
+such 
+that a few 
+individu- 
+als have 
+relatively 
+exclusive 
+access 
+to 
+lambs 
+and 
+other prey 
+in those 
+territories. 
+This suggests 
+that 
+research 
+is needed 
+to ascertain 
+if only a few 
+indi- 
+viduals 
+need 
+to be 
+and aver- 
+captured, 
+collared, 
+sively 
+conditioned 
+to 
+protect 
+lambs 
+or 
+endan- 
+such 
+as 
+gered 
+species 
+black-footed 
+ferrets 
+(Mustela 
+nigripes; 
+Biggins 
+et al. 1998) 
+in 
+those 
+territories. 
+Where 
+coyotes 
+kill 
+large prey, adult 
+males 
+might 
+be 
+preferentially 
+conditioned 
+because 
+2-yr-old males 
+(Connolly 
+et al. 1976) 
+and 
+alpha males 
+(Gese 
+and Grothe 
+1995) were more 
+prone 
+to kill larger prey than were younger males, 
+and coyotes 
+of lower 
+social 
+status. 
+females, 
+Coyotes without 
+hunting 
+or prey-killing 
+experi- 
+ence 
+kill sheep 
+et al. 1976). 
+(Connolly 
+However, 
+the role of parental 
+influence 
+and social 
+learning 
+on prey selection may be important 
+in coyotes, as it 
+is in several other 
+species 
+(Bekoff 
+1977, Heyes and 
+Galef 
+1996). 
+Thus, 
+research 
+is needed 
+to deter- 
+mine 
+if pups 
+of conditioned 
+will 
+learn, 
+coyotes 
+through parental 
+facilitation or observational 
+learn- 
+to avoid sheep 
+and endangered 
+ing (Sterner 
+1997), 
+species. 
+If such 
+learning occurs, 
+the aversive condi- 
+tioning might have 
+long-term effects. Research also 
+is needed 
+to ascertain 
+if other predators, 
+such 
+as 
+wolves 
+(Canis 
+lupus) 
+that wander 
+away from rein- 
+troduction 
+sites and kill livestock, black bears (Ursus 
+americanus) 
+that depredate 
+apiaries and livestock, 
+and possibly 
+tigers 
+(Panthera 
+tigris) 
+that prey on 
+
+Deterring coyote predation on sheep * Andelt et al. 17 
+
+humans 
+in southern Asia (McDougal 
+1987, Sanyal 
+1987), might be conditioned 
+to avoid certain prey. 
+
+Acknowledgments. 
+We thank C. Loveland, C.James, 
+J. R. Mason, and P. N. Lehner for providing 
+suggestions 
+on using electronic 
+dog-training collars for modifying 
+coyote behavior;J. R. Mason for providing access to the 
+research facility and use of personnel;J. E. McConnell 
+Jr.,A. E. Barras, and R.J. Burns for assisting with 
+the 
+research; K. P. Burnham and G. C.White for suggestions 
+on statistical analyses; and M.W Fall and S. B. Linhart for 
+providing constructive 
+comments 
+on an earlier draft 
+of this manuscript. This study followed QA534, which 
+was approved by the InstitutionalAnimal Care and Use 
+Committee 
+of the National Wildlife Research Center. 
+
+Literature cited 
+
+ANDELT,W. E 1996. Carnivores. Pages 133-155 
+in P R. Krausman, 
+editor. Rangeland wildlife. The Society for Range Manage- 
+ment, Denver, Colorado. 
+BEKOFF, M. 1977. Socialization in mammals with an emphasis on 
+in S. Chevalier-Skolnikoff and E 
+non-primates. Pages 603-636 
+E. Poirier, editors. Primate bio-social development: biological, 
+social, and ecological determinants. Garland, NewYork, New 
+York. 
+
+BIGGINS, D. E., J. L. GODBEY, L. R. HANEBURY, B. LUCE, P. E. MARINARI, 
+M. R. MATCHETT, AND A. VARGAS. 1998. 
+The 
+effect 
+of rearing 
+
+methods on 
+survival of reintroduced black-footed ferrets. 
+Journal of Wildlife Management 62:643-653. 
+BURNS, R.J. 1983a. Microencapsulated lithium chloride bait aver- 
+sion did not stop coyote predation on sheep. 
+Journal of 
+Wildlife Management 47:1010-1017. 
+BURNS, R.J. 1983b. Coyote predation aversion with lithium chlo- 
+ride: management implications and comments. Wildlife Soci- 
+ety Bulletin 11:128-133. 
+
+BURNS, R.J., AND G. E. CONNOLLY. 1980. 
+
+Lithium chloride 
+
+bait aver- 
+
+sion did not influence prey killing in coyotes. Proceedings 
+Vertebrate Pest Conference 9:200-204. 
+
+BURNS, R.J.,AND G. E. CONNOLLY. 1985. A comment 
+
+trol and taste aversion". Appetite 6:276-281. 
+
+on"coyote 
+
+con- 
+
+BURNS, R.J., G. E. CONNOLLY, AND R. E. GRIFFITHS,JR. 1984. Repellent 
+
+or aversive chemicals in sheep neck collars did not deter coy- 
+ote 
+attacks. 
+Proceedings Vertebrate Pest Conference 
+11:146-153. 
+BURNS, R. J., AND J. R. MASON. 1996. Effectiveness of Vichos non- 
+lethal collars in deterring coyote attacks on sheep. Proceed- 
+ings Vertebrate Pest Conference 17:204-206. 
+
+CONNOLLY, G. E., R. M. TIMM, W. E. HOWARD, AND W. M. LONGHURST. 
+
+1976. Sheep killing behavior of captive coyotes. Journal of 
+Wildlife Management 40:400-407. 
+CONOVER, M. R., AND K. K. KESSLER. 
+1994. Diminished producer par- 
+ticipation in an aversive conditioning program to reduce coyote 
+predation on sheep. Wildlife Society Bulletin 22:229-233. 
+
+FORTHMAN QUICK, D. L., C. R. GUSTAVSON, AND K.W. RUSINIAK. 1985a. 
+
+Coyote control and taste aversion. Appetite 6:253-256. 
+
+FORTHMAN QUICK, D. L., C. R. GUSTAVSON, AND K.W. RUSINIAK. 1985b. 
+
+Coyotes and taste aversion: the authors' reply. Appetite 
+6:284-290. 
+
+GESE, E. M., and S. GROTHE. 1995. Analysis of coyote predation on 
+deer and elk during winter 
+in Yellowstone National Park, 
+Wyoming. American Midland Naturalist 133:36-43. 
+
+GUSTAVSON, C. R., L. P. BRETT,J. GARCIA, AND D.J. KELLY. 1978. A work- 
+
+ing model and experimental solutions to the control of predato- 
+ry behavior. Pages 21-66 in H. Markowitz andV.J. Stevens, editors. 
+Behavior of captive wild animals. Nelson-Hall, Chicago, Illinois. 
+
+GUSTAVSON, C. R.,J. GARCIA,W G. HANKINS, AND K.W. RUSINIAK. 1974. 
+
+Coyote predation control by aversive conditioning. Science 
+184:581-583. 
+
+HEYES, C. M., AND B. G. GALEF,JR., editors. 1996. Social learning 
+
+mals: the roots of culture. Academic, San Diego, California. 
+
+in ani- 
+
+KRANE, R.V., AND A. R. WAGNER. 1975. Taste aversion 
+
+a delayed shock US: implications for the "generality of the laws 
+of learning". Journal of Comparative and Physiological Psy- 
+chology 88:882-889. 
+
+learning with 
+
+LEHNER, P. N., AND S.W. HORN. 1985. 
+
+Research 
+
+on forms of condi- 
+
+tioned avoidance in coyotes. Appetite 6:265-267. 
+
+LINHART, S. B., J. D. ROBERTS, S.A. SHUMAKE, AND R. JOHNSON. 1976. 
+
+Avoidance of prey by captive coyotes punished with electric 
+shock. Proceedings Vertebrate Pest Conference 7:302-306. 
+MCDOUGAL, 
+C. 1987. The man-eating tiger in geographical and his- 
+torical perspective. Pages 435-448 
+in R. L. Tilson and U. S. 
+Seal, editors. Tigers of the world: biology, biopolitics, manage- 
+ment, and conservation of an endangered species. Noyes, Park 
+Ridge, New Jersey. 
+
+NATIONAL AGRICULTURAL 
+STATISTICS SERVICE. 1991. 
+
+predator loss. National Agricultural Statistics Service, Wash- 
+ington, D.C. 
+
+NATIONAL AGRICULTURAL 
+STATISTICS SERVICE. 1995. 
+
+predator loss. National Agricultural Statistics Service, Wash- 
+ington, D.C. 
+
+O'GARA, B.W., K. C. BRAWLEY,J. R. MUNOZ, AND D. R. HENNE. 1983. 
+
+Predation on domestic sheep on a western Montana ranch. 
+Wildlife Society Bulletin 11:253-264. 
+
+and goat 
+
+Sheep 
+
+and goat 
+
+Sheep 
+
+avoidance 
+
+OLSEN, A., AND P. N. LEHNER. 1978. Conditioned 
+
+in coyotes. Journal of Wildlife Management 42:676-679. 
+
+QUIGLEY, T. M., H. R. SANDERSON,A. R.TIEDEMANN, AND M. L. MCINNIS. 
+
+1990. Livestock control with electrical and audio stimulation. 
+Rangelands 12:152-155. 
+
+QUIGLEY,T. M.,A. R.TIEDEMANN, ANDJ.WTHOMAS. 1995. Method and 
+
+apparatus for controlling animals with electronic 
+fencing. 
+Patent number 5,408,956 issued 25 April 1995. United States 
+Patent Office, Washington, D.C. 
+
+of prey 
+
+SAS INSTITUTE, 
+INC. 1993. 
+
+SA? 
+
+technical 
+
+report P-243, SAS/STAT? 
+
+software: the GENMOD procedure, release 6.09. SAS Institute, 
+Cary, North Carolina. 
+SANYAL, P 1987. Managing the man-eaters in the SundarbansTiger 
+Reserve of India-a 
+case study. Pages 427-434 
+in R. L.Tilson 
+and U. S. Seal, editors. Tigers of the world: biology, biopolitics, 
+management, and conservation of an endangered species. 
+Noyes, Park Ridge, New Jersey. 
+STERNER, R. T. 1997. 
+Sheep predation by coyotes: a behavioral 
+analysis. Great Plains Wildlife Damage Control Workshop Pro- 
+ceedings 13:90-100. 
+
+TIEDEMANN, A. R., T M. QUIGLEY, L. D. WHITE, W S. LAURITZEN, 
+J. W 
+
+THOMAS, AND M. L. MCINNIS. 1998. Electronic (fenceless) con- 
+trol of livestock. U.S. Department of Agriculture Forest Ser- 
+vice PNW-RP-510. Pacific Northwest Research Station, Port- 
+land, Oregon. 
+
+WELLS, M. C., AND P N. LEHNER. 1978. The relative 
+
+the distance senses 
+in coyote predatory behaviour. Animal 
+Behaviour 26:251-258. 
+
+importance 
+
+of 
+
+

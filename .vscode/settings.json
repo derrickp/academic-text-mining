@@ -1,3 +1,17 @@
 {
-    "python.linting.pylintPath": "pylint"
+    "python.linting.pylintPath": "./Scripts/pylint.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "./Scripts/python.exe",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "Scripts": true,
+        "tcl": true,
+        "**/__pycache__": true,
+        "Lib": true,
+        "Include": true
+    }
 }
