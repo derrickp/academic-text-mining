@@ -1,48 +1,138 @@
+data\Green, 1981.pdfaccess_permission:can_modify: true
+title: Reducing Coyote Damage To Sheep With Non-Lethal Techniques
+dc:title: Reducing Coyote Damage To Sheep With Non-Lethal Techniques
+X-TIKA:parse_time_millis: 51
+access_permission:assemble_document: true
+dc:creator: Jeffrey S. Green
+pdf:docinfo:custom:Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+access_permission:can_print_degraded: true
+created: Thu Nov 07 18:22:16 PST 2013
+meta:save-date: 2013-11-08T02:22:16Z
+pdf:PDFVersion: 1.6
+access_permission:fill_in_form: true
+pdf:docinfo:modified: 2013-11-08T02:22:16Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2013-11-08T02:22:16Z
+SPDF: 1122.1
+dcterms:modified: 2013-11-08T02:22:16Z
+pdf:docinfo:creator_tool: Appligent APSetDocInfo 2.2.2
+Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+meta:author: Jeffrey S. Green
+Author: Jeffrey S. Green
+access_permission:extract_for_accessibility: true
+Creation-Date: 2013-11-08T02:22:16Z
+pdf:docinfo:creator: Jeffrey S. Green
+meta:creation-date: 2013-11-08T02:22:16Z
+xmpTPg:NPages: 11
+access_permission:extract_content: true
+access_permission:modify_annotations: true
+pdf:docinfo:custom:SPDF: 1122.1
+pdf:docinfo:title: Reducing Coyote Damage To Sheep With Non-Lethal Techniques
+access_permission:can_print: true
+date: 2013-11-08T02:22:16Z
+dc:format: application/pdf; version=1.6
+pdf:docinfo:producer: SPDF
+modified: 2013-11-08T02:22:16Z
+producer: SPDF
+Last-Modified: 2013-11-08T02:22:16Z
+pdf:docinfo:created: 2013-11-08T02:22:16Z
+creator: Jeffrey S. Green
+xmp:CreatorTool: Appligent APSetDocInfo 2.2.2
+Content-Type: application/pdf
+dcterms:created: 2013-11-08T02:22:16Z
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reducing Coyote Damage To Sheep With Non-Lethal Techniques
+
+
 University of Nebraska - Lincoln
-
 DigitalCommons@University of Nebraska - Lincoln
-
 Great Plains Wildlife Damage Control Workshop
-Proceedings
-
-Wildlife Damage Management, Internet Center for
+Proceedings Wildlife Damage Management, Internet Center for
 
 10-15-1981
 
 Reducing Coyote Damage To Sheep With Non-
 Lethal Techniques
-
 Jeffrey S. Green
-
 USDA-ARS, U.S. Sheep Experiment Station, Dubois, Idaho
 
 Follow this and additional works at: http://digitalcommons.unl.edu/gpwdcwp
+Part of the Environmental Health and Protection Commons
 
-Part of the Env ironmental Health and Protection Commons
+This Article is brought to you for free and open access by the Wildlife Damage Management, Internet Center for at DigitalCommons@University of
+Nebraska - Lincoln. It has been accepted for inclusion in Great Plains Wildlife Damage Control Workshop Proceedings by an authorized administrator
+of DigitalCommons@University of Nebraska - Lincoln.
 
 Green, Jeffrey S., "Reducing Coyote Damage To Sheep With Non-Lethal Techniques" (1981). Great Plains Wildlife Damage Control
 Workshop Proceedings. Paper 126.
 http://digitalcommons.unl.edu/gpwdcwp/126
 
-This Article is brought to you for free and open access by the Wildlife Damage Management, Internet Center for at DigitalCommons@University of
+http://digitalcommons.unl.edu?utm_source=digitalcommons.unl.edu%2Fgpwdcwp%2F126&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/gpwdcwp?utm_source=digitalcommons.unl.edu%2Fgpwdcwp%2F126&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/gpwdcwp?utm_source=digitalcommons.unl.edu%2Fgpwdcwp%2F126&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/icwdm?utm_source=digitalcommons.unl.edu%2Fgpwdcwp%2F126&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/gpwdcwp?utm_source=digitalcommons.unl.edu%2Fgpwdcwp%2F126&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://network.bepress.com/hgg/discipline/172?utm_source=digitalcommons.unl.edu%2Fgpwdcwp%2F126&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/gpwdcwp/126?utm_source=digitalcommons.unl.edu%2Fgpwdcwp%2F126&utm_medium=PDF&utm_campaign=PDFCoverPages
 
-Nebraska - Lincoln. It has been accepted for inclusion in Great Plains Wildlife Damage Control Workshop Proceedings by an authorized administrator
 
-of DigitalCommons@University of Nebraska - Lincoln.
+REDUCING COYOTE DflmRGE TO SHEEP WITH NON-LETHflL TECHNIQUES
+JEFFREY S. GREEN, USDfl-ARS, U.S. Sheep Experiment Station, Dubois, Idaho 83423
 
-REDUCING COYOTE DflmRGE TO SHEEP WITH NON-LETHflL TECHNIQUES
-
-JEFFREY S. GREEN, USDfl-ARS, U.S. Sheep Experiment Station, Dubois, Idaho 8 3 4 23
-
-ABSTRACT: 
-Since 1972, when the U.S. Government restricted uses of toxicants
+ABSTRACT: Since 1972, when the U.S. Government restricted uses of toxicants
 for controlling coyotes, a variety of non-lethal techniques has been tested
-for effectiveness in protecting livestock. 
-Some were ineffective, but
+for effectiveness in protecting livestock. Some were ineffective, but
 others helped to reduce the incidence of predation on sheep. In addition to
 sound management practices, electric fencing and livestock guarding dogs
-appear to have the widest applicability for sheep producers. 
-Mechanical
+appear to have the widest applicability for sheep producers. Mechanical
 frightening devices have been successful in some fenced pasture sheep opera-
 tions. As with the lethal methods currently used, non-lethal control does
 not solve all depredation problems. A combination of various control tech-
@@ -53,13 +143,11 @@ INTRODUCTION
 
 Prior to 1972 there was little cause to conduct extensive research to
 develop alternatives to traditional coyote (Cam's latrans) control techniques
-such as trapping and poisoning (Pearson 1981). 
-Animal Damage Control per-
+such as trapping and poisoning (Pearson 1981). Animal Damage Control per-
 sonnel of the U.S. Fish and Wildlife Service (USFWS) primarily used lethal
 control techniques to combat depredation problems (Evans and Pearson 1980),
 and a publication in 1973 describing methods of controlling damage by coyotes
-made no mention of non-lethal techniques (Wade 1973). 
-However, following
+made no mention of non-lethal techniques (Wade 1973). However, following
 Executive Order 11643 (February 1972) restricting the use of poison for
 controlling predators and the withdrawal of predacide registrations by the
 EPA, research funded largely by the Federal Government was intensified to
@@ -69,54 +157,46 @@ ior, and other methods (primarily non-lethal) of reducing depredation
 
 During the past 5 to 8 years, a variety of control techniques has been
 explored, and with few exceptions, they have been either non-lethal in nature
-or if lethal, have focused on eliminating specific depredating animals. 
-Even
+or if lethal, have focused on eliminating specific depredating animals. Even
 though some of the non-lethal techniques appear to be effective in some
 instances, some proponents of lethal control view them as temporary or stop-
 gap efforts until the use of toxicants is reinstated.
 
 This paper describes a variety of non-lethal techniques employed to
-reduce the loss of sheep to coyotes. 
-Some of the techniques are currently
+reduce the loss of sheep to coyotes. Some of the techniques are currently
 being used successfully by sheep producers; others have proven to be ineffec-
-tive; and others are still in the research and development stages. 
-Although
+tive; and others are still in the research and development stages. Although
 the techniques are discussed individually, in most situations a combination
 of several methods is usually required to minimize sheep losses.
 
 MANAGEMENT PRACTICES
 
 It is widely acknowledged that conscientious management of sheep is a
-basic requirement for keeping coyote depredation to a minimum. 
-Sound hus-
+basic requirement for keeping coyote depredation to a minimum. Sound hus-
 bandry practices should be the framework upon which all other control tech-
 niques are applied.
 
 -122-
 
-Meduna (1977) examined the management practices of 110 sheep producers
+
+
+Meduna (1977) examined the management practices of 110 sheep producers
 in southcentral Kansas and found that certain practices significantly reduced
-losses. 
-Some management techniques are applicable only to farm flock opera-
-tions where the sheep are kept near sheds or corrals. 
-Under these conditions
+losses. Some management techniques are applicable only to farm flock opera-
+tions where the sheep are kept near sheds or corrals. Under these conditions
 corralling sheep at night has reduced the loss of sheep to predators for some
 producers (Boggess et al. 1980), however, in Oregon, other practices were
 required in conjunction with night confinement to effectively protect sheep
-(de Calesta 1978). 
-Total confinement raising of sheep and lambs offers pro-
+(de Calesta 1978). Total confinement raising of sheep and lambs offers pro-
 tection from predation, however, economic and other factors determine the
-practicality of this method of sheep production (Nass, In Press). 
-Shed
+practicality of this method of sheep production (Nass, In Press). Shed
 lambing offers more protection to ewes and lambs than lambing in pastures
 and should be employed when economically feasible (Taylor et al. 1979).
 
 Standard woven wire fences that are kept in good repair offer some
 deterrence to coyote movement and prevent livestock from straying (Boggess
-et al. 1980). 
-Other practices that may aid in reducing the number of sheep
-lost to predation include: 
-1) keeping records of when and where predation
+et al. 1980). Other practices that may aid in reducing the number of sheep
+lost to predation include: 1) keeping records of when and where predation
 occurs on an annual basis and deferring grazing in pastures with a history
 of heavy loss or grazing pastures with adult sheep that are less vulnerable
 to predation than lambs, 2) checking sheep daily, 3) removing carrion from
@@ -125,84 +205,67 @@ eliminate young lambs from pastures during periods of high predation (Nass,
 In Press).
 
 Proper management can also be used to reduce the loss of sheep to
-predators on rangeland. 
-(The term rangeland as it is used here denotes a
+predators on rangeland. (The term rangeland as it is used here denotes a
 large number of sheep grazing on unfenced land under the care of a herder.)
 Weak, sick, or injured sheep should be removed from the band since their
 restricted mobility increases the probability that they will be on the
 periphery of the bedground where the likelihood of attack by coyotes is in-
-creased (Gluesing 1977). 
-Areas with toxic plants or extremely rough topog-
+creased (Gluesing 1977). Areas with toxic plants or extremely rough topog-
 raphy should be avoided to lessen the possibility of injuring or weakening
-sheep. 
-Areas with a history of high depredation risk should be avoided if
-possible. 
-Herders that camp out with the sheep and continually remain with
+sheep. Areas with a history of high depredation risk should be avoided if
+possible. Herders that camp out with the sheep and continually remain with
 or near them may have fewer losses to predators than those that visit the
-band for only brief periods during the day. 
-Bedding the sheep in appropriate
+band for only brief periods during the day. Bedding the sheep in appropriate
 areas may also lessen the incidence of predation.
 
 FRIGHTENING DEVICES
 
-Several methods have been used to frighten predators. 
-The success of
+Several methods have been used to frighten predators. The success of
 each is quite variable and may often be of relatively short duration.
 
 In Kansas there were significantly fewer losses of livestock to preda-
-tors in lighted corrals than in unlighted corrals (Meduna 1977). 
-Lights
+tors in lighted corrals than in unlighted corrals (Meduna 1977). Lights
 seemed to repel some coyotes, but they also made it possible to shoot
 specific depredating coyotes at night.
 
 The USFWS has researched a portable battery-operated strobe light that
 is used in combination with a warbling-type siren to frighten coyotes (S.
-Linhart, personal communication). 
-The device operates with a variable
+Linhart, personal communication). The device operates with a variable
 interval timer and is activated at night by means of a photoelectric cell.
 In tests conducted in fenced pastures, predation was reduced by about 89%,
-and flocks were protected for periods ranging from 9 to 103 days. 
-The device
-caused no observable adverse effects on the sheep. 
-The application of this
+and flocks were protected for periods ranging from 9 to 103 days. The device
+caused no observable adverse effects on the sheep. The application of this
 
 -123-
 
-technique may be limited to small pastures, but it may also be effective
+
+
+technique may be limited to small pastures, but it may also be effective
 near the bedgrounds of range bands.
 
 At least one commercially available frightening device, the Electronic
-Shepherd, is being used by some producers. 
-The unit is a portable battery-
-operated 8-track tape player. 
-It is supplied with a tape recording of
+Shepherd, is being used by some producers. The unit is a portable battery-
+operated 8-track tape player. It is supplied with a tape recording of
 barking hounds, and individual users have supplied their own tapes of voices,
-music, or other distracting noise. 
-I contacted 6 people who had from 1 to
+music, or other distracting noise. I contacted 6 people who had from 1 to
 10 devices. Although individual results were variable, all agreed that the
-investment was worthwhile. 
-In most instances, the units were used to pro-
+investment was worthwhile. In most instances, the units were used to pro-
 vide temporary relief from predation, (i.e. during lambing or on bedgrounds),
 and they were used in conjunction with other forms of control (both lethal
 and non-lethal).
 
 Propane and acetylene devices that produce an explosion at various
 intervals have been successful for some producers (Rock 1978, Boggess et al.
-1980). 
-As with other frightening devices, exploders are viewed as a tech-
+1980). As with other frightening devices, exploders are viewed as a tech-
 nique to reduce losses temporarily until more permanent control measures can
 be taken.
 
 Some producers have used a variety of livestock animals to frighten
-predators. 
-Llamas, burros, donkeys, and any other animal that displays
+predators. Llamas, burros, donkeys, and any other animal that displays
 aggressive behavior to intruders reportedly offer some protection from
-predators. 
-(Guarding dogs are discussed in a following section). 
-Formal
+predators. (Guarding dogs are discussed in a following section). Formal
 research with llamas for livestock protection is being conducted in Wyoming
-(M. Botkin, personal communication). 
-Experiences reported by producers
+(M. Botkin, personal communication). Experiences reported by producers
 indicate that the protection offered to sheep by other aggressive livestock
 is unpredictable in nature and generally of temporary effectiveness.
 
@@ -211,63 +274,51 @@ REPELLENTS, ATTRACTANTS, AND AVERSIVE AGENTS
 Studies with olfactory and gustatory aversive compounds that are
 sprayed on sheep to repel coyotes were conducted from 1972 to approximately
 1978 by federal and university researchers (Lehner 1976, Lehner et al. 1976,
-Linhart et al. 1977). 
-Several compounds appeared to temporarily repel
+Linhart et al. 1977). Several compounds appeared to temporarily repel
 coyotes in certain tests; however, in field trials, the loss of lambs in
 untreated control groups did not significantly exceed the loss of lambs in
-groups treated with repellents. 
-At least one coyote repellent is currently
+groups treated with repellents. At least one coyote repellent is currently
 marketed commercially; however, controlled field trials indicated that it
 did not significantly reduce predation on sheep (J. Green, unpublished data).
 
 Although attractants by themselves are not considered a control tech-
 nique, their potential use in conjunction with reproductive inhibitors and
 possibly aversive agents (both discussed later), makes a brief discussion
-of them important. 
-Attractants have been used for decades in conjunction
+of them important. Attractants have been used for decades in conjunction
 with trapping coyotes, and there are likely as many formulations for lures
-as there are trappers who use them. 
-Researchers that started working with
+as there are trappers who use them. Researchers that started working with
 attractants in the mid 1970's are continuing to formulate, standardize, and
-test coyote attractants. 
-The USFWS developed a fermented egg odor that is
+test coyote attractants. The USFWS developed a fermented egg odor that is
 used in annual coyote abundance surveys (Linhart and Knowlton 1975, Linhart
 et al. 1977, Bullard et al. 1978), and it has served as a reference standard
 for testing other attractant compounds (Timm et al. 1977, Turkowski et al.
-1979). 
-Recently federal and university researchers formulated a compound
+1979). Recently federal and university researchers formulated a compound
 that is highly attractant and consistently illicits biting and chewing
 
 -124-
 
-responses from captive coyotes (Fagre et al. 1981, Teranishi 1981). 
-Pre-
+
+
+responses from captive coyotes (Fagre et al. 1981, Teranishi 1981). Pre-
 liminary field tests of the compound are promising, and it is also being used
 in conjunction with a pouch capable of delivering specific liquid substances
-to coyotes (McKenna et al. 1981). 
-Attractant research has both lethal and
+to coyotes (McKenna et al. 1981). Attractant research has both lethal and
 non-lethal applications, and it should provide a more selective avenue of
 control.
 
 The use of lithium chloride in aversive conditioning of coyotes was
-researched during the past decade. 
-The objective of this technique was to
+researched during the past decade. The objective of this technique was to
 feed a coyote a prey-like bait that would cause it to become ill, resulting
-in the coyote subsequently avoiding the prey. 
-Laboratory and field research
+in the coyote subsequently avoiding the prey. Laboratory and field research
 with aversive conditioning has produced inconclusive results (Conover et al.
 1979), and there are several significant problems to overcome before aversive
 conditioning can be viewed as a viable method of depredation control (Griffiths
-et al. 1978). 
-Coyotes must be induced to eat sheep-like baits that have been
-treated with an aversive chemical. 
-The chemical must cause sufficient dis-
+et al. 1978). Coyotes must be induced to eat sheep-like baits that have been
+treated with an aversive chemical. The chemical must cause sufficient dis-
 comfort to cause coyotes to avoid other baits, and further, the avoidance
-must be transferred to live sheep. 
-Finally, the avoidance must persist long
+must be transferred to live sheep. Finally, the avoidance must persist long
 enough without reinforcement for the method to offer realistic protection to
-sheep. 
-Further research is needed to determine if enough coyotes can be
+sheep. Further research is needed to determine if enough coyotes can be
 sufficiently conditioned to avoid killing sheep before aversive conditioning
 can be considered an effective tool for controlling predation (Burns 1980,
 Burns In Press).
@@ -277,17 +328,14 @@ REPRODUCTIVE INHIBITORS
 Although coyote reproductive inhibitors are not expected to be ready for
 field use in the near future, researchers are continuing to seek suitable
 compounds and appropriate methods of administering them to coyotes under
-field conditions (Linhart et al. 1968, Stellflug et al. 1978). 
-Antifertility
+field conditions (Linhart et al. 1968, Stellflug et al. 1978). Antifertility
 compounds have been traditionally viewed as a means of reducing the numbers
-of coyotes in a given area (Balser 1964). 
-In light of evidence from current
+of coyotes in a given area (Balser 1964). In light of evidence from current
 studies of coyote behavioral biology, however, there may also be other reasons
 for using chemosterilants (F. Knowlton, personal communication). If an adult
 pair of coyotes fail to produce a litter, their tendency to prey upon live-
 stock may be decreased because there is no demand to supply food for growing
-pups. 
-Since not all coyotes prey upon livestock, it has been theorized that
+pups. Since not all coyotes prey upon livestock, it has been theorized that
 it may be more advantageous to render a resident pair of coyotes infertile
 and allow them to continue to occupy a territory, than to remove them and
 open the territory for other coyotes that may kill livestock (F. Knowlton,
@@ -295,8 +343,7 @@ personal communication).
 
 A significant obstacle to inhibitor research is finding a compound that
 meets specific requirements of efficacy, host specificity, and registration
-(Stellflug et al. 1978). 
-The successful field application of antifertility
+(Stellflug et al. 1978). The successful field application of antifertility
 compounds must be correlated with the development of effective coyote attrac-
 tants (discussed previously) and bait delivery systems (currently being
 studied by the USFWS).
@@ -305,47 +352,38 @@ FENCING
 
 Most coyotes readily cross over, under, or through conventional live-
 stock fences and even fences that have been fortified against them (Thompson
-1978). 
-Several types of fences have recently been designed that are rela-
-tively coyote-proof. 
-Different barrier fence configurations were tested for
+1978). Several types of fences have recently been designed that are rela-
+tively coyote-proof. Different barrier fence configurations were tested for
 
 -125-
 
-their ability to repel coyotes (Thompson 1979), and the best configuration
+
+
+their ability to repel coyotes (Thompson 1979), and the best configuration
 was successful in field tests in Oregon (de Calesta and Cropsey 1978).
 
 An electric fence was designed at the U.S. Sheep Experiment Station
 that consisted of 12 alternating grounded and charged wires to a height of
-1.5 m (Gates et al. 1978). 
-The fence effectively protected lambs from
-coyotes in two trials. 
-Since that design was tested, other configurations
+1.5 m (Gates et al. 1978). The fence effectively protected lambs from
+coyotes in two trials. Since that design was tested, other configurations
 of electric fences have been studied and found to be effective (Linhart
-et al., In Press). 
-Not only fences of new construction, but also those
+et al., In Press). Not only fences of new construction, but also those
 modified by the addition of one or more charged wires have been utilized
-(Linhart et al., In Press). 
-A trip wire, 10 to 15 cm off the ground and
+(Linhart et al., In Press). A trip wire, 10 to 15 cm off the ground and
 approximately 20 cm outside the fence, is often effective in preventing coy-
-otes from crawling under. 
-A second charged wire is usually offset at the top
+otes from crawling under. A second charged wire is usually offset at the top
 of the fence to prevent coyotes from jumping or climbing over, and additional
-charged wires can be added between the top and bottom as necessary. 
-A total
+charged wires can be added between the top and bottom as necessary. A total
 of 4 charged wires added to existing fencing effectively protected sheep in
 Kansas (Linhart et al., In Press).
 
 Thirty-six individual producers who were using electric fencing were
-contacted in a recent survey by the USFWS (Linhart et a l ., In Press). 
-About
+contacted in a recent survey by the USFWS (Linhart et al., In Press). About
 50% of the producers had installed electric fencing to solve depredation
 problems, and the remainder installed the fencing as a preventative measure.
 Most of the respondents also used other forms of control in conjunction with
-electric fencing. 
-Not all of the fences were properly constructed or main-
-tained, therefore, effectiveness was variable among the fences in use. 
-The
+electric fencing. Not all of the fences were properly constructed or main-
+tained, therefore, effectiveness was variable among the fences in use. The
 combined data from 14 producers who provided adequate information indicated
 that electric fencing had resulted in a total reduction of losses due to
 coyotes of 94%. Sixty-eight percent of the respondents rated their fences
@@ -353,8 +391,7 @@ as very effective and 32% as fairly effective for protecting their stock.
 
 Because of added expense and increased maintenance requirements, electric
 and barrier fencing is best suited to farm flock operations where the degree
-of predation and other factors make it economically feasible. 
-Most electric
+of predation and other factors make it economically feasible. Most electric
 fences require continued maintenance to keep them operational and must be
 properly constructed to be effectively functional.
 
@@ -363,13 +400,11 @@ LIVESTOCK GUARDING DOGS
 Although guarding dogs have long been used to protect livestock in
 Europe (Coppinger and Coppinger 1980a), they have been used for flock protec-
 tion in this country only since the mid to late 1970's (Linhart et al. 1979,
-Green and Woodruff 1980). 
-Livestock guarding dogs appear to be an economi-
+Green and Woodruff 1980). Livestock guarding dogs appear to be an economi-
 cally sound form of control (total first year costs may average $900 and
 subsequent yearly costs may average $300) (Green et al. 1980), and in one
 report, the majority of producers contacted who used dogs for flock protection
-were pleased with the results (Green and Woodruff 1980). 
-With the exception
+were pleased with the results (Green and Woodruff 1980). With the exception
 of the Navajo Indians who use mongrel dogs (A. Black, personal communication),
 all of the guarding breeds are of Eurasian origin (Coppinger and Coppinger
 1980b).
@@ -377,129 +412,103 @@ all of the guarding breeds are of Eurasian origin (Coppinger and Coppinger
 Dog research in the United States is conducted primarily at two locations,
 Hampshire College's New England Farm Center (NEFC) in Amherst, Massachusetts
 and the U.S. Sheep Experiment Station (USSES), USDA Agricultural Research
-Service in Dubois, Idaho. 
-Research with livestock guarding dogs began at the
-USSES in the fall of 1977. Over 50 dogs have been studied to date. 
-Most of
+Service in Dubois, Idaho. Research with livestock guarding dogs began at the
+USSES in the fall of 1977. Over 50 dogs have been studied to date. Most of
 
 -126-
 
-them have been reared and observed at the USSES, and over 25 have also been
-placed with cooperating sheep producers in various western states. 
-Of the
+
+
+them have been reared and observed at the USSES, and over 25 have also been
+placed with cooperating sheep producers in various western states. Of the
 total number of dogs studied, approximately 60% were rated as good to excel-
 lent with respect to performance in remaining with sheep and significantly
-reducing predation. 
-Only one of the total of dogs studied has been con-
-sidered a complete failure. 
-The success rate of the dogs acquired in the
+reducing predation. Only one of the total of dogs studied has been con-
+sidered a complete failure. The success rate of the dogs acquired in the
 last 2 years of the study is greater: over 75% of these dogs were rated good
-to excellent. 
-The increased success is due to improved dog rearing techniques
+to excellent. The increased success is due to improved dog rearing techniques
 and the placement of dogs into operations suited to their temperament and
 abilities.
 
 Researchers at the NEFC have placed several hundred guarding dogs with
-sheep producers across the country. 
-The majority of those producers who
+sheep producers across the country. The majority of those producers who
 responded to a questionnaire felt that their dog was helping to keep predators
-away from their sheep. 
-Since many of the dogs are young and have been work-
+away from their sheep. Since many of the dogs are young and have been work-
 ing a relatively short time, future surveys will be important in determining
 the overall effectiveness of the dogs (R. Coppinger, personal communication).
 
 Guarding dogs have primarily been used in farm pasture conditions (Green
-and Woodruff 1 9 8 0 ), but a growing number of producers are using guarding dogs
-with range sheep (J. Green, unpublished data). 
-Dogs are currently in use in
+and Woodruff 1980), but a growing number of producers are using guarding dogs
+with range sheep (J. Green, unpublished data). Dogs are currently in use in
 the majority of states where significant numbers of sheep and goats are
 raised, with concentrations in Colorado, North and South Dakota, Oregon,
 Texas, and the New England states.
 
 Although no special skills or equipment are generally needed to rear a
 successful dog, it is important to socialize a young pup (7-8 weeks of age)
-to sheep (Green and Woodruff, In Press). 
-The objective of the socialization
+to sheep (Green and Woodruff, In Press). The objective of the socialization
 is to emphasize the dog-sheep relationship and minimize the dog-human rela-
-tionship. 
-A primary problem of using livestock guarding dogs is keeping the
-dog with sheep. 
-The early socialization process appears to help reduce the
-frequency of occurrence of this problem. 
-It is equally important to allow a
+tionship. A primary problem of using livestock guarding dogs is keeping the
+dog with sheep. The early socialization process appears to help reduce the
+frequency of occurrence of this problem. It is equally important to allow a
 period of several weeks or longer for the sheep to become accustomed to the
 dog.
 
 A successful livestock guarding dog possesses several key characteris-
-tics: 
-(1) it remains with or near the sheep continually (or at least during
-times when the potential for predation is h i g h ), (2) it does not harm, chase,
+tics: (1) it remains with or near the sheep continually (or at least during
+times when the potential for predation is high), (2) it does not harm, chase,
 or harass the sheep, and (3) it is appropriately aggressive to potential
 predators (Coppinger and Coppinger 1980b).
 
-Guarding dogs are different than herding dogs. 
-Herding dogs are used
+Guarding dogs are different than herding dogs. Herding dogs are used
 to move sheep from one area to another, and they do so by biting, chasing, or
-barking at the sheep. 
-Herding dogs are responsive and work according to
+barking at the sheep. Herding dogs are responsive and work according to
 signals (verbal and hand) given by a handler, and they are generally not left
-alone with the sheep. 
-Guarding dogs are aloof and usually do not herd sheep;
+alone with the sheep. Guarding dogs are aloof and usually do not herd sheep;
 are discouraged from biting, chasing, and barking at sheep; and act inde-
 pendently of people.
 
 There is no consensus of which breed of dog is the best livestock
-guardian. 
-However, certain breeds appear better suited for some working
+guardian. However, certain breeds appear better suited for some working
 conditions than others. At the USSES we have worked with the Komondor,
-Great Pyrenees, Akbash Dog, and Shar Planinetz breeds. 
-Only a few individ-
-uals of the latter 2 breeds have been observed. 
-Based on the data
+Great Pyrenees, Akbash Dog, and Shar Planinetz breeds. Only a few individ-
+uals of the latter 2 breeds have been observed. Based on the data
 
 -127-
 
-available from our Komondorok and Great Pyrenees, the Pyrenees appears to be
+
+
+available from our Komondorok and Great Pyrenees, the Pyrenees appears to be
 better suited for working with rangeland flocks of sheep than the Komondor.
 Pyrenees are not as playful with sheep and are generally less rambunctious
-at a young age than Komondorok. 
-Pyrenees often display the appropriate calm
+at a young age than Komondorok. Pyrenees often display the appropriate calm
 behavior and temperament for working on open range by 6 to 10 months of age,
 while the Komondorok we have observed may take up to 18 to 24 months to reach
-a comparable level of calmness. 
-Pyrenees do not appear to bond as strongly
+a comparable level of calmness. Pyrenees do not appear to bond as strongly
 to a single master as Komondorok and are thus less apt to guard the shepherd
-rather than the sheep. 
-Pyrenees are generally more adaptable to new people
+rather than the sheep. Pyrenees are generally more adaptable to new people
 and terrain than Komondorok and consequently work well with sheep that are
 continually moving into new territory.
 
-The Komondor appears well suited to pasture work. 
-They have less of a
+The Komondor appears well suited to pasture work. They have less of a
 tendency to roam than the Pyrenees, and where neighbors or busy roads are a
-threat to dogs, this trait can be advantageous. 
-Our Komondorok appear to be
+threat to dogs, this trait can be advantageous. Our Komondorok appear to be
 more aloof of human intruders than our Great Pyrenees, and this trait is
-desirable in many situations. 
-However, many of our Great Pyrenees also have
+desirable in many situations. However, many of our Great Pyrenees also have
 worked well in fenced pasture conditions.
 
 Dogs do not offer immediate relief from predation since mature and
-effective guardians are not available to most producers. 
-Time, effort, and
+effective guardians are not available to most producers. Time, effort, and
 good fortune are required to bring a puppy to maturity, and there is no
 guarantee that any dog, regardless of its breeding, will be a successful
-guardian when it matures. 
-Nevertheless, the percentage of successful dogs
+guardian when it matures. Nevertheless, the percentage of successful dogs
 is high, and some dogs may begin to offer protection by the time they are 6
 to 8 months of age.
 
 As with any other method (lethal or non-lethal) of controlling predators,
-guarding dogs are not effective in all situations. 
-But unlike many mechanical
+guarding dogs are not effective in all situations. But unlike many mechanical
 methods of control, experienced dogs can adapt to the changing predatory
-habits of coyotes and can do so without human intervention. 
-It appears that
+habits of coyotes and can do so without human intervention. It appears that
 livestock guarding dogs are a feasible method of control with widespread
 application, and they can be viewed as a continual form of livestock protec-
 tion to be supplemented with other control measures as necessary.
@@ -508,49 +517,42 @@ CONCLUSION
 
 Some forms of non-lethal control have proven to be ineffective for pro-
 tecting sheep (repellents), and others have produced inconclusive results
-(aversive conditioning). 
-Other methods are currently being studied (anti-
+(aversive conditioning). Other methods are currently being studied (anti-
 fertility agents) and may be useful in solving some depredation problems. A
 few methods have significantly reduced losses for some producers (electric
 and barrier fences, some frightening devices, guarding dogs, and certain
-management practices). 
-Most producers who successfully minimize livestock
+management practices). Most producers who successfully minimize livestock
 losses to predators use an integrated approach with a combination of sheep
 management techniques and lethal and non-lethal control methods.
 
 The responses from 103 sheep producers to a questionnaire regarding
-various forms of predator control were reported by Newbold (1980). 
-The
+various forms of predator control were reported by Newbold (1980). The
 producers were asked to rate the effectiveness of non-lethal methods of
 control in reducing livestock losses to predators, and they responded as
-follows: 
-12% reported poor results, 30% fair, 30% good, and 21% excellent.
+follows: 12% reported poor results, 30% fair, 30% good, and 21% excellent.
 Producers with large numbers of sheep found non-lethal methods less effective
 than was found by producers with fewer sheep and 21% reported poor results,
 46% fair, 21% good, and 8% excellent.
 
 -128-
 
-Biologists, livestock producers, and other knowledgeable people are well
+
+
+Biologists, livestock producers, and other knowledgeable people are well
 aware that the adaptability of the coyote necessitates a wide variety of con-
-trol measures. 
-No single method can be expected to solve all depredation
-problems. 
-Although at this writing, the present administration had not
+trol measures. No single method can be expected to solve all depredation
+problems. Although at this writing, the present administration had not
 announced its policy regarding predator control, there is hope by some that
-restrictions on toxicants and other lethal methods will be relaxed. 
-Whether
+restrictions on toxicants and other lethal methods will be relaxed. Whether
 or not this hope is realized, an array of techniques, both lethal and non-
 lethal, will likely continue to be the most effective approach to controlling
 predation.
 
 Sheep numbers in the United States have increased during the past 2
 years, and future expansion of the industry is expected to be greatest in
-small farm flock operations. 
-Many of these operations will be in urbanized
+small farm flock operations. Many of these operations will be in urbanized
 areas where the legal use of toxicants and other lethal techniques may never
-be possible. 
-In light of this and the fact that anti-trap legislation is
+be possible. In light of this and the fact that anti-trap legislation is
 pending in 33 states (S. Linhart, personal communication), there is a con-
 tinuing need for research and development of effective non-lethal techniques,
 and in some locations and situations, they may be used exclusively and
@@ -558,177 +560,170 @@ effectively to protect livestock.
 
 LITERATURE CITED
 
-BALSER, D.S. 
-agents. 
+BALSER, D.S. 1964. Management of predator populations with antifertility
+agents. J. Wild!. Manage. 28(2):352-358.
 
-1964. Management of predator populations with antifertility
-J. Wild!. Manage. 28(2):352-358.
-
-BOGGESS, E.K., F.R. HENDERSON, and C.W. SPAETH. 
-1980. Managing predator
-problems: 
-practices and procedures for preventing and reducing live-
-stock losses. 
-Coop. Exten. Serv., Kansas St. Univ., Manhattan. 
-19 pp.
+BOGGESS, E.K., F.R. HENDERSON, and C.W. SPAETH. 1980. Managing predator
+problems: practices and procedures for preventing and reducing live-
+stock losses. Coop. Exten. Serv., Kansas St. Univ., Manhattan. 19 pp.
 
 BULLARD, R.W., S.A. SHUMAKE, D.L. CAMPBELL, F.J. TURKOWSKI, and S.R. KILBURN.
-1978. 
-Preparation and evaluation of a synthetic egg coyote attractant
-and deer repellent. 
-J. Agric. Food Chem. 26(1) :160-163.
+1978. Preparation and evaluation of a synthetic egg coyote attractant
+and deer repellent. J. Agric. Food Chem. 26(1) :160-163.
 
-BURNS, R.J. 
-1980. 
-Evaluation of conditioned predation aversion for con-
-trolling coyote predation. 
-J. Wildl. Manage. 44(4):938-942.
+BURNS, R.J. 1980. Evaluation of conditioned predation aversion for con-
+trolling coyote predation. J. Wildl. Manage. 44(4):938-942.
 
-BURNS, R.J. 
-In Press. 
-Predation aversion with lithium chloride - management
-implications and comments. 
-Proc. symp. situation management of two
-intermountain species: 
-aspen and coyotes. 
-Utah State Univ., Logan,
-Utah. 
-23-24 April 1981.
+BURNS, R.J. In Press. Predation aversion with lithium chloride - management
+implications and comments. Proc. symp. situation management of two
+intermountain species: aspen and coyotes. Utah State Univ., Logan,
+Utah. 23-24 April 1981.
 
-CONOVER, M.R., J.G. FRANCIK, and D.E. MILLER. 
-1979. Aversive conditioning
-in coyotes; a reply. 
-J. Wildl. Manage. 43(1):209-211.
+CONOVER, M.R., J.G. FRANCIK, and D.E. MILLER. 1979. Aversive conditioning
+in coyotes; a reply. J. Wildl. Manage. 43(1):209-211.
 
-COPPINGER, L. and R. COPPINGER. 
+COPPINGER, L. and R. COPPINGER. 1980a. So firm a friendship. Nat. History
 89:12-26.
 
-1980a. 
+COPPINGER, R. and L. COPPINGER. 1980b. Livestock guarding dogs, an old
+world solution to an age-old problem. Country Journal 7(4):68-77.
 
-So firm a friendship. 
+de CALESTA, D.S. 1978. Documentation of livestock losses to predators in
+Oregon. Oregon State Univ. Ext. Ser. Spec. Rep. 501. 20 pp.
 
-Nat. History
-
-COPPINGER, R. and L. COPPINGER. 
-1980b. 
-Livestock guarding dogs, an old
-world solution to an age-old problem. 
-Country Journal 7(4):68-77.
-
-de CALESTA, D.S. 
-1978. 
-Documentation of livestock losses to predators in
-Oregon. 
-Oregon State Univ. Ext. Ser. Spec. Rep. 501. 
-20 pp.
-
-de CALESTA, D.S. and M.G. CROPSEY. 
-1978. 
-Field test of a coyote-proof
-fence. 
-Wildl. Soc. Bull. 6(4):256-259.
+de CALESTA, D.S. and M.G. CROPSEY. 1978. Field test of a coyote-proof
+fence. Wildl. Soc. Bull. 6(4):256-259.
 
 -129-
 
-EVANS, G.D. and E.W. PEARSON. 
-1980. 
-Federal coyote control methods used in
+
+
+EVANS, G.D. and E.W. PEARSON. 1980. Federal coyote control methods used in
 the western United States, 1971-77. Wildl. Soc. Bull. 8(l):34-39.
 
-FAGRE, D.B., D.A. BARNUM, A.C. FAGRE, and W.E. HOWARD. 
-1981. 
-Development
-of coyote attractants: 
-1980-1981 progress report. Annual Meeting
+FAGRE, D.B., D.A. BARNUM, A.C. FAGRE, and W.E. HOWARD. 1981. Development
+of coyote attractants: 1980-1981 progress report. Annual Meeting
 WRCC-26, Twin Falls, Idaho. August 11-12. Abstract.
 
-GATES, N.L., J.E. RICH, D.D. GODTEL, and C.V. HULET. 
-1978. Development and
-evaluation of anti-coyote electric fencing. 
-J. Range Manage. 31(2):
+GATES, N.L., J.E. RICH, D.D. GODTEL, and C.V. HULET. 1978. Development and
+evaluation of anti-coyote electric fencing. J. Range Manage. 31(2):
 151-153.
 
-GLUESING, E.A. 
-1977. Sheep behavior and vulnerability to coyote predation.
-Ph.D. Thesis, Utah State Univ. 
-121 pp.
+GLUESING, E.A. 1977. Sheep behavior and vulnerability to coyote predation.
+Ph.D. Thesis, Utah State Univ. 121 pp.
 
-GREEN, J.S. and R.A. WOODRUFF. 
+GREEN, J.S. and R.A. WOODRUFF. 1980. Is predator control going to the dogs?
 Rangelands 2(5):187-189.
 
-1980. 
+GREEN, J.S. and R.A. WOODRUFF. In Press. Livestock guarding dogs: develop-
+ments and current status. Proc. symp. situation management of two
+intermountain species: aspen and coyotes. Utah State Univ., Loqan,
+Utah. 23-24 April 1981.
 
-Is predator control going to the dogs?
+GREEN, J.S., T.T. TUELLER, and R.A. WOODRUFF. 1980. Livestock guarding
+dogs: economics and predator control. Rangelands 2(6) :247-248.
 
-GREEN, J.S. and R.A. WOODRUFF. 
-In Press. 
-Livestock guarding dogs: develop-
-ments and current status. 
-Proc. symp. situation management of two
-intermountain species: aspen and coyotes. 
-Utah State Univ., Loqan,
-Utah. 
-23-24 April 1981.
-
-GREEN, J.S., T.T. TUELLER, and R.A. WOODRUFF. 
-1980. Livestock guarding
-dogs: 
-economics and predator control. 
-Rangelands 2(6) :247-248.
-
-GRIFFITHS, R.E. JR., G.E. CONNOLLY, R.J. BURNS, and R.T. STERNER. 
-1978.
-Coyotes, sheep and lithium chloride. 
-Proc. Eighth Verteb. Pest Conf.,
-Sacramento, Calif., March 7-9 (W.E. Howard, e d . ), pp. 190-196, Publ.
+GRIFFITHS, R.E. JR., G.E. CONNOLLY, R.J. BURNS, and R.T. STERNER. 1978.
+Coyotes, sheep and lithium chloride. Proc. Eighth Verteb. Pest Conf.,
+Sacramento, Calif., March 7-9 (W.E. Howard, ed.), pp. 190-196, Publ.
 University of California, Davis.
 
-LEHNER, P.N. 
-1976. 
-Coyote behavior: 
+LEHNER, P.N. 1976. Coyote behavior: implications for management. Wildl.
 Soc. Bull. 4(3):120-126.
 
-implications for management. Wildl.
-
-LEHNER, P.N., R. KRUMM, and A.T. CRINGAN. 
-1976. 
-Tests for olfactory
+LEHNER, P.N., R. KRUMM, and A.T. CRINGAN. 1976. Tests for olfactory
 repellents for coyotes and dogs. J. Wildl. Manage. 40(1):145-150.
 
-LINHART, S.B. 
-In Press. 
-Nonremoval coyote management techniques: where,
-when, and why. 
-Proc. symp. situation management of two intermountain
-species: 
-aspen and coyotes. 
-Utah State Univ., Logan, Utah. 
-23-24
+LINHART, S.B. In Press. Nonremoval coyote management techniques: where,
+when, and why. Proc. symp. situation management of two intermountain
+species: aspen and coyotes. Utah State Univ., Logan, Utah. 23-24
 April 1981.
 
-LINHART, S.B. and F.F. KNOWLTON. 
-1975. Determining the relative abundance
+LINHART, S.B. and F.F. KNOWLTON. 1975. Determining the relative abundance
 of coyotes by scent station lines. Wildl. Soc. Bull. 3(3):119-124.
 
-LINHART, S.B., G.J. DASCH, J.D. ROBERTS, and P.J. SAVARIE. 
-1977. Test
+LINHART, S.B., G.J. DASCH, J.D. ROBERTS, and P.J. SAVARIE. 1977. Test
 methods for determining the efficacy of coyote attractants and repel-
-lents. 
-Pages 114-122 J_n W.B. Jackson and R.E. Marsh, eds. Spec. Tech.
+lents. Pages 114-122 J_n W.B. Jackson and R.E. Marsh, eds. Spec. Tech.
 Publ. 625. Am. Soc. Test. Mater., Philadelphia.
 
-LINHART, S.B., H.H. BRUSMAN, and D.S. BALSER. 
-1968. 
-Field evaluation of an
+LINHART, S.B., H.H. BRUSMAN, and D.S. BALSER. 1968. Field evaluation of an
 antifertility agent, stilbestrol, for inhibiting coyote reproduction.
 Trans. 33rd N. Amer. Wildl. Nat. Res. Conf. 316-327.
 
-LINHART, S.B., J.D. ROBERTS, and G.J. DASCH. 
-In Press. 
-Electric fencing
-reduces coyote predation on pastured sheep. 
-J. Range Manage.
+LINHART, S.B., J.D. ROBERTS, and G.J. DASCH. In Press. Electric fencing
+reduces coyote predation on pastured sheep. J. Range Manage.
 
 -130-
 
-
+
+
+LINHART, S.B., R.T. STERNER, T.C. CARRI6AN, and D.R. HENNE. 1979. Komondor
+guard dogs reduce sheep losses to coyotes: a preliminary evaluation.
+J. Range Manage. 32(3):238-241.
+
+MCKENNA, S.M., W.E. HOWARD, and R.E. MARSH. 1981. Nontoxic bait-pouch
+field tests. 1981 Annual Meeting WRCC-26, Twin Falls, Idaho. August
+11-12. Abstract.
+
+MEDUNA, R.L. 1977. Relationships between sheep management and coyote
+predation. M.S. Thesis, Kansas State Univ. 140 pp.
+
+NASS, R.D. In Press. Predation and livestock husbandry practices. Proc.
+symp. situation management of two intermountain species: aspen and
+coyotes. Utah State Univ., Logan, Utah. 23-24 April 1981.
+
+NEWBOLD, V.F. 1980. Non-lethal methods - boon for some, bust for others.
+Natl. Wool Grower 70(6):14-16.
+
+PEARSON, E.W. 1981. A review of predator research. USFWS Denver Wildlife
+Research Center. Special Report. 20 pp.
+
+ROCK, T.W. 1978. An evaluation of seasonal coyote control techniques and
+sheep losses in Saskatchewan. M.S. Thesis, Univ. of Nevada, Reno.
+54 pp.
+
+STELLFLU6, J.N., N.L. GATES, and R.G. SASSER. 1978. Reproductive inhibitors
+for coyote population control: developments and current status. Proc.
+Eighth Vert. Pest Conf., Sacramento, Calif., March 7-9 (W.E. Howard,
+ed.), pp. 185-189, Pub!. University of California, Davis.
+
+TAYLOR, R.G., J.P. WORKMAN, and J.E. BOWNS. 1979. The economics of sheep
+predation in southwestern Utah. J. Range Manage. 32(4):317-321.
+
+TERANISHI, R. 1981. Development of W-U lures. Annual Meeting WRCC-26,
+Twin Falls, Idaho. August 11-12. Abstract.
+
+TIMM, R.M., W.E. HOWARD, M.W. MONROE, R. TERANISHI, and E.L. MURPHY. 1977.
+A method for evaluating coyote scent baits. in_: Test methods for
+vertebrate pest control and management materials (W.B. Jackson and
+R.E. Marsh, eds.) pp. 151-156. Amer. Soc. Test Mater., Philadelphia.
+Spec. Tech. Publ. 625. 258 pp.
+
+THOMPSON, B.C. 1978. Fence-crossing behavior exhibited by coyotes. Wildl.
+Soc. Bull. 6(1) :14-17.
+
+THOMPSON, B.C. 1979. Evaluation of wire fences for coyote control. J.
+Range Manage. 32(6) :457-461.
+
+TURKOWSKI, F.J., M.L. POPELKA, B.B. GREEN, and R.W. BULLARD. 1979. Testing
+the responses of coyotes and other predators to odor attractants.
+Pages 255-269 _In_ J.R. Beck, ed. Spec. Tech. Publ. 680, Am. Soc. Test.
+Mater., Philadelphia.
+
+WADE, D.A. 1973. Control of damage by coyotes and some other carnivores.
+West. Res. Pub. No. 11., Coop. Ext. Serv., Colo. State Univ. 28 pp.
+
+-131-
+
+
+	University of Nebraska - Lincoln
+	DigitalCommons@University of Nebraska - Lincoln
+	10-15-1981
+
+	Reducing Coyote Damage To Sheep With Non-Lethal Techniques
+	Jeffrey S. Green
+
+
+
+

@@ -1,133 +1,700 @@
+data\Bromley & Gese, 2001.pdfdcterms:modified: 2017-01-09T18:14:55Z
+access_permission:can_modify: true
+title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
+dc:title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
+pdf:docinfo:custom:Source: SEQ
+access_permission:can_print_degraded: true
+created: Mon Jan 09 10:14:55 PST 2017
+meta:save-date: 2017-01-09T18:14:55Z
+access_permission:can_print: true
+pdf:docinfo:modified: 2017-01-09T18:14:55Z
+pdf:encrypted: false
+access_permission:assemble_document: true
+Last-Save-Date: 2017-01-09T18:14:55Z
+access_permission:modify_annotations: true
+Content-Type: application/pdf
+dcterms:created: 2017-01-09T18:14:55Z
+Creation-Date: 2017-01-09T18:14:55Z
+X-TIKA:parse_time_millis: 99
+meta:creation-date: 2017-01-09T18:14:55Z
+date: 2017-01-09T18:14:55Z
+access_permission:extract_content: true
+Source: SEQ
+xmpTPg:NPages: 11
+pdf:docinfo:title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
+dc:format: application/pdf; version=1.4
+pdf:docinfo:producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
+modified: 2017-01-09T18:14:55Z
+producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
+access_permission:fill_in_form: true
+pdf:docinfo:created: 2017-01-09T18:14:55Z
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+pdf:PDFVersion: 1.4
+Last-Modified: 2017-01-09T18:14:55Z
+access_permission:extract_for_accessibility: true
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
+
+
+ 
+
+ 
 Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
 Author(s): Cassity Bromley and  Eric M. Gese
 Source: The Journal of Wildlife Management, Vol. 65, No. 3 (Jul., 2001), pp. 510-519
+Published by: Wiley on behalf of the Wildlife Society
+Stable URL: http://www.jstor.org/stable/3803104
+Accessed: 09-01-2017 18:14 UTC
 
  
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+
+JSTOR, please contact support@jstor.org.
+
  
- SURGICAL STERILIZATION AS A METHOD OF REDUCING COYOTE
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+
+http://about.jstor.org/terms
+
+Wildlife Society, Wiley are collaborating with JSTOR to digitize, preserve and extend access to The
+Journal of Wildlife Management
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ SURGICAL STERILIZATION AS A METHOD OF REDUCING COYOTE
 
  PREDATION ON DOMESTIC SHEEP
 
  CASSITY BROMLEY,1 Department of Fisheries and Wildlife, Utah State University, Logan, UT 84322-5210, USA
-
  ERIC M. GESE,2 National Wildlife Research Center, Department of Fisheries and Wildlife, Utah State University, Logan, UT
 
  84322-5295, USA
 
  Abstract: Predation by coyotes (Canis latrans) on domestic sheep is a problem for many livestock producers through-
-
  out the United States Intermountain West. We examined whether surgical sterilization of coyote packs would mod-
-
  ify their predatory behavior and reduce predation rates on domestic sheep as compared to coyote packs with pups.
-
  FromJune 1997 to December 1997, we gathered baseline information on coyote pack size and movements. In win-
-
  ter 1998, we surgically sterilized and radiocollared members of 5 coyote packs. We also captured and radiocollared
-
  members of 6 packs that remained intact (i.e., reproductive). During summer 1998, only 1 sterile pack killed a lamb,
-
  while 3 intact packs killed 11 lambs. When only sheep-killing packs were included, sterile packs killed an average of
-
  0.35 lambs/week, while intact packs killed 1.53 lambs/week in 1998. During winter 1999, we monitored 4 sterile and
+ 8 intact packs. In summer 1999, 3 sterile packs killed 3 lambs, while 4 intact packs killed 22 lambs. Considering only
+ sheep-killing packs, sterile packs killed on average 0.38 lambs/week, while intact packs killed an average of 2.95
+ lambs/week in 1999. Coyotes were more likely to kill lambs that were on the edges of coyote territories as com-
+ pared to core areas. Lambs of less than average weight were also more likely to be killed by coyotes. The available
+ rodent biomass in each territory was not an influence on the differential kill rates exhibited between sterile and
+ intact packs, nor did the amount of available alternate prey influence annual coyote predation rates on sheep. We
+ conclude that we could use surgical sterilization to modify the predatory behavior of coyotes associated with pup pro-
+ duction and provisioning of pups. Sterilization successfully reduced, but did not eliminate, coyote predation on
+ domestic sheep. The amount of losses averted in the first year exceeded the costs associated with surgically steriliz-
+ ing a coyote pack, which indicates that surgical sterilization could prove beneficial on small-scale livestock operations.
 
- J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 511
+ JOURNAL OF WILDLIFE MANAGEMENT 65(3):510-519
+
+ Key words: Canis latrans, coyote, domestic sheep, predation, sterilization, survival.
+
+ Coyotes are a major predator of domestic sheep
+ and lambs throughout the western United States.
+ Pearson (1986) reported that 2.5% of adult sheep
+ and 9.0% of lambs were lost to predators annual-
+ ly; coyotes were the major predator accounting
+ for 74% and 78% of adult sheep and lamb losses,
+ respectively. In 1994, predators accounted for
+ the loss of 520,600 sheep and lambs, and coyotes
+ caused 62% of those losses (Simpson 1995). Utah
+ ranchers reported the loss of 19,000 sheep and
+ lambs to coyotes in 1997 (31.3% of total losses;
+ U.S. Department of Agriculture 1998). Sheep
+ producers have cited high predation losses, low
+ lamb and wool prices, and a shortage of good
+ hired labor as reasons for leaving the sheep
+ industry (Gee et al. 1977).
+ Traditionally, lethal nonspecific methods have
+
+ been used to reduce or stop coyote predation,
+ assuming that fewer coyotes means fewer livestock
+ losses. Recent research in California suggests that
+
+ breeding pairs of coyotes are responsible for
+ most of the killing (Sacks et al. 1999) and that tar-
+ geting breeding individuals may be a more effec-
+ tive control method. In addition, attitudes to-
+ ward lethal control have changed (Andelt 1996,
+ Reiter et al. 1999), and a variety of nonlethal con-
+ trol methods are now available or in practice.
+ Currently, nonlethal control methods include
+ various livestock husbandry practices, fencing,
+ guard animals (dogs, llamas, and other aggressive
+ livestock), and frightening devices (Andelt 1987,
+ Knowlton et al. 1999). Aversive conditioning,
+ repellents, and antifertility agents have been
+ explored as a means to reduce coyote popula-
+ tions and/or livestock losses (Balser 1964,
+ Bourne and Dorrance 1982, Lehner 1987). How-
+ ever, costs of labor and materials, maintenance,
+ and lack of success in open range situations have
+ limited the use of many nonlethal control tech-
+ niques and made those techniques difficult to
+ promote among sheep producers (Knowlton et
+ al. 1999).
+ The use of fertility control as a nonlethal
+
+ method to manage wildlife populations has
+ prompted increasing interest in recent years
+
+ 1 Present address: U.S. National Park Service, Santa
+ Monica Mountains National Recreation Area, 401 West
+ Hillcrest Drive, Thousand Oaks, CA 91360, USA.
+
+ 2 E-mail: egese@cc.usu.edu
+
+ 510
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 511
 
  (Garrott 1995). Most efforts have focused on
-
  developing and testing various contraceptive sub-
  stances (Elder 1964, Stellfug et al. 1978, Millar et
-
  al. 1989) or methods of drug administration
-
  (Matschke 1977, Plotka and Seal 1989, Kirk-
-
  patrick et al. 1990). Computer models that illus-
-
  trate the potential of canid fertility control have
-
  been developed (Haight and Mech 1997, Pech et
-
  al. 1997). Research designed to evaluate the
-
  potential of canid fertility control has document-
-
  ed changes in reproduction (Balser 1964) as well
  as behavioral responses to sterilization (Mech et
-
  al. 1996, Saunders and McIlroy 1996, Bubela
-
  1999). However, no studies have addressed the
-
  effect of sterilization on depredation behavior.
-
  Till and Knowlton (1983) showed that predation
 
  on domestic lambs by adult coyotes stopped when
-
  their pups were removed. They theorized that
-
  sterilizing territorial coyotes could be more effec-
-
  tive than removing the pups of depredating adults
-
  because (1) no lamb loss would occur before the
-
  pups were removed; (2) the sterilized coyotes
-
  may keep out other reproductive coyotes that
+ might cause sheep losses; and (3) sterilization may
+ reduce losses for many years because pair bonds
+ between coyotes are long-lasting. Implicit in this
+ theory are the untested assumptions that (1) steril-
+ ized resident (or dominant) coyotes maintain their
+ territories to the exclusion of nonsterilized coy-
+ otes; (2) sterilization has the same effects as pup
+ removal; and (3) compensatory mechanisms with-
+ in the population do not counteract the effects of
+ sterilization. We did not attempt to control the
+ size of the coyote population, but only modify
+ predatory behavior. We hypothesized that sterile
+ coyotes, without the energetic demands of provi-
+ sioning pups, would kill fewer sheep than coyotes
+ with pups. Because other factors may also influ-
+ ence depredation rates (Knowlton et al. 1999), we
+ examined the timing and location of depreda-
+ tion events, the weight of lambs killed by coyotes,
+ the availability of alternate prey, and food avail-
+ ability (as measured by a rodent biomass index) in
+ coyote territories exhibiting differential kill rates.
 
- 512 COYOTE STERILIZATION * Bromley and Gese J. Wildl. Manage. 65(3):2001
+ STUDY AREA
+
+ We conducted the project on a 400-km2 study
+ area on the Deseret Land and Livestock ranch,
+
+ northeastern Utah. The study area is primarily
+ sagebrush (Artimesia tridentata wyomingensis)
+ steppe, with an understory of western wheatgrass
+ (Pascopyrum smithii), needle-and-thread grass
+ (Stipa comata), Indian rice grass (Oryzopsis
+ hymenoides), and planted crested wheatgrass
+
+ (Agropyrum desertorum). Average annual rainfall is
+ 27.6 cm; temperatures range from an average of
+ -9.4 C in winter to 15.6oC in summer.
+
+ Coyotes were distributed throughout the study
+ area and were relatively unexploited. While sheep
+ grazing was a historical use of the area, sheep had
+ not grazed the study area recently. Cattle were
+ grazed intermittently throughout the area. Win-
+ ter carrion in the form of cattle and elk (Cervus
+ elaphus) carcasses was plentiful. Mule deer
+ (Odocoileus hemionus) and pronghorn antelope
+ (Antilocapra americana) were common in the area.
+ The most abundant small prey were white-tailed
+ jackrabbits (Lepus townsendii), cottontail rabbits
+ (Sylvilagus nutalli), Uinta ground squirrels (Sper-
+ mophilus armatus), deer mice (Peromyscus manicu-
+ latus), and least chipmunks (Tamias minimus).
+
+ METHODS
+
+ During summer 1997, coyotes were trapped
+ with #3 padded-jaw, leg-hold traps equipped with
+ tranquilizer tabs (Balser 1965, Sahr and Knowl-
+ ton 2000) containing propriopromazine. Cap-
+ tured coyotes were immobilized with ketamine
+ hydrochloride (10 mg/kg) and acepromozine
+ (0.1 mg/kg). Coyotes were weighed, sexed, blood
+ sampled, and aged by tooth wear (Gier 1968). A
+ premolar was extracted and sent to a commercial
+ lab (Matson's Laboratory, Milltown, Montana,
+ USA) for aging by cementum annuli analysis
+ (Linhart and Knowlton 1967). Animals were
+ radiocollared with a 150-g transmitter (Advanced
+ Telemetry Systems, Isanti, Minnesota, USA) and
+ released at the point of capture.
+
+ During December 1997, January 1998, and Jan-
+ uary 1999, a hand-held net-gun fired from a heli-
+ copter was used to capture coyotes (Barrett et al.
+ 1982, Gese et al. 1987). Previously radiocollared
+ animals were recaptured along with as many pack
+ members as possible. Additional packs in the
+ study area were also captured. Packs were ran-
+ domly assigned to sterile and sham treatments.
+ Because identification of alpha breeding coyotes
+ is difficult without field observation, members of
+ the same pack received the same treatment. Cap-
+ tured coyotes were transported by helicopter to a
+ local veterinary clinic for surgical sterilization.
+ Females were sterilized by tubal ligation and
+ males by vasectomy, leaving hormonal systems
+ intact (Zemlicka 1995). Animals in the sham
+ treatment underwent all procedures except actu-
+ al sterilization. All animals were held overnight
+ for recovery and observation, then released at the
+ point of capture the following morning.
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ 512 COYOTE STERILIZATION * Bromley and Gese J. Wildl. Manage. 65(3):2001
 
  During 1997 and 1998, coyotes were relocated
  primarily from fixed stations (null-peak) posi-
  tioned around the perimeter of the study area
-
  (White and Garrott 1990). In 1999, we used
-
  hand-held triangulation to acquire bearings <10
-
  min apart with triangulation angles between 200
-
  and 1600 (Gese et al. 1990). The software pack-
-
  age LOCATE (Pacer, Truro, Nova Scotia) was
-
  used to calculate animal locations. We attempted
-
  to locate all coyotes twice daily (morning and
+ evening) during the time sheep were in the study
+ area (May through Sep). During the remainder
+ of the year, coyotes were located approximately
+ every 2 weeks using aerial telemetry (Mech 1983)
+ when snow made roads impassable for ground
+ relocations. Home ranges were calculated using
+ CALHOME (Kie et al. 1996). The adaptive ker-
+ nel estimator (Worton 1989) was used to delin-
+ eate territory boundaries (90% isopleth) and
+ core areas (60% isopleth) of use. To confirm
+ breeding status of the pack, searches were made
+ by foot and in the air of all coyote territories to
+ find dens and confirm the presence or absence
+ of pups. Responses to simulated howling were
+ also used to determine the presence of pups dur-
+ ing summer (Harrington and Mech 1982).
 
- J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 513
+ To assess coyote predation rates on sheep, small
+ bands of ewes and lambs were introduced into
+
+ the study area. Because we herded and moni-
+ tored the bands daily, we had the ability to sys-
+ tematically move the sheep through all the coy-
+ ote territories in the study area. In 1997, we
+ released 222 ewes and 195 lambs on the ranch in
+
+ mid-June; 10 ewes were radiocollared to assist in
+ flock location. This flock served to expose all the
+ coyotes in the area to sheep prior to any treat-
+ ment. In 1998, we released 138 ewes and 173
+ lambs on the study area in early June; we radio-
+ collared 50 lambs (29% of the lambs) to aid in
+ finding kills. In 1999, we started in mid-May with
+ 136 ewes and 150 lambs transported to the study
+ site. Because finding all the kills in 1998 proved
+ difficult, all lambs (n = 150) in 1999 were radio-
+ collared. In both 1998 and 1999, the sheep were
+ split into 2 flocks to maximize coyote exposure to
+ sheep. All flocks were removed from the ranch
+ in mid-September of each year. Most lambs were
+ about 3 weeks old at the time of release.
+
+ Because lamb age affects vulnerability to coyote
+ predation (Andelt 1987, Knowlton et al. 1999),
+ we moved the flocks so that each coyote pack was
+ exposed to 1 flock early in the season and the
+ other flock later in the season. Approximately
+ once a month, the sheep were penned, lambs
+
+ weighed, and the radiocollars adjusted as neces-
+ sary. The sheep were relocated each day, and
+ whenever possible the bed site area was searched
+ for kills. Radiocollared lambs with mortality sig-
+ nals were located as soon as possible. Death sites
+ were searched for tracks, scat, and other sign of
+ predator presence. Dead lambs were necropsied,
+ and hemorrhaging, bite marks, and other evi-
+ dence at the kill site was used to determine the
+
+ cause of death (Rowley 1970, Wade and Bowns
+ 1985). Kills located in a specific coyote pack ter-
+ ritory were attributed to that pack unless evi-
+ dence from telemetry suggested otherwise.
+ Because the number of days sheep were in coy-
+
+ ote territories varied, the kill rate of sheep in each
+ coyote territory was standardized to a 1-week
+ interval. A Students t-test was used to compare
+ weekly kill rates of sterile and intact packs. To
+ account for both flock size and length of time
+ spent in each territory (i.e., exposure days), a
+ weekly survival rate for the sheep grazed within
+ each coyote territory was also calculated (Heisey
+ and Fuller 1985). Sheep survival rates were only
+ calculated for 1999 when all lambs were radiocol-
+
+ lared. A t-test was used to compare the weekly
+ sheep survival rates between intact and sterile coy-
+ ote packs. Because coyote pack size could influ-
+ ence depredation rates, we performed a regres-
+ sion analysis of the number of coyotes in a pack
+ versus the number of lambs killed by that pack.
+
+ Small mammal-trapping grids and spotlight sur-
+ veys were used to determine numbers and types
+ of alternative prey available on the study area.
+ Spotlighting transects (Smith and Nydegger
+ 1985) were conducted from a vehicle traveling at
+ 10-15 km/hr after dark in mid-June and late
+ August. White-tailed jackrabbits and cottontail
+ rabbits were counted, and the number of lago-
+ morphs observed/km was compared to an exist-
+ ing data set for the study area (Rick Danvir,
+ Deseret Land and Livestock Co., unpublished
+ data). Small mammal-trapping grids were locat-
+ ed across 4 habitat types (meadow, sparse vegeta-
+ tion, moderately dense sagebrush, and dense
+ sagebrush). Two 30.5 x 91.4 m grids of 96 Sher-
+ man live traps were established in each habitat
+ type and run for 3 consecutive nights. Traps were
+ checked each morning; animals were identified,
+ marked, and released. The average weight of
+ each small mammal species was multiplied by the
+ number of small mammals captured per 100
+ operable trap-nights to calculate a rodent bio-
+ mass index for each habitat type. After we deter-
+ mined the amount of each habitat type in each
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 513
 
  coyote territory, an index of available rodent bio-
+ mass was then calculated for each territory by
+ multiplying the amount of each habitat type in
+ the territory by the biomass index for that habitat
+ type. A t-test was then used to compare the
+ indices of available rodent biomass between
 
- 514 COYOTE STERILIZATION * Bromley and Gese J. Wildl. Manage. 65(3):2001
+ intact and sterile coyote packs. Home range size
+ and habitat analyses were preformed for packs
+ with >1 radiocollared coyote.
+
+ RESULTS
+
+ Capture and Surgical Treatments
+ Data were collected from June 1997 to Septem-
+
+ ber 1999, with the most intense data collection
+ occurring during the summer when sheep were
+ present (May-Sep). We captured 11 coyotes (7 M,
+ 4 F) in 1997. Two sessions of aerial net-gunning
+ during winters 1998 and 1999 resulted in the cap-
+ ture of an additional 31 (22 M, 9 F) coyotes, plus
+ the recapture of 10 of 11 coyotes trapped in 1997.
+ Ten males and 9 females were given sham opera-
+ tions, while 20 males and 6 females were steril-
+
+ ized. No capture or surgery-related mortalities
+
+ were observed. If the alpha pair was not sterilized
+ and pups were observed, the pack was classified
+ as an intact pack. In 4 packs, no members were
+ captured or radiocollared, but pack members
+ were observed and the home range boundary was
+ estimated based on the spatial arrangement of
+ adjacent radiocollared packs (Fritts and Mech
+ 1981, Messier 1985, Fuller 1989).
+
+ Coyote Kill Rates
+ In 1998, we monitored 5 sterile and 6 intact
+
+ packs (Table 1). Sheep spent an average of 16.5 days
+ in each coyote territory. The 5 sterile packs were
+ responsible for 1 kill, and the average number of
+ kills per week by all sterile packs was 0.07 (? 0.16
+ SD). The 6 intact packs killed 11 lambs, for a
+ weekly average of 0.77 ? 0.92 (t = 1.63, df = 9, P=
+ 0.068). The observed frequency of kills between
+ the 2 treatments (sterile vs. intact) was different
+ than expected (X2 = 6.656, df = 1, P= 0.0099), with
+ intact packs killing more lambs (11 kills observed,
+ 6.55 expected) and sterile packs killing fewer
+ lambs (1 kill observed, 5.45 expected) than expect-
+ ed. A regression analysis of coyote pack size versus
+
+ Table 1. Predation rates and pack sizes of sterile and intact coyote packs during 1998 and 1999, Deseret Land and Livestock,
+ Utah. Pack counts do not include young-of-year and reflect pre-whelping pack size.
+
+ Minimum Days sheep Lamb survival
+ Year Pack Treatment pack size # of kills present Kills/week rate (weekly)
+
+ 1998 Stacy Sterile 3 0 18 0 -
+ South Cabin Sterile 3 0 20 0 -
+
+ Crane Sterile 4 1 20 0.35 -
+
+ Highway Sterile 2 0 12 0 -
+ Alkali Sterile 2 0 20 0 -
+
+ Red Hill Intact 3 2 16 0.88 -
+
+ Dry Creek Intact 6 0 13 0 -
+ Road Hollow Intact 2 0 14 0 -
+
+ Shortcut Intact 2 4 17 1.65 -
+
+ North Cabin Intact 3 5 17 2.06 -
+
+ McKay Intact 2 0 15 0 -
+ 1999 Stacy Sterile 2 1 23 0.30 0.997
+
+ Red Hill Sterile 3 1 16 0.44 0.997
+
+ Murphy Sterile 2 1 17 0.41 0.997
+ South Cabin Sterile 2 0 16 0 1.00
+
+ Table Intact 3 0 15 0 1.00
+
+ Crane Intact 4 13 18 5.06 0.963
+
+ Dry Creek Intact 5 1 19 0.37 0.997
+ Road Hollow Intact 2 0 19 0 1.00
+
+ Munshaw Intact 3 0 16 0 1.00
+
+ Lake Hollow Intact 2 0 20 0 1.00
+
+ Shortcut Intact 2 3 5 4.20 0.996
+
+ North Cabin Intact 6 5 16 2.19 0.985
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ 514 COYOTE STERILIZATION * Bromley and Gese J. Wildl. Manage. 65(3):2001
 
  the weekly kill rate on sheep revealed no signifi-
-
  cant relationship (12 = 0.008, F= 0.078, P= 0.786).
-
  Of the 11 coyote packs monitored in 1998, 4 ster-
 
- J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 515
+ ile and 3 intact packs did not kill sheep. When only
+ the sheep-killing coyote packs were considered,
+ the sterile pack killed 0.35 lambs/week. The 3 in-
+ tact packs killed an average of 1.53 lambs/week.
+ Thus, among coyote packs that killed sheep, there
+ were 4.4 times more lambs killed/week by intact
+ coyote packs than by sterile packs.
+
+ In 1999, we monitored 4 sterile and 8 intact
+
+ packs (Table 1). Sheep spent an average of 16.6
+ days in each territory. Sterile packs killed 3
+ lambs, for an average of 0.29 kills/week (? 0.20
+ SD), while intact packs killed 22 sheep, for an
+ average of 1.48 kills/week (? 2.09; t = 1.167, df =
+ 10, P= 0.147). However, intact packs killed more
+ lambs and sterile packs killed fewer lambs than
+ expected (X2 = 5.114, df = 1, P= 0.0237). There
+ was no relationship between coyote pack size and
+ the weekly kill rate for each pack in 1999 (r2 =
+ 0.08, F= 0.87, P= 0.37).
+ Of the 12 coyote packs monitored in 1999, 1
+
+ sterile pack and 4 intact packs did not kill sheep.
+ Among sheep-killing packs, the average number
+ of sheep killed per week was lower (0.38 ? 0.07)
+ for sterile packs than for intact packs (2.95 ? 2.10
+ kills/wk; t = 2.0677, df = 5, P = 0.0468). Among
+ coyote packs that killed sheep, intact packs were
+ 7.8 times more likely to kill sheep than were ster-
+ ile packs. Combining both years, intact coyote
+ packs (i = 2.34 ? 1.70 kills/wk) killed 6 times
+ more sheep than sterile packs (F = 0.38 ? 0.06
+ kills/wk; t = 2.23, df = 9, P= 0.0261).
+ When sheep survival rates were compared
+
+ between sham and sterile packs, the weekly sur-
+ vival rate tended to be higher for sheep in sterile
+ coyote territories (? = 0.998) than in intact coyote
+ territories (? = 0.989). Among sheep-killing packs,
+ the weekly sheep survival rate was higher in sterile
+ coyote packs (X = 0.997 ? 0.00) than in intact packs
+ (? = 0.985 ? 0.016; t = 2.01, df = 5, P= 0.05).
+
+ Characteristics of Kills
+
+ During 1999, coyotes killed 25 lambs. Seven
+ additional lambs died of causes not related to
+
+ coyote predation: drowning (1), pneumonia (2),
+ and unknown causes (4). Coyotes completely
+ consumed 13 of the sheep killed, partially con-
+ sumed 6 kills, and left 3 kills intact. No con-
+
+ sumption data were available for 3 kills. Coyotes
+ tended to kill lambs from the lightest weight
+ quartile (x2 = 10.15, P < 0.01) more frequently
+ than lambs from the heavier quartiles (Fig. 1),
+
+ 640
+
+ 50
+
+ o20
+
+ 10
+ S30 -
+
+ FIRST SECOND THIRD FOURTH
+ QUARTILE
+
+ Fig. 1. Percent of sheep killed by coyotes among the 4 quar-
+ tile weight classes, Deseret Land and Livestock, Utah, 1999.
+ Quartile ranges are: first (1-25%), second (26-50%), third
+ (51-75%), and fourth (76-100%).
+
+ but they were capable of killing even the heaviest
+ lambs. Lambs were classed into weight quartiles
+ by comparing their last live weight to the rest of
+ the lambs in the herd. Thus, the weight of lambs
+ in the lightest quartile increased over the grazing
+ season, and coyotes were selecting mostly the
+ lightest lambs available. Lambs that strayed or
+ had been located apart from the main flock on
+ the previous day were more likely to be killed
+ than those remaining with the flock.
+
+ Location and Timing of Kills
+
+ In 1998, coyotes killed 3 sheep in the core and 4
+ sheep on the edge of their territories. Based on a
+ comparison of sheep locations and kill locations,
+ the distribution of kills was not different from
+
+ expected (X2 = 0.234, P= 0.62). In 1999, there was
+ a slight difference (X2 = 3.01, P = 0.08) between
+ the distribution of kills observed in the core (n =
+ 3), and on the edge (n = 16) of territories, and the
+ expected distribution of kills. This is true even
+ though the analysis accounted for the amount of
+ time sheep spent on the edge and in the core.
+ We found no evidence of coyotes following sheep
+ outside their territory. However, many kills were
+ located in areas of overlap between territories,
+ and 1 kill that was just inside the 60% isopleth was
+ assigned to the neighboring pack because, based
+ on radiotelemetry locations, the residents were
+ not in that area on the night of the kill.
+
+ Kill rates of sheep by coyotes increased over the
+ summer, particularly among intact coyote packs
+ (Fig. 2). Sterile packs that killed sheep did so at
+ a relatively constant rate. The increase in kill rate
+ among intact coyote packs is likely due to the
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 515
 
  0 INTACT PACKS
-
  E STERLE PACKS
-
- differences in kill rates between sterile and intact
 
  35
 
  30
 
  C 25
-
  -j
 
  20
 
  1- 15
-
  u-
 
  o o
@@ -139,319 +706,736 @@ Source: The Journal of Wildlife Management, Vol. 65, No. 3 (Jul., 2001), pp. 510
  .- z
 
  Fig. 2. The timing of lambs killed over the 4-month grazing
-
  season by sterile and intact coyote packs, Deseret Land and
-
  Livestock, Utah, 1998-1999.
 
  increasing energy demand of growing pups. A
-
  reduction in alternate prey (ground squirrels
-
  enter hibernation in late Aug) was also consid-
-
  ered as a possibility for increased killing, but did
-
  not explain the lack of increased killing among
-
  the sterile packs.
 
  Influence of Alternative Prey on Predation
-
  Rates
 
  White-tailed jackrabbit numbers were well below
-
  their 1991 peak (Rick Danvir, Deseret Land and
  Livestock Co., unpublished data), but increased
-
  during the study. The lagomorph spotlight index
-
  increased from 0.29 rabbits/km in 1997 to 1.25
 
  rabbits/km in 1999. Small mammal-trapping
-
  grids yielded 0 to 0.063 animals/trap night, with
-
  no significant difference (all paired comparisons
  had P > 0.10) in the number of animals captured
  between any of the years. Increasing lagomorph
-
  numbers did not appear to influence coyote pre-
-
  dation rates on sheep. The increase in sheep kills
-
  from 1998 to 1999 was probably due to our in-
-
  creased ability to find and recover kills because
-
  all lambs were radiocollared in 1999.
 
  Influence of Available Rodent Biomass on
-
  Predation Rates
 
  We found no significant difference in the
-
  indices of available rodent biomass between ster-
 
  ile coyote packs (8,766 ? 1,552) and intact packs
-
  (7,930 ? 1,752; t = --0.75, df = 10, P = 0.48). Thus,
 
- 516 COYOTE STERILIZATION * Bromley and Gese J. Wildl. Manage. 65(3):2001
+ differences in kill rates between sterile and intact
+
+ packs were not in response to differential prey
+ biomass in the territories. Similarly, regression
+ analysis indicated no relationship between the
+ weekly kill rate on sheep and the rodent biomass
+ index in each territory (r2 = 0.06, F= 4.34, P= 0.53).
+
+ Costs and Benefits of Sterilization
+
+ We estimated the cost to surgically sterilize a
+ coyote was $560/animal (helicopter flight time:
+ $300, surgery: $75, transport: $60, fixed-wing fly-
+ ing: $60, personnel: $55, supplies: $10). On aver-
+ age we captured and sterilized 3 coyotes/pack;
+ thus, the cost of sterilizing a coyote pack was
+ $1,680. Sterile coyote packs killed an average of
+ 0.38 lambs/week, while intact packs killed on
+ average 2.34 lambs/week. Since sterilization did
+ not necessarily stop predation, we used the dif-
+ ference between the 2 treatments as the amount
+
+ of loss averted (1.96 lambs killed/wk). We used
+ the kill rates of sheep-killing packs only because
+ non-killing packs would require no management
+ action. Using this difference in averted losses, we
+ calculated that over a summer grazing season (16
+ wks) approximately 32 lambs would not be killed.
+ With a market value of $56/lamb ($0.70 per
+ pound x 80 pound lamb), we estimated that
+ $1,792 of lambs was the amount of losses averted
+ in 1 4-month grazing season. Thus, if a small-
+ scale livestock operation was affected by 1 coyote
+ pack during the summer, then the cost to surgi-
+ cally sterilize them would equal the amount of
+ lambs saved in the first year. Considering the life
+ span of coyotes and length of pair-bonds, surgi-
+ cally sterilizing coyote packs on a small scale
+ could be economically feasible if the sterilized
+ coyotes are allowed to survive (i.e., if the coyotes
+ are killed, then the costs to sterilize begin again).
+
+ DISCUSSION
+
+ Animals producing offspring may maximize
+ their hunting efficiency by preying on larger prey
+ (Royama 1970, Harrison and Harrison 1984). In
+ addition, transport costs of delivering a larger
+ prey item to the young may also be more prof-
+ itable than small-sized prey (Till and Knowlton
+ 1983), at the same time providing for increased
+ energetic requirements of a growing litter. Our
+ data indicate that coyotes change their predatory
+ tendencies when pups are present and that steril-
+ ization could be an effective method of reducing
+ coyote predation on domestic sheep in the Inter-
+ mountain West. None of the sterile coyote packs
+ killed more than 1 lamb per season, while intact
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ 516 COYOTE STERILIZATION * Bromley and Gese J. Wildl. Manage. 65(3):2001
 
  packs had multiple killing events. Among coyote
  packs that killed sheep, the rate of predation on
-
  sheep was significantly lower for packs that were
-
  not provisioning pups.
-
  For this technique to be successful, the breed-
 
  ing pair must be sterilized. In 1999, 1 of the
-
  packs that was originally believed to be sterile
-
  killed 5 lambs. No pups were seen in the area
-
  during initial searches from the air or on foot.
-
  However, further investigation showed the breed-
-
  ing pair had not been captured and sterilized,
-
  resulting in at least 2 pups being produced. This
-
  observation underscores the need to sterilize at
 
  least 1 and preferably both members of the
-
  breeding pair to prevent pup production.
-
  This study presents further evidence that not all
 
  coyotes kill sheep (Sacks et al. 1999). In some
-
  areas where pups were present, no lambs were
-
  killed by some coyote packs even after 3 years of
-
  exposure to sheep. These coyote territories rep-
-
  resent situations in which no control measures
 
  should be undertaken. The pressure for the
-
  adults to provision their pups is only 1 factor driv-
-
  ing predation on sheep. Characteristics of indi-
-
  vidual packs and territories may also be critical in
-
  determining which coyotes kill sheep. Further
-
  investigation into the sheep-killing tendencies of
  pups from packs that killed and ate sheep versus
-
  pups from packs that seemed to ignore sheep
-
  may be useful.
-
  Alternate prey availability may influence coyote
 
  predation rates on native prey (Hoffman 1979,
-
  Hamlin et al. 1984) and domestic sheep
-
  (McAdoo 1975, Guthery 1977, Kauffeld 1977,
  Gober 1979). Deer fawn (0. virginianus) avail-
-
  ability, as regulated by winter severity, affected
-
  the rate at which wolves killed livestock in Min-
 
  nesota (Mech et al. 1988). Hamlin et al. (1984)
-
  suggested that coyote predation on deer fawns
  was lowest during summers when microtine
+ rodent numbers were highest. Our study
+ occurred during years when the abundance of
+ lagomorphs and ground squirrels was fairly typi-
+ cal for the region. We found that indices of avail-
+ able rodent biomass did not affect the number of
 
- J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 517
+ lambs killed in each territory. Similarly, lago-
+ morph abundance did not appear to influence
+ annual coyote predation rates on sheep. In addi-
+ tion, coyotes had access to antelope and deer
+ fawns, but it was unknown whether coyotes pre-
+ ferred fawns over sheep, or if sterile coyotes
+ killed fewer fawns similarly to killing fewer lambs.
+ We documented 1 trespass kill, just inside the
+
+ neighbors' core area (60% isopleth), but trespass
+
+ killing seemed to be a rare occurrence. Unlike
+ Shivik et al. (1996), we did not observe an in-
+ crease in core area overlap between adjacent
+ pack territories when sheep were present, nor
+ did we record coyotes following sheep into neigh-
+ bors' territory. We did document a higher rate of
+ kills on the edges of territories than expected by
+ chance, so sheep in an area of territory overlap
+ (at the 95% isopleths) could be accessible to
+ more than 1 pack.
+ Most of the lambs killed were consumed-
+
+ implying that they were being used as a food
+ source-though unconsumed kills were located
+ in both sterile and intact coyote territories. We
+ had insufficient data to determine litter size of
+
+ coyotes, but further research focusing on the
+ relationship between the number of pups and
+ predation rates on lambs should be considered.
+ The timing of kills, with increasing kills by intact
+ packs over the summer and into early fall has
+ been documented (Klebenow and McAdoo 1976,
+ Tigner and Larson 1977, Boggess et al. 1980).
+ This increase in predation likely reflects in-
+ creased energy demand of growing pups (Ofte-
+ dal and Gittleman 1989). Reduced alternate prey
+ levels (i.e., ground squirrels going into hiberna-
+ tion) were also considered. However, sterile coy-
+ ote packs did not increase their predation rate on
+ sheep similarly to the intact packs when ground
+ squirrels entered hibernation in mid-August.
+ Learning and development of hunting behavior
+ of pups (Till and Knowlton 1983) could also be a
+ possibility, but seemed unlikely at that time of
+ year (i.e., the pups would be <4 months old in
+ mid-Aug).
+ Among the large social carnivores, hunting is a
+
+ cooperative activity that usually involves several
+ group members (e.g., wolves: Mech 1966, 1970;
+ Peterson 1977; Carbyn et al. 1993). However,
+ Thurber and Peterson (1993) observed single
+ wolves capable of killing moose (Alces alces) on Isle
+ Royale. We found that the size of the coyote pack
+ had no effect on the weekly kill rate on lambs.
+ Lambs can be killed by a single coyote (Wade and
+ Bowns 1985), and since most kills on sheep are
+ usually attributed to the breeding pair (Sacks et al.
+ 1999), additional pack members do not seem to
+ increase the rate of depredation on sheep. For
+ native ungulates, cooperative hunting by coyotes
+ may facilitate capture of larger prey, but it is not
+ always necessary (Gese and Grothe 1995).
+ The coyotes followed in this study did not kill
+
+ adult sheep. Two ewes were attacked and bitten
+ on the neck, but both survived the attacks. The
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 517
 
  largest lamb killed by coyotes weighed 44 kg and
  was larger than some of the ewes in the flock. It
-
  may be that coyotes would have killed ewes if
-
  exposure was continued, especially if ewes were
-
  present without lambs. Our research differs from
-
  studies conducted in north-coastal California
 
  (Conner et al. 1998, Sacks et al. 1999), because in
-
  our study area (and in much of the Intermoun-
-
  tain West) lambs were only available seasonally.
  Adult sheep are available on a year-round basis,
-
  and lambs are available over 9 months in north-
 
  coastal California (Conner et al. 1998, Sacks et al.
-
  1999). In the Intermountain West, the birth of
-
  lambs occurs later than in north-coastal Califor-
 
  nia and generally corresponds with the coyote
+ pup-rearing season. Therefore, sterilization may
+ not have as great an effect in modifying coyote
+ predation behavior in areas where lambs are con-
+ sidered a year-round prey item.
 
- 46:235-239.
+ MANAGEMENT IMPLICATIONS
 
- BROMLEY, C. 2000. Coyote sterilization as a method of
- susing. Journal of Wildlife Management 46:686-693.
+ We designed this experiment to test whether
+ surgical sterilization can change the predatory
+ tendencies of coyotes and whether the procedure
+ will reduce (but not completely stop) predation
+ on domestic lambs. A more efficient method of
 
- reducing depredations on domestic lambs. Thesis,
+ fertility control would likely be needed for appli-
+ cation as a viable management tool on a larger
+ scale. Sterile coyotes maintained territories and
+ pair bonds in a manner similar to non-sterile coy-
+ otes (Bromley 2000). In areas where long-term
+ removal has had a limited effect on reducing pre-
+ dation (Conner et al. 1998), a pair of sterile coy-
+ otes occupying a territory--that are not killing
+ sheep or killing at very low rates-could serve as
+ an effective deterrent to other coyotes. Our tech-
+ nique of capture and surgical sterilization may be
+ cost-effective. Till (1982) estimated that it costs
+ $208 to locate and remove 1 den of pups. Wagn-
+ er and Conover (1999) estimated that it costs
+ about $185 to kill a coyote from a fixed-wing air-
+ craft and about $805 to trap a coyote on the
+ ground. However, trapping, denning, and aerial
+ gunning all require annual reapplication of those
+ techniques, while sterilization can be effective for
+ as long as the coyotes survive (or continue as
+ alpha animals). A comparison of costs versus
+ benefits showed that on a small-scale livestock
 
- howling response parameters useful for wolf pack cen-
+ operation (i.e., an operation being affected by
+ only 1 pack of coyotes), the cost of surgically ster-
+ ilizing 1 coyote pack was recovered by the
+ amount of losses averted within the same year. As
+ alternative methods of delivering sterilants are
+ developed (DeLiberto et al. 1998), sterilization
 
- Utah State University, Logan, USA.
+ may prove an efficient solution for changing the
+ predatory behavior of coyotes on a larger scale.
+ Sterilization could also be valuable in areas where
 
- HARRISON, D. J., AND J. A. HARRISON. 1984. Foods of
+ lethal control is socially unacceptable (Mech et
+ al. 1996) and where enhancement of fawn
+ recruitment rates of native ungulates is a man-
+ agement objective.
 
- BUBELA, T. M. 1999. Social effects of sterilizing free-
- Journal of Wildlife Management 48:922-926.
+ ACKNOWLEDGMENTS
 
- ranging red foxes in subalpine Australia. Disserta-
+ We thank T. Chaudhry, K. Duran, R. Farrar, L.
+ Kellogg, L. Kemp, H. Smith, J. Stevenson, M.
+ Wichrowski, P. Wilmot, and A. Woc-Colburn for
+ field assistance; A. Barras, T. DeLiberto, T. Hall,
 
- adult Maine coyotes and their known-aged pups.
+ A. Seglund, D. Zemlicka, and the staff at the Bear
+ River Veterinary Clinic, Evanston, Wyoming, for
+ assistance with surgical sterilization of coyotes; J.
+ Anderson, G. Brennan, C. Meyer, and T. Milliken
+ of Hawkins and Powers Aviation for helicopter
+ flying and aerial net-gunning; R. Danvir and B.
+ Hopkin of Deseret Land and Livestock for logis-
+ tical assistance and access to the ranch; G. Gantz
 
- HEISEY, D. M., AND T. K. FULLER. 1985. Evaluation of sur-
+ of InterWest Wildlife for aerial telemetry;* and J.
+ Bissonette, R. Danvir, M. Fall, F. Knowlton, D.
+ Maehr, F. Provenza, and an anonymous reviewer
+ for reviews of the manuscript. This study was
+ funded and supported by the U.S. Department of
+ Agriculture, National Wildlife Research Center,
+ Logan Field Station. The Utah Agricultural
+ Experiment Station at Utah State University pro-
+ vided funds for some supplies. Procedures for
+ coyote capture, handling, immobilization, and
+ surgical sterilization, and sheep husbandry pro-
+ cedures were reviewed and approved by Institu-
+ tional and Animal Care and Use Committees at
+
+ the National Wildlife Research Center (QA-487)
+ and Utah State University (#845).
+
+ LITERATURE CITED
+
+ ANDELT, W. F. 1987. Coyote predation. Pages 128-140
+ in M. Novak, J. A. Baker, M. E. Obbard, and B. Mal-
+ loch, editors. Wild furbearer management and con-
+ servation in North America. Ontario Ministry of Nat-
+ ural Resources and the Ontario Trappers Association,
+ Canada.
+
+ . 1996. Carnivores. Pages 133-155 in P. R.
+ Krausman, editor. Rangeland wildlife. Society for
+ Range Management, Denver, Colorado, USA.
+
+ BALSER, D. S. 1964. Management of predator popula-
+ tions with antifertility agents. Journal of Wildlife
+ Management 28:352-358.
+
+ . 1965. Tranquilizer tabs for capturing wild car-
+ nivores. Journal of Wildlife Management 29:438-442.
+
+ BARRETTr, M. W.,J. W. NOLAN, AND L. D. Roy. 1982. Eval-
+ uation of a hand-held net-gun to capture large mam-
+ mals. Wildlife Society Bulletin 10:108-114.
+
+ BOGGESS, E. K, F. R. HENDERSON, AND C. E. SPAETH.
+ 1980. Managing predator problems: practices and
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
 
  518 COYOTE STERILIZATION * Bromley and Gese J. Wildl. Manage. 65(3):2001
 
  procedures for preventing and reducing livestock
-
- lation of vasectomy for wolf control. Journal of Wild-
-
  losses. Kansas State University Cooperative Extension
-
- life Management 61:1023-1031.
-
  Service Bulletin C-620, Manhattan, USA.
 
- HAMLIN, K. L., S.J. RILEY, D. PYRAH, A. R. DOOD, AND R.J.
-
  BOURNE, J., AND M. J. DORRANCE. 1982. A field test of
-
- MACKIE. 1984. Relationships among mule deer fawn
  lithium chloride aversion to reduce coyote predation
- mortality, coyotes and alternate prey species during
  on domestic sheep. Journal of Wildlife Management
+ 46:235-239.
 
- summer. Journal of Wildlife Management 48:489-499.
+ BROMLEY, C. 2000. Coyote sterilization as a method of
+ reducing depredations on domestic lambs. Thesis,
+ Utah State University, Logan, USA.
 
- HARRINGTON, F. H., AND L. D. MECH. 1982. An analysis of
-
+ BUBELA, T. M. 1999. Social effects of sterilizing free-
+ ranging red foxes in subalpine Australia. Disserta-
  tion, University of Sydney, Australia.
 
  CARBYN, L. N., S. M. OOSENBRUG, AND D. W. ANIONS.
-
  1993. Wolves, bison and the dynamics related to the
-
  Peace-Athabasca Delta in Canada's Wood Buffalo
 
  National Park. Circumpolar Research Series 4, Cana-
  dian Circumpolar Institute, University of Alberta,
-
  Edmonton, Canada.
 
  CONNER, M. M., M. M. JAEGER, T. J. WELLER, AND D. R.
-
  McCULLOUGH. 1998. Effect of coyote removal on
-
  sheep depredation in northern California. Journal of
-
  Wildlife Management 62:690-699.
+
  DELIBERTO, T. J., E. M.GESE, F. F. KNOWLTON, J. R.
-
  MASON, M. R. CONOVER, L. MILLER, R. H. SCHMIDT, AND
-
  M. K. HOLLAND. 1998. Fertility control in coyotes: is
  it a potential management tool? Vertebrate Pest Con-
-
  ference 18:144-149.
 
  ELDER, W. H. 1964. Chemical inhibitors of ovulation in
-
  the pigeon. Journal of Wildlife Management
-
  28:556-575.
 
  FRITTS, S. H., AND L. D. MECH. 1981. Dynamics, move-
-
  ments, and feeding ecology of a newly protected wolf
-
  population in northwestern Minnesota. Wildlife
-
  Monographs 80.
- FULLER, T. K 1989. Population dynamics of wolves in
 
+ FULLER, T. K 1989. Population dynamics of wolves in
  north-central Minnesota. Wildlife Monographs 105.
 
  GARRTIr, R. A. 1995. Effective management of free-
-
  ranging ungulate populations using contraception.
-
  Wildlife Society Bulletin 23:445-452.
 
  GEE, C. K., R. S. MAGLEBY, D. B. NIELSON, AND D. M.
-
  STEVENS. 1977. Factors in the decline of the western
 
  sheep industry. U.S. Department of Agriculture, Eco-
-
  nomic Research Service, Agricultural Economic
-
  Report 377.
 
  GESE, E. M., D. E. ANDERSEN, AND O.J. RONGSTAD. 1990.
-
  Determining home-range size of resident coyotes
-
  from point and sequential locations. Journal of Wild-
-
  life Management 54:501-506.
 
  , AND S. GROTHE. 1995. Analysis of coyote pre-
  dation on deer and elk during winter in Yellowstone
-
  National Park, Wyoming. American Midland Natu-
-
  ralist 133:36-43.
 
  , O.J. RONGSTAD, AND W. R. MYTTrON. 1987. Man-
-
  ual and net-gun capture of coyotes from helicopters.
  Wildlife Society Bulletin 15:444-445.
 
  GIER, H. T. 1968. Coyotes in Kansas. Kansas State Col-
-
  lege Agriculture Experiment Station Bulletin 393,
-
  Manhattan, USA.
 
  GOBER, D. R. 1979. Factors affecting domestic sheep
-
  losses to predators in Trans-Pecos, Texas. Disserta-
-
  tion, Texas A&M University, College Station, USA.
+
  GUTHERY, F. S. 1977. Efficacy and ecological effect of
-
  predator control in south Texas. Dissertation, Col-
-
  orado State University, Fort Collins, USA.
+
  HAIGHT, R. G., AND L. D. MECH. 1997. Computer simu-
 
-
+ lation of vasectomy for wolf control. Journal of Wild-
+ life Management 61:1023-1031.
+
+ HAMLIN, K. L., S.J. RILEY, D. PYRAH, A. R. DOOD, AND R.J.
+ MACKIE. 1984. Relationships among mule deer fawn
+ mortality, coyotes and alternate prey species during
+ summer. Journal of Wildlife Management 48:489-499.
+
+ HARRINGTON, F. H., AND L. D. MECH. 1982. An analysis of
+ howling response parameters useful for wolf pack cen-
+ susing. Journal of Wildlife Management 46:686-693.
+
+ HARRISON, D. J., AND J. A. HARRISON. 1984. Foods of
+ adult Maine coyotes and their known-aged pups.
+ Journal of Wildlife Management 48:922-926.
+
+ HEISEY, D. M., AND T. K. FULLER. 1985. Evaluation of sur-
+ vival and cause-specific mortality rates using telemetry
+ data. Journal of Wildlife Management 49:668-674.
+
+ HOFFMAN, S. W. 1979. Coyote-prey relationships in
+ Curlew Valley during a period of low jackrabbit den-
+ sity. Thesis, Utah State University, Logan, USA.
+
+ KAUFFELD,J. D. 1977. Availability of natural prey and its
+ relationship to coyote predation on domestic sheep.
+ Thesis, University of Nevada, Reno, USA.
+
+ KIE,J. G.,J. A. BALDWIN, AND C.J. EVARS. 1996. Calhome:
+ a program for estimating animal home ranges. Wild-
+ life Society Bulletin 24:342-344.
+
+ KIRKPATRICK, J. F., I. K M. LU, AND J. W. TURNER, JR.
+ 1990. Remotely-delivered immunocontraception in
+ feral horses. Wildlife Society Bulletin 18:326-330.
+
+ KLEBENOW, D. A., AND K. M. McADoo. 1976. Predation
+ on domestic sheep in northeastern Nevada. Journal
+ of Range Management 29:96-100.
+
+ KNOWLTON, F. F., E. M. GESE, AND M. M. JAEGER. 1999.
+ Coyote depredation control: an interface between
+ biology and management. Journal of Range Man-
+ agement 52:398-412.
+
+ LEHNER, P. N. 1987. Repellents and conditioned avoid-
+ ance. Pages 56-61 in J. S. Green, editor. Protecting
+ livestock from coyotes. U.S. Department of Agricul-
+ ture, Agricultural Research Service. U.S. Sheep
+ Experiment Station, Dubois, Idaho, USA.
+
+ LINHART, S. B., AND F. F. KNOWLTON. 1967. Determining
+ age of coyotes by tooth cementum layers. Journal of
+ Wildlife Management 31:362-365.
+
+ MATSCHKE, G. H. 1977. Microencapsulated diethylstil-
+ bestrol as an oral contraceptive in the white-tailed
+ deer. Journal of Wildlife Management 41:87-91.
+
+ McADoo, J. K. 1975. Predation on domestic sheep in
+ northwestern Nevada. Thesis, University of Nevada,
+ Reno, USA.
+
+ MECH, L. D. 1966. The wolves of Isle Royale. U.S. Na-
+ tional Park Service, Fauna Series 7:1-210.
+
+ . 1970. The wolf: the ecology and behavior of an
+ endangered species. Natural History Press, Garden
+ City, New York, USA.
+
+ . 1983. Handbook of animal radio tracking.
+ University of Minnesota Press, Minneapolis, USA.
+
+ --, S. H. FRrrTS, AND M. E. NELSON. 1996. Wolf
+ management in the 21st century, from public input to
+ sterilization. Journal of Wildlife Research 1:195-198.
+
+ , , AND W. J. PAUL. 1988. Relationship
+ between winter severity and wolf depredations on
+ domestic animals in Minnesota. Wildlife Society Bul-
+ letin 16:269-272.
+
+ MESSIER, F. 1985. Social organization, spatial distribu-
+ tion and population density of wolves in relation to
+ moose density. Canadian Journal of Zoology
+ 63:1068-1077.
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ J. Wildl. Manage. 65(3):2001 COYOTE STERILIZATION * Bromley and Gese 519
+
+ MILLAR, S. E., S. M. CHAMOW, A. W. BAUR, C. OLIVER, F.
+ ROBEY, AND J. DEAN. 1989. Vaccination with a syn-
+ thetic zona pellucida peptide produces long-term
+ contraception in female mice. Science 246:935-938.
+
+ OFrEDAL, O. T., AND J. L. GITTLEMAN. 1989. 'Patterns of
+ energy output during reproduction in carnivores.
+ Pages 355-378 in J. L. Gittleman, editor. Carnivore
+ behavior, ecology and evolution. Comstock Publish-
+ ing Associates, Cornell University Press, Ithaca, New
+ York, USA.
+
+ PEARSON, E. W. 1986. A literature review of livestock
+ losses to predators in western U.S. U.S. Fish and Wild-
+ life Service Final Report, Denver, Colorado, USA.
+
+ PECH, R., G. M. HOOD,J. MCILROY, AND G. SAUNDERS. 1997.
+ Can foxes be controlled by reducing their fertility?
+ Reproduction, Fertility and Development 9:41-50.
+
+ PETERSON, R. 0. 1977. Wolf ecology and prey relation-
+ ships on Isle Royale. U.S. National Park Service Sci-
+ entific Monograph Series 11:1-210.
+
+ PLOTKA, E. D., AND U. S. SEAL. 1989. Fertility control in
+ female white-tailed deer. Journal of Wildlife Diseases
+ 25:643-646.
+
+ REITER, D. K., M. W. BRUNSON, AND R. H. SCHMIDT. 1999.
+ Public attitudes toward wildlife damage management
+ and policy. Wildlife Society Bulletin 27:746-758.
+
+ RowL", I. 1970. Lamb predation in Australia: inci-
+ dence, predisposition conditions, and the identifica-
+ tion of wounds. CSIRO Wildlife Research 15:79-123.
+
+ ROYAMA, T. 1970. Factors governing the hunting behav-
+ ior and selection of food by the great tit (Parus major).
+ Journal of Animal Ecology 39:619-669.
+
+ SACKS, B. N., M. M. JAEGER, J. C. C. NEALE, AND D. R.
+ MCCULLOUGH. 1999. Territoriality and breeding sta-
+ tus of coyotes relative to sheep predation. Journal of
+ Wildlife Management 63:593-605.
+
+ SAHR, D. P., AND F. F. KNOWLTON. 2000. Evaluation of
+ tranquilizer trap devices (TTD's) for foothold traps
+ used to capture gray wolves. Wildlife Society Bulletin
+ 28:597-605.
+
+ SAUNDERS, G., AND J. MCILROY. 1996. The effect of im-
+ posed sterility on the survival, fecundity, territoriality
+ and social structure of foxes. Abstract, 4th Internation-
+ al Conference on Fertility Control for Wildlife Man-
+ agement, Great Keppel Island, Queensland, Australia.
+
+ SHIVIK, J. A., M. M. JAEGER, AND R. H. BARRETr. 1996.
+ Coyote movements in relation to the spatial distribu-
+ tion of sheep. Journal of Wildlife Management
+ 60:422-430.
+
+ SIMPSON, L. L. 1995. Sheep and lamb death loss. U.S.
+ Department of Agriculture, National Agricultural Sta-
+ tistics Service, Staff Report LDP 95-01, Washington,
+ D.C., USA.
+
+ SMITH, G. W., AND N. C. NYDEGGER. 1985. A spotlight,
+ line transect method for surveying jack rabbits. Jour-
+ nal of Wildlife Management 49:699-702.
+
+ STELLFUG, J. N., N. L. GATES, AND R. G. SASSER. 1978.
+ Reproductive inhibitors for coyote population con-
+ trol: development and current status. Vertebrate Pest
+ Conference 8:185-189.
+
+ THURBER, J. M., AND R. O. PETERSON. 1993. Effects of
+ population density and pack size on the foraging
+ ecology of gray wolves. Journal of Mammalogy
+ 74:879-889.
+
+ TIGNER, J. R., AND G. E. LARSON. 1977. Sheep losses on
+ selected ranches in southern Wyoming. Journal of
+ Range Management 30:244-252.
+
+ TILL, J. A. 1982. Efficacy of denning in alleviating coy-
+ ote depredations upon domestic sheep. Thesis, Utah
+ State University, Logan, USA.
+
+ - , AND F. F. KNOWLTON. 1983. Efficacy of denning
+ in alleviating coyote depredations upon domestic
+ sheep. Journal of Wildlife Management 47:1018-1025.
+
+ U.S. DEPARTMENT OF AGRICULTURE. 1998. Utah sheep
+ report. National Agricultural Statistics Service, Agri-
+ cultural Statistics Board, Washington, D.C., USA.
+
+ WADE, D. A., AND J. E. BOwNS. 1985. Procedures for
+ evaluating predation on livestock and wildlife. Texas
+ Agricultural Experiment Station, Texas A&M Univer-
+ sity Bulletin B-1429, College Station, USA.
+
+ WAGNER K. K., AND M. R. CONOVER. 1999. Effect of pre-
+ ventive coyote hunting on sheep losses to coyote pre-
+ dation. Journal of Wildlife Management 63:606-612.
+
+ WHITE, G. C., AND R. A. GARROTT. 1990. Analysis of wild-
+ life radio-tracking data. Academic Press, New York,
+ USA.
+
+ WORTON, B.J. 1989. Kernel methods for estimating the
+ utilization distribution of home range studies. Ecol-
+ ogy 70:164-168.
+
+ ZEMLICKA, D. E. 1995. Seasonal variation in the behav-
+ ior of sterile and nonsterile coyotes. Thesis, Utah
+ State University, Logan, USA.
+
+ Received 17July 2000.
+ Accepted I February 2001.
+ Associate Editor: Maehr
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:14:55 UTC
+All use subject to http://about.jstor.org/terms
+
+
+	Contents
+	510
+	511
+	512
+	513
+	514
+	515
+	516
+	517
+	518
+	519
+
+	Issue Table of Contents
+	The Journal of Wildlife Management, Vol. 65, No. 3 (Jul., 2001), pp. 373-612
+	Front Matter
+	Invited Paper
+	Suggestions for Presenting the Results of Data Analyses [pp. 373-378]
+	The Fall of the Null Hypothesis: Liabilities and Opportunities [pp. 379-384]
+
+	Probability of Survival and Breeding for Juvenile Female Canvasbacks [pp. 385-397]
+	Effects of Mammalian Predator Removal on Production of Upland-Nesting Ducks in North Dakota [pp. 398-405]
+	Nutritional Consequences of Gastrolith Ingestion in Blue-Winged Teal: A Test of the Hard-Seed-for-Grit Hypothesis [pp. 406-414]
+	An Eastern Wild Turkey Population Dynamics Model for Virginia and West Virginia [pp. 415-424]
+	Spotted Owl Demography in the Central Sierra Nevada [pp. 425-431]
+	Spacing Behavior of the Middle Spotted Woodpecker in Central Europe [pp. 432-441]
+	Influence of Landscape Composition on Bird Use of Rowcrop Fields [pp. 442-449]
+	Nest Survival of Forest Birds in the Mississippi Alluvial Valley [pp. 450-460]
+	Effect of Primary and Secondary Repellents on European Starlings: An Initial Assessment [pp. 461-469]
+	Response of Breeding Florida Grasshopper and Bachman's Sparrows to Winter Prescribed Burning [pp. 470-475]
+	Brushtail Possum Mortality and Ambient Temperatures Following Aerial Poisoning Using 1080 [pp. 476-481]
+	Day-Roost Characteristics of Northern Bats in Mixed Mesophytic Forest [pp. 482-488]
+	Characteristics of Fringed Myotis Day Roosts in Northern California [pp. 489-497]
+	Negative Binomial Models for Abundance Estimation of Multiple Closed Populations [pp. 498-509]
+	Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep [pp. 510-519]
+	Winter Hunting Patterns of Wolves in and Near Glacier National Park, Montana [pp. 520-530]
+	Avoidance of Industrial Development by Woodland Caribou [pp. 531-542]
+	Effect of Adult Sex Ratio on Mule Deer and Elk Productivity in Colorado [pp. 543-551]
+	Age-Specific Causes of Mortality among Male White-Tailed Deer Support Mate-Competition Theory [pp. 552-559]
+	Effects of Winter Road Grooming on Bison in Yellowstone National Park [pp. 560-572]
+	Responses of Desert Bighorn Sheep to Increased Human Recreation [pp. 573-582]
+	Field Trials of Line Transect Methods Applied to Estimation of Desert Tortoise Abundance [pp. 583-597]
+	Book Reviews
+	Review: untitled [pp. 598-599]
+	Review: untitled [pp. 599-601]
+	Review: untitled [pp. 601-603]
+	Review: untitled [pp. 603-605]
+	Review: untitled [pp. 605-606]
+	Review: untitled [pp. 606-608]
+	Review: untitled [pp. 608-610]
+
+	Editorial: Maximizing the Likelihood of Publishing a Paper in "The Journal of Wildlife Management" [pp. 611-612]
+	Journal News [p. 612]
+	Back Matter
+
+
+

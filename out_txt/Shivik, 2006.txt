@@ -1,141 +1,151 @@
-Tools for the Edge: Whatís New
-for Conserving Carnivores
+data\Shivik, 2006.pdfaccess_permission:can_modify: true
+title: BISI5603_253-259
+access_permission:assemble_document: true
+X-TIKA:parse_time_millis: 110
+dc:creator: Prepress09
+access_permission:can_print_degraded: true
+created: Tue Feb 28 06:41:57 PST 2006
+meta:save-date: 2013-09-07T05:43:14Z
+creator: Prepress09
+access_permission:fill_in_form: true
+dcterms:modified: 2013-09-07T05:43:14Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2013-09-07T05:43:14Z
+access_permission:modify_annotations: true
+pdf:docinfo:creator_tool: QuarkXPress: pictwpstops filter 1.0
+meta:author: Prepress09
+Content-Type: application/pdf
+access_permission:extract_for_accessibility: true
+Creation-Date: 2006-02-28T14:41:57Z
+pdf:docinfo:creator: Prepress09
+meta:creation-date: 2006-02-28T14:41:57Z
+date: 2013-09-07T05:43:14Z
+xmpMM:DocumentID: uuid:6bf6d59c-a868-11da-ac1f-000a95787900
+xmpTPg:NPages: 7
+access_permission:extract_content: true
+pdf:docinfo:title: BISI5603_253-259
+access_permission:can_print: true
+dc:title: BISI5603_253-259
+dc:format: application/pdf; version=1.4
+Author: Prepress09
+modified: 2013-09-07T05:43:14Z
+producer: Acrobat Distiller 7.0.5 for Macintosh
+Last-Modified: 2013-09-07T05:43:14Z
+xmp:CreatorTool: QuarkXPress: pictwpstops filter 1.0
+pdf:docinfo:created: 2006-02-28T14:41:57Z
+pdf:PDFVersion: 1.4
+pdf:docinfo:modified: 2013-09-07T05:43:14Z
+dcterms:created: 2006-02-28T14:41:57Z
+pdf:docinfo:producer: Acrobat Distiller 7.0.5 for Macintosh
+!PDF_CONTENT!
+--------------------------------
 
-Biologistís Toolbox
 
-JOHN A . SH I V IK
 
-The loss of
-large carnivores at the edges of parks, preserves, and human habitations threatens the conservation of many species. Thus, effective 
-predation management is a conservation issue, and tools to mitigate conflicts between humans and predators are required. Both disruptive-stimulus
-(e.g., fladry, Electronic Guards, radio-activated guards) and aversive-stimulus (e.g., electronic training collars, less-than-lethal ammunition) approaches
-are useful, and technological advances have led to many new, commercially available methods. Evaluating the biological and economic efficiency of
-these methods is important. However, social and psychological effects should also be considered. The management of animal damage to human 
-property is necessary, and methods that allow the coexistence of
-livestock and large predators must be employed. With further research and 
-development that includes interdisciplinary approaches to management methods, biologists may be better able to conserve large carnivore species by
-ameliorating human conflicts with them.
 
-Keywords: animal behavior, aversive stimuli, endangered species, disruptive stimuli, predator conservation
 
-The comment that ìeveryoneís complaining about
 
-the weather, but no one is doing anything about itî is more
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BISI5603_253-259
+
+
+www.biosciencemag.org March 2006 / Vol. 56 No. 3 ‚Ä¢  BioScience 253
+
+The comment that ‚Äúeveryone‚Äôs complaining aboutthe weather, but no one is doing anything about it‚Äùis more
 a bromide than a joke, but conservationists have a similar re-
-
 frain: A plaintive cry echoes in ivory towers that too many
-
 species are spiraling into oblivion while too little is being
-
 done to forestall the losses. If we compare the ecological cri-
-
 sis of species loss to a series of fires, it seems that conserva-
-
-tionists tend to race each other,
-
-trying to be the first to
-
+tionists tend to race each other, trying to be the first to
 discover a new conflagration, rather than develop the tools that
-
 will extinguish the flames. The grants go to build race cars,
-
-when what we need is a squadron of fire enginesóor at least
-
+when what we need is a squadron of fire engines‚Äîor at least
 a few buckets of water. We need to do more than document
-
 extinctions; common sense dictates that we prevent them.
 
 The protection of large carnivores presents a particular chal-
-
 lenge because of the conflicts that can arise between human
-
-interestsóspecifically the protection of
-
-livestockóand the
-
+interests‚Äîspecifically the protection of livestock‚Äîand the
 maintenance of populations of predators. Conflict with peo-
-
 ple kills wolves (Canis lupus), lions (Panthera leo), leopards
-
 (Panthera pardus), cheetahs (Acinonyx jubatus), and spotted
-
 hyenas (Crocuta crocuta) where agricultural areas border
-
-these predatorsí range (Woodroffe and Ginsberg 1998, Ogada
-
+these predators‚Äô range (Woodroffe and Ginsberg 1998, Ogada
 et al. 2003), and conflict-mitigation measures are increasingly
-
 necessary as it becomes apparent that reserves and legal 
-
-status are not sufficient for ensuring predatorsí survival. For
-
-rare,
-
-large predators, reserves will probably never be big
-
+status are not sufficient for ensuring predators‚Äô survival. For
+rare, large predators, reserves will probably never be big
 enough, and transgression beyond their edges will continue
-
 to lead to the death of individuals and sometimes the decline
-
 of species (Woodroffe and Ginsberg 1998, Woodroffe 2001).
-
-Indeed, Woodroffe (2001) noted that ìreducing the numbers
-
+Indeed, Woodroffe (2001) noted that ‚Äúreducing the numbers
 of predators shot, speared, poisoned and trapped by people
-
 is the single most pressing need to halt global carnivore 
+declines.‚Äù Effective management of predator damage is also
 
-declines.î Effective management of predator damage is also
-
-a conservation issue, and the edgesóthat is, the intersections
-
-of carnivores, people, and livestockóare where efforts need
-
+a conservation issue, and the edges‚Äîthat is, the intersections
+of carnivores, people, and livestock‚Äîare where efforts need
 to be focused.
 
 This article provides a brief description of newly developing
-
 tools and concepts for scientists, conservationists, and man-
-
 agers. Classical and common techniques of wildlife damage
-
 management are described elsewhere (Hyngstrom et al. 1994,
-
 Conover 2002), as are surveys of common nonlethal meth-
-
 ods (Linnell et al. 1996, Smith et al. 2000, Shivik 2004).
-
 However, predation management is a discipline of rapidly
-
-grow ing theory,
-
-tools, and technology, necessitating an
-
+growing theory, tools, and technology, necessitating an
 overview of recent developments. I hope in this article to stim-
-
 ulate new applied and theoretical approaches and to spur the
-
 advancement of methods that conserve predators by resolv-
-
 ing their conflicts with humans.
 
 Tools and concepts
-
 Broadly, techniques for managing predation can be employed
-
 by government agencies and trained professionals in wildlife
-
 management, or applied by livestock producers and those di-
-
 rectly affected by predation. For example, husbandry practices
-
 such as gathering livestock into protected areas during 
-
 vulnerable times (e.g., shed lambing or night penning) are
-
 tools that owners have used for hundreds of years to protect
-
 livestock (Robel et al. 1981, Wagner 1988, Ogada et al. 2003).
 
 John A. Shivik (e-mail: john.shivik@aphis.usda.gov) works for the USDA
@@ -144,1102 +154,665 @@ APHIS Wildlife Services National Wildlife Research Center, and is a research
 
 associate professor in the  Department of Forest, Range, and Wildlife Sciences,
 
-Utah State University, Logan, UT 84322. © 2006 American Institute of
+Utah State University, Logan, UT 84322. ¬© 2006 American Institute of
 
 Biological Sciences.
 
-www.biosciencemag.org
+Tools for the Edge: What‚Äôs New
+for Conserving Carnivores
 
-March 2006 / Vol. 56 No. 3 ï  BioScience
+JOHN A. SHIVIK
 
-253
+The loss of large carnivores at the edges of parks, preserves, and human habitations threatens the conservation of many species. Thus, effective 
+predation management is a conservation issue, and tools to mitigate conflicts between humans and predators are required. Both disruptive-stimulus
+(e.g., fladry, Electronic Guards, radio-activated guards) and aversive-stimulus (e.g., electronic training collars, less-than-lethal ammunition) approaches
+are useful, and technological advances have led to many new, commercially available methods. Evaluating the biological and economic efficiency of
+these methods is important. However, social and psychological effects should also be considered. The management of animal damage to human 
+property is necessary, and methods that allow the coexistence of livestock and large predators must be employed. With further research and 
+development that includes interdisciplinary approaches to management methods, biologists may be better able to conserve large carnivore species by
+ameliorating human conflicts with them.
 
-Biologistís Toolbox
+Keywords: animal behavior, aversive stimuli, endangered species, disruptive stimuli, predator conservation
+
+Biologist‚Äôs Toolbox
+
+
+
+254 BioScience  ‚Ä¢  March 2006 / Vol. 56 No. 3 www.biosciencemag.org
 
 Similarly, predator-proof fences have been installed and stud-
-
 ied for generations (Jardine 1909). In this article I will con-
-
 centrate on novel (or less well-known and used) methods that
-
 are designed to be used by professional wildlife managers, es-
-
 pecially those managing rare or threatened species, to re-
-
 duce or ameliorate the effects of depredation.
 
 In a theoretical framework, there are two basic conceptual
-
 approaches to repelling carnivores (Clark 1997). First are
-
 disruptive-stimulus approaches (primary repellents), which
-
-act by disrupting appetitive behaviors and ìfrighteningî
-
+act by disrupting appetitive behaviors and ‚Äúfrightening‚Äù
 predators away from resources. Second are aversive-stimulus
-
 approaches (secondary repellents), which modify behavior
-
 through conditioning.
 
 Disruptive stimuli. Disruptive-stimulus approaches are at-
-
 tractive because of their relatively low cost and simplicity, but
-
 it is important to acknowledge that frightening devices are not
-
-a panacea for predatory woes (Bomford and OíBrien 1990).
-
+a panacea for predatory woes (Bomford and O‚ÄôBrien 1990).
 Predators will rarely form a conditional response to disrup-
-
 tive stimuli; rather, they normally habituate to the stimuli,
-
 which eventually renders the approach ineffective (Shivik
-
 and Martin 2001). However, a series of approaches are emerg-
-
 ing that may be suitable for high-risk, short-duration pre-
-
 dation threats.
 
 Fladry (figure 1) is a tool of ancient derivation for deter-
-
 ring wolves (Fritts 1982, Musiani and Visalberghi 2001) that
-
 has recently become commercially available and available by
-
-the kilometer (Carolís Creations, Arco, Idaho). Fladry is in-
-
+the kilometer (Carol‚Äôs Creations, Arco, Idaho). Fladry is in-
 stalled by hanging lines of flags around fields to prevent in-
-
 trusion; it has some effect of dissuading wolves from entering
-
 areas (Musiani et al. 2003), although other predators are not
-
 susceptible to it. Its effectiveness on less wary species (e.g.,
-
 ursid or avian predators) is limited (Shivik et al. 2003a), but
 
 initial estimates indicate a 60-day period of effectiveness for
-
 wolves. Essentially, anything new or different is likely to elicit
-
 avoidance behavior from predators, but this effect disap-
-
 pears over time. For example, fitting livestock with hard plas-
-
 tic collars (figure 2) may provide some protection (King
-
 2004), but eventually predators tend to return to killing,
-
 albeit in a different manner that avoids the collar (Burns and
-
 Mason 1996).
 
 The Electronic Guard (Linhart et al. 1992) uses a daylight
-
 sensor and a 12-volt battery to activate an intermittent siren
-
 and strobe light at night. When multiple units were used, and
-
 their locations altered, they provided significant protection
-
-(8ñ103 days) to sheep from coyotes (Linhart et al. 1992).
-
+(8‚Äì103 days) to sheep from coyotes (Linhart et al. 1992).
 However, the Electronic Guard is not currently produced
-
 and sold. More recently, however, a programmable light and
-
 sound device known as the ScareCall (figure 3; ML Designs,
-
 Goleta, California) has been developed, and production of it
-
 and other improved devices is likely. Although current ver-
-
 sions of electronic repellents have not been rigorously field
-
 tested, they may be at least as effective as Electronic Guards
-
 for protecting livestock in small areas, and more compact and
-
 effective than other noise- or light-making devices (Fritts
-
 1982).
 
-Methods of delay ing habituation,
-
-such as behav ior-
-
+Methods of delaying habituation, such as behavior-
 contingent activation (Shivik and Martin 2001), are impor-
-
 tant for increasing the longevity of effectiveness of disruptive
-
 stimuli, and modern sensors have been incorporated into
-
-some tools. The Model 9000 frightening dev ice (Av ian 
-
+some tools. The Model 9000 frightening device (Avian 
 Systems, Louisville, Kentucky), commonly known as the 
-
 radio-activated guard (RAG; figure 4), employs a scanning 
-
 radio receiver to monitor the proximity of radio-collared
-
 animals (Breck et al. 2003). If a radio-marked predator ap-
-
 proaches a protected area, such as a calving pasture, the unit
-
 activates a strobe light and a series of sound effects to prevent
-
 the predator from advancing. The RAG is complicated because
 
+Biologist‚Äôs Toolbox
+
 Figure 1. Fladry, a line of flags hung on the outside of a
-
 pasture to dissuade wolves from crossing it and entering
-
 the area. Photograph: John Shivik, US Department of
-
 Agriculture.
 
 Figure 2. The King Collar, a simple plastic collar de-
-
 signed to be worn by vulnerable livestock. Its intent is to
-
 provide armor-like protection to the throat of animals,
-
 the area where jackals and coyotes typically target their
-
 attacks. Photograph: Fred Knowlton, US Department of
-
 Agriculture.
 
-254
 
-BioScience  ï  March 2006 / Vol. 56 No. 3
 
-www.biosciencemag.org
-
-Biologistís Toolbox
-
-and randomization of stimulus location and presentation, have
-
-been indicated, but electronic devices are relatively new, and
-
-their use is probably far from being optimized.
-
-An old technology of special note due to its recent popu-
-
-larity is the use of guard dogs. Guard dogs were investigated
-
-in the late 1970s and 1980s in the United States (Linhart et
-
-al. 1979, Green et al. 1984) and have been largely incorporated
-
-into western US sheep production operations;
-
-indeed, by
-
-1993, 65 percent of the sheep producers in Colorado were us-
-
-ing guard dogs (Andelt 1999, Andelt and Hopper 2000).
-
-Dogs are thought to be effective against wolves in parts of Eu-
-
-rope (Rigg 2001, Fritts et al. 2003). In the United States, how-
-
-ever, complications arise when wolves sometimes befriend, or
-
-more often kill, guard dogs (Bangs et al. 2005). Indeed,
-
-throughout the world, wolves also kill dogs wherever the two
-
-canids occur, even to the point of dogsí being an important
-
-food supply for some wolves (Fritts et al. 2003). Thus, guard
-
-dogs are a useful tool, but not a panacea. Volumes have been
-
-written about the use of guard dogs worldwide (Rigg 2001),
-
-and in that sense, there is little new in their use. In a theoret-
-
-ical context, however, dogs and other guard animals (Green
-
-1989, Meadows and Knowlton 2000) can be thought of as 
-
-behav ior-contingent, multisensory disruptive stimulus 
-
-producers, and continued understanding of their training and
-
-use may result in what amounts to the ultimate disruptive
-
-stimulus device.
+www.biosciencemag.org March 2006 / Vol. 56 No. 3 ‚Ä¢  BioScience 255
 
 it requires radio-tagging predators, a significant effort.
-
 Alternatively, Shivik and colleagues (2003a) used a movement-
-
 activated guard (which uses passive infrared sensors to detect
-
 approaching predators) in a multiple-predator system and de-
-
 termined that the electronic devices were more effective than
-
 passive disruptive stimuli (fladry) or electronic training 
-
 collars (see below). More sophisticated sensor designs using
-
 radar and other technologies may result in sensors that are use-
-
 ful in a wide array of predation management situations.
 
 My lab is continually working with industry and electrical
-
 engineers to develop a variety of disruptive stimulus devices,
-
 but for biologists in the field, it also may be useful to consider
-
 unusual sources for ideas and products. In the United States,
-
 a survey of garden catalogs can uncover interesting devices,
-
 such as motion-activated Critter Gitters (Amtek Pet Products,
-
 San Diego) or motion-activated sprinkler systems (Contech
-
 Electronics Inc., Victoria, Canada) designed to protect vege-
-
 tation from deer. Most electronic frightening devices have
-
 shown limited effectiveness for field use on deer (Odocoileus
-
 spp.) and require improvement in sensor technology to re-
-
 duce occurrences of false alarms (Gilsdorf et al. 2004), but be-
-
 cause large carnivores are usually secretive, the devices may
-
 be very useful for them.
 
 Many aspects of electronic disruptive-stimulus devices re-
-
 quire more thorough research. The optimum area and du-
-
 ration of effective protection are not known, although a
-
-working hypothesis is 10 hectares and 2ñ3 months per device.
-
+working hypothesis is 10 hectares and 2‚Äì3 months per device.
 The relative (and potentially synergistic) effects of auditory
-
 and visual stimuli have not been adequately examined, nor
-
 has the effectiveness of incorporating other sensory modal-
-
 ities, such as olfactory stimuli. For simple stimuli, even wary
-
 animals such as wolves will eventually habituate completely
-
 and even approach the devices (Fritts 1982). Methods of de-
-
 creasing habituation, such as behavior-contingent activation
 
+and randomization of stimulus location and presentation, have
+been indicated, but electronic devices are relatively new, and
+their use is probably far from being optimized.
+
+An old technology of special note due to its recent popu-
+larity is the use of guard dogs. Guard dogs were investigated
+in the late 1970s and 1980s in the United States (Linhart et
+al. 1979, Green et al. 1984) and have been largely incorporated
+into western US sheep production operations; indeed, by
+1993, 65 percent of the sheep producers in Colorado were us-
+ing guard dogs (Andelt 1999, Andelt and Hopper 2000).
+Dogs are thought to be effective against wolves in parts of Eu-
+rope (Rigg 2001, Fritts et al. 2003). In the United States, how-
+ever, complications arise when wolves sometimes befriend, or
+more often kill, guard dogs (Bangs et al. 2005). Indeed,
+throughout the world, wolves also kill dogs wherever the two
+canids occur, even to the point of dogs‚Äô being an important
+food supply for some wolves (Fritts et al. 2003). Thus, guard
+dogs are a useful tool, but not a panacea. Volumes have been
+written about the use of guard dogs worldwide (Rigg 2001),
+and in that sense, there is little new in their use. In a theoret-
+ical context, however, dogs and other guard animals (Green
+1989, Meadows and Knowlton 2000) can be thought of as 
+behavior-contingent, multisensory disruptive stimulus 
+producers, and continued understanding of their training and
+use may result in what amounts to the ultimate disruptive
+stimulus device.
+
+Biologist‚Äôs Toolbox
+
 Figure 3. The ScareCall, a fully programmable light and
-
 sound device that can be suspended on a fence or tree in a
-
 pasture to prevent the advance and intrusion of wary car-
-
 nivores. The device can use randomly activating lights
-
 and repellent sound effects (e.g., gunfire), or can be pro-
-
 grammed with attractant calls (e.g., prey distress calls) to
-
 draw predators into an area for capture. Photograph:
-
 Martin Lilly, ML Designs.
 
 Figure 4. The radio-activated guard (Avian Systems
-
 Model 9000 frightening device). When a radio-collared
-
 predator approaches the area, the strobe light activates,
-
 along with a series of 30 sound effects. Photograph: John
-
 Shivik, US Department of Agriculture.
 
-www.biosciencemag.org
 
-March 2006 / Vol. 56 No. 3 ï  BioScience
 
-255
-
-256
-
-BioScience  ï  March 2006 / Vol. 56 No. 3
-
-www.biosciencemag.org
+256 BioScience  ‚Ä¢  March 2006 / Vol. 56 No. 3 www.biosciencemag.org
 
 Aversive stimuli and behavior modification. Aversive condi-
-
 tioning using electrical stimulation is common in the psy-
-
 chological literature and has also been applied commonly as
-
 a pet training tool (e.g., electronic dog training collars). Lin-
-
 hart and colleagues (1976) and Andelt and colleagues (1999)
-
 used electric shock to teach captive coyotes not to attack spe-
-
 cific prey. However, available technology was ineffective for
-
 conditioning wild wolves against attacking livestock, largely
-
 because of logistical concerns and variability in response to
-
 the negative stimulus (Shivik et al. 2003b). One approach, us-
-
 ing electrified wires paired with novel signals, may promote
-
-an aversion to a barrier; ìturbo fladryî that incorporates
-
+an aversion to a barrier; ‚Äúturbo fladry‚Äù that incorporates
 electrically charged wires, for example, is currently available
-
-(Carolís Creations, Arco, Idaho). Establishing conditioned
-
+(Carol‚Äôs Creations, Arco, Idaho). Establishing conditioned
 avoidance to fladry could result in a simple but efficient bar-
-
 rier for many predators. Other devices, such as the electrified
-
 Nuisance Bear Controller (R. E. Arnold, Superior, Wisconsin)
-
 may disrupt bear damage to apiaries and then condition the
-
 bears to avoid these localized resources.
 
 Physical harassment may be used to form an aversion to a
-
 behavior. For aversion, newly developed devices include
-
 paintball-type weapons using rounds filled with capsicum
-
 powder (PepperBall Technologies Incorporated, San Diego).
-
 Shotguns can be used to fire rubber bullets (Milstor Corpo-
-
 ration, Indio, California) or beanbag rounds (Defense Tech-
-
-nology Corporation of America,
-
-Jacksonv ille, Florida).
-
+nology Corporation of America, Jacksonville, Florida).
 Projectiles can be coupled with harassing dogs (Beckmann et
-
 al. 2004). However, sales of less-than-lethal ammunition may
-
 be limited to those authorized and trained by law enforcement
-
 personnel. Furthermore, their use may pose some risk both
-
 to the predator being shot and to the person who employs the
-
 projectiles. Capsaicin pepper rounds, for example, may require
-
-being within 20ñ30 meters (m) of a predator, and rubber bul-
-
-lets have limited accuracy at 60ñ100 m. Many predators are
-
+being within 20‚Äì30 meters (m) of a predator, and rubber bul-
+lets have limited accuracy at 60‚Äì100 m. Many predators are
 likely to develop a conditioned aversion to the person or ve-
-
 hicle applying the conditioning stimuli, rather than general-
-
 izing to an area or behavior. Furthermore, the duration of these
-
-methodsí effectiveness is likely to be limited to less than 1
-
+methods‚Äô effectiveness is likely to be limited to less than 1
 month for black bears (Beckmann et al. 2004).
 
 Because a high degree of vigilance is necessary to effectively
-
 repel predators from a site, a radio warning system (i.e., re-
-
 mote alarm) for nuisance bears has been developed in
-
 Yosemite National Park; when a bear is detected at a camp-
-
 ground, an automated system warns park rangers. The sys-
-
 tem has quadrupled the sightings of problem bears in
-
 campgrounds, and reduced the number of bear visits per
-
 night by one-third (Breck et al. 2005).
 
 Conditioned taste aversion (CTA) is a powerful training
-
 technique that was initially heralded as a broadly applicable
-
 solution to the problem of animal damage, but was then
-
 mired in controversy and equivocal results and is now not used
-
 even where it is legal (Conover and Kessler 1994). CTA may,
-
 however, be useful in many situations and should continue
-
 to be examined, especially for limiting consumptive behav-
-
 iors (e.g., bear damage to apiaries or crops), if not predation
 
 behaviors (i.e., hunting and killing) (Ternent and Garshelis
-
 1999).
 
 The use of contraception for predation management has
-
 recently been investigated, because predators that need to
-
 feed their offspring require more food than those that do not
-
 have young, and thus predators that have been sterilized are
-
 not as likely to damage livestock as are reproductive preda-
-
 tors (Till and Knowlton 1983). Bromley and Gese (2001)
-
 showed that sheep predation was reduced and predator ter-
-
 ritories were maintained when coyotes were sterilized. The
-
 technique may be counterproductive as a conservation tool
-
 if reproductive output is essential, but there is room for more
-
 investigation, because sterilization may help to stabilize lo-
-
 calized populations of predators and have longer-lasting ef-
-
 fectiveness than lethal methods, at least for territorial predators.
-
 Appropriate chemical contraceptives and delivery systems
-
 have not yet been developed, however, and additional re-
-
 search is required.
 
 Evaluating effectiveness and choosing a tool. There are three
-
 primary means to gauge the effectiveness and use of man-
-
 agement tools: biological efficiency, economic efficiency, and
-
 psychological assuagement. Table 1 provides an overview of
-
 the biological and economical efficiency of various methods.
-
-Relative to conservation goals,
-
-identifying the most useful
-
+Relative to conservation goals, identifying the most useful
 management technique is a process of optimizing the degree
-
 of intensive management relative to the biological importance
-
 of individual predators in the population (Shivik 2004). Eco-
-
 nomically, the effectiveness of a tool tends to be directly re-
-
 lated to its cost and complexity; therefore, choosing a tool to
-
 use is also an optimization process, balancing cost and com-
-
 plexity against maximum sustainable effectiveness. Further-
-
 more, because each method works for only a limited time, each
-
 method should be used only during the period of greatest po-
-
-tential for predatorñhuman conflict. A RAG box, for instance,
-
+tential for predator‚Äìhuman conflict. A RAG box, for instance,
 should be used only during the few months when calves are
-
 smallest and most vulnerable; the box should otherwise be re-
-
 moved from the field. It will lose all effectiveness if deployed
-
 throughout the year. Lastly, no one device is sufficient: Long-
-
 term conflicts will best be managed with a variety of tools.
 
 In general, nonlethal methods are usually considered ex-
-
-pensive (e.g., a RAG may cost $2000ñ$3000, in contrast with
-
+pensive (e.g., a RAG may cost $2000‚Äì$3000, in contrast with
 the < $1 price of a bullet), but ancillary costs, longevity of ef-
-
 fectiveness, and goals of conservation using each method
-
 should also be considered. Enjoying the coexistence of preda-
-
 tors and livestock is a luxury that may be unaffordable in some
-
 countries (Fritts et al. 2003), but the usefulness of newly de-
-
 veloped techniques may not be most appropriately evaluated
-
 by their ratio of cost to damage prevented; the expense is sub-
-
 sumed within the incalculable cost of the social decision to
-
 support predator populations.
 
 It is important to note that the success of a livestock pro-
-
 tection strategy is not wholly dependent on its biological or
-
 economic efficiency. From a biological perspective, the solu-
-
 tion is simple: If humans prefer one species over another, they
-
 could choose to manage wholly for the preferred species
 
-Biologistís Toolbox
+Biologist‚Äôs Toolbox
 
-www.biosciencemag.org
 
-March 2006 / Vol. 56 No. 3 ï  BioScience
 
-257
+www.biosciencemag.org March 2006 / Vol. 56 No. 3 ‚Ä¢  BioScience 257
 
 (e.g., livestock) and continue campaigns to remove all wolves
-
-(Coleman 2004). The humanñcarnivore relationship is a
-
+(Coleman 2004). The human‚Äìcarnivore relationship is a
 complex one, however (Kruuk 2002), with a variety of values
-
 and perspectives impinging. Therefore, when evaluating new
-
 devices and methods, the socioeconomic milieu of predator
-
 management should also be considered. That is, the success
-
 of a management technique often needs to be measured by
-
 the tolerance of humans for a predator, which is a social and
-
-psychological constructónot a predator ecology issueóthat
-
+psychological construct‚Äînot a predator ecology issue‚Äîthat
 is directly related to the ultimate conservation of a species. For
-
 example, using $1 million per year (Ed Bangs, US Fish and
-
 Wildlife Service, Helena, Montana, personal communica-
-
 tion, 13 April 2005) to protect domestic livestock from wolves
-
 in the Rocky Mountain West appears extreme given the low
-
 level of actual damage, an estimated loss of 128 cows in 2004
-
 (Boyd 2005). However, if herculean efforts to protect livestock
-
 were not made, local social carrying capacity could be lower,
-
 and wolf recovery in the lower 48 United States could be
-
 jeopardized.
 
-The subject of
-
-lethal control is also interesting and im-
-
+The subject of lethal control is also interesting and im-
 portant both biologically and psychologically. Lethal removal
-
 may be an important long-term practice for selecting against
-
 depredation behaviors in predator populations (Woodroffe
-
 and Frank 2005) and is ultimately useful for conserving
-
-predators. Relative to human attitudes and actions,
-
-in nu-
-
+predators. Relative to human attitudes and actions, in nu-
 merous conversations with wolf managers I have been told that
-
 an element required for successful reintroduction of wolves
-
-in the western United States is having the ability to ìbring wolf
-
-populations into recovery by shooting them.î In fact, one of
-
+in the western United States is having the ability to ‚Äúbring wolf
+populations into recovery by shooting them.‚Äù In fact, one of
 the most important tools for ensuring the successful re-
-
 introduction of some predators may be the ability to lethally 
-
 remove them; excessive concern for an individual predator or
-
 distaste for a particular management technique could be 
-
 indulged at the cost of a species. In terms of conservation in
-
 areas where predators and people interact, the required goal
-
 is not to convince the antipathetic to like carnivores, but to
-
 protect and assuage people enough that they trust biologists
-
 and managers and refrain from killing the predators them-
-
 selves.
 
 It is important for biologists to build a trusting relation-
-
 ship with local human populations in order to manage car-
-
 nivores and conflicts effectively. For example, the persecution
-
 of carnivores depends more on the traditional view of a
-
 species than on the actual damage the species causes (Frank
-
 and Woodroffe 2001), and for a management program to be
-
 successful (both for humans and for wildlife), it will need to
-
 operate accordingly. The methods described in this article can
-
 provide both biological and psychological benefit.
 
 Future needs
-
 Many of the techniques and concepts described in this arti-
-
 cle have been subjected to minimal testing, and much more
-
 applied research is required. Of greater concern is the potential
-
 for methods to be misapplied and the resulting failures gen-
-
 eralized, with subsequent loss of useful methods due to mis-
-
 understanding rather than reliable knowledge. Therefore,
-
 new tools should be applied in an adaptive management sys-
-
 tem during the limited periods of use indicated (table 1), and
-
 with a focus on understanding why they worked or failed to
-
 be effective.
 
 Clever application of biological theory in concert with in-
-
-novative,
-
-inexpensive technology could go a long way to-
-
-ward promoting humanñcarnivore coexistence. It is true that
-
-high-tech approaches such as some of
-
-those described in
-
+novative, inexpensive technology could go a long way to-
+ward promoting human‚Äìcarnivore coexistence. It is true that
+high-tech approaches such as some of those described in
 this article may be affordable only to affluent stakeholders, at
-
 least until more ingenious and inexpensive designs are in-
-
 vented (Sillero-Zubiri et al. 2004), but human coexistence with
-
 predators may be a luxury worth the effort.
 
 Future solutions need to emerge from a mix of biology, so-
-
 ciology, and technology. Attracting students from fields out-
-
 side the biological sciences, such as sociology and engineering,
-
 may be a useful approach. The study of human dimensions
-
 of wildlife management also appears to be growing in strength,
-
 and carnivore biologists should add understanding of
-
-humanñecosystem relationships to their arsenal of
-
-tools.
-
+human‚Äìecosystem relationships to their arsenal of tools.
 While technological advances may well lead to further im-
-
 provement in predator management, ultimately some of the
-
 tools that are most desperately needed are social ones.
 
-Biologistís Toolbox
+Biologist‚Äôs Toolbox
 
-Table 1. Comparison of tools for managing humanñcarnivore conflicts.
+Table 1. Comparison of tools for managing human‚Äìcarnivore conflicts.
 
-Cost estimate 
-(US dollars)
+Cost estimate Duration of effectiveness
+Tool (US dollars) (species deterred) References
 
-Duration of effectiveness
-(species deterred) 
+Electronic Guard Not commercially available 40‚Äì50 days (coyote) Linhart et al. 1992
 
-Tool
+Fertility control 600 per animal 2‚Äì3 years (coyote) Bromley and Gese 2001
 
-References
+Fladry 781 per km fladry, 60 days (wolf), > 2 days (coyote), Musiani and Visalberghi 2001,
+1328 per km turbo fladry ineffective (black bear) Musiani et al. 2003, Shivik et al. 
 
-Electronic Guard
-
-Not commercially available
-
-40ñ50 days (coyote)
-
-Linhar t et al. 1992
-
-Fer tility control
-
-600 per animal
-
-2ñ3 years (coyote)
-
-Bromley and Gese 2001
-
-Fladry
-
-781 per km fladry,
-1328 per km turbo fladry
-
-60 days (wolf), > 2 days (coyote),
-ineffective (black bear)
-
-Musiani and Visalberghi 2001,
-Musiani et al. 2003, Shivik et al. 
 2003a, Mettler 2005
 
-Guard dog
+Guard dog 200‚Äì450 initial cost, Life of guard animal; typically years Rigg 2001, Andelt 2004
+250 per year (nearly all predatory species worldwide)
 
-200ñ450 initial cost,
-250 per year
+Hazing/translocation > 400 per bear 40 days (black bear) Beckmann et al. 2004
 
-Life of guard animal; typically years
-(nearly all predatory species worldwide)
+Lights, noise, simple stimuli 50‚Äì200 Several days (wolf, coyote) Koehler et al. 1990
 
-Rigg 2001, Andelt 2004
+Radio- or movement- 3000 3 months (wolf), weeks (black bear, Breck et al. 2003, Shivik et al. 
+activated guard bald eagle, turkey vulture) 2003a
 
-Hazing/translocation
-
-> 400 per bear
-
-40 days (black bear)
-
-Beckmann et al. 2004
-
-Lights, noise, simple stimuli
-
-50ñ200
-
-Several days (wolf, coyote)
-
-Koehler et al. 1990
-
-Radio- or movement-
-activated guard
-
-3000
-
-3 months (wolf), weeks (black bear,
-bald eagle, turkey vulture)
-
-Breck et al. 2003, Shivik et al. 
-2003a
-
-Training collar
-
-200ñ300
-
-1ñ9 months (coyote), ineffective (wolf) 
-
-Linhar t et al. 1976, Andelt et al. 
+Training collar 200‚Äì300 1‚Äì9 months (coyote), ineffective (wolf) Linhart et al. 1976, Andelt et al. 
 1999, Shivik et al 2003a, 2003b
 
 km, kilometer.
 
-258
 
-BioScience  ï  March 2006 / Vol. 56 No. 3
 
-www.biosciencemag.org
+258 BioScience  ‚Ä¢  March 2006 / Vol. 56 No. 3 www.biosciencemag.org
 
 Acknowledgments
-
 I thank all of the scientists worldwide who are working on ways
-
 for humans and predators to coexist, especially those at the
-
 Wildlife Services National Wildlife Research Center with
-
 whom I continue to work closely. The comments of Michael
-
 Bodenchuk, Stewart Breck, and several anonymous review-
-
 ers on earlier versions of this article were greatly appreciated.
 
 References cited
-
 Andelt WF. 1999. Relative effectiveness of guarding-dog breeds to deter 
 
 predation on domestic sheep in Colorado. Wildlife Society Bulletin 27:
+706‚Äì714.
 
-706ñ714.
-
-óóó. 2004. Use of
-
-livestock guarding animals to reduce predation on 
-
-livestock. Sheep and Goat Research Journal 19: 72ñ75.
+‚Äî‚Äî‚Äî. 2004. Use of livestock guarding animals to reduce predation on 
+livestock. Sheep and Goat Research Journal 19: 72‚Äì75.
 
 Andelt WF, Hopper SN. 2000. Livestock guard dogs reduce predation on 
-
-domestic sheep in Colorado. Journal of Range Management 53: 259ñ267.
+domestic sheep in Colorado. Journal of Range Management 53: 259‚Äì267.
 
 Andelt WF, Phillips RL, Gruver KS, Guthrie JW. 1999. Coyote predation on
-
 domestic sheep deterred with electronic dog-training collar. Wildlife
-
-Society Bulletin 27: 12ñ18.
+Society Bulletin 27: 12‚Äì18.
 
 Bangs E, et al. 2005. Livestock guarding dogs and wolves in the northern Rocky
-
 Mountains of the United States. Carnivore Damage Prevention News 8:
-
-32ñ39.
+32‚Äì39.
 
 Beckmann JP, Lackey CW, Berger J. 2004. Evaluation of deterrent techniques
+and dogs to alter behavior of ‚Äúnuisance‚Äù black bears. Wildlife Society 
+Bulletin 32: 1141‚Äì1146.
 
-and dogs to alter behavior of ìnuisanceî black bears. Wildlife Society 
-
-Bulletin 32: 1141ñ1146.
-
-Bomford B, OíBrien PH. 1990. Sonic deterrents in animal damage control:
-
+Bomford B, O‚ÄôBrien PH. 1990. Sonic deterrents in animal damage control:
 A review of device tests and effectiveness. Wildlife Society Bulletin 18:
-
-411ñ422.
+411‚Äì422.
 
 Boyd D, ed. 2005. Rocky Mountain Wolf Recovery 2004 Annual Report.
-
 Helena (MT): US Fish and Wildlife Service; Nez Perce Tribe; National Park
-
 Service; Montana Fish, Wildlife and Parks; Idaho Fish and Game; USDA
-
 Wildlife Services.
 
 Breck SW, Williamson R, Niemeyer C, Shivik JA. 2003. Non-lethal radio 
-
 activated guard for deterring wolf depredation in Idaho: Summary and
-
-call for research. Vertebrate Pest Conference 20: 223ñ226.
+call for research. Vertebrate Pest Conference 20: 223‚Äì226.
 
 Breck SW, Lance N, Bourassa J, Mathews S. 2005. Remote Alarm Aids 
-
 Non-lethal Management of Black Bears in Yosemite National Park:
-
 Final Report. Fort Collins (CO): National Wildlife Research Center.
 
 Bromley C, Gese EM. 2001. Surgical sterilization as a method of reducing 
-
 coyote predation on domestic sheep. Journal of Wildlife Management 65:
-
-510ñ519.
+510‚Äì519.
 
 Burns RJ, Mason JR. 1996. Effectiveness of Vichos non-lethal collars in 
-
-deterring coyote attacks on sheep. Vertebrate Pest Conference 17: 204ñ206.
+deterring coyote attacks on sheep.Vertebrate Pest Conference 17: 204‚Äì206.
 
 Clark L. 1997. Physiological, ecological, and evolutionary bases for the avoid-
-
-ance of chemical irritants by birds. Current Ornithology 14: 1ñ37.
+ance of chemical irritants by birds. Current Ornithology 14: 1‚Äì37.
 
 Coleman JT. 2004. Vicious: Wolves and Men in America. New Haven (CT):
-
 Yale University Press.
 
-Conover M. 2002. Resolving HumanñWildlife Conflicts: The Science of
-
+Conover M. 2002. Resolving Human‚ÄìWildlife Conflicts: The Science of
 Wildlife Damage Management. Boca Raton (LA): CRC Press.
 
 Conover MR, Kessler KK. 1994. Diminished producer participation in an aver-
-
 sive conditioning program to reduce coyote depredation on sheep.
-
-Wildlife Society Bulletin 22: 229ñ233.
+Wildlife Society Bulletin 22: 229‚Äì233.
 
 Frank L, Woodroffe R 2001. Behaviour of carnivores in exploited and 
-
-controlled populations. Pages 419ñ442 in Gittleman JL, Funk SM,
-
+controlled populations. Pages 419‚Äì442 in Gittleman JL, Funk SM,
 Macdonald DW, Wayne RK, eds. Carnivore Conservation. Cambridge
-
 (United Kingdom): Cambridge University Press.
 
 Fritts SH. 1982. Wolf Depredation on Livestock in Minnesota. Washington
-
 (DC): US Fish and Wildlife Service. Resource Publication 145.
 
 Fritts SH, Stephenson RO, Hayes RD, Boitani L. 2003. Wolves and humans.
-
-Pages 289ñ316 in Mech LD, Boitani L, eds. Wolves: Behavior, Ecology, and
-
+Pages 289‚Äì316 in Mech LD, Boitani L, eds.Wolves: Behavior, Ecology, and
 Conservation. Chicago: University of Chicago Press.
 
-Gilsdorf JM, Hyngstrom SE, Vercauteren KC, Clements GM, Blankenship EE,
-
+Gilsdorf JM, Hyngstrom SE,Vercauteren KC, Clements GM, Blankenship EE,
 Engeman RM. 2004. Evaluation of a deer-activated bio-acoustic fright-
-
 ening device for reducing deer damage in cornfields. Wildlife Society 
-
-Bulletin 32: 515ñ523.
+Bulletin 32: 515‚Äì523.
 
 Green JS. 1989. Donkeys for predation control. Proceedings of the Eastern
-
-Wildlife Damage Control Conference 4: 83ñ86.
+Wildlife Damage Control Conference 4: 83‚Äì86.
 
 Green JS, Woodruff RA, Tueller TT. 1984. Livestock-guarding dogs for
-
 predator control: Costs, benefits and practicality. Wildlife Society 
-
-Bulletin 12: 44ñ50.
+Bulletin 12: 44‚Äì50.
 
 Hyngstrom SE, Timm RM, Larson GE. 1994. Prevention and Control of
-
 Wildlife Damage. Lincoln (NE): University of Nebraska Cooperative
-
 Extension.
 
 Jardine JT. 1909. Coyote-proof Pasture Experiment. Washington (DC): US
-
 Department of Agriculture.
 
 King L. 2004. King Collar: Predator protection collars for small livestock.
-
-Carnivore Damage Prevention News 7: 8ñ9.
+Carnivore Damage Prevention News 7: 8‚Äì9.
 
 Koehler AE, March RE, Salmon TP. 1990. Frightening methods and 
-
-devices/stimuli to prevent mammal damageóa review. Vertebrate Pest
-
-Conference 14: 168ñ173.
+devices/stimuli to prevent mammal damage‚Äîa review. Vertebrate Pest
+Conference 14: 168‚Äì173.
 
 Kruuk H. 2002. Hunter and Hunted: Relationships between Carnivores and
-
 People. Cambridge (United Kingdom): Cambridge University Press.
 
 Linhart SB, Roberts JD, Shumake SA, Johnson R. 1976. Avoidance of prey by
-
-captive coyotes punished with electric shock. Vertebrate Pest Conference
-
-7: 302ñ306.
+captive coyotes punished with electric shock.Vertebrate Pest Conference
+7: 302‚Äì306.
 
 Linhart SB, Sterner RT, Carrigan TC, Henne DR. 1979. Komondor guard dogs
-
 reduce sheep losses to coyotes: A preliminary evaluation. Journal of
-
-Range Management 32: 238ñ241.
+Range Management 32: 238‚Äì241.
 
 Linhart SB, Dasch GJ, Johnson RR, Roberts JD, Packham CJ. 1992. Electronic
-
 frightening devices for reducing coyote predation on domestic sheep:
-
 Efficacy under range conditions and operational use. Vertebrate Pest 
-
-Conference 15: 386ñ392.
+Conference 15: 386‚Äì392.
 
 Linnell JDC, Smith ME, Odden J, Kaczensky P, Swenson JE. 1996. Carnivores
-
 and sheep farming in Norway, 4: Strategies for the reduction of
-
-carnivoreñlivestock conflicts: A review. NINA Oppdragsmelding 443:
-
-1ñ118.
+carnivore‚Äìlivestock conflicts: A review. NINA Oppdragsmelding 443:
+1‚Äì118.
 
 Meadows LE, Knowlton FF. 2000. Efficacy of guard llamas to reduce canine
-
-predation on domestic sheep. Wildlife Society Bulletin 28: 614ñ622.
+predation on domestic sheep. Wildlife Society Bulletin 28: 614‚Äì622.
 
 Mettler AE. 2005. Investigation into behavioral responses of predators to novel
-
-visual stimuli. Masterís thesis. Utah State University, Logan.
+visual stimuli. Master‚Äôs thesis. Utah State University, Logan.
 
 Musiani M, Visalberghi E. 2001. Effectiveness of fladry on wolves in captiv-
+ity. Wildlife Society Bulletin 29: 91‚Äì98.
 
-ity. Wildlife Society Bulletin 29: 91ñ98.
-
-Musiani M, Mamo C, Boitani L, Callaghan C, Gates CC, Mattei L, Visalberghi
-
+Musiani M, Mamo C, Boitani L, Callaghan C, Gates CC, Mattei L,Visalberghi
 E, Breck S, Volpi G. 2003. Wolf depredation trends and the use of fladry
-
 barriers to protect livestock in western North America. Conservation 
-
-Biology 17: 1538ñ1547.
+Biology 17: 1538‚Äì1547.
 
 Ogada MO, Woodroffe R, Oguge N, Frank LG. 2003. Limiting depredation
-
-by African carnivores: The role of
-
-livestock husbandry. Conservation 
-
-Biology 17: 1521ñ1530.
+by African carnivores: The role of livestock husbandry. Conservation 
+Biology 17: 1521‚Äì1530.
 
 Rigg R. 2001. Livestock Guarding Dogs: Their Current Use World Wide.
-
 IUCN/SSC Canid Specialist Group Occasional Paper No. 1. (27 January
-
 2006; http://canids.org/occasionalpapers/livestockguardingdog.pdf)
 
 Robel RJ, Dayton RD, Henderson FR, Meduna RL, Spaeth CW. 1981.
-
 Relationships between husbandry methods and sheep losses to canine
-
-predators. Journal of Wildlife Management 45: 894ñ911.
+predators. Journal of Wildlife Management 45: 894‚Äì911.
 
 Shivik JA. 2004. Non-lethal alternatives for predation management. Sheep
-
-and Goat Research Journal 19: 64ñ71.
+and Goat Research Journal 19: 64‚Äì71.
 
 Shivik JA, Martin DJ. 2001. Aversive and disruptive stimulus applications for
-
 managing predation. Wildlife Damage Management Conference 9:
-
-111ñ119.
+111‚Äì119.
 
 Shivik JA, Callahan P, Treves A. 2003a. Non-lethal techniques: Primary and
-
 secondary repellents for managing predation. Conservation Biology 17:
-
-1531ñ1537.
+1531‚Äì1537.
 
 Shivik JA, Asher V, Bradley L, Kunkel K, Phillips M, Breck S, Bangs E. 2003b.
-
-Electronic aversive conditioning for managing wolf predation. Vertebrate
-
-Pest Conference 20: 227ñ231.
+Electronic aversive conditioning for managing wolf predation.Vertebrate
+Pest Conference 20: 227‚Äì231.
 
 Sillero-Zubiri C, Reynolds J, Navaro AJ. 2004. Management and control 
-
-of wild canids alongside people. Pages 107ñ122 in Macdonald DW,
-
+of wild canids alongside people. Pages 107‚Äì122 in Macdonald DW,
 Sillero-Zubiri C, eds. The Biology and Conservation of Wild Canids.
-
 Oxford (United Kingdom): Oxford University Press.
 
 Smith ME, Linnell JDC, Odden J, Swenson JE. 2000. Review of methods to
-
 reduce livestock depredation, II: Aversive conditioning, deterrents, and
+repellents. Acta Agriculturae Scandinavica 50: 291‚Äì303.
 
-repellents. Acta Agriculturae Scandinavica 50: 291ñ303.
+Biologist‚Äôs Toolbox
 
-Biologistís Toolbox
 
-
+
+www.biosciencemag.org March 2006 / Vol. 56 No. 3 ‚Ä¢  BioScience 259
+
+Ternent MA, Garshelis DL. 1999. Taste-aversion conditioning to reduce
+
+nuisance activity by black bears in a Minnesota military reservation.
+
+Wildlife Society Bulletin 27: 720‚Äì728.
+
+Till JA, Knowlton FF. 1983. Efficacy of denning in alleviating coyote depre-
+
+dations upon domestic sheep. Journal of Wildlife Management 47:
+
+1018‚Äì1025.
+
+Wagner FH. 1988. Predator Control and the Sheep Industry. Claremont
+
+(CA): Regina Books.
+
+Woodroffe R. 2001. Strategies for carnivore conservation: Lessons from
+contemporary extinctions. Pages 61‚Äì92 in Gittleman JL, Funk SM, Mac-
+donald D, Wayne RK, eds. Carnivore Conservation. Cambridge (United
+Kingdom): Cambridge University Press.
+
+Woodroffe R, Frank LG. 2005. Lethal control of African lions (Panthera
+leo): Local and regional population impacts. Animal Conservation 8:
+91‚Äì98.
+
+Woodroffe R, Ginsberg JR. 1998. Edge effects and the extinction of popula-
+tions inside protected areas. Science 280: 2126‚Äì2128.
+
+Biologist‚Äôs Toolbox
+
+

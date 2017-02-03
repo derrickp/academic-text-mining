@@ -1,118 +1,187 @@
+data\Zemlicka & Mason, 2000.pdfaccess_permission:can_modify: true
+title: Response of Captive Coyotes to Renardine Coyote Repellent
+dc:title: Response of Captive Coyotes to Renardine Coyote Repellent
+X-TIKA:parse_time_millis: 29
+access_permission:assemble_document: true
+dc:creator: D. E. Zemlicka and J. R. Mason
+pdf:docinfo:custom:Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+access_permission:can_print_degraded: true
+created: Tue Nov 05 06:44:14 PST 2013
+meta:save-date: 2013-11-05T14:44:14Z
+pdf:PDFVersion: 1.6
+access_permission:fill_in_form: true
+pdf:docinfo:modified: 2013-11-05T14:44:14Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2013-11-05T14:44:14Z
+SPDF: 1122.1
+dcterms:modified: 2013-11-05T14:44:14Z
+pdf:docinfo:creator_tool: Appligent APSetDocInfo 2.2.2
+Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+meta:author: D. E. Zemlicka and J. R. Mason
+Author: D. E. Zemlicka and J. R. Mason
+access_permission:extract_for_accessibility: true
+Creation-Date: 2013-11-05T14:44:14Z
+pdf:docinfo:creator: D. E. Zemlicka and J. R. Mason
+meta:creation-date: 2013-11-05T14:44:14Z
+xmpTPg:NPages: 4
+access_permission:extract_content: true
+access_permission:modify_annotations: true
+pdf:docinfo:custom:SPDF: 1122.1
+pdf:docinfo:title: Response of Captive Coyotes to Renardine Coyote Repellent
+access_permission:can_print: true
+date: 2013-11-05T14:44:14Z
+dc:format: application/pdf; version=1.6
+pdf:docinfo:producer: SPDF
+modified: 2013-11-05T14:44:14Z
+producer: SPDF
+Last-Modified: 2013-11-05T14:44:14Z
+pdf:docinfo:created: 2013-11-05T14:44:14Z
+creator: D. E. Zemlicka and J. R. Mason
+xmp:CreatorTool: Appligent APSetDocInfo 2.2.2
+Content-Type: application/pdf
+dcterms:created: 2013-11-05T14:44:14Z
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Response of Captive Coyotes to Renardine Coyote Repellent
+
+
 University of Nebraska - Lincoln
-
 DigitalCommons@University of Nebraska - Lincoln
-
 USDA National Wildlife Research Center - Staff
-Publications
-
-Wildlife Damage Management, Internet Center for
+Publications Wildlife Damage Management, Internet Center for
 
 1-1-2000
 
 Response of Captive Coyotes to Renardine Coyote
 Repellent
-
 D. E. Zemlicka
-
 USDA-APHIS-WS-National Wildlife Research Center
 
-J. R . Mason
-
+J. R. Mason
 USDA-APHIS-WS-National Wildlife Research Center
 
 Follow this and additional works at: http://digitalcommons.unl.edu/icwdm_usdanwrc
+Part of the Environmental Sciences Commons
 
-Part of the Env ironmental Sciences Commons
+This Article is brought to you for free and open access by the Wildlife Damage Management, Internet Center for at DigitalCommons@University of
+Nebraska - Lincoln. It has been accepted for inclusion in USDA National Wildlife Research Center - Staff Publications by an authorized administrator
+of DigitalCommons@University of Nebraska - Lincoln.
 
-Zemlicka, D. E. and Mason, J. R ., "Response of Captive Coyotes to Renardine Coyote Repellent" (2000). USDA National Wildlife
+Zemlicka, D. E. and Mason, J. R., "Response of Captive Coyotes to Renardine Coyote Repellent" (2000). USDA National Wildlife
 Research Center - Staff Publications. Paper 805.
 http://digitalcommons.unl.edu/icwdm_usdanwrc/805
 
-This Article is brought to you for free and open access by the Wildlife Damage Management, Internet Center for at DigitalCommons@University of
+http://digitalcommons.unl.edu?utm_source=digitalcommons.unl.edu%2Ficwdm_usdanwrc%2F805&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/icwdm_usdanwrc?utm_source=digitalcommons.unl.edu%2Ficwdm_usdanwrc%2F805&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/icwdm_usdanwrc?utm_source=digitalcommons.unl.edu%2Ficwdm_usdanwrc%2F805&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/icwdm?utm_source=digitalcommons.unl.edu%2Ficwdm_usdanwrc%2F805&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/icwdm_usdanwrc?utm_source=digitalcommons.unl.edu%2Ficwdm_usdanwrc%2F805&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://network.bepress.com/hgg/discipline/167?utm_source=digitalcommons.unl.edu%2Ficwdm_usdanwrc%2F805&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/icwdm_usdanwrc/805?utm_source=digitalcommons.unl.edu%2Ficwdm_usdanwrc%2F805&utm_medium=PDF&utm_campaign=PDFCoverPages
 
-Nebraska - Lincoln. It has been accepted for inclusion in USDA National Wildlife Research Center - Staff Publications by an authorized administrator
 
-of DigitalCommons@University of Nebraska - Lincoln.
-
-. 
-
+. 
 RESPONSE OF CAPTIVE COYOTES TO RENARDINE COYOTE REPELLENT 
 
 D. E. ZEMLICKA, and J. R. MASON, USDA-APHIS-WS-National Wildlife Research Center, BNR-163, Utah State 
 University, Logan, Utah 84322-52954. 
 
-ABSTRACT: Renardine' is a bone tar product available for use as a coyote ( h i s latrans) repellent in Canada. The 
+ABSTRACT: Renardine' is a bone tar product available for use as a coyote ( h i s  latrans) repellent in Canada. The 
 substance is applied to pasture borders to prevent coyotes from entering and attackiig sheep. Because data regardiig 
 the effectiveness of Renardine are lacking, we designed two experiments. In the first, six pairs of coyotes were first 
 presented with 400 g of ground meat in two pans (200 gtpan) with false screen bottoms. Beneath the screens were 
 absorbent tubes wetted with 10 ml of distilled water. Subsequently, during a treatment period, the absorbent tube was 
 wetted with 10 ml of Renardine. Pans were presented for 60 minutes, and the amount of time to consume the meat was 
-recorded. 
-In the second experiment, six additional pairs of coyotes were fm t presented with 200 g of ground meat 
+recorded. In the second experiment, six additional pairs of coyotes were fmt presented with 200 g of ground meat 
 inside a barrier created with baling twine and wooden dowels. The area inside the barrier was 1 m2, and the twine was 
 tied onto the dowels 0.25 m above the ground. During the treatment period, the twine and dowels were painted with 
-Renardine. 
-In both experiments, all coyote pairs consumed all of the ground meat shortly after presentation. We 
+Renardine. In both experiments, all coyote pairs consumed all of the ground meat shortly after presentation. We 
 conclude that Renardine probably is not an effective coyote repellent. However, because the active ingredient in 
 Renardine is bone tar oil and bone tar oil is deer repellent, we speculate that Renardine may have utility as an herbivore 
 repellent. 
 
 KEY WORDS: Ca~is,lufrans, coyote, depredation, livestock, Renardine, repellent 
 
-(March 6-9, 
-
-2000 , Sari D i e g o , C a l i f o r n i a ) 
-
 Proc. 19th Vertebr. Pest Conf. (T.P. Salmon & A.C. Crabb, 
-Eds.1 Published at Univ. of Calif., Davis. 2000. 
-
-that 
+(March 6-9, 2000, Sari Diego, Cal i fornia)  Eds.1 Published at Univ. of Calif., Davis. 2000. 
 
 INTRODUCTION 
-Despite high 
-interest, few non-lethal methods of 
+Despite high interest, few non-lethal methods of 
+
 coyote depredation management are available. Methods 
 that do exist (e.g., various husbandry practices, fencing, 
-frightening devices, guard 
-animals) 
-are 
-expensive, 
+frightening devices, guard animals) are expensive, 
 sometimes difficult to implement, and often effective for 
 short periods only (Knowlton et al. 1999). While a 
 number of sensory (Burns and Mason 1997) and post- 
 ingestive (Gustavson et al. 1974) repellents have been 
 tested as cost-effective, non-lethal deterrents to predation, 
-no effective strategy has been identified. 
-Even under 
+no effective strategy has been identified. Even under 
 optimal circumstances, relief is temporary (Lehner 1987; 
 Lehner et al. 1976). This lack of success may 'reflect the 
-fact 
-killing 
-and 
-consumption 
-are 
-differently 
+fact that killing and consumption are differently 
 motivated; indeed, chemical repellents can readily deter 
 coyotes when the act of predation is not the behavior of 
 concenl (Werner et al. 1997). 
-Recently, 
-another 
-chemical 
-repellent 
-became 
+
+Recently, another chemical repellent became 
 commercially available in Canada as a coyote deterrent. 
-Renardine 
-(Roebuck-Eyot, Bishop Aukland, County 
+Renardine (Roebuck-Eyot, Bishop Aukland, County 
 Durham, United Kingdom) is a bone tar and kerosine 
 emulsion originally developed in the United Kingdom as 
 a red fox repellent. The label instructions indicate that 
 Renardiie is to be applied to pasture borders to prevent 
 mammalian predators from entering and killing livestock. 
-We designed 
-the present experiments to test 
-the 
-potential efficacy of Renardine for two reasons. 
-First, 
+
+We designed the present experiments to test the 
+potential efficacy of Renardine for two reasons. First, 
 bone tar oil is a known repellent for herbivores (Denton 
 1967), but herbivore repellents often attract carnivores 
 (Mason et al. 1994). Second, there is almost no evidence 
@@ -120,11 +189,7 @@ that repellents cause animals to abandon areas, except
 when highly palatable and easily obtained alternative 
 foods are readily available nearby (Milunas et al. 1994). 
 
-'Mention of 
-trade names 
-and manufacturers 
-is 
-for 
+'Mention of trade names and manufacturers is for 
 identification only and does not imply endorsement by 
 the U.S. Department of Agriculture. 
 
@@ -134,6 +199,7 @@ resume damage (El Hani and Conover 1998).
 
 MATERIALS AND METHODS 
 Tests were conducted between February and May 
+
 1999 in 0.1 ha pens at the Logan Field Station of the 
 National Wildlife Research Center (NWRC), located 8 
 lan south of Logan, Utah. Twelve male-female pairs of 
@@ -144,67 +210,52 @@ and water ad libitum.
 
 Experiment 1 
 Six coyote pairs were randomly selected from the 12 
-pairs assigned 
-to 
-the study. 
-During a two week 
+
+pairs assigned to the study. During a two week 
 adaptation period, in addition to their daily feed ration 
 on Mondays through Fridays, each pair was given 400 g 
 of ground meat in two aluminum pans (200 glpan) placed 
-2 m 
-inside the entrance to 
-the pen. 
-Presentations 
+2 m inside the entrance to the pen. Presentations 
 occurred about 60 minutes following presentation of the 
-daily ration. 
-Each pan had a false bottom, fabricated 
+daily ration. Each pan had a false bottom, fabricated 
 frorp a piece of hardware cloth (0.5 cm2 squares). An 
 absorbent tube, wetted with 10 ml of water was placed 
 beneath the false bottom. Time to consume the feed was 
 recorded. 
-A 
-two week 
-test period 
-immediately 
-followed 
-adaptation. 
-In addition to their daily feed ration on 
+
+A two week test period immediately followed 
+adaptation. In addition to their daily feed ration on 
 Mondays through Fridays, all pairs were again presented 
 with 400 g of feed in aluminum pans with false screen 
-bottoms. 
-The absorbent tube beneath the screen was 
-wetted with 10 rnl of Renardine. T i e to consume the 
-400 g of 
-feed was 
-recorded. 
-These values were 
+bottoms. The absorbent tube beneath the screen was 
+wetted with 10 rnl of Renardine. T i e  to consume the 
+400 g of feed was recorded. These values were 
 statistically evaluated in a two-factor repeated measures 
 analysis of variance (ANOVA). The factors were period 
 (two levels; adaptation, testing) and days (five levels). 
 
-Exwriment 2 
+
+
+Exwriment 2 
 The remaining six pairs of coyotes were presented 
+
 with ground meat inside barriers constructed with twine 
-and four wooden dowels. 
-As 
-in Experiment 1, the 
+and four wooden dowels. As in Experiment 1, the 
 ground meat was in addition to their daily feed ration on 
 Mondays through Fridays, and testing occurred about 60 
 minutes after presentation of the daily feed ration. The 
 area inside each barrier was 1 m2 and the twine was tied 
 onto the dowels 0.25 m above the ground. During the 
 two week adaptation period, 200 g of meat was placed in 
-the center of 
-the space 
-inside the barrier. 
-As 
-in 
+the center of the space inside the barrier. As in 
 Experiment 1, the time to complete feeding was recorded. 
+
 During a two week test period immediately following 
 adaptation, all pairs were presented with 200 g of ground 
 meat inside the twine and dowel barrier after the barrier 
 was painted with Renardine. Time to complete feeding 
 was recorded. 
+
 Mean times to complete feeding during adaptation and 
 testing were calculated. These values were statistically 
 evaluated in a two-factor repeated measures ANOVA. 
@@ -213,17 +264,13 @@ and days (five levels).
 
 RESULTS 
 In Experiment 1, there were no differences among 
+
 days (p>0.25) or between periods @>0.25), and no 
-interaction between periods and days ( p > 0.50; Figure 1). 
-This was not the case in Experiment 2. 
-In that study, 
+interaction between periods and days (p > 0.50; Figure 1). 
+This was not the case in Experiment 2. In that study, 
 there were differences among days (F= 3.8; df =4,20; 
 p<0.02), and an interaction between periods and days 
-(F=4.04; 
-df=4,20; 
-pCO.01). 
-The 
-analysis was 
+(F=4.04; df=4,20; pCO.01). The analysis was 
 interpreted in terms of the interaction. Tukey post-hoc 
 tests showed that times to complete feeding decreased 
 during the adaptation period, and remained consistently 
@@ -231,78 +278,189 @@ low throughout the treatment period (Figure 2).
 
 Experiment 1 
 
-Figure 1 . Time to consumption in Experiment 1 by pairs o f 
+Figure 1.  Time to consumption in Experiment 1 by pairs of 
 coyotes presented with water (adaptation) or Renardine (test) 
-beneath 400 g
-~
-ground meat in two pans (200 glpan). Capped 
-f
-vertical bars represent standard errors o f the means. 
+beneath 400 g ~ f  ground meat in two pans (200 glpan). Capped 
+vertical bars represent standard errors of the means. 
 
 Experiment 2 
 
-14 
+14 1 
 
-1 
-
-Figure 2 . T i e to consumption o f feed in Experiment 2 by 
-pairs o f coyotes presented with 200 g of ground meat inside a 
+Figure 2. T i e  to consumption of feed in Experiment 2 by 
+pairs of coyotes presented with 200 g of ground meat inside a 
 barrier treated with water (adaptation) or Renardine (test). 
-Capped vertical bars represent standard errors o f the means. 
+Capped vertical bars represent standard errors of the means. 
 
 DISCUSSION 
 We conclude that Renardine failed to repel coyotes 
-either when placed just beneath food (Experiment I ) , or 
+
+either when placed just beneath food (Experiment I), or 
 when used as an odor barrier (Experiment 2). This lack 
-of positive findings is consistent with other 
-results 
+of positive findings is consistent with other results 
 suggesting that often coyotes fail to respond to topically 
 applied chemical repellents (Burns and Mason 1997). 
-Our 
-results 
-also 
-are 
-consistent with 
-the broader 
+Our results also are consistent with the broader 
 observation that repellents rarely, if ever, prevent wildlife 
 from entering areas, particularly when items withiin the 
 repellent barrier are highly palatable (Milunas et al. 
 1994). 
+
 More generally, while sulfur-containing compounds 
 rarely repel carnivores or omnivores, there is mounting 
-evidence 
-that 
-they 
-are broadly 
-effective 
-against 
+evidence that they are broadly effective against 
 herbivores, including deer (Milunas et a. 1994), elk 
 (Andelt et al. 1992), mountain beaver (Nolte et al. 1993), 
 beavers (DuBow et al., unpubl. obs.), and rabbits (Mason 
 et al. 1999). There is anecdotal evidence that sulfur- 
 containing deer repellents may attract canids (Bullard et 
 al. 1978). One plausible explanation for these differences 
-is 
-that predator odors often contain volatile sulfur 
-compounds and 
-fatty 
-acids 
-(Mason 
-et 
-al. 
-1994). 
+is that predator odors often contain volatile sulfur 
+compounds and fatty acids (Mason et al. 1994). 
 Accordingly, these substances should invite inspection by 
 predators (carnivores and omnivores) because they signal 
-the presence of potential competitors or mates. 
-Prey 
+the presence of potential competitors or mates. Prey 
 (i.e., herbivores), on the other hand, should flee sulfurous 
 odors because they may indicate the presence of danger 
-(Melchoirs and Leslie 1985). 
-Alternatively, or 
-in 
+(Melchoirs and Leslie 1985). Alternatively, or in 
 addition, poisonous plants often emit volatile sulfur 
 compounds. Herbivores should avoid these odors because 
 they signal toxicity (Mason et al. 1999). 
 
- 
-
+
+
+MANAGEMENT IMPLICATIONS 
+Renardine does not repel coyotes. In fact, on the 
+
+basis of theoretical considerations, the substance might 
+actually have been somewhat attractive. Sulfurous odors 
+are often attractive to carnivores. Because the same odors 
+often are aversive to herbivores, Renardine may have 
+value as an herbivore repellent. Indeed, bone tar oil was 
+the active ingredient in Magic Circle Deer Repellent 
+(Denton 1967), a product that effectively repelled deer, 
+and possibly, other herbivores as well (Benford and 
+Lindsley 1979; c.f. Owen et al. 1984). Magic Circle is 
+no longer available because re-registration cost more than 
+the commercial value of the product (Federal Register 
+1993, 58(163):44826). 
+
+At present, the two most effective commercial deer 
+repellents are Big Game Repellent and Plantskydd (Nolte 
+1998). Both of these repellents are effective, at least in 
+part, because of sulfurous compounds. Because bone tar 
+oil contains a variety of sulfur compounds that are 
+qualitatively similar to those in Big Game Repellent and 
+Plantskydd, Renardine warrants investigation as a 
+herbivore repellent. 
+
+ACKNOWLEDGMENTS 
+We thank Dr. S. J. Martin of the Ontario Ministry of 
+
+Agriculture and Food for bringing Renardiie to our 
+attention. Drs. Mike Fall and Tom DeLiberto reviewed 
+earlier drafts of this manuscript. 
+
+LITERATURE CITED 
+ANDELT, W. F., D. L. BAKER, and K. P. 
+
+BURNHAM. 1992. Relative preference of captive 
+cow elk for repellent-treated diets. Journal of 
+Wildlife Management 56: 164-173. 
+
+BENFORD, J., and S. LINDSLEY. 1979. We used 
+deer repellent to get rid of beavers. Georgia Forestry 
+Association TOPS 12:26. 
+
+BULLARD, R. W., T. J. LEIKER, J. E. PETERSON, 
+and S. R. QLBURN. 1978. Volatile components of 
+fermented egg and animal attractant and repellent 
+properties. Journal of Agricultural and Food 
+Ch- 26: 155-159. 
+
+BURNS, R. J., and J. R. MASON. 1997. Effectiveness 
+of Vichos non-lethal collars in deterring coyote 
+attacks on sheep. P r d i n g s  of the Vertebrate Pest 
+Conference 17:204-206. 
+
+DENTON, D. C. 1967. A study of the effects of certain 
+repellents on the reduction of deer and beaver 
+damage. M.S. Thesis, Mississippi State University, 
+Starkville, MS. 39 pp. 
+
+EL HANI, A., and M. R. CONOVER. 1998. 
+Comparative analysis of deer repellents. Pages 147- 
+155 in Repellents in Wildlife Management, J. R. 
+Mason, ed., Colorado State University Press, Ft. 
+Collins, CO. 
+
+GUSTAVSON, C. R., J. GARCIA, W. G. HANKINS, 
+and K. W. RUSINLAK. 1974. Coyote predation 
+control by aversive conditioning. Science 184581- 
+583. 
+
+KNOWLTON, F. F., E. M. GESE, and M. M. 
+JAEGER. 1999. Coyote depredation control: an 
+interface between biology and management. Journal 
+of Range Management, In Press. 
+
+LEHNER, P. N. 1987. Repellents and conditioned 
+avoidance. Pages 56-61 in Protecting Livestock from 
+Coyotes, J. S. Green, ed., USDA-ARS, U.S. Sheep 
+Experiment Station, Dubois, ID. 
+
+LEHNER, P. N., R. KRUMM, and A. T. CRINGAN. 
+1976. Tests for olfactory repellents for coyotes and 
+dogs. Journal of Wildlife Management 40:145-150. 
+
+MASON, J. R., G. EPPLE, and D. L. NOLTE. 1994. 
+Semiochemicals and improvements in rodent control. 
+Pages 327-345 in Behavioral Aspect. of Feeding: 
+Basic and Applied Research in Mammals, B. G. 
+Galef, M. Mainardi, and P. Valsecchi, eds., 
+Harwood Academic Press, London. 
+
+MASON, 1. R., J. HOLLICK, B. A. KIMBALL, and J. 
+J. JOHNSTON. 1999. Repellency of deer away big 
+game repellent to eastern cottontail rabbits. Journal 
+of Wildlife Management 63:309-3 14. 
+
+MELCHOIRS, M. A,, and C. A. LESLIE. 1985. 
+Effectiveness of predator fecal odors as black-tailed 
+deer repellents. Journal of Wildlife Management 
+49:358-362. 
+
+MILUNAS, M. C., A. F. RHOADS, and J. R. MASON. 
+1994. Effectiveness of odor repellents for protecting 
+ornamental shrubs from browsing by white-tailed 
+deer. Crop Protection 13:393-397. 
+
+NOLTE, D. L., J. P. FARLEY, D. L. CAMPBELL, 
+and J. R. MASON. 1993. Potential repellents to 
+prevent mountain beaver damage. Crop Protection 
+12:624-626. 
+
+NOLTE, D. L. 1998. Efficacy of selected repellents to 
+deter deer browsing on conifer seedlings. 
+International Biodeterioration and Biodegredation 
+42: 101-107. 
+
+OWEN, C. N., D. L. ADAMS, and T. B. WIGLEY. 
+1984, Inefficacy of a deer repellent on beavers. 
+Wildlife Society Bulletin 12:405-408. 
+
+WERNER, S. J., A. EL HANI, and J. R. MASON. 
+1997. Repellent coatings for imgation hose: 
+effectiveness against coyotes. Journal of Wildlife 
+Research, 2: 146-148. 
+
+
+	University of Nebraska - Lincoln
+	DigitalCommons@University of Nebraska - Lincoln
+	1-1-2000
+
+	Response of Captive Coyotes to Renardine Coyote Repellent
+	D. E. Zemlicka
+	J. R. Mason
+
+

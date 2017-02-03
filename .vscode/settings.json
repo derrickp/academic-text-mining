@@ -1,8 +1,8 @@
 {
-    "python.linting.pylintPath": "./Scripts/pylint.exe",
+    "python.linting.pylintPath": "pylint",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "./Scripts/python.exe",
+    "python.pythonPath": "python",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,

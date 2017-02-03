@@ -1,0 +1,574 @@
+data\Shivik, Wilson, & Gilbert-Norton, 2011.pdfCreation-Date: 2011-12-22T05:10:03Z
+title: Will an artificial scent boundary prevent coyote intrusion?
+pdf:docinfo:custom:WPS-ARTICLEDOI: 10.1002/wsb.68
+access_permission:assemble_document: true
+WPS-PROCLEVEL: 2
+access_permission:can_print_degraded: true
+created: Wed Dec 21 21:10:03 PST 2011
+meta:save-date: 2011-12-22T11:00:33Z
+dcterms:created: 2011-12-22T05:10:03Z
+access_permission:fill_in_form: true
+dcterms:modified: 2011-12-22T11:00:33Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2011-12-22T11:00:33Z
+WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
+access_permission:modify_annotations: true
+access_permission:can_modify: true
+pdf:docinfo:creator_tool: 3B2 Total Publishing System 8.06a/W
+access_permission:extract_for_accessibility: true
+WPS-ARTICLEDOI: 10.1002/wsb.68
+X-TIKA:parse_time_millis: 36
+pdf:docinfo:custom:WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
+meta:creation-date: 2011-12-22T05:10:03Z
+date: 2011-12-22T11:00:33Z
+access_permission:extract_content: true
+xmpTPg:NPages: 4
+pdf:docinfo:title: Will an artificial scent boundary prevent coyote intrusion?
+access_permission:can_print: true
+dc:title: Will an artificial scent boundary prevent coyote intrusion?
+dc:format: application/pdf; version=1.3
+Content-Type: application/pdf
+modified: 2011-12-22T11:00:33Z
+producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0 (Windows)
+Last-Modified: 2011-12-22T11:00:33Z
+pdf:docinfo:modified: 2011-12-22T11:00:33Z
+pdf:docinfo:created: 2011-12-22T05:10:03Z
+pdf:PDFVersion: 1.3
+xmp:CreatorTool: 3B2 Total Publishing System 8.06a/W
+pdf:docinfo:custom:WPS-PROCLEVEL: 2
+pdf:docinfo:producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0 (Windows)
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will an artificial scent boundary prevent coyote intrusion?
+
+
+Tools and Technology
+
+Will an Artificial Scent Boundary Prevent
+Coyote Intrusion?
+
+JOHN A. SHIVIK,1,2 United States Department of Wildland Resources, 5230 Old Main Hill, Utah State University, Logan, UT 84321, USA
+
+RYAN. R. WILSON, Department of Wildland Resources, 5230 Old Main Hill, Utah State University, Logan, UT 84321, USA
+
+LYNNE GILBERT-NORTON, Department of Wildland Resources, 5230 Old Main Hill, Utah State University, Logan, UT 84321, USA
+
+ABSTRACT Highly territorial species such as coyotes (Canis latrans) use scent-marks to delineate bound-
+aries, and it has been suggested that canids may be repelled from areas by using human-placed scent-marks.
+To evaluate the potential of artificial scent-marks as an area repellent, we first established treatment and
+control plots within theWelderWildlife Refuge in southern Texas, USA. There, we usedGlobal Positioning
+System collars with 15-min acquisition rates on 3 coyotes to evaluate differential coyote response to artificial
+scent-marks and control areas within coyote territories. Second, to directly evaluate behaviors, we observed
+the responses of 8 coyotes to control and treatment plots within 1-ha pens at the Predator Research Facility in
+Logan, Utah, USA. In treatment conditions, a technician walked the boundary of the simulated territory and
+sprayed coyote urine. In control conditions, a technician walked along the boundary but did not distribute
+artificial scent-marks. In the field, coyotes visited treatment plots more than control plots (P ¼ 0.09) and
+traveled within treatment plots more than control plots (P ¼ 0.05). In direct observations, coyotes investi-
+gated treated boundaries and spent more time at them (P ¼ 0.001). Coyotes also visited the interiors of
+treatment areas nearly twice as often as control areas (P ¼ 0.013). Sample sizes were limited, but based on
+these results, we cannot recommend using artificial territories (delineated with human-placed coyote urine)
+to repel coyotes from areas where resource protection is needed. � 2011 The Wildlife Society.
+
+KEY WORDS bio-boundary, Canis latrans, coyote, nonlethal, repellent, urine.
+
+Scent-marking behavior is common to many mammalian
+species, and one of its most recognized functions is to assist
+with territorial delineation and defense (Hediger 1949,
+Mykytowycz 1968, Johnson 1973). Simple marks, such as
+urine and scat, may provide a less costly means of defending a
+territory than direct confrontation, and many species of
+carnivores use scent-marking to signal territorial occupancy
+and to deter other conspecifics from entering (Smith et al.
+1989, Allen et al. 1999, Stewart et al. 2001).
+Territorial marking is well-documented in feral dogs (Canis
+
+familiaris; Pal 2003), gray wolves (C. lupus; Rothman and
+Mech 1979, Paquet 1992), and Ethiopian wolves
+(C. simensis; Sillero-Zubiri and MacDonald 1998). Scent-
+marking in coyotes (C. latrans) has been particularly well-
+described (Barrette and Messier 1980, Bowen and
+McTaggart Cowan 1980, Wells and Bekoff 1981) and stud-
+ied in wider ecological contexts (Paquet 1992, Gese and Ruff
+1997, Bekoff and Gese 2003). For coyotes in particular,
+territorial boundaries have been accurately mapped by ob-
+serving scent-marking behaviors (Shivik and Gese 2000).
+Territorial boundaries can remain stable for decades (Young
+et al. 2006).
+
+After urine was described as a means to repel wolves in �1
+published anecdote (Mowat 1963), other authors have called
+for creating artificial scent-mark ‘‘bio-boundaries’’ to help
+manage species such as African wild dogs (Lycaon pictus;
+Apps 2009). The technique is not without theoretical draw-
+backs, however, because coyote urine and scat are more
+generally used as a coyote lure rather than as a repellent
+(Shivik et al. 2003) and coyotes will intrude into neighboring
+territories (Shivik et al. 1996, Gese and Ruff 1997, Allen
+et al. 1999). Whether or not a simple application of artificial
+scent-marks will repel coyotes is an important question
+because livestock depredation by coyotes is a serious problem
+and evaluation of potential management techniques is nec-
+essary (Knowlton et al. 1999, Shivik 2006). Therefore, we
+performed 2 experiments to examine the hypothesis that
+coyotes will avoid an area delineated by human-placed coyote
+scent-marks. In the first study, we indirectly observed visits
+of free-ranging coyotes exposed to treatment (areas delin-
+eated with coyote urine) and control areas (areas without
+scent-marks); in the second study, we directly observed
+captive coyote behavioral responses to treatment and control
+areas.
+
+STUDY AREA
+
+Welder Wildlife Refuge
+Our field study occurred on the 3,000-ha Welder Wildlife
+Foundation Refuge, approximately 10 km north of Sinton,
+
+Received: 25 March 2011; Accepted: 5 July 2011;
+Published: 3 October 2011
+
+1E-mail: johnshivik@utah.gov
+2Present address: Utah Division of Wildlife Resources, 1594 W North
+Temple, Salt Lake City, UT 84114-6301, USA.
+
+Wildlife Society Bulletin 35(4):494–497; 2011; DOI: 10.1002/wsb.68
+
+494 Wildlife Society Bulletin � 35(4)
+
+
+
+Texas, USA. The study area was located in a transition zone
+between the gulf prairies and marshes and South Texas
+plains, and vegetation consisted mainly of mixed grasslands
+and shrubs (Young et al. 2006). Coyote territories formed a
+continuous patchwork across the refuge, with approximately
+7–8 territories always present and exhibiting high spatial
+stability through time (Young et al. 2006).
+
+Predator Research Facility
+Our direct observations were performed at the National
+Wildlife Research Center (NWRC) Predator Research
+Facility inMillville, Utah, USA. Elevation at the field station
+was 1,381 m above sea level, and average yearly temperatures
+ranged from �118 C to 328 C, with average annual precipi-
+tation of 42 cm and snowfall of 82 cm. The NWRC held a
+large population (n ¼ 106) of coyotes, kept individually and
+in pairs in a variety of captive outdoor environments.
+
+METHODS
+
+Work was approved by Institutional Animal Care and Use
+Committees for both Utah State University and Wildlife
+Services NWRC (QA 1311 and 1453; USU: 1304).
+
+Welder Wildlife Refuge
+We captured coyotes from April 2007 to April 2009, using
+padded leg-hold traps (Victor no. 3 Softcatch, Lititz, PA),
+collarums (Wildlife Control Supplies, East Granby, CT),
+and neck snares (fitted with stops to prevent choking). Once
+captured, we physically immobilized coyotes and fitted them
+with a Global Positioning System collar (GPS3300S; Lotek,
+New Market, ON, Canada). We programed GPS collars to
+acquire locations every 15 min and to automatically release
+from coyotes for data retrieval after 6–18 months. Seven
+coyotes were initially tracked using a directional antenna and
+triangulation for >10 weeks to identify home ranges so that
+control and treatment plots could be established within each
+coyote’s area of normal use.
+For experimental plots, we identified 1–2 naturally occur-
+
+ring 2-ha clearings (grassland–shrub community as would be
+used for livestock grazing) separated by>100 m within each
+study animal’s home range. Once clearings were identified,
+each was randomly assigned as a control or treatment plot.
+The treatment (artificial territory) was established by distrib-
+uting scent-marks of coyote urine. We used a spray bottle to
+apply 1–2 mL of coyote urine (Wildlife Control Supplies)
+every 2–3 m along the periphery of the treatment plot.
+Boundaries of plots were delineated by the technician using
+vegetation and no artificial markers were placed. Because
+technicians create artificial boundaries, human scent and
+presence is confounded with dispersion of scent-marks.
+Therefore, we controlled for human presence in experiments;
+that is, human activity at control plots was identical (walking
+along the boundary) to that at treatment plots except that no
+scent-marks were left. We recorded the number of times
+collared coyotes entered the control and treatment plots for
+4 weeks after application of scent-marks.
+Our hypothesis was that coyotes would avoid entering a
+
+plot that was surrounded by scent-marks from a foreign
+conspecific. Specifically, visitation to control plots would
+
+be higher than that to treatment plots. Additionally, we
+hypothesized that if coyotes entered control and treatment
+plots, forays would be of short duration and the distance
+traveled within plots would be less within treatment versus
+control areas. We used each coyote as the sample unit, and
+compared visitation and distance traveled within control and
+treatment plots using paired t-tests. Statistically, we hypoth-
+esized that the mean difference score (control � treatment)
+would be greater than zero for visits to, and distance traveled
+within, experimental plots.
+
+Predator Research Facility
+We used 8 adult coyotes (4 M–F pairs) for direct observation
+of behavioral response to treatments. Pairs were housed in
+1-ha environments that contained natural fallow pasture
+vegetation (grass and alfalfa mixture), a wooden shade
+shelter and 2 kennels. Environments were wedge-shaped
+and extended 160 m from a raised central observation build-
+ing to an outer arc 125 m wide.
+In previous studies at the facility, the behavioral repertoire
+
+of captive coyotes housed in pairs and larger pens was found
+to be equivalent to that exhibited by wild coyotes (Shivik
+et al. 2009). Thus, coyotes were tested in established pairs in
+order to mimic wild coyote sociality and to strengthen the
+inference of our results. As with studies on packs in the field,
+the sample unit in experiments was the individual coyote.
+To establish a simulated territory, we delimited a
+
+57-m � 22-m � 57-m triangular area within the pen.
+The boundaries of the area were not marked on the substrate
+but were identified using fixed references (e.g., exterior posts
+and a shade shelter within the pen). The total area of the
+designated territory was 697 m2 and comprised 6.95% of the
+total pen area. Two simulated boundary treatments were
+applied. In the human control treatment, the technician
+walked along the designated territory boundary, but in the
+simulated territory treatment, the same technician walked
+the boundary but placed coyote scat and urine at each corner
+and halfway along each length of the boundary.We used scat
+and urine from 2male and 2 female coyotes at the facility that
+were unrelated to the test animals.
+The first trial period was from 5 to 18 October 2006.
+
+During this period, 4 (2 randomly chosen pairs) coyotes
+received the human control, and the other 4 received the
+simulated territory treatment. In the second testing period
+(19 Oct–2 Nov) treatments were swapped for each pair so
+that all coyotes received both treatments in a counterbal-
+anced repeated-measures design. During each trial period,
+the technician walked the boundary on 6 nonconsecutive
+days between 1000 hours and 1100 hours.
+For analysis of behavioral response to treatments, we di-
+
+rectly observed coyote responses to treatments. Observations
+began when the technician finished walking the perimeter
+of the designated boundary and were terminated after 1 hr.
+We made 48 hr of observations (6 hr/coyote). Behavior was
+recorded directly from an observation building using Noldus
+Observer1 (Noldus, Leesburg, VA) software on a laptop.
+We recorded the latency of coyotes to approach control and
+simulated territory boundaries, the number of visits to the
+
+Shivik et al. � Simulated Coyote Territory 495
+
+
+
+boundary, the duration of time spent on a boundary, and the
+number of scent-marks left by each animal. Similarly, we
+recorded the latency to enter the delineated territorial space,
+the number of visits to the space, and the duration of time
+spent within the delineated territory.We assessed differences
+in coyote response to control and simulated territorial
+boundaries using paired t-tests.
+
+RESULTS
+
+Welder Wildlife Refuge
+Using test-collars at fixed, known locations, we determined
+that GPS locations were very accurate during data collection,
+with a mean location error of 19.3 m (SD ¼ 13.8 m). Seven
+coyote territories had control and treatment plots applied,
+but most GPS collars failed to release and, thus, data were
+available for only 3 coyotes. All 3 coyotes used spatially
+distinct home ranges and were assumed to be from 3 different
+territories.
+The periphery of the treatment plot for adult male M660
+
+was sprayed with urine once (10 Sep 2007) and during the
+observation period it was found one time within the control
+plot and 10 times within the treatment plot; it traveled
+469 m in the control plot and 913 m in the treatment
+plot. The periphery of the treatment plot for adult female
+coyote F610 was sprayed with urine twice (22 Jan 2009, 11
+Feb 2009). Coyote F610 was found 9 times within its 2
+control plots and 26 times within the 2 treatment plots; it
+traveled 2,375 m in the control plots and 3,249 m in the
+treatment plots. The treatment plot for adult female coyote
+F6202 was sprayed once (24 Apr 2009). Coyote F6202 was
+found in the 2 control plots 24 times and 71 times in the
+treatment plots; it traveled 4,705 m in the control plots and
+4,973 m in the treatment plots.
+Mean number of visits was 11.4 and 35.6 to control and
+
+treatment plots, respectively. Mean distance traveled was
+2,516.3 m within control and 3,045 m within treatment
+plots. Coyotes visited treatment plots more than control
+plots (t ¼ �2.1, df ¼ 2, P ¼ 0.09) and traveled more within
+treatment plots than control plots (t ¼ �2.94, df ¼ 2,
+P ¼ 0.05).
+Predator Research Facility
+Differences in coyote response to a human-delineated
+boundary versus a boundary delineated with coyote urine
+were readily apparent (Table 1). The observed trend was
+opposite to expectations, however, in that coyotes investi-
+
+gated treated boundaries and spent more time at them rather
+than avoiding areas that were marked. Differences in intru-
+sions into the delineated territorial space were also apparent
+between control and treatment trials (Table 1). Latency to
+enter the artificial territory was similar between control and
+treatment conditions, but coyotes visited nearly twice as
+many times, and spent more time in areas that were
+scent-marked versus control areas.
+
+DISCUSSION
+
+Wild coyotes visited artificially scent-marked plots nearly 3
+times as much as control plots and traveled significantly more
+within treatment plots, although the effect size was not as
+large (20% increase). Captive coyotes initially responded
+to both humans and scent-marks equivalently in that the
+latency to investigate was not statistically different between
+control and treatment conditions, but overall, coyotes
+investigated treatment boundaries far more than control
+ones. Thus, the coyote scent-marks had greater biological
+significance than human scent controls.
+Alternate explanations for our negative results are possible.
+
+For example, we laid scent-marks relatively infrequently;
+such a schedule would be practical from a management
+perspective, but may not be sufficiently representative of
+natural marking behavior in coyotes. Coyotes in the wild
+often scent-mark several times a day along their territory
+boundary, depending upon social status, time of year, and
+territory size (Gese and Ruff 1997). Also, coyote response to
+scent-marks is lower through time and a function of mark
+degradation (Harris 1983, Windberg 1996). In our study,
+artificial boundaries were created in clearings within coyote
+territories rather than along boundary edges, which could
+have influenced the motivation of coyotes to intrude. In
+actual management situations, however, livestock are not
+grazed only on the peripheries of coyote territories and
+our experimental design accounted for this. Another factor
+that should be addressed when considering the likely success
+of a simulated scent boundary is a coyote’s motivation to
+trespass. Bowen andMcTaggart Cowan (1980) reported that
+adjacent coyotes trespassed into a conspecific territory when a
+carcass was present, but vigorously marked and adhered to
+boundaries when it was not. Similarly, Shivik et al. (1996)
+showed that resident coyotes will follow sheep into other
+coyote’s core areas. We suspect that coyote intrusions
+could have been more frequent if an attractive resource
+
+Table 1. Coyote response to control (human-walked) and artificial (treatment) territory (human plus coyote urine) boundaries in tests at the predator research
+facility in Logan, Utah, USA, October–November 2006. Values are means from 8 experimental coyotes, associated standard errors, and results of paired t-tests
+(one-tailed).
+
+Location Measurement
+
+Control Treatment
+
+P-valueMean SE Mean SE
+
+On boundary Latency 195.6 58.6 132.1 24.1 0.186
+Occurrence 6.3 1.2 17 1.5 0.001
+Duration 330.4 81.1 858.3 118.7 0.011
+Scent-marks 0.6 0.5 7.4 2.1 0.006
+
+In territory Latency 170.0 60.6 190.4 28.0 0.408
+Occurrence 6.5 0.8 13.1 1.9 0.013
+Duration 238.1 57.8 335.9 64.4 0.097
+
+496 Wildlife Society Bulletin � 35(4)
+
+
+
+was provided in experimental plots. Scent-marks may not
+be enough because ultimately coyotes successfully hold
+territories through physical confrontation and expulsion of
+intruders (Gese and Ruff 1997, Gese 2001).
+The sample size in our field study was limited due to
+
+failures of the release mechanisms on collars and the loss
+of data. Our conclusions are robust overall, however, because
+all 11 coyotes in 2 independent experiments were attracted to
+areas with artificial scent-marks and not repelled as hypoth-
+esized. Indeed, it was apparent that the scent of a foreign
+coyote within the territory of another coyote was a strong
+attractant that encouraged investigative behavior and intru-
+sions. Whether a coyote that is investigating foreign scent-
+marks is distracted and, thus, less likely to attack livestock
+within an encircled area, however, is an interesting question
+worthy of additional research.
+
+MANAGEMENT IMPLICATIONS
+
+Because coyotes will increase intrusions across a simulated
+boundary, artificial scent-marking is not likely to be a bene-
+ficial management technique. Although scent-marked
+boundaries do influence coyote behavior under natural con-
+ditions, our knowledge of all of the stimuli needed to repel
+intruders is currently limited. Further understanding of ter-
+ritorial defense behaviors is needed before the phenomenon
+can be adopted as an area repellent for coyotes.
+
+ACKNOWLEDGMENTS
+
+We thank P. Darrow, E. Gese, J. Shultz, A. Triquenot, staff
+and volunteers at the National Wildlife Research Center
+Predator Research Facility in Logan, Utah for their help
+and effort during the study. We thank S. Durham for
+statistical advice. The study was funded by Wildlife
+Services National Wildlife Research Center, Utah State
+University, and the Welder Wildlife Foundation.
+
+LITERATURE CITED
+Allen, J. J., M. Bekoff, and R. L. Crabtree. 1999. An observational study of
+coyote (Canis latrans) scent marking and territoriality in Yellowstone
+National Park. Ethology 105:289–302.
+
+Apps, P. 2009. Bio-boundaries. Wild Entrust International. Seattle,
+Washington, USA. Available at: <http://www.wildentrust.org/index.
+php?q¼node/12>. Accessed 25 Mar 2011.
+
+Barrette, C., and F. Messier. 1980. Scent marking in free ranging coyotes,
+Canis latrans. Animal Behaviour 28:814–819.
+
+Bekoff, M., and E. M. Gese. 2003. Coyote (Canis latrans). Johns Hopkins
+University Press, Baltimore, Maryland, USA.
+
+Bowen, W. D., and I. McTaggart Cowan. 1980. Scent-marking in coyotes.
+Canadian Journal of Zoology 58:473–480.
+
+Gese, E. M. 2001. Territorial defense by coyotes (Canis latrans) in
+Yellowstone National Park, Wyoming: who, how, where, when, and
+why. Canadian Journal of Zoology 79:980–987.
+
+Gese, E. M., and R. L. Ruff. 1997. Scent-marking by coyotes, Canis latrans:
+the influence of social and ecological factors. Animal Behaviour 54:1155–
+1166.
+
+Harris, C. E. 1983. Differential behavior of coyotes with regard to home
+range limits. Utah State University, Logan, USA.
+
+Hediger, H. 1949. Säugetier-Territorian und ihre Markierung. Bijdragen
+tot de Dierkunde 28:172–184.
+
+Johnson, R. P. 1973. Scent-marking in mammals. Animal Behaviour
+21:521–535.
+
+Knowlton, F. F., E. M. Gese, and M. M. Jaeger. 1999. Coyote depredation
+control: an interface between biology and management. Journal of Range
+Management 52:398–412.
+
+Mowat, F. 1963. Never cry wolf. Atlantic Monthly Press, Boston,
+Massachusetts, USA.
+
+Mykytowycz, R. 1968. Territorial marking by rabbits. Scientific American
+218:116–126.
+
+Pal, S. K. 2003. Urine marking by free-ranging dogs (Canis familiaris) in
+relation to sex, season, place and posture. Applied Animal Behaviour
+Science 80:45–59.
+
+Paquet, P. C. 1992. Prey use strategies of sympatric wolves and coyotes in
+Riding Mountain National Park, Manitoba. Journal of Mammalogy
+73:337–343.
+
+Rothman, R. J., and L. D. Mech. 1979. Scent-marking in lone wolves and
+newly formed pairs. Animal Behaviour 27:750–760.
+
+Shivik, J. A. 2006. Tools for the edge: what’s new for conserving carnivores.
+BioScience 56:253–259.
+
+Shivik, J. A., and E. M. Gese. 2000. Territorial significance of home range
+estimators for coyotes. Wildlife Society Bulletin 28:940–946.
+
+Shivik, J. A., M. M. Jaeger, and R. H. Barrett. 1996. Coyote movement
+in relation to the spatial distribution of sheep. Journal of Wildlife
+Management 60:422–430.
+
+Shivik, J. A., G. L. Palmer, E. M. Gese, and B. Osthaus. 2009. Captive
+coyotes compared to their counterparts in the wild: does environmental
+enrichment help? Journal of Applied AnimalWelfare Science 12:223–235.
+
+Shivik, J. A., A. Treves, and P. Callahan. 2003. Nonlethal techniques for
+managing predation: primary and secondary repellents. Conservation
+Biology 17:1531–1536.
+
+Sillero-Zubiri, C., and D. W. MacDonald. 1998. Scent-marking and terri-
+torial behaviour of Ethiopian wolves Canis simensis. Journal of Zoology
+245:351–361.
+
+Smith, J. L. D., C. McDougal, and D. Miquelle. 1989. Scent marking in
+free-ranging tigers, Panthera tigris. Animal Behaviour 37:1–10.
+
+Stewart, P. D., D. W. MacDonald, C. Newman, and C. L. Cheeseman.
+2001. Boundary faeces andmatched advertisement in the European badger
+(Meles meles): a potential role in range exclusion. Journal of Zoology,
+London 255:191–198.
+
+Wells, M. C., and M. Bekoff. 1981. An observational study of scent-
+marking in coyotes, Canis latrans. Animal Behaviour 29:332–350.
+
+Windberg, L. A. 1996. Coyote responses to visual and olfactory stimuli
+related to familiarity with an area. Canadian Journal of Zoology 74:2248–
+2253.
+
+Young, J. K., W. F. Andelt, P. A. Terltetzky, and J. A. Shivik. 2006. A
+comparison of coyote ecology after 25 years: 1978 vs. 2003. Canadian
+Journal of Zoology 84:573–582.
+
+Associate Editor: Applegate.
+
+Shivik et al. � Simulated Coyote Territory 497
+
+

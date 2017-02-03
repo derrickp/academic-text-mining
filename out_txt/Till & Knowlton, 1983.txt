@@ -1,54 +1,438 @@
+data\Till & Knowlton, 1983.pdfdcterms:modified: 2017-01-09T18:15:10Z
+access_permission:can_modify: true
+title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
+dc:title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
+pdf:docinfo:custom:Source: SEQ
+access_permission:can_print_degraded: true
+created: Mon Jan 09 10:15:10 PST 2017
+meta:save-date: 2017-01-09T18:15:10Z
+access_permission:can_print: true
+pdf:docinfo:modified: 2017-01-09T18:15:10Z
+pdf:encrypted: false
+access_permission:assemble_document: true
+Last-Save-Date: 2017-01-09T18:15:10Z
+access_permission:modify_annotations: true
+Content-Type: application/pdf
+dcterms:created: 2017-01-09T18:15:10Z
+Creation-Date: 2017-01-09T18:15:10Z
+X-TIKA:parse_time_millis: 75
+meta:creation-date: 2017-01-09T18:15:10Z
+date: 2017-01-09T18:15:10Z
+access_permission:extract_content: true
+Source: SEQ
+xmpTPg:NPages: 9
+pdf:docinfo:title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
+dc:format: application/pdf; version=1.4
+pdf:docinfo:producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
+modified: 2017-01-09T18:15:10Z
+producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
+access_permission:fill_in_form: true
+pdf:docinfo:created: 2017-01-09T18:15:10Z
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+pdf:PDFVersion: 1.4
+Last-Modified: 2017-01-09T18:15:10Z
+access_permission:extract_for_accessibility: true
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
+
+
+ 
+
+ 
 Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
 Author(s): James A. Till and  Frederick F. Knowlton
 Source: The Journal of Wildlife Management, Vol. 47, No. 4 (Oct., 1983), pp. 1018-1025
+Published by: Wiley on behalf of the Wildlife Society
+Stable URL: http://www.jstor.org/stable/3808160
+Accessed: 09-01-2017 18:15 UTC
 
  
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+
+JSTOR, please contact support@jstor.org.
+
  
- EFFICACY OF DENNING IN ALLEVIATING COYOTE
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+
+http://about.jstor.org/terms
+
+Wildlife Society, Wiley are collaborating with JSTOR to digitize, preserve and extend access to The
+Journal of Wildlife Management
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ EFFICACY OF DENNING IN ALLEVIATING COYOTE
 
  DEPREDATIONS UPON DOMESTIC SHEEP
 
  JAMES A. TILL, Department of Fisheries and Wildlife, Utah State University UMC 52, Logan, UT 84322
-
  FREDERICK F. KNOWLTON, U.S. Fish and Wildlife Service, Denver Wildlife Research Center, Utah State University UMC 52,
-
  Logan, UT 84322
 
  Abstract: Bands of domestic sheep lambing on the open range in south central Wyoming were monitored
-
  for predator losses before and following coyote (Canis latrans) removals. Experimental treatments, including
  (1) no removal (control), (2) removal of 2 adults and their pups, and (3) removal of pups only, were replicated
+ 15 times each. Predation incidents (events) declined 98.2% and the number of sheep killed was reduced by
+ 98.8% when adults and pups were removed. Removing only litters of pups resulted in a decrease of 87.7%
+ in predation incidents and total kills decreased 91.6%. Overall, 23 of 30 predation sequences terminated
+ immediately, whereas in all instances predation ceased within 3 days after removing adult coyotes, their
+ pups, or both. In terms of "offending individuals," denning can be a selective means of coyote depredation
+ control. Removing only litters of offending adults can be nearly as effective in stopping losses as removing
+ the adults. Litter size did not appear to influence kill frequencies. A cost-effectiveness analysis is presented.
 
- EFFICACY OF DENNING * Till and Knowlton 1019
+ J. WILDL. MANAGE. 47(4): 1018-1025
+
+ Depredations by coyotes on domestic
+ sheep result in greater losses of domestic
+ livestock than any other predator-domes-
+ tic prey interaction in the western United
+ States (Balser 1974). Although several
+ techniques used to alleviate such losses
+ have been subjectively ranked with re-
+ gard to efficiency, selectivity, and other
+ factors (U.S. Dep. Inter. 1978a), there are
+ few quantitative data concerning the ef-
+ ficacy of any method. A critical response
+ (West. Reg. Coordinating Comm., WRCC
+ 26, 1980) to a recent policy change for
+ predator control (memorandum from C.
+ D. Andrus to Assistant Secretary for Fish,
+ Wildlife, and Parks, 8 November 1980)
+ accentuates the need for objective evalu-
+ ation of coyote control methods. Our study
+ attempted to determine the efficacy of
+ "denning," the practice of seeking out the
+ dens of depredating coyotes and destroy-
+ ing the young, adults, or both in stopping
+ depredations upon sheep.
+
+ Denning has been criticized for being
+ "unselective" in terms of individual ani-
+
+ mals (Defenders Wildl. 1978, Sierra Club
+ 1978, Humane Soc. 1978) and removal of
+
+ individuals that obviously are not respon-
+ sible for depredations. One author main-
+ tains that denning is solely a means of coy-
+ ote population reduction (Gier 1968).
+
+ Experienced predator control field per-
+ sonnel claim that denning can be a selec-
+ tive method for resolving specific depre-
+ dation situations. Conceivably, predation
+ on domestic sheep by adult coyotes can be
+ influenced indirectly by removal of litters
+ as opposed to removal of the adults ac-
+ tually killing sheep. Anderson (1969:513-
+ 514), among others, believes predation
+ should cease when pups are destroyed.
+ Absence of quantitative data leaves these
+ questions unanswered.
+
+ Cain et al. (1972) recommended cost-
+ benefit analyses of predator control meth-
+ ods, stating that such information was yet
+ to be collected. Because most depredation
+ control programs consist of several meth-
+ ods applied simultaneously, the effective-
+ ness of a single control method is difficult
+ to determine (U.S. Dep. Inter. 1978a). Be-
+ cause no other control methods were in
+
+ effect during the present study, except
+ winter removal for fur, the opportunity
+
+ 1018 J. Wildl. Manage. 47(4):1983
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ EFFICACY OF DENNING * Till and Knowlton 1019
 
  was available to measure the cost and ef-
 
  fectiveness of denning alone.
-
  Cooperation by the Palm Livestock
 
  Company and V. E. Dorn is appreciated.
  B. Gilbert provided helpful counsel and
+ guidance. This study was supported by
+ U.S. Department of Agriculture/SEA Re-
+ search Grant 59-2491-02-112-0.
 
- 1020 EFFICACY OF DENNING * Till and Knowlton
+ STUDY AREA
+
+ Fieldwork was conducted in south cen-
+
+ tral Wyoming during April, May, and June
+ 1980 and 1981, and was concentrated in
+ the eastern half of Carbon County. About
+ 20,000 sheep lamb on the open range with
+ sheepherders in attendance. Spring lamb-
+ ing range is used until late June when
+ sheep are moved onto mountain summer
+ range. Lambs are generally shipped in late
+ September or October. The study area
+ (approximately 2,600 km2) averages 2,000
+ m elevation; dominant vegetation con-
+ sists of big sagebrush (Artemisia triden-
+ tata) and western wheatgrass (Agropyron
+ smithii). The topography, vegetation, cli-
+ mate, and sheep husbandry practices in
+ this area have been described by Tigner
+ and Larson (1977).
+
+ METHODS
+
+ Sheep killed by coyotes were located
+ and reported to us by sheepherders. Upon
+ receiving a report, we went to the area,
+ examined all carcasses, and conducted
+ necropsies to verify the cause of death.
+ Puncture wounds with attendant hemor-
+
+ rhaging were used as evidence of preda-
+ tion (Rowley 1970, Bowns 1976). To meet
+ test conditions, a threshold of predation
+ defined as 3 sheep killed in at least 2 in-
+ cidents during 1 week was required. If
+ this threshold was attained and other
+
+ predator control methods were not in ef-
+ fect (nor anticipated), the particular band
+ of sheep was included in this study.
+
+ Once test conditions were met, 1 of 3
+ treatments was randomly chosen and ap-
+ plied: (1) no coyote removal (control); (2)
+ removal of "offending" adult coyotes (in-
+ dividuals killing sheep) and their litters;
+ and (3) removal of the complete litter but
+ not the depredating adults. Depredations
+ were monitored for 7 days following com-
+ pletion of a treatment. Each treatment was
+ replicated 15 times.
+
+ Coyote dens were located by tracking
+ adult coyotes away from sheep kills
+ (Young and Dobyns 1945). Adult coyotes
+ were shot at or near the den sites for treat-
+
+ ment #2. Stomach samples from adults
+ were examined in the field for sheep or
+ other animal remains. Pups were de-
+ stroyed in the dens with a fumigant de-
+ scribed by Tigner and Larson (U.S. Dep.
+ Inter. 1978b). Fumigated dens were ex-
+ cavated and pups counted and weighed.
+ Ages of pups were estimated by tooth
+ eruption patterns (Bekoff and Jamieson
+ 1975). A thorough search of the den area
+ was made for animal remains. Den sites
+
+ were plotted on a map for density deter-
+ mination as well as den locations in rela-
+
+ tion to depredation area. In replications
+ of the no-removal (control) treatment, dens
+ were not approached or disturbed.
+
+ Efficacy was assessed on the basis of
+ changes in both the number of depreda-
+ tion incidents (number of times the flock
+ was attacked) and the number of sheep
+ killed in the week after treatment com-
+
+ pared with the week preceding. Kruskall-
+ Wallis, Wilcoxon Signed Rank, and Wil-
+ coxon Rank Sum tests (Ott 1977) were used
+ to compare number of incidents, number
+ of kills, and changes in each as a result of
+ treatments.
+
+ Cost-Benefit Analysis
+
+ The cost-effectiveness analysis was based
+ on field seasons combined and the follow-
+ ing assumptions:
+
+ J. Wildl. Manage. 47(4):1983
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ 1020 EFFICACY OF DENNING * Till and Knowlton
 
  1. The monitoring intensity did not
-
  change during pretreatment and post-
  treatment periods. Therefore, the pro-
-
  portion of coyote-killed sheep that were
-
  located was probably constant.
 
  2. The number of sheep killed prior to
+ coyote removal treatments accurately
+ reflected the number that would have
+ been killed had treatments not been
 
- EFFICACY OF DENNING * Till and Knowlton 1021
+ applied. This assumption was support-
+ ed by the kills documented in the con-
+ trol.
+
+ 3. The wages, expenses, and field time of
+ personnel were reasonable for this re-
+ gion.
+
+ 4. The number of sheep saved does not
+ necessarily represent the absolute num-
+ ber that would be sold as 45.4-kg (100-
+ lb) fat lambs in the fall. Low mortality
+ during summer is expected; however,
+ we believe that this level of mortality
+ is insignificant compared with the
+ number of lambs killed by coyotes and
+ not located during the experiment. In
+ addition, all surviving lambs will not
+ weigh 45.4 kg at shipping, and de-
+ pending on various factors, some ewe
+ lambs are retained for herd replace-
+ ments. We believe these conservative
+
+ loss figures serve as a baseline for esti-
+ mating the point at which a denning
+ program may become cost-effective.
+
+ RESULTS
+
+ In the no-removal treatment, the pre-
+ to post-treatment change in numbers of
+ incidents and kills was -4.2%. Pre- and
+
+ post-treatment numbers were not differ-
+ ent for incidents (T = 9, N = 6, P < 0.05)
+ or kills (T = 34, N = 12, P < 0.01). In ad-
+ dition, no differences (x2 = 6.89, df = 3,
+ P < 0.05) could be shown in total inci-
+ dents, or in total kills (x2 = 2.55, df = 3,
+ P < 0.05) when pre- and post-treatment
+ periods of the no-removal (control) treat-
+ ment were compared with the pretreat-
+
+ ment periods of the removal treatments
+ (Fig. 1).
+
+ In replications where adults and pups
+ were removed, the number of post-treat-
+ ment depredation incidents was reduced
+ 98.2% from pretreatment levels (Table 1).
+ The number of post-treatment incidents
+ (9 = 0.1) was different (z = 4.98, P <
+ 0.001) than the number of pretreatment
+ incidents (f = 3.7). Following removal of
+ adults and pups, the number of kills ob-
+ served declined 98.8%. The number of
+
+ post-treatment kills (f = 0.1) was different
+ (z = 4.93, P < 0.001) from the number of
+ kills observed pretreatment (9 = 5.3).
+
+ Depredation incidents were reduced
+ 87.7% following removal of pups only
+ (Table 1). Among the 15 replications, the
+
+ number of post-treatment incidents (" =
+ 0.5) differed (z = 4.81, P < 0.001) from
+ the number of pretreatment incidents (: =
+ 3.8), the number of kills observed pre-
+ treatment (: = 5.5) was reduced 91.6% and
+ differed (z = 4.75, P < 0.001) from the
+ number of post-treatment kills (: = 0.5)
+ after only litters were removed.
+
+ In 8 of 15 replications, killing stopped
+ immediately after removing only the pups
+ of offending adults. In each of the other
+ 7 replications, 1 additional lamb was killed
+ within 3 days after removing coyote lit-
+ ters. No killing occurred during post-
+ treatment days 4 through 7.
+
+ Collectively, treatments involving re-
+ moval of adult coyotes, their pups, or both
+ were documented in 30 replications. In 22
+ of the 30 (73%), killing was stopped im-
+ mediately; depredations were terminated
+ in all replications 3 days following treat-
+ ment.
+
+ Biological Data
+ Litter size, weight, or age of pups, and
+
+ the distance between kill sites and the den
+
+ appeared to have little influence upon the
+ total number of sheep killed, or the rate
+
+ J. Wildl. Manage. 47(4):1983
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ EFFICACY OF DENNING * Till and Knowlton 1021
 
  0- NO REMOVAL
 
  e--. REMOVE 2 ADULTS AND PUPS
-
  -..... REMOVE ONLY PUPS
 
  20
@@ -56,7 +440,6 @@ Source: The Journal of Wildlife Management, Vol. 47, No. 4 (Oct., 1983), pp. 101
  18 -
 
  S16 I \. w
-
  -J
 
  S14
@@ -76,32 +459,23 @@ Source: The Journal of Wildlife Management, Vol. 47, No. 4 (Oct., 1983), pp. 101
  Fig. 1. Total sheep kills, before and after 3 coyote removal treatments, south central Wyoming, 1980-81.
 
  Table 1. Number of depredation incidents, sheep killed, and percent change in the 7 days before and after each of 3 coyote
-
  removal treatments, south central Wyoming, 1980-81.
+
+ Pretreatment period Post-treatment period
+ Percent
 
  Removal treatment N Total i SD Range Total : SD Range decrease
 
- Pretreatment period Post-treatment period
-
- Percent
-
  Depredation incidents
-
  No coyotes (control) 15 48 3.2 0.9 2-5 46 3.1 1.1 2-5 4.2
-
  Pups and 2 adults 15 56 3.7 1.0 3-6 1 0.1 0.3 0-1 98.2
-
  Pups only 15 57 3.8 0.8 2-5 7 0.5 0.5 0-1 87.7
-
  Subtotals (removals) 30 113 3.8 0.9 2-6 8 0.3 0.4 0-1 92.9
 
  Sheep killed
-
  No coyotes (control) 15 72 4.8 1.6 2-7 69 4.6 2.1 2-9 4.2
  Pups and 2 adults 15 80 5.3 2.2 3-9 1 0.1 0.3 0-1 98.8
-
  Pups only 15 83 5.5 1.6 3-9 7 0.5 0.5 0-1 91.6
-
  Subtotals (removals) 30 163 5.4 1.9 3-9 8 0.3 0.4 0-1 95.1
 
  J. Wildl. Manage. 47(4):1983
@@ -109,146 +483,255 @@ Source: The Journal of Wildlife Management, Vol. 47, No. 4 (Oct., 1983), pp. 101
 This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
 All use subject to http://about.jstor.org/terms
 
- 1022 EFFICACY OF DENNING * Till and Knowlton
+
+
+ 1022 EFFICACY OF DENNING * Till and Knowlton
 
  at which they were killed. The average
-
  distance from the site of depredations to
-
  the den was 3.25 km (range 1-10 km).
-
  Animal remains were found at 77% of the
 
  dens examined. Sheep remains were found
-
  in 9 of 31 (29%) adult stomach samples.
+
  During our study, the density of dens
-
  of depredating coyotes averaged at least
-
  1 den/70 km2; 1 area of 80 km2 contained
-
  5 dens in 1981. These densities are mini-
 
  mal spring den densities; total coyote den-
+ sity was not estimated. Whether the ready
+ availability of large numbers of domestic
+ lambs resulted in a high density of coyote
+ dens is conjectural.
 
- EFFICACY OF DENNING * Till and Knowlton 1023
+ Cost-effectiveness Analysis
+
+ The average salary for a U.S. Depart-
+ ment of Interior Animal Damage Control
+ den hunter in Wyoming is $1,020.00/
+ month plus $650.00/month in expenses (F.
+ Christensen 1980, pers. commun.). Ex-
+ penses include vehicle maintenance and
+ gasoline, per diem, and miscellaneous
+ items such as horse rental. Therefore,
+ $1,670.00/month was used in this analy-
+ sis. Field personnel are involved in den
+ hunting from 15 April until 1 July (2.5
+ months or 75 days). Total expenses were
+ calculated as: $1,670.00 X 2.5 months X 2
+ years = $8,350.00.
+
+ During the 2 field seasons, 40 dens of
+ depredating coyotes were located and de-
+ stroyed in about 5 months for an average
+ of 0.27 dens/day, or roughly 2 dens/week.
+
+ Exact prices are variable, but it seems
+ reasonable to use a 5-year (1977-81) av-
+ erage of $57.74/cwt for fat lambs mar-
+ keted in October as a realistic and accu-
+
+ rate value of lambs lost to coyotes. This,
+ of course, assumes that coyote-killed lambs
+ would survive to shipping; however, as ac-
+ knowledged in assumption #4, this possi-
+ ble overestimation of values is probably
+ outweighed by other factors. Given that a
+ value of $57.74/lamb is reasonable and
+
+ that total expenses incurred amount to
+ $8,350.00, the following formulae should
+ estimate when the program becomes cost-
+ effective. The average expense to locate
+ and remove 1 den of offending coyotes
+ was $8,350.00/40 = $208.75. This average
+ divided by the average value of 1 lamb
+ should estimate the number of lambs it
+ would be necessary to save to recover costs
+ (on a per den basis): $208.75/$57.74 =
+ 3.62 lambs. The average number of lambs
+ killed per week is calculated as the total
+ number of kills observed in the control
+ treatment, plus all pretreatment kills ob-
+ served in removal treatments, divided by
+ the number of "den weeks" (i.e., 7-day
+ predation sequences attributable to 1 den),
+ or 345/70 = 4.93. We assume that an av-
+ erage of 4.93 lambs would be killed in an
+ average 7-day period. The determination
+ of a time period when costs are recovered
+ is calculated by dividing the average
+ number of lambs required to break even
+ (3.62) by the average number of lambs
+ killed per week (4.93), which equals 0.73
+ week. Provided these rates of predation
+ and den removal are reasonable, only
+ 0.73 X 7 = 5.1 days are necessary to re-
+ cover costs.
+
+ DISCUSSION
+
+ Adult coyotes may initiate and continue
+ depredations on domestic sheep during the
+ pup-rearing season as a means of maxi-
+ mizing their hunting efficiency. Royama
+ (1970) implied adult predators may do this
+ by feeding their young more "profitable"
+ prey items than they consume themselves.
+ Domestic lambs are possibly the most
+ "profitable" prey items available to coy-
+ otes at this time of the year because they
+ are abundant, easily preyed upon, and
+ larger than most prey. Additional cre-
+ dence to the hypothesis that coyotes select
+ for "profitable" prey when feeding a litter
+ of pups may be gained by considering the
+
+ J. Wildl. Manage. 47(4):1983
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ EFFICACY OF DENNING * Till and Knowlton 1023
 
  relatively great distances adult coyotes will
-
  travel to obtain domestic lambs (Young
-
  and Jackson 1951, Lemm 1973), when less
-
  "profitable" (i.e., smaller, less abundant,
-
  and more difficult to capture) prey items
  are found nearer the den. When pups and
  their attendant energy demands are elim-
  inated, it is no longer necessary for adults
  to maximize hunting efficiency and dep-
-
  redations on lambs should be less intense.
 
  Learned predatory behavior is another
+ factor that influences depredations by
+ coyotes on spring lambing ranges. The ex-
+ tent to which this factor governs total loss-
+ es is speculative, as all adult coyotes rais-
+ ing litters in lambing areas may not kill
+ lambs. The predilection of some coyotes
+ for lambs encompasses more than a sim-
+ plified model pertaining to a maximiza-
+ tion of the available prey resource.
 
- 1024 EFFICACY OF DENNING * Till and Knowlton
+ Most predator losses occurred before
+ docking, when the first accurate count of
+ range-born lambs is made. Because it is
+ virtually impossible to account for all
+ lambs born (Tigner and Larson 1977) and
+ for all mortality (Bowns 1976, Nass 1977),
+ the percent of each bands' lamb crop lost
+ to coyotes was not estimated. Klebenow
+ and McAdoo (1976) stated that were it not
+ for their efforts in monitoring losses,
+ sheepherders would have found less than
+ half of the losses that occurred. Losses re-
+
+ sulting when coyotes killed and carried
+ small lambs away from the main band
+ were not accountable. Consequently, in
+ our study, additional depredations may
+ have occurred that were not observed.
+
+ Adjustments for such inaccuracies were
+ not made. The loss figures must be as-
+ sumed minimal; total predator losses must
+ be somewhat greater.
+
+ The cost-effectiveness analysis we cal-
+ culated is short-term essentially relating
+ the immediate benefits of removing of-
+ fending adults, their pups, or both in par-
+ ticular predation situations. Because pre-
+
+ dation may continue relatively unabated
+ unless the sheep are moved, total losses
+ inflicted by a pair of coyotes provisioning
+ pups could be severe if control measures
+ were not implemented. Although lamb
+ losses to coyotes are generally highest in
+ the spring, another major predation peri-
+ od during the late summer or early fall
+ has been noted (Klebenow and McAdoo
+ 1976, Tigner and Larson 1977, Boggess et
+ al. 1980). Field personnel assert that fall
+ predation is related to learning and de-
+ velopment of sheep-killing behavior in
+ pups. Lamb losses to coyotes just before
+ shipping are most damaging financially
+ since the cost of production is nearly com-
+ plete and returns have yet to be realized.
+ The depredation reduction gained by re-
+ moving a pair of offending coyotes or their
+ pups from certain areas is potentially
+ many times greater than that observed
+ immediately, although it is as yet uncer-
+ tain whether adults lacking pups will ini-
+ tiate depredations in the fall. Long-term
+ data sets of predation sequences under
+ these circumstances are nonexistent. To
+
+ assume that denning is cost-effective in all
+ conditions probably is inappropriate.
+
+ MANAGEMENT IMPLICATIONS
+
+ Wagner (1972:37) stated that some data
+ suggest depredations are reduced follow-
+ ing generalized coyote population reduc-
+ tion. However, he continues "the evi-
+ dence on total sheep losses shows little, if
+ any, correlation with density." Denning is
+ considered by some (including Gier 1968)
+ to be a means of coyote population reduc-
+ tion, although others doubt its effective-
+ ness (U.S. Dep. Inter. 1978a). When con-
+ sidering relatively small areas such as
+ lambing ranges, it is possible that pup re-
+ moval may effect a temporary population
+ reduction. If a population reduction of of-
+ fending family groups extends past nor-
+ mal lamb shipping dates, a fall predation
+
+ J. Wildl. Manage. 47(4):1983
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ 1024 EFFICACY OF DENNING * Till and Knowlton
 
  peak may not occur. The effect of such
-
- LITERATURE CITED
-
  reduced densities on the more mobile part
-
  of adjacent coyote populations has not
-
  been measured, but removing only pups
-
  may significantly reduce fall depreda-
-
  tions.
 
  Because this research indicates that
 
- D.C.
-
  depredations upon domestic sheep can be
-
  alleviated by removing litters of offending
-
  adult coyotes, one might wonder about
-
  situations where no pups are born. Coy-
-
  otes are territorial around a den (Camen-
-
- 692.
-
  zind 1978, Bowen 1982); whether they re-
-
  main so if pups are removed, or if the
-
  female fails to conceive after a pair bond
-
- ANDERSON, T. E. 1969. Identifying, evaluating and
-
- controlling wildlife damage. Pages 497-521 in
-
- R. H. Giles, Jr., ed. Wildlife management tech-
-
- niques. 3rd ed. The Wildl. Soc., Washington,
-
- BALSER, D. S. 1974. An overview of predator-live-
-
- stock problems with emphasis on livestock losses.
-
- Trans. North Am. Wildl. and Nat. Resour. Conf.
-
- 39:292-300.
-
- BEKOFF, M., AND R. JAMIESON. 1975. Physical de-
-
- velopment in coyotes (Canis latrans), with a
-
- comparison to other canids. J. Mammal. 56:685-
-
- BOGGESS, E. K., F. R. HENDERSON, AND C. E.
-
- SPAETH. 1980. Managing predator problems:
-
- practices and procedures for preventing and re-
-
- ducing livestock losses. Kans. State Univ. Coop.
-
- Ext. Serv. C-620. 19pp.
-
  is formed and a territory established, is not
-
- BOWEN, W. D. 1982. Home range and spatial or-
-
  known. Theoretically, without pups, dep-
-
  redations by coyotes should be less. If such
  coyotes will continue to defend territories,
-
  excluding others, it is interesting to spec-
  ulate about the efficacy of reducing dep-
-
  redations on areas with chronic losses, such
-
- ganization of coyotes in Jasper National Park,
- Alberta. J. Wildl. Manage. 46:201-215.
-
- BowNS, J. E. 1976. Field criteria for predator dam-
-
- age assessment. Utah Sci. 37:26-30.
-
- CAIN, S. A., J. A. KADLEC, D. L. ALLEN, R. A. COOL-
-
- EY, M. G. HORNOCKER, A. S. LEOPOLD, AND F.
-
- H. WAGNER. 1972. Predator control-1971: a
-
  as lambing ranges, by sterilizing resident
  adult coyotes.
 
@@ -256,41 +739,260 @@ All use subject to http://about.jstor.org/terms
 
  non-offending coyotes in livestock areas
  than coyotes that may or may not cause
-
  problems has been mentioned by Boggess
-
  et al. (1980). As demonstrated in our study,
-
  the status of offending adults can be
-
  changed by removing their pups in the
  spring. An important and selective pre-
-
  ventative control method might be gained
-
  by manipulating the mechanism (cause)
-
  that may trigger depredations. Extensive
-
  studies might determine if a long-range
-
  behavioral change can be effected. Our
-
  research has documented the results of
 
  manipulation after the fact; further re-
-
  search should probe the efficacy of selec-
  tively preventing depredations. Future re-
-
  search may provide alternatives to denning
-
  in resolving coyote depredations, recog-
-
  nizing the need for both livestock protec-
-
  tion and the aesthetic and economic value
 
  of coyotes.
 
-
+ LITERATURE CITED
+
+ ANDERSON, T. E. 1969. Identifying, evaluating and
+ controlling wildlife damage. Pages 497-521 in
+ R. H. Giles, Jr., ed. Wildlife management tech-
+ niques. 3rd ed. The Wildl. Soc., Washington,
+ D.C.
+
+ BALSER, D. S. 1974. An overview of predator-live-
+ stock problems with emphasis on livestock losses.
+ Trans. North Am. Wildl. and Nat. Resour. Conf.
+ 39:292-300.
+
+ BEKOFF, M., AND R. JAMIESON. 1975. Physical de-
+ velopment in coyotes (Canis latrans), with a
+ comparison to other canids. J. Mammal. 56:685-
+ 692.
+
+ BOGGESS, E. K., F. R. HENDERSON, AND C. E.
+ SPAETH. 1980. Managing predator problems:
+ practices and procedures for preventing and re-
+ ducing livestock losses. Kans. State Univ. Coop.
+ Ext. Serv. C-620. 19pp.
+
+ BOWEN, W. D. 1982. Home range and spatial or-
+ ganization of coyotes in Jasper National Park,
+ Alberta. J. Wildl. Manage. 46:201-215.
+
+ BowNS, J. E. 1976. Field criteria for predator dam-
+ age assessment. Utah Sci. 37:26-30.
+
+ CAIN, S. A., J. A. KADLEC, D. L. ALLEN, R. A. COOL-
+ EY, M. G. HORNOCKER, A. S. LEOPOLD, AND F.
+ H. WAGNER. 1972. Predator control-1971: a
+
+ report to the Council on Environmental Quality
+ and Department of the Interior. Univ. Michigan
+ Press, Ann Arbor. 207pp.
+
+ CAMENZIND, F. J. 1978. Behavioral ecology of coy-
+ otes on the National Elk Refuge, Jackson, Wy-
+ oming. Pages 267-294 in M. Bekoff, ed. Coy-
+ otes: biology, behavior and management.
+ Academic Press, New York, N.Y.
+
+ DEFENDERS OF WILDLIFE. 1978. Public comment
+ on U.S. Fish and Wildlife Service's mammalian
+
+ predator damage management for livestock pro-
+ tection in the western United States. Final EIS:
+ 443-465.
+
+ GIER, H. T. 1968. Coyotes in Kansas. Kans. State
+ Univ. Agric. Exp. Stn. Bull. 393. 118pp.
+
+ HUMANE SOCIETY. 1978. Public comment on U.S.
+
+ Fish and Wildlife Service's mammalian predator
+ damage management for livestock protection in
+ the western United States. Final EIS:404-407.
+
+ KLEBENOW, D. A., AND K. MCADOO. 1976. Pre-
+ dation on domestic sheep in northeastern Ne-
+ vada. J. Range Manage. 29:96-100.
+
+ LEMM, W. C. 1973. Coyote denning as a method
+ of damage control. Proc. Great Plains Wildl.
+ Damage Control Workshop:39-44.
+
+ NASS, R. D. 1977. Mortality associated with sheep
+ operations in Idaho. J. Range Manage. 39:253-
+ 258.
+
+ OTT, L. 1977. An introduction to statistical meth-
+ ods and data analysis. Wadsworth Publ. Co., Inc.,
+ Belmont, Calif. 730pp.
+
+ ROWLEY, I. 1970. Lamb predation in Australia: in-
+ cidence, predisposing conditions, and the iden-
+
+ J. Wildl. Manage. 47(4):1983
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
+All use subject to http://about.jstor.org/terms
+
+
+
+ EFFICACY OF DENNING * Till and Knowlton 1025
+
+ tification of wounds. CSIRO Wildl. Res. 15:79-
+ 123.
+
+ ROYAMA, T. 1970. Factors governing the hunting
+ behavior and selection of food by the great tit
+ (Parus major). J. Anim. Ecol. 39:619-669.
+
+ SIERRA CLUB. 1978. Public comment on U.S. Fish
+
+ and Wildlife Service's mammalian predator
+ damage management for livestock protection in
+ the western United States. Final EIS:408-411.
+
+ TIGNER, J. R., AND G. E. LARSON. 1977. Sheep
+ losses on selected ranches in southern Wyoming.
+ J. Range Manage. 30:244-252.
+
+ U.S. DEPARTMENT OF INTERIOR. 1978a. Predator
+
+ damage in the West: a study of coyote manage-
+ ment alternatives. U.S. Dep. Inter., Washington,
+ D.C. 168pp.
+
+ 1978b. Newly developed gas cartridge ef-
+ fective as a coyote den fumigant. U.S. Dep. In-
+ ter., Fish and Wildl. Serv., Denver Wildl. Res.
+ Center. 3pp.
+
+ WAGNER, F. H. 1972. Coyotes and sheep. 44th
+ Faculty Honor Lecture, Utah State Univ., Lo-
+ gan. 59pp.
+
+ WESTERN REGIONAL COORDINATING COMMITTEE,
+ WRCC-26. 1980. Predation on domestic ani-
+
+ mals, a response to Secretary of Interior Andrus
+ policy statement pertaining to the Animal Dam-
+ age Control Program. Utah Agric. Exp. Stn., Utah
+ State Univ., Logan. 91pp.
+
+ YOUNG, S. P., AND H. W. DOBYNS. 1945. Coyote
+ control by means of den hunting. U.S. Dep. In-
+ ter., Fish and Wildl. Circ. 7. 8pp.
+
+ --, AND H. H. T. JACKSON. 1951. The clever
+ coyote. The Stackpole Co., Harrisburg, Pa. and
+ The Wildl. Manage. Inst., Washington, D.C.
+ 411pp.
+
+ Received 25 June 1982.
+ Accepted 28 December 1982.
+
+ J. Wildl. Manage. 47(4):1983
+
+This content downloaded from 136.159.49.114 on Mon, 09 Jan 2017 18:15:10 UTC
+All use subject to http://about.jstor.org/terms
+
+
+	Contents
+	1018
+	1019
+	1020
+	1021
+	1022
+	1023
+	1024
+	1025
+
+	Issue Table of Contents
+	The Journal of Wildlife Management, Vol. 47, No. 4 (Oct., 1983), pp. 893-1276+i-xvi
+	Volume Information [pp. 1258-xvi]
+	Front Matter
+	Density as a Misleading Indicator of Habitat Quality [pp. 893-901]
+	Fecal Analysis to Estimate Mule Deer Diets [pp. 902-915]
+	Food Habits of Elk in the Northern Great Plains [pp. 916-923]
+	Comparative Winter Diets of Elk in New Mexico [pp. 924-932]
+	Habitat Use by Female Roosevelt Elk in the Oregon Coast Range [pp. 933-939]
+	White-Tailed Deer Visibility and Behavior along Forest Roads [pp. 940-953]
+	Population Characteristics of Free-Ranging Barbary Sheep in Texas [pp. 954-962]
+	Wolf Predation on Elk in Riding Mountain National Park, Manitoba [pp. 963-976]
+	The Role of Wolf Predation in Limiting a Moose Population [pp. 977-988]
+	Growth of the Avalon Peninsula, Newfoundland Caribou Herd [pp. 989-998]
+	An Evaluation of Predatory Suppression in Coyotes Using Lithium Chloride-Induced Illness [pp. 999-1009]
+	Microencapsulated Lithium Chloride Bait Aversion Did Not Stop Coyote Predation on Sheep [pp. 1010-1017]
+	Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep [pp. 1018-1025]
+	Grizzly Bear Food Habits, Movements, and Habitat Selection in the Mission Mountains, Montana [pp. 1026-1035]
+	Avian and River Otter Predation in a Storm-Petrel Colony [pp. 1036-1043]
+	Feeding Ecology of Mallards Wintering in Nebraska [pp. 1044-1053]
+	Spring and Summer Age Separation Techniques for the Mallard [pp. 1054-1062]
+	Gadwall Nest-Site Selection and Nesting Success [pp. 1063-1071]
+	Characteristics of Bald Eagle Communal Roosts in the Klamath Basin, Oregon and California [pp. 1072-1079]
+	Effects of Heptachlor on American Kestrels in the Columbia Basin, Oregon [pp. 1080-1087]
+	Line Transect Estimates of Density and the Winter Mortality of Gray Partridge [pp. 1088-1096]
+	Ring-Necked Pheasant Movements, Home Ranges, and Habitat Use in West Texas [pp. 1097-1104]
+	Short Communications
+	Contaminants in Greater Snow Geese and Their Eggs [pp. 1105-1109]
+	Band Loss from Lesser Snow Geese [pp. 1109-1114]
+	Predicting Fat Content of Geese from Abdominal Fat Weight [pp. 1115-1119]
+	Effect of Gang Brooding on Survival of Canada Goose Goslings [pp. 1119-1124]
+	Response of American Black Ducks to Dietary Uranium: A Proposed Substitute for Lead Shot [pp. 1124-1129]
+	Secondary Poisoning of Red-Shouldered Hawks with Carbofuran [pp. 1129-1132]
+	Environmental Contaminant Hazards to Attwater's Greater Prairie-Chickens [pp. 1132-1137]
+	Effects of Tebuthiuron on Lesser Prairie-Chicken Habitat and Foods [pp. 1138-1142]
+	Sex Classification of Juvenile Blue Grouse from Wing Characteristics [pp. 1143-1147]
+	Classification of Sex in Young Blue Grouse [pp. 1147-1151]
+	Use of Discriminant Function to Characterize Ruffed Grouse Drumming Sites in Georgia: A Critique [pp. 1151-1152]
+	Use of Discriminant Function to Characterize Ruffed Grouse Drumming Sites in Georgia: A Reply [p. 1152]
+	Feeding Ecology of Migrant Soras in Southeastern Missouri [pp. 1153-1159]
+	A Laser System to Remotely Sense Bird Movements [pp. 1159-1162]
+	A Technique for Assessing Land Surface Ruggedness [pp. 1163-1166]
+	Rate of Protein Inactivation in Selected Mammals Following Death [pp. 1166-1169]
+	Reproductive Development Related to Age Indicators in Microtine Rodents [pp. 1170-1172]
+	Reproductive Characteristics of Beaver in Mississippi [pp. 1172-1177]
+	Simulations of Demographic Compensation in Coyote Populations [pp. 1177-1181]
+	Marten Habitat Preferences in the Northern Sierra Nevada [pp. 1181-1186]
+	Estimating Food Consumption of Free-Ranging Manatees in Florida [pp. 1186-1192]
+	Age Estimation and Population Age Structure of Elephants from Footprint Dimensions [pp. 1192-1197]
+	Climatic Variation and Body Weight of Red Deer [pp. 1197-1201]
+	Retention and Visibility of Plastic Ear Tags on Deer [pp. 1201-1203]
+	Overwinter Forage Selection by Mule Deer on Seeded Big Sagebrush-Grass Range [pp. 1203-1207]
+	Epiphyseal Closure in White-Tailed Deer [pp. 1207-1213]
+	Field Laparoscopy of Female White-Tailed Deer [pp. 1213-1216]
+	Hardwood Browse Production Following Shelterwood Cutting [pp. 1216-1220]
+	Iodine Concentration in Plants Used by White-Tailed Deer in Michigan [pp. 1220-1226]
+	Relationship between Mandible Length and Carcass Weight of Moose in Norway [pp. 1226-1229]
+	Summer Defecation-Urination Rates and Volumes of Moose [pp. 1230-1233]
+	Effects of Darting and Netting on Caribou in Alaska [pp. 1233-1237]
+	Winter Forages of Mountain Goats in Central Colorado [pp. 1237-1243]
+	A Reliable Celloidin Technique for Dental Cementum Analysis: A Comment [pp. 1243-1244]
+	A Reliable Celloidin Technique for Dental Cementum Analysis: A Reply [pp. 1244-1245]
+	Rate of Increase of White-Tailed Deer on the George Reserve: A Re-Evaluation [pp. 1245-1247]
+	Rate of Increase of White-Tailed Deer on the George Reserve: A Response [pp. 1248-1250]
+
+	Book Reviews
+	Review: untitled [pp. 1251-1252]
+	Review: untitled [p. 1252]
+	Review: untitled [pp. 1252-1253]
+	Review: untitled [pp. 1253-1254]
+	Review: untitled [pp. 1254-1255]
+
+	Editorial [p. 1256]
+	Editorial News [p. 1257]
+	Back Matter
+
+
+

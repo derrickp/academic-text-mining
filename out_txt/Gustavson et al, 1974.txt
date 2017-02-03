@@ -1,3589 +1,858 @@
-of
+data\Gustavson et al, 1974.pdfdcterms:modified: 2015-04-20T15:29:43Z
+access_permission:can_modify: true
+access_permission:assemble_document: true
+access_permission:can_print_degraded: true
+created: Mon Apr 20 08:29:43 PDT 2015
+meta:save-date: 2015-04-20T15:29:43Z
+access_permission:can_print: true
+pdf:docinfo:modified: 2015-04-20T15:29:43Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2015-04-20T15:29:43Z
+access_permission:modify_annotations: true
+Content-Type: application/pdf
+dcterms:created: 2015-04-20T15:29:43Z
+Creation-Date: 2015-04-20T15:29:43Z
+X-TIKA:parse_time_millis: 38
+meta:creation-date: 2015-04-20T15:29:43Z
+date: 2015-04-20T15:29:43Z
+xmpMM:DocumentID: uuid:3c720e53-1dd2-11b2-0a00-000008a7cfff
+xmpTPg:NPages: 3
+access_permission:extract_content: true
+dc:format: application/pdf; version=1.4
+pdf:docinfo:producer: Adobe PDF Library 9.1
+modified: 2015-04-20T15:29:43Z
+producer: Adobe PDF Library 9.1
+access_permission:fill_in_form: true
+pdf:docinfo:created: 2015-04-20T15:29:43Z
+pdf:PDFVersion: 1.4
+Last-Modified: 2015-04-20T15:29:43Z
+access_permission:extract_for_accessibility: true
+!PDF_CONTENT!
+--------------------------------
 
-the
 
-number
 
-of
 
-items
 
-in
-of
 
-the
-the
 
-list
 
-to
 
-be
 
-retrieved
-of
 
-(7)
 
-but
 
-not
 
-num-
 
-ber
 
-items
 
-in
 
-the
 
-potential
 
-search
 
-space
 
-in
 
-LTS.
 
-These
 
-findings
 
-appear
 
-to
 
-indicate
 
-that
 
-free
 
-recall
 
-verbal
+
+
+
+of the number of items in the list to
+be retrieved (7) but not of the num-
+ber of items in the potential search
+space in LTS.
+
+These findings appear to indicate
+that free recall verbal learning may re-
 quire retrieval from LTS and that most
-failures
-initial
-recall
-retrieval
-failures
-rather
-than
-
-learning may re-
-
-recall
-
-after
-
-repre-
-
-sent
-
-loss
-
-of
-in
-LTS.
-items
-
-(information
-
-about)
-
-items
-
-retained
-
-Apparently,
-until
-least
-and
-retention
-demonstrated
-by
-retrieval
-without
-presentation.
-spontaneously
-
-presentation
-
-of
-
-only
-
-they
-
-have
-
-been
-
-re-
-
-called
-
-at
-
-once
-
-is
-
-sufficient
-
-for
-all
-
-storage
-
-of
-
-almost
-
-items,
-
-as
-spontaneous
-
-subsequent
-
-any
-
-fur-
-
-ther
-been
-
-Once
-
-an
-
-item
-
-has
-
-retrieved
-of
-
-from
-
-LTS the
-
-probability
-
-subsequent
-
-re-
-
-trieval
-from
-
-is
-
-very
-
-great,
-
-so
-
-that
-without
-
-retrieval
-further
-
-LTS
-
-increases
-is
-
-presentation.
-these
-
-There
-
-very
-
-little
-
-sup-
-
-port
-
-in
-
-data
-
-for
-
-the
-about)
-is
+recall failures after initial recall repre-
+sent retrieval failures rather than loss
+of (information about) items retained
+in LTS. Apparently, presentation of
+items only until they have been re-
+called at least once is sufficient for
+storage and retention of almost all
+items, as demonstrated by subsequent
+spontaneous retrieval without any fur-
+ther presentation. Once an item has
+been spontaneously retrieved from
+LTS the probability of subsequent re-
+trieval is very great, so that retrieval
+from LTS increases without further
+presentation. There is very little sup-
+port in these data for the assumption
+that (information about) items is lost
 from LTS during verbal learning. These
-the
-the
+results support the assumptions previ-
+ously made in the analysis of verbal
+learning by selective reminding (8)
+that items remain in LTS and that re-
+call failures may reasonably be re-
+garded as retrieval failures.
 
-assumption
-
-that
-
-(information
-
-items
-
-lost
-
-results
-
-support
-
-assumptions
-analysis
-
-previ-
-
-ously
-
-made
-
-in
-
-of
-
-verbal
-
-learning
-
-by
-items
-
-selective
-remain
-in LTS and that
-failures
-retrieval
-
-reminding
-
-(8)
-
-that
-
-re-
-
-call
-
-may
-
-reasonably
-
-be
-
-re-
-
-garded
-
-as
-
-failures.
-
-HERMAN
-
-BUSCHKE
-
+HERMAN BUSCHKE
 Saul R. Korey Department of
-Neurology
-and Rose F. Kennedy
-
+Neurology and Rose F. Kennedy
 Center for Research in Mental
+Retardation and Human Development,
+Albert Einstein College of Medicine,
+Bronx, New York 10461
 
-Retardation
+References and Notes
 
-and Human Development,
-
-Albert Einstein
-
-College
-
-of Medicine,
-
-Bronx, New
-
-York
-
-10461
-
-References
-
-and
-
-Notes
-
-1.
-
-The
-horse,
-
-items
-
-in
-
-the
-
-animal
-
-list
-
-were:
-
-dog,
-
-fox,
-
-buffalo,
-
-lion,
-lamb,
-rat,
-
-rhinoceros,
-
-elephant,
-sheep,
-
-ante-
-
-lope,
-goat,
-
-bear,
-
-raccoon,
-
-llama,
-
-cheetah,
-
-squirrel,
-
-beaver,
-
-donkey,
-
-and
-
+1. The items in the animal list were: dog, fox,
+horse, buffalo, lion, rhinoceros, elephant, ante-
+lope, bear, lamb, rat, raccoon, sheep, llama,
+goat, cheetah, squirrel, beaver, donkey, and
 turtle.
 
-2.
+2. The items in the mixed list were: Chicago,
+hand, tulip, zebra, carpenter, brandy, clarinet,
+Norway, train, cup, slippers, tennis, lemon,
+pigeon, corn, desk, spider, garlic, elm, and shark.
 
-The
-
-items
-
-in
-
-the
-
-mixed
-
-list
-
-were:
-
-Chicago,
-
-hand,
-
-tulip,
-
-zebra,
-
-carpenter,
-cup,
-
-brandy,
-
-clarinet,
-
-Norway,
-
-train,
-
-slippers,
-
-tennis,
-
-lemon,
-
-pigeon, corn,
-
-desk,
-categories
-
-spider,
-
-garlic,
-
-elm, and shark.
-for
-verbal
-spontaneous
-retrieval
-be
-learned:
-articles
-of
-
-3.
-
-The
-interference
-recall
-of
-states,
-
-following
-
-were
-
-used
-
-by
-
-before
-
-the
-
-list
-
-to
-
-names
-
-of
-
-boys'
-
-names,
-
-clothing,
-professions,
-
-verbs,
-
-colors,
-
-occupations
-
-or
-
-musical
-girls'
-
-instruments,
-
-foreign
-
-countries,
-
-trees,
-natural
-
-names,
-
-relatives
-
-(types
-
-of),
-
-and
-
-earth
-
+3. The following categories were used for verbal
+interference by spontaneous retrieval before
+recall of the list to be learned: names of
+states, boys' names, articles of clothing, verbs,
+colors, occupations or professions, musical
+instruments, foreign countries, trees, girls'
+names, relatives (types of), and natural earth
 formations.
 
-4.
-
-Both
-
-extended
-and many recall
-
-recall
-
-on
-
-each
-
-recall
-further
-
-attempt
-
-attempts
-
-(without
-
-pres-
-
-entation)
-
-seem
-
-to
-
-be
-spontaneous
-
-needed
-
-to
-
-obtain
-
-the
-LTS
-and
-
-maximum
-
-retrieval
-
-from
-
-necessary
-
-to
-
-evaluate
-
-storage,
-Since
-the
-
-retention,
-
-retrieval
-
-accurately.
-
-subject
-
-must
-
-learn
-
-that
-
-it
-
-is
-
-possible
-
-to
-
-retrieve
-
-additional
-important
-
-items
-
-by
-
-such
-
-extended
-
-recall,
-
-it
-
-is
-
-to
-
-provide
-
-enough
-
-time
-
-and
-
-encouragement
-the
-
-to
-
-allow
-trial
-recall
-
-maximum
-on.
-also
-items
-
-retrieval
-
-from
-
-very
-
-first
-
-This
-all
-
-requires
-
-the
-
-subject
-
-to
-
-try
-
-to
-some
-
-in
-
-the
-
-list,
-
-rather
-list.
-the
-
-than
-Our
-
-just
-subjects
-
-self-selected
-
-part
-
-of
-
-the
-
-have
-
-reacted
-their
-
-positively
-
-to
-
-challenge
-
-of
-
-achieving
-
-own maximum retrieval
-
-without
-
-further
-
-presentation.
-
-5.
-
-Such
-
-consistent
-
-retrieval
-
-from
-
-LTS
-
-on
-
-all
-any
-further
-estimate
-of
-say
-
-subsequent
-
-recall
-
-attempts
-
-without
-
-presentation
-
-may
-also
-We would
-learned
-
-provide
-
-an
-
-list
-
-learning.
-
-ordinarily
-
-that
-
-a
-
-list
-
-has
-
-been
-
-when
-
-the
-
-subject
-
-can
+4. Both extended recall on each recall attempt
+and many recall attempts (without further pres-
+entation) seem to be needed to obtain the
+maximum spontaneous retrieval from LTS
+necessary to evaluate storage, retention, and
+retrieval accurately. Since the subject must
+learn that it is possible to retrieve additional
+items by such extended recall, it is important
+to provide enough time and encouragement to
+allow maximum retrieval from the very first
+trial on. This also requires the subject to try
+to recall all items in the list, rather than just
+some self-selected part of the list. Our subjects
+have reacted positively to the challenge of
+achieving their own maximum retrieval without
+further presentation.
+
+5. Such consistent retrieval from LTS on all
+subsequent recall attempts without any further
+presentation may also provide an estimate of
+list learning. We would ordinarily say that a
+list has been learned when the subject can
 
 3 MAY 1974
 
-consistently
-recall
-list
-without
-any
-would
-that when a
-consistently
-
-all
-
-of
-
-the
-
-items
-
-in
-
-that
-
-further
-also
-
-presentations.
-
-There-
-
-fore,
-
-it
-
-seem
-reasonable
-can recall
-half of the
-
-to
-
-say
-
-subject
-
-items
-
-on
-
-all
-
-subsequent
-recall
-presentation
-
-attempts,
-those
-
-without
-
-any
-the
-
-further
-has
-items
-to
-be
-we
-
-of
-
-items,
-
-subject
-
-learned
-
-a
-
-(smaller)
-
-list
-of
-of
-the
-entire
-seems
-to
-be
-a list has been
-of
-that
-
-just
-
-those
-
-(and
-has
-learned),
-what
-mean
-when
-learned. The cumulative number
-retrieved
-from
-should
-
-learned
-
-half
-this
-that
-
-list
-
-since
-
-we
-
-say
-
-items
-on
-
-are
-
-consistently
-
-LTS
-
-all
-recall
-provide
-estimate
-with
-item
-M.
-Craik
-Verb.
-Learn.
-Verb.
-996
-(1968);
-ibid.
-9,
-143
-(1970)]
-has
-from
-short-term
-
-subsequent
-
-attempts
-list
-
-therefore
-
-an
-
-of
-
-learning
-
-for
-
-comparison
-
-learning.
-
-6.
-
-F.
-7,
-
-I.
-
-[J.
-
-Behav.
-shown
-not
-
-that
-
-items
-
-storage
-
-are
-
-Predation
-
-of lambs by feral
-public
-
-coyotes,
-
-in
-
-the
-United
-
-lands
-
-of
-
-the
-
-western
-
-States,
-
-has
-
-led
-
-to
-
-a
-
-sharp
-
-con-
-
-troversy
-
-between
-
-naturalists
-
-who
-
-wish
-in
-
-to
-
-see
-
-this
-
-carnivore
-survive
-habitat and stockmen who wish
-losses
-predatory
-of
-
-its
-
-natural
-
-to
-
-reduce
-
-sheep
-coyotes. The principal
-
-to
-
-method
-been
-
-con-
-
-trolling
-
-predation
-
-has
-
-simply
-
-to
-
-kill
-the
+consistently recall all of the items in that
+list without any further presentations. There-
+fore, it would also seem reasonable to say
+that when a subject can recall half of the items
+consistently on all subsequent recall attempts,
+without any further presentation of those
+items, the subject has learned a (smaller)
+list of just those items (and has learned half
+of the entire list to be learned), since this
+seems to be what we mean when we say that
+a list has been learned. The cumulative number
+of items that are consistently retrieved from
+LTS on all subsequent recall attempts should
+therefore provide an estimate of list learning
+for comparison with item learning.
+
+6. F. I. M. Craik [J. Verb. Learn. Verb. Behav.
+7, 996 (1968); ibid. 9, 143 (1970)] has shown
+that items from short-term storage are not
+
+Predation of lambs by feral coyotes,
+in the public lands of the western
+United States, has led to a sharp con-
+troversy between naturalists who wish
+to see this carnivore survive in its
+natural habitat and stockmen who wish
+to reduce sheep losses to predatory
+coyotes. The principal method of con-
+trolling predation has been simply to
+kill the coyotes, employing bounty
 hunters, traps, and lethal poisons. These
-do
-the sheep killers and other coyotes
-methods
-predator.
+methods do not distinguish between
+the sheep killers and other coyotes (1).
+We are devising behavioral methods
+which spare both prey and predator.
 
-coyotes,
-
-employing
-
-bounty
-
-methods
-
-not
-
-distinguish
-
-between
-
-(1).
-
-We
-
-are
-
-devising
-
-behavioral
-
-which
-
-spare
-
-both
-animal
-it
-flavor
-of
-that
-meal.
-Such
+If an animal eats a poisoned meal
+and survives, it will develop an aver-
+sion for the flavor of that meal. Such
 conditioned aversions have been studied
-the
-
-prey
-
-and
-
-If
-
-an
-
-eats
-
-a
-
-poisoned
-
-meal
-
-and
-
-survives,
-
-will
-
-develop
-
-an
-
-aver-
-
-sion
-
-for
-
-the
-
-most
-
-extensively
-
-in
-
-rat,
-
-which
-in seeking and
-
-is
-
-an omnivore specialized
-
-testing new sources
-many plants which could be toxic
-arise:
-
-of
-
-food,
-
-including
-
-(2).
-(i)
-readily
-estab-
-carnivore which preys
-Will
-gusta-
-
-Several
-
-general
-
-questions
-Can such aversions be as
-in
-
-lished
-
-a
-
-feral
-
-principally on animals?
-
-(ii)
-
-tory
-
-aversions
-olfactory,
-
-inhibit
-
-attack
-behavior
-auditory,
-(iii)
-
-directed
-
-at
-aspects
-
-and
-Can
-to
-a
-
-visual
-the
-
-of living prey?
-limited
-
-inhibitory
-specific
-
-effect
-
-be
-example,
-options
-
-prey
-
-(for
-
-lambs),
-
-leaving
-rabbits)
-
-other
-
-(for
-example,
-predator?
-Our
-adult
-coy-
-otes,
-approximately 2 to 4 years of age,
-Five
-feral
-age.
-
-open
-
-to
-
-the
-
-subjects
-
-were
-
-seven
-
-maintained in
-
-individual dog runs.
-
-coyotes
-
-were removed from their
-of
-
-den
-
-at
-
-approximately
-
-3
-
-weeks
-and
-
-Three
-
-(male
-
-"Brujo"
-
-females
-
-recalled
-and
-
-at
-
-delayed
-
-testing
-
-after
-
-presentation
-
-testing
-
-of
-
-other
-
-lists,
-
-even
-
-though
-
-they
-
-are
-
-recalled
-
-at
-
-immediate
-
-testing.
-
-This
-
-effect
-
-is
-shown
-retrieve
-
-in
-
-the
-
-present
-
-data
-
-by
-
-failure
-
-to
-
-about
-Since
-
-one
-retrieval
-many
-
-item
-
-again
-
-after
-
-the
-
-first
-
-recall.
-
-from
-recall
-
-LTS
-attempts,
-
-may
-
-occur
-
-only
-
-after
-have
-attempts
-had
-R.
-
-this
-
-effect
-retrieval
-
-would
-
-been
-
-greater
-
-if
-used.
-
-repeated
-
-not
-
-been
-Science
-
-7.
-
-M.
-
-Shiffrin,
-
-168,
-
-1601
-
-(1970).
-
-8.
-
-H.
-
-Buschke,
-
-J.
-
-Verb.
-
-Learn.
-
-Verb.
-
-Behav.
-
-12,
-
-543
-This
-17733
-HT-01799
-for
-
-(1973).
-
-9.
-
-work
-from NIMH, NS-03356
-NICHD.
-
-was
-
-supported
-
-by PHS grants MH-
-
-from NIMS, and
-thank
-Christine
-
-from
-
-I
-assistance.
-
-Hiney
-
-experimental
-
-23
-
-November
-
-1973
-
-.
-
-"Luna"
-
-and
-
-"Coty")
-
-had
-
-hunted
-rab-
-(male
-
-bits
-
-in
-
-the
-
-desert,
-
-while
-"Dizzy")
-
-two
-
-"Feisty"
-
-and
-
-female
-
-had
-relatively
-
-no
-
-hunting
-domesticated and readily
-
-experience.
-
-All
-
-were
-
-attacked both
-male
-
-lambs
-
-and
-and
-female
+most extensively in the rat, which is
+an omnivore specialized in seeking and
+testing new sources of food, including
+many plants which could be toxic (2).
+Several general questions arise: (i)
+Can such aversions be as readily estab-
+lished in a feral carnivore which preys
+principally on animals? (ii) Will gusta-
+tory aversions inhibit attack behavior
+directed at olfactory, auditory, and
+visual aspects of living prey? (iii) Can
+the inhibitory effect be limited to a
+specific prey (for example, lambs),
+leaving other options (for example,
+rabbits) open to the predator?
+Our subjects were seven adult coy-
+
+otes, approximately 2 to 4 years of age,
+maintained in individual dog runs. Five
+coyotes were removed from their feral
+den at approximately 3 weeks of age.
+Three (male "Brujo" and females
+
+recalled at delayed testing after presentation
+and testing of other lists, even though they
+are recalled at immediate testing. This effect
+is shown in the present data by failure to
+retrieve about one item again after the first
+recall. Since retrieval from LTS may occur
+only after many recall attempts, this effect
+would have been greater if repeated retrieval
+attempts had not been used.
+
+7. R. M. Shiffrin, Science 168, 1601 (1970).
+8. H. Buschke, J. Verb. Learn. Verb. Behav. 12,
+
+543 (1973).
+9. This work was supported by PHS grants MH-
+
+17733 from NIMH, NS-03356 from NIMS, and
+HT-01799 from NICHD. I thank Christine
+Hiney for experimental assistance.
+
+23 November 1973 .
+
+"Luna" and "Coty") had hunted rab-
+bits in the desert, while two (male
+"Feisty" and female "Dizzy") had no
+hunting experience. All were relatively
+domesticated and readily attacked both
+lambs and rabbits. The male "Sam"
+and female "Mary" were trapped as
 adults and were shy feral animals, each
-a
-months
-of
-Sam
-attacked
-attack
-in
-not
-
-rabbits.
-
-The
-
-"Sam"
-as
-
-"Mary"
-
-were
-
-trapped
-
-with an amputated forepaw,
-trapping.
-
-result of
-
-the
-
-After
-
-several
-
-habituation
-rabbits,
-
-to
-
-captivity
-but
-when they
-
-and
-
-ate
-
-refused
-
-to
-placed
-
-lambs
-his
-
-even
-
-were
-Mary
-
-pen
-
-for
-
-hours.
-animal.
-
-would
-
-attack
-
-either
-
-Our general
-procedure was to
-animals
-on
-"safe
-
-main-
-food"
-
-tain
-the
-and then present
-with
-
-one
-
-a "poison food" laced
-chloride
-followed
-by
-injection
-of
-lithium
-In
-the hamburger experiment,
-coyotes
-(Brujo,
-Luna,
-and
-were
-maintained
-food
-fresh
-two
-first hamburger trial
-
-lithium
-intraperitoneal
-
-or
-
-an
-
-chloride.
-
-four
-
-Coty,
-on
-
-Mary)
-
-dog
-on
-
-and
-
-given
-occasions. On the
-the
-
-hamburger
-
-meat
-
-contained
-capsules
-cellulose
-the
-
-6.0
-
-g
-(No.
-
-of
-
-lithium
-gelatin
-
-chloride
-
-in
-with
-
-31
-a
-
-4
-
-coated
-
-acetate
-
-com-
-
-pound).
-
-All
-animals
-and vomited after that meal
-
-became
-ill
-(3). Three
-
-days
-
-later
-
-the
-
-animals
-
-were
-
-presented
-re-
-
-with
-fused
-
-unpoisoned
-the
-
-hamburger
-
-and
-the ham-
-ration
-aversion
-was
-
-to
-
-eat
-
-meat.
-
-After
-
-burger
-
-test,
-
-they
-
-ate
-
-a
-
-full
-
-of
-
-dog
-
-food,
-
-indicating
-
-the
-
-specific
-
-to
-
-hamburger
-
-(see
-
-Fig.
-
-1).
-
-During
-
-the
-
-attack
-
-experiment,
-
-each
-
-coyote
-
-was
-
-placed
-
-in
-
-an
-
-individual
-
-pen
-
-approximately
-
-4
-
-by
-
-5
-
-by
-
-4
-
-feet
-
-high
-
-(1
-
-foot - 0.3
-
-m). The individual
+with an amputated forepaw, a result of
+the trapping. After several months of
+habituation to captivity Sam attacked
+and ate rabbits, but refused to attack
+lambs even when they were placed in
+his pen for hours. Mary would not
+attack either animal.
+Our general procedure was to main-
+
+tain the animals on one "safe food"
+and then present a "poison food" laced
+with lithium chloride or followed by
+an intraperitoneal injection of lithium
+chloride. In the hamburger experiment,
+four coyotes (Brujo, Coty, Luna, and
+Mary) were maintained on dog food
+and given fresh hamburger on two
+occasions. On the first hamburger trial
+the meat contained 6.0 g of lithium
+chloride in 31 capsules (No. 4 gelatin
+coated with a cellulose acetate com-
+pound). All the animals became ill
+and vomited after that meal (3). Three
+days later the animals were presented
+with unpoisoned hamburger and re-
+fused to eat the meat. After the ham-
+burger test, they ate a full ration of
+dog food, indicating the aversion was
+specific to hamburger (see Fig. 1).
+During the attack experiment, each
+coyote was placed in an individual
+pen approximately 4 by 5 by 4 feet
+high (1 foot - 0.3 m). The individual
 
 581
 
 Coyote Predation Control by Aversive Conditioning
+Abstract. Conditioned aversions were induced in coyotes by producing lithium
 
-Abstract.
+chloride illness in them following a meal, and the ejfects upon eating and attack
+behavior were observed. One trial with a given meat and lithium is sufficient to
+establish a strong aversion which inhibits eating thye flesh of that prey. One or
+two trials with a given flesh (lamb or rabbit) specifically suppresses the attack
+upon the averted prey but leaves the coyote free to attack the alternative prey.
+A method of saving both prey and predator is discussed.
 
-Conditioned aversions
-
-were induced in
-and the
-meat and lithium
-that
-
-coyotes
-
-by
-
-producing lithium
-
-chloride
-
-illness
-
-in them following a
-
-meal,
-
-ejfects upon eating and attack
-
-behavior
-
-were
-a
-
-observed.
-
-One trial
-aversion
-
-with
-inhibits
-
-a
-
-given
-
-is
-
-sufficient
-
-to
-One or
-the
-alternative
-
-establish
-
-strong
-
-which
-
-eating
-
-thye
-
-flesh
-
-of
-prey.
-suppresses
-
-two
-upon
-
-trials
-
-with
-
-a
-
-given
-averted
-prey
-saving
-both
-
-flesh
-
-(lamb
-
-or
-
-rabbit)
-
-specifically
-
-attack
-
-the
-
-but
-
-leaves
-
-the
-
-coyote
-
-free
-
-to
-
-attack
-discussed.
-
-the
-
-prey.
-
-A method of
-
-prey
-
-and predator
-
-is
-
-n
-n
-n
-o
-o
-o
+ o
+n 
 
 A
+pr
+
+il 
+20
+
+, 2
+01
+
+5
+w
+
+w
+w
+
+.s
+ci
+
+en
+ce
+
+m
+ag
+
+.o
+rg
+
+D
+ow
+
+nl
+oa
+
+de
+d 
+
+fr
+om
+
+ 
+ o
+
+n 
 A
+
+pr
+il 
+
+20
+, 2
+
+01
+5
+
+w
+w
+
+w
+.s
+
+ci
+en
+
+ce
+m
+
+ag
+.o
+
+rg
+D
+
+ow
+nl
+
+oa
+de
+
+d 
+fr
+
+om
+ 
+
+ o
+n 
+
 A
+pr
 
-p
-p
-p
+il 
+20
 
-r
-r
-r
-
-l
-l
-l
-i
-i
-i
-
-0
-0
-0
-2
-2
-2
-
-,
-,
-,
+, 2
+01
 
 5
-5
-5
-1
-1
-1
-0
-0
-0
-2
-2
-2
+w
 
-w
-w
-w
-w
-w
-w
-w
 w
 w
 
-.
-.
-.
+.s
+ci
 
-c
-c
-c
-s
-s
-s
-
-i
-i
-i
-
-n
-n
-n
-e
-e
-e
-
-c
-c
-c
-
-e
-e
-e
+en
+ce
 
 m
-m
-m
+ag
 
-g
-g
-g
-a
-a
-a
-
-.
-.
-.
-
-o
-o
-o
-
-r
-r
-r
-
-g
-g
-g
+.o
+rg
 
 D
-D
-D
+ow
 
-o
-o
-o
+nl
+oa
 
-w
-w
-w
+de
+d 
 
-n
-n
-n
-
-l
-l
-l
-
-d
-d
-d
-e
-e
-e
-d
-d
-d
-a
-a
-a
-o
-o
-o
-
-f
-f
-f
-
-r
-r
-r
-
-o
-o
-o
-
-m
-m
-m
+fr
+om
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-pens were located on the perimeter
 
-of
-
-a large
-
-grassy
-
-enclosure
-
-approximately
-animals were
-attack,
-
-30 by 40 feet, where the
-
-exercised
-
-daily.
-vomit
-
-Latencies
-
-to
-lithium
-
-to
-
-eat,
-
-and
-
-to
-
-after
-
-treat-
-
-ment
-
-were
-
-timed
-
-by
-stop
-still
-
-watch
-
-and
-or motion pic-
-the
-of
-was
-
-photographed with
-
-ture
-cameras.
-coyotes
-rabbit
-every
-substituted
-and
-
-During
-given
-hours
-test
-rabbits
-
-this
-
-period
-meal
-lamb
-
-*were
-
-a
-
-safe
-
-48
-on
-
-and
-days.
-
-Attacks
-
-on
-
-lambs
-
-were
-
-usually
-
-fatal.
-
-On day 1, a rabbit was released
-the
-in view of the
-
-into
-
-large
-
-enclosure
-
-coy-
-
-ote. The coyote pen
-door was
-for the
-attack laten-
-was
-repeated
-each
-coyote
-minced
-woolly
-
-opened
-
-and timing started
-this
-
-cy.
-
-On day
-
-3
-
-test
-On day
-bait
-packet
-in
-a
-
-with
-
-a
-
-lamb.
-
-5,
-
-was
-
-given
-
-a
-
-of
-
-lamb
-lamb hide. On day 7,
-with
-
-flesh
-
-wrapped
-
-fresh
-
-they were tested
-
-a
-
-rabbit which
-
-they
-
-attacked
-and then consumed. On day
-repeated
-with
-live
-
-im-
-
-mediately
-
-9,
-this
-lamb.
-tacked
-
-test
-
-was
-
-a
-
-Brujo
-
-and Coty
-
-immediately
-
-at-
-
-and
-
-killed
-
-their
-
-lambs
-but
-increased
-
-the
-
-latency
-markedly
-
-to
-(Brujo, from 270 seconds
-
-begin
-
-feeding
-
-to
-
-1200 seconds;
-
-Coty, from 600 seconds
+http://www.sciencemag.org/
+http://www.sciencemag.org/
+http://www.sciencemag.org/
+
+
+pens were located on the perimeter of
+a large grassy enclosure approximately
+30 by 40 feet, where the animals were
+exercised daily. Latencies to attack, to
+eat, and to vomit after lithium treat-
+ment were timed by stop watch and
+photographed with still or motion pic-
+ture cameras. During this period the
+coyotes *were given a safe meal of
+rabbit every 48 hours and lamb was
+substituted on test days. Attacks on
+lambs and rabbits were usually fatal.
+On day 1, a rabbit was released into
+
+the large enclosure in view of the coy-
+ote. The coyote pen door was opened
+and timing started for the attack laten-
+cy. On day 3 this test was repeated
+with a lamb. On day 5, each coyote
+was given a bait packet of minced
+lamb flesh wrapped in a fresh woolly
+lamb hide. On day 7, they were tested
+with a rabbit which they attacked im-
+mediately and then consumed. On day
+9, this test was repeated with a live
+lamb. Brujo and Coty immediately at-
+tacked and killed their lambs but the
+latency to begin feeding increased
+markedly (Brujo, from 270 seconds to
+1200 seconds; Coty, from 600 seconds
 to 1680 seconds), and the rate of feed-
-decreased.
-
-ing
-
-was
-
-In
-
-contrast,
-Luna
-instead
-she
-actively
-
-did
-
-not
-
-attack;
-
-avoided
-
-the
-
-lamb.
-
-After
-
-15
-
-minutes
-a
-
-the
-
-lamb
-
-was
-
-removed
-and
-rabbit
-presented.
-Luna
-immediately
-at-
-rabbit and subsequently
-ate
-data
-1.
-
-was
-
-tacked
-it.
-
-the
-
-Luna's
-
-attack
-
-are
-
-summarized
-
-on line
-
-1
-
-of Table
+ing was decreased. In contrast, Luna
+did not attack; instead she actively
+avoided the lamb. After 15 minutes
+the lamb was removed and a rabbit
+was presented. Luna immediately at-
+tacked the rabbit and subsequently ate
+it. Luna's attack data are summarized
+on line 1 of Table 1.
 The two coyotes whose attacks were
 
-not suppressed vomited soon after
-
-eat-
-
-ing
-
-the
-bait
-lithium
+not suppressed vomited soon after eat-
+ing the bait packet containing lithium
 (Brujo, 42 minutes; Coty, 30 minutes).
-later
-minutes)
-and
-
-packet
-
-containing
-
-Luna vomited
-thus may have
-
-(80
-absorbed
-
-more
-
-lithium
-
-chloride.
-Therefore,
-Brujo
-
-on
-a
-
-day
-
-13
-
-we
-
-gave
-
-and
-
-Coty
-
-second
-lamb
-followed
-2.5
-
-meat-lithium
-
-treatment
-
-by
-
-an
-
-intraperitoneal
-
-injection
-
-of
-
-g
-
-of lithium
-
-chloride
-
-in
-
-100 ml of water
-were
-
-(4). On day
-
-15,
-
-the two coyotes
-they
-
-tested
-
-with
-
-a
-
-rabbit
-
-which
-
-at-
+Luna vomited later (80 minutes) and
+thus may have absorbed more lithium
+chloride. Therefore, on day 13 we
+gave Brujo and Coty a second lamb
+meat-lithium treatment followed by
+an intraperitoneal injection of 2.5 g
+of lithium chloride in 100 ml of water
+(4). On day 15, the two coyotes were
+tested with a rabbit which they at-
 
 Days
 
 Fig. 1.Idvda gah,frforcyts
 
 E
+E t
 
-E
+o .50f IL E
 
-t
-
-o
-
-.50f
-
-IL
-
-E
-
-an
-
-) pioe
-
-hambredy2,
-
-and
+an ) pioe hambredy2, and
 
 ot
+o .
+-.25- E
 
-o
-
-.
-
--.25-
-
-E
-
-1
-
-2
-
-3
-
-4
-
-5
+1 2 3 4 5
 
 Days
 
-Fig.
-
-1.
-
-Individual
-
-graphs, for four coyotes,
-
-of
-
-food
-
-consumed:
-
-dog
-
-food
-
-(days
-
-1,
-
-3,
-
-and 4),
-
-poisoned hamburger
-
-(day 2), and
-
-unpoisoned
-
-hamburger
-
-(day
-
-5).
+Fig. 1. Individual graphs, for four coyotes,
+of food consumed: dog food (days 1, 3,
+and 4), poisoned hamburger (day 2), and
+unpoisoned hamburger (day 5).
 
 tacked immediately and then consumed.
-17,
-with
+On day 17, they were presented with
+a lamb which they did not attack
+(Table 1, lines 2 and 3).
+We then tested two more animals
 
-On day
-
-they
-which
-lines 2 and 3).
-tested
-two
-(Dizzy and Feisty)
-
-were
-
-presented
-
-a
-
-lamb
-
-they
-
-did
-
-not
-
-attack
-
-(Table
-
-1,
-
-We then
-
-more
-animals
-which had no prior
-
-experience
-
-with
-
-lithium
-
-illness.
-
-The
-
-procedures
-except
-that
-
-were
-dog
-
-essentially
-
-the
-
-same,
-
-food
-food provided on the
-
-was
-
-the
-
-safe
-
-intervening
-
-days
-
-and a rabbit
-
-carcass perfused with 5 g
-
-of
-
-lithium
-
-chloride
-
-in 50 ml
-food. The poison meal
-the
-immediate
-
-of water
-
-was the poison
-followed
-
-was
-
-by
-
-injec-
-
-tion
-
-described
-alleled
-
-above. The results
-studies.
-
-par-
-
-the
-
-earlier
+(Dizzy and Feisty) which had no prior
+experience with lithium illness. The
+procedures were essentially the same,
+except that dog food was the safe
+food provided on the intervening days
+and a rabbit carcass perfused with 5 g
+of lithium chloride in 50 ml of water
+was the poison food. The poison meal
+was followed by the immediate injec-
+tion described above. The results par-
+alleled the earlier studies. One treat-
 ment did not suppress attacks upon the
-rabbit but
-
-One
-
-treat-
-
-did
-
-suppress
-
-feeding
-
-during
-
-the
-
-15-minute
-
-period. When presented
-the
-
-with
-
-a
-
-dead
-
-rabbit
-
-during
-
-second
-
-treatment,
-
-they mouthed it but did not
-
-actually
-
-eat
-
-it.
-
-They
-
-were
-
-then
-
-given
-
-a
-
-second
-
-injection.
-
-Subsequently
-
-they
-
-refused
-
-to
-
-attack
-
-the
-
-rabbit
-the lamb
-
-but
-
-im-
-
-mediately
-
-attacked
-
-(Table
-
-1,
-(Sam)
-
-lines 4 and 5). The feral male
-
-would
-
-not
-
-attack
-
-a
-
-lamb,
-
-so
-
-he
-the
-
-was
-
-tested
-with
-rabbits
-schedule. One meal of the
-sufficient
-
-only
-
-on
-
-same
-
-toxic
-
-rabbit
-attack
-
-was
-
-to
-
-suppress
-
-his
-
-upon live
-
-rabbits
-
-(Table
-
-1,
-
-line
-
-6).
-
-The behavior
-posttreatment
-
-of
-
-the
-
-coyotes
-
-in
-
-the
-
-tests
-
-and
-
-the
-
-extinction
-
-Table
-after
-
-1.
-
-The
-
-time
-
-taken
-
-by
-treatment,
-
-coyotes
-consisted
-
-to
-
-attack
-of
-
-a
-
-live
-pairing
-
-rabbit
-
-and
-or
-
-a
-
-live
-
-lamb
-flesh
-
-before
-
-and
-
-experimental
-producing lithium
-
-which
-
-lamb
-
-rabbit
-
-with
-
-illness-
-
-chloride. No att., no attack.
-
-Before
-
-treatment
-
-Treatment:
-
-LiCl
-
-After
-
-treatment
-
-Rabbit
-
-Lamb
-
-paired
-
-with
-
-Rabbit
-
-Lamb
-
-Luna
-
-4
-
-sec
-
-1
-1
-
-sec
-
-Lamb flesh
-
-(once)
-
-1
-
-sec
-
-No att.
-
-Brujo
-
-1
-1
-
-sec
-
-sec
-
-Lamb flesh
-
-(twice)
-
-1
-
-sec
-
-No att.
-
-Coty
-
-sec
-
-1
-
-sec
-
-Lamb flesh
-
-(twice)
-
-2
-
-sec
-
-No att.
-
-Dizzy
-
-1
-
-sec
-sec
-
-1
-
-sec
-
-Rabbit flesh
-Rabbit flesh
-Rabbit flesh
-
-(twice)
-
-No att.
-
-2 sec
-
-Feisty
-
-61
-
-6 sec
-No att.
-
-(twice)
-
-No att.
-
-2 sec
-
-Sam
-
-231
-
-sec
-
-(once)
-
-No att.
-
-No test
+rabbit but did suppress feeding during
+the 15-minute period. When presented
+with a dead rabbit during the second
+treatment, they mouthed it but did not
+actually eat it. They were then given
+a second injection. Subsequently they
+refused to attack the rabbit but im-
+mediately attacked the lamb (Table 1,
+lines 4 and 5). The feral male (Sam)
+would not attack a lamb, so he was
+tested with rabbits only on the same
+schedule. One meal of the toxic rabbit
+was sufficient to suppress his attack
+upon live rabbits (Table 1, line 6).
+The behavior of the coyotes in the
+
+posttreatment tests and the extinction
+
+Table 1. The time taken by coyotes to attack a live rabbit and a live lamb before and
+after experimental treatment, which consisted of pairing lamb or rabbit flesh with illness-
+producing lithium chloride. No att., no attack.
+
+Before treatment Treatment: LiCl After treatment
+Rabbit Lamb paired with Rabbit Lamb
+
+Luna 4 sec 1 sec Lamb flesh (once) 1 sec No att.
+Brujo 1 sec 1 sec Lamb flesh (twice) 1 sec No att.
+Coty 1 sec 1 sec Lamb flesh (twice) 2 sec No att.
+Dizzy 1 sec 1 sec Rabbit flesh (twice) No att. 2 sec
+Feisty 61 sec 6 sec Rabbit flesh (twice) No att. 2 sec
+Sam 231 sec No att. Rabbit flesh (once) No att. No test
 
 582
 
-tests
-
-in which the averted animals were
-
-presented
-
-at
-
-weekly
-
-intervals
-
-revealed
-
+tests in which the averted animals were
+presented at weekly intervals revealed
 some interesting patterns. After becom-
-
-ing
-
-sick
-
-on
-
-hamburger,
-
-they
-
-buried
-
-their
-
-vomitus.
-When
-Luna sniffed
-
-presented
-
-with
-licked
-
-hamburger,
-
-and
-
-it
-
+ing sick on hamburger, they buried
+their vomitus. When presented with
+hamburger, Luna sniffed and licked it
 and then turned away. Brujo buried his
 hamburger. Coty urinated on her ham-
 burger and repeated this behavior with
-the lamb she killed
-flesh-
+the lamb she killed after the first flesh-
+lithium treatment.
 
-after the first
-
-lithium
-After
-
-treatment.
-
-a
-
-single
-
-lamb
-
-flesh-lithium
-
-treatment, Luna loped up to
-
-the lamb,
-
-sniffed
-
-it,
-
-and
-
-circled
-and
-
-back,
-
-hiding
-
-under
-minute.
-
-a
-
-cage
-
-vomiting
-
-within
-into
-her
-into
-
-1
-
-She
-
-then
-
-retreated
-
-pen. When the lamb followed
-she
-
-her
-
-her
-
-pen,
-lamb,
-
-growled
-and
-gagged
-
-snapped
-
-at
-
-the
-
-then
-
-and
-with no
-several
-
-retched,
-
-breaking
-the
-
-off the
-lamb.
-
-attack
-
-injury
-
-to
-
-Luna
-died
-showed
-
-days
-
-later.
-
-Since
-
-she
-
-good
-last
-
-activity
-
-and
-
-appetite
-
-following
-
-her
-
-treat-
-
-ment,
-
-and
-
-her
-
-autopsy
-of death was uncertain.
-
-was
-
-negative,
-
-the
-
-cause
+After a single lamb flesh-lithium
+treatment, Luna loped up to the lamb,
+sniffed it, and circled back, hiding
+under a cage and vomiting within 1
+minute. She then retreated into her
+pen. When the lamb followed her into
+her pen, she growled and snapped at
+the lamb, then gagged and retched,
+breaking off the attack with no injury
+to the lamb. Luna died several days
+later. Since she showed good activity
+and appetite following her last treat-
+ment, and her autopsy was negative,
+the cause of death was uncertain.
 
 Coty made a lunge at the lamb after
-the
-second
-
-treatment
-
-but
+the second treatment but stopped
 abruptly, turned her back to the lamb,
-the
-
-stopped
-
-and
-eating
-grass.
-his
-last
-
-spent
-
-rest
-
-of
-
-the
-
-test
-
-period
-
-Brujo
-
-also
-
-ate
-trials.
-
-grass
-
-on
-
-three
-
-extinction
-
-This
-
-behavior
-
-was
-
-observed
-with
-
-only
-
-during
-
-posttreatment
-example
-of
+and spent the rest of the test period
+eating grass. Brujo also ate grass on
+his last three extinction trials. This
+behavior was observed only during
+posttreatment tests with lambs, thus it
+may be an example of "displacement
 behavior" often observed when motiva-
-
-tests
-
-lambs,
-"displacement
-
-thus
-
-it
-
-may be
-
-an
-
 tion or drive is high but consummatory
-
-behavior
-
-is
-
-blocked.
-
-A
-
-week
-
-later,
-
-Coty
-
-attacked
-
-a
-
-lamb
-
-but
-killing.
-
-interrupted
-
-her
-
-attack
-
-without
-
-Brujo
-without
-
-was
-
-tested
+behavior is blocked. A week later,
+Coty attacked a lamb but interrupted
+her attack without killing. Brujo was
+tested for 8 weeks without a single
 attack.
+The group conditioned with rabbit
 
-for
-
-8
-
-weeks
-
-a
-
-single
-
-The
-
-group
-
-conditioned
-
-with
-
-rabbit
 and lithium was also variable in extinc-
-tion.
-in
-
-Feisty
-
-attacked
-
-140
-400
-
-seconds
-
-after
-
-4
+tion. Feisty attacked in 140 seconds
+after 4 weeks, Dizzy in 400 seconds
 after 2 weeks, and Sam in 120 seconds
-week.
-pattern,
-
-weeks,
-
-Dizzy
-
-in
-
-seconds
-
-after
-
-1
-coyote
-
-In
-
-the
-
-identical
-chewed
-then
-ceased
-30 minutes.
-waited
-another
-
-each
-
-carefully
-ears,
-
-first
-
-off
-
-and
-
-consumed
-
-the
-
-eating
-
-for
-the
-head
-
-about
-and
-
-Next,
-half
-
-he
-
-ate
-
-hour
-rest of the body. Before treatment,
-the
-coyotes
-the back of the neck
-
-before
-
-returning
-
-to
-
-consume the
-
-attacked
-
-and
-
-began
-
-consuming
-
-the
-
-neck,
-
-head,
-without long peri-
-
-and finally
-
-the
-bouts
-
-ears
-
-ods
-
-between
-
-of
-
-eating
-
-before
-
+after 1 week. In the identical pattern,
+each coyote carefully first chewed off
+and consumed the ears, then ceased
+eating for about 30 minutes. Next, he
+ate the head and waited another half
+hour before returning to consume the
+rest of the body. Before treatment, the
+coyotes attacked the back of the neck
+and began consuming the neck, head,
+and finally the ears without long peri-
+ods between bouts of eating before
 commencing on the body. The animals
-appear
-
-to
-
-be
-rabbit meat,
-
-reacquiring
-
-a
-
-taste
-
-for
-is now followed
-without
-toxic
-ef-
-
-as
-
-eating
-
-by
-
-nutritious
+appear to be reacquiring a taste for
+rabbit meat, as eating is now followed
+by nutritious effects without toxic ef-
 fects.
-
-effects
-
 We propose a two-phase conditioning
 
-process
-
-in
-
-mammals
-
-on
-
-the
-
-basis
-
-of
-the
-
-previous work
-
-(5).
-
-In phase
-
-one,
+process in mammals on the basis of
+previous work (5). In phase one, the
 
 SCIENCE, VOL. 184
 
-
+
+
+flavor of food becomes aversive after
+one illness, after which the sights and
+sounds of the prey may still elicit at-
+tack but the aversive flavor inhibits
+feeding. Phase two occurs when the
+auditory, visual, and olfactory cues
+from the prey become associated with
+the now aversive flavor, thus subse-
+quent attacks are inhibited and perhaps
+a second treatment is unnecessary. In
+some cases emesis may forge an as-
+sociation between vomited gustatory
+cues and odors of the vomitus which
+is sufficient for the second phase of
+conditioning.
+For suppressing sheep predation, we
+
+could scatter baits that smell like sheep,
+taste like sheep, and contain a non-
+lethal emetic toxin. We could also
+perfuse carcasses of lambs and sheep
+with lithium. The predator could then
+be expected to subject himself to re-
+peated trials until the flavor and the
+spoor of sheep becomes aversive. Sub-
+sequently, when foraging it would turn
+away before it sights sheep. Thus in
+open range, the aversive effect may be
+much more durable than our extinc-
+tion data indicate. Our coyotes had
+no other food and few other activity
+options in the small enclosure. The
+lambs persisted in following the coy-
+otes, and occasionally a rabbit literally
+leaped into a coyote's jaws.
+
+In addition, the feeding habits of
+the mother coyote averted to sheep
+might be transmitted to her pups, via
+flavor which her diet imparts to her
+milk, and by their early experience
+with the prey she brings to the den.
+Similar mechanisms have been demon-
+strated in the rat (6). This method
+should be effective against other preda-
+tors, such as large cat species and
+eagles. Studies (7) indicate that birds
+form aversions to the visual as well
+as gustatory aspects of food, so the
+infused lamb may be the method of
+choice for eagles. Finally, since it is
+known that flavors are enhanced when
+beneficial effects follow ingestion (8),
+this method could also be used to
+change the food preferences of some
+species that are endangered because
+their naturally preferred food is dimin-
+ishing owing to ecological change.
+
+CARL R. GUSTAVSON
+Department of Psychology, University
+of Utah, Salt Lake City 84112
+
+JOHN GARCIA
+WALTER G. HANKINS
+
+KENNETH W. RUSINIAK
+Departments of Psychology and
+Psychiatry, University of
+California, Los Angeles 90024
+3 MAY 1974
+
+References and Notes
+
+1. F. Wagner, "Coyotes and sheep," 44th Honor
+Lecture Faculty Association, Utah State Uni-
+versity, Logan, January 1972.
+
+2. For general reviews, see J. Garcia et al. and
+P. Rozin and J. W. Kalat, in Biological Bound-
+aries of Learning, M. E. P. Seligman and J.
+Hager, Eds. (Appleton-Century-Crofts, New
+York, 1973).
+
+3. One coyote (Mary) gulped the entire hamburger
+with 6.0 g of lithium chloride; the others
+gingerly separated out some of the capsules;
+however, they all ingested 3.0 g or more.
+The dose absorbed cannot be specified because
+of vomiting. Other tests indicate that for
+intraperitoneal injections of 0.12M LiCl, 100
+ml induces vomiting and 250 ml produces a
+strong aversion in coyotes weighing 9 to 13
+kg. The cellulose-covered capsules were de-
+signed to pass through the stomach into the
+intestine, thus avoiding ejection by vomiting.
+
+4. To establish maximal learning in one or
+two trials and thus minimize attack testing, we
+employed the combination of (i) LiCl (6.0 g)
+treated food in case the animal vomited and
+
+The "sweet tooth" is a widespread
+phenomenon of animal behavior, and
+the exceptions, according to Pfaffmann
+(1), are ". . . remarkable largely for
+their divergence from what otherwise
+appears to be a general rule .... Gusta-
+tory stimuli, therefore, appear to be bio-
+logically determined as the instigator of
+consummatory . . . responses." From
+studies of animal behavior it is rela-
+tively difficult to distinguish between
+the discriminative function of sweetness
+as information and the reinforcing prop-
+erty of sweetness, although direct meth-
+ods have been used with some success
+in specific experimental paradigms (2).
+Electrophysiological evidence from the
+recordings of chorda tympani suggest
+that the hedonic and intensity aspects
+of taste conform to quite different laws
+(1 ), but relatively little attention has
+been paid to man, whose capacity for
+language can allow him to evaluate,
+simultaneously, the intensity and hed-
+onic aspects of taste stimuli.
+
+Investigations of sweetness and the
+pleasantness of sweetness through hu-
+man psychophysical scaling raise the
+possibility that two quite different
+growth laws may be obtained, by in-
+structing the observer to attend to these
+two separate aspects of taste impres-
+sions. When an observer matches num-
+bers to sweetness so that ratios of these
+numbers reflect ratios among perceived
+sweetness, then rated sweetness appears
+
+reingested the vomitus and (ii! intraneritnneal
+injection to ensure an effective absorbed dose.
+Since 0.12M Lbia is simriii i..aI - v*ily biO
+logical saline, lithium treatment does not rad-
+ically alter the flavor of the prey.
+
+5. J. Garcia, J. C. Clarke, W. G. Hankins, in
+Perspectives in Ethology, P. P. G. Bateson and
+P. H. Klopfer, Eds. (Plenum, New York,
+1973).
+
+6. B. G. Galef and M. M. Clark, J. Comp. Physiol.
+Psychol. 78, 220 (1972).
+
+7. L. P. Brower, Sci. Am. 220, 22 (February
+1969); H. C. Wilcoxon, W. B. Dragoin, P. A.
+Kral, Science 171, 826 (1971).
+
+8. J. Garcia, R. F. Ervin, C. H. Yorke, R. A.
+Koelling, Science 122, 716 (1967); K. W.
+Green and J. Garcia, ibid. 173, 749 (1971);
+S. F. Meier, Psychonomic Sci. 17, 309 (1969).
+
+9. Supported in part by PHS grant lROl NS
+11041-01. We thank Ecodynamics for supply-
+ing and maintaining coyotes, and Buzz Moss
+for the use of his coyotes and his photography.
+Address correspondence to J.G., Department
+of Psychiatry, Neuropsychiatric Institute, Uni-
+versity of California, Los Angeles 90024.
+
+4 January 1974 0
+
+to increase systematically according to
+a power function of concentration:
+S = kCn (3), where S is sweetness; C,
+concentration; and k and exponent n
+are constants. The pleasantness of the
+same sweet taste does not, however,
+rise continuously with concentration
+(4) but either flattens out or may even
+decrease at very high concentrations.
+Human psychophysical scaling of taste
+intensity and taste pleasantness rely
+upon short-term exposures to sugar so-
+lutions (a model system), so that the
+scientific study of taste hedonics is
+based upon stimuli that do not resem-
+ble actual foods. This study concerns
+functional relations for both the model
+system and real foods, and thus bridges
+the gap between stimuli that are usu-
+ally not consumed and foods that are.
+As a result, one can determine whether
+functions obtained in simple systems
+have applicability to the world in which
+behavior takes place and whether the
+parameters determined in the former
+domain apply to the latter.
+
+In a previous study by Moskowitz
+(4) the sweetness-pleasantness relation
+was reported for sugar plus water. The
+method of magnitude estimation was
+used in order to obtain ratio-scale values
+for both sweetness and pleasantness.
+For the same set of concentrations of
+sugars, rated sweetness grew more rap-
+idly than rated pleasantness, and up to
+the sweetness of 1.OM glucose, pleas-
+
+583
+
+Sugar Sweetness and Pleasantness: Evidence for
+Different Psychological Laws
+
+Abstract. Sweetness and the pleasantness of sweetness of sucrose solutions and
+sweetened food conform to different functions. Sweetness rises with concentration,
+whereas pleasantness first rises and then decreases. The breakpoint appears to
+occur at a constant sweetness (that is, constant sensory) level.
+
+

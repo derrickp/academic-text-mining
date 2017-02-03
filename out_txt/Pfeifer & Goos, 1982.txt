@@ -1,43 +1,136 @@
+data\Pfeifer & Goos, 1982.pdfaccess_permission:can_modify: true
+title: GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
+dc:title: GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
+X-TIKA:parse_time_millis: 44
+access_permission:assemble_document: true
+dc:creator: William K. Pfeifer and Michael W. Goos
+pdf:docinfo:custom:Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+access_permission:can_print_degraded: true
+created: Wed Nov 06 11:04:56 PST 2013
+meta:save-date: 2013-11-06T19:04:56Z
+pdf:PDFVersion: 1.6
+access_permission:fill_in_form: true
+pdf:docinfo:modified: 2013-11-06T19:04:56Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2013-11-06T19:04:56Z
+SPDF: 1122.1
+dcterms:modified: 2013-11-06T19:04:56Z
+pdf:docinfo:creator_tool: Appligent APSetDocInfo 2.2.2
+Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+meta:author: William K. Pfeifer and Michael W. Goos
+Author: William K. Pfeifer and Michael W. Goos
+access_permission:extract_for_accessibility: true
+Creation-Date: 2013-11-06T19:04:56Z
+pdf:docinfo:creator: William K. Pfeifer and Michael W. Goos
+meta:creation-date: 2013-11-06T19:04:56Z
+xmpTPg:NPages: 8
+access_permission:extract_content: true
+access_permission:modify_annotations: true
+pdf:docinfo:custom:SPDF: 1122.1
+pdf:docinfo:title: GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
+access_permission:can_print: true
+date: 2013-11-06T19:04:56Z
+dc:format: application/pdf; version=1.6
+pdf:docinfo:producer: SPDF
+modified: 2013-11-06T19:04:56Z
+producer: SPDF
+Last-Modified: 2013-11-06T19:04:56Z
+pdf:docinfo:created: 2013-11-06T19:04:56Z
+creator: William K. Pfeifer and Michael W. Goos
+xmp:CreatorTool: Appligent APSetDocInfo 2.2.2
+Content-Type: application/pdf
+dcterms:created: 2013-11-06T19:04:56Z
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
+
+
 University of Nebraska - Lincoln
-
 DigitalCommons@University of Nebraska - Lincoln
-
 Proceedings of the Tenth Vertebrate Pest
-Conference (1982)
-
-Vertebrate Pest Conference Proceedings collection
+Conference (1982) Vertebrate Pest Conference Proceedings collection
 
 2-23-1982
 
 GUARD DOGS AND GAS EXPLODERS AS
 COYOTE DEPREDATION CONTROL
 TOOLS IN NORTH DAKOTA
-
-William K . Pfeifer
-
-Animal Damage Control, U.S. Fish and Wildlife Service, Bismarck , North Dakota
+William K. Pfeifer
+Animal Damage Control, U.S. Fish and Wildlife Service, Bismarck, North Dakota
 
 Michael W. Goos
-
-Animal Damage Control, U.S. Fish and Wildlife Service, Bismarck , North Dakota
+Animal Damage Control, U.S. Fish and Wildlife Service, Bismarck, North Dakota
 
 Follow this and additional works at: http://digitalcommons.unl.edu/vpc10
+Part of the Environmental Health and Protection Commons
 
-Part of the Env ironmental Health and Protection Commons
+This Article is brought to you for free and open access by the Vertebrate Pest Conference Proceedings collection at DigitalCommons@University of
+Nebraska - Lincoln. It has been accepted for inclusion in Proceedings of the Tenth Vertebrate Pest Conference (1982) by an authorized administrator
+of DigitalCommons@University of Nebraska - Lincoln.
 
-Pfeifer, William K . and Goos, Michael W., "GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL
+Pfeifer, William K. and Goos, Michael W., "GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL
 TOOLS IN NORTH DAKOTA" (1982). Proceedings of the Tenth Vertebrate Pest Conference (1982). Paper 36.
 http://digitalcommons.unl.edu/vpc10/36
 
-This Article is brought to you for free and open access by the Vertebrate Pest Conference Proceedings collection at DigitalCommons@University of
+http://digitalcommons.unl.edu?utm_source=digitalcommons.unl.edu%2Fvpc10%2F36&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/vpc10?utm_source=digitalcommons.unl.edu%2Fvpc10%2F36&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/vpc10?utm_source=digitalcommons.unl.edu%2Fvpc10%2F36&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/vpccollection?utm_source=digitalcommons.unl.edu%2Fvpc10%2F36&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/vpc10?utm_source=digitalcommons.unl.edu%2Fvpc10%2F36&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://network.bepress.com/hgg/discipline/172?utm_source=digitalcommons.unl.edu%2Fvpc10%2F36&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/vpc10/36?utm_source=digitalcommons.unl.edu%2Fvpc10%2F36&utm_medium=PDF&utm_campaign=PDFCoverPages
 
-Nebraska - Lincoln. It has been accepted for inclusion in Proceedings of the Tenth Vertebrate Pest Conference (1982) by an authorized administrator
 
-of DigitalCommons@University of Nebraska - Lincoln.
-
-GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL 
+GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL 
 TOOLS IN NORTH DAKOTA 
-
+ 
 WILLIAM K. PFEIFER and MICHAEL W. GOOS, Animal Damage Control, U.S. Fish and Wildlife Service, 
 Bismarck, North Dakota 58501 
 
@@ -51,8 +144,8 @@ sheep producers are using these control methods to reduce losses and become less
 funded damage control program. 
 
 INTRODUCTION 
-
 People in the sheep industry and animal damage control personnel generally agree that a variety of 
+
 control methods are needed to obtain best results in reducing sheep losses caused by predators. The 
 most desirable methods should be effective, economical, and environmentally safe. The recent need to 
 test additional methods stemmed from public concern over the nature and extent of predator control 
@@ -63,7 +156,6 @@ in North Dakota have used, or encouraged the use of, nonlethal methods to help r
 of sheep. Guard dogs and propane exploders have been demonstrated to be successful methods of reducing 
 depredation in North Dakota. The following describes the results obtained from the use of guard dogs 
 and exploders. This report does not endorse one breed of dog or brand of exploder over another. 
-
 GUARD DOGS 
 
 Coyote depredation on some ranches in North Dakota is a problem. Where it occurs, depredation can 
@@ -107,15 +199,16 @@ states. Approximately 60 percent of the dogs studies were rated as good-to-excel
 performance in remaining with sheep and significantly reducing predation. Only one of the dogs studied 
 was considered a complete failure. The success rate of the dogs that were acquired, trained, and worked 
 in the last 2 years of the study was greater; over 75 percent were rated good-to-excellent. The 
-
+ 
+ 
 1982. Proceedings Tenth Vertebrate Pest Conference             55 
 (R.E. Marsh, Ed.), Univ. of California, Davis, Calif.                               
 
- 
- 
- 
                                                                          
-increased success was due to improved dog-rearing techniques and the placement of dogs into operations 
+
+
+
+increased success was due to improved dog-rearing techniques and the placement of dogs into operations 
 suited to their temperament and abilities (Green 1981). 
 
 Researchers at NEFC have placed over 70 guard dogs with sheep ranchers across the country and most 
@@ -130,7 +223,6 @@ worked in the western half of the states, an area characterized by open range, w
 hills, brush, wetlands, and a large coyote population. Most of the statewide sheep depredation occurred 
 in this area. Ranchers placed sheep in pastures during the spring through fall grazing season and kept 
 them near ranch headquarters during the winter months. 
-
 OBSERVATIONS 
 
 Our 1981 study found that some ranchers have been using guard dogs since 1976. All of the 36 
@@ -191,11 +283,12 @@ dogs.
 
                                                                                                             56 
 
-Table 1. Results of guard dog use in North Dakota 1976-1981.  Information was obtained through interviews 
+
+
+Table 1. Results of guard dog use in North Dakota 1976-1981.  Information was obtained through interviews 
 with ranchers using dogs to guard sheep. 
 
-* Got sheep and dogs at the same time.
-** Data from ranch numbers 34, 35 and 36 not included because pups were not yet working. 
+ 
 
 When the young dogs matured their working behavior varied. Most of the dogs remained with the 
 sheep or near the fence boundary. A few roamed farther and spent less time directly with the sheep. 
@@ -207,14 +300,17 @@ understanding what the dog was doing.
 
                                                                             57 
 
- 
-The exact method the dogs used to reduce losses was not known. Ranchers described barking, marking 
+* Got sheep and dogs at the same time.
+** Data from ranch numbers 34, 35 and 36 not included because pups were not yet working. 
+
+
+
+The exact method the dogs used to reduce losses was not known. Ranchers described barking, marking 
 with scent posts, moving sheep away from danger, and actually chasing coyotes, fox, and dogs from the 
 pasture in their observations. Some dogs would not tolerate deer, antelope, eagles or other birds, 
 horses, cattle, or strangers. Although no actual physical encounters were recorded, one dog was seen 
 chasing a coyote for nearly one-half mile. Many of the dogs were seen to enter the pasture or barn 
 ahead of the sheep and not permit the sheep to enter until the dog was satisfied that all was safe. 
-
 DISCUSSION 
 
 The nature and extent of depredation reduction attributed to the dog's abilities was often difficult 
@@ -244,7 +340,6 @@ Presently 80 percent of the people who raise sheep in the United States maintain
 exclusively in fenced pastures or at least during some portion of the year (Gee and Magleby 1976).  In 
 North Dakota guard dogs work well under these conditions and it is expected there will be an increase 
 in the use of guard dogs. 
-
 CONCLUSION 
 
 Guard dogs have been used as a nonlethal, environmentally acceptable, and economical method of 
@@ -257,7 +352,6 @@ A growing number of dogs are being used in North Dakota in conjunction with the 
 program. The 93 percent reduction of coyote depredation appeared to have resulted from the presence 
 of guard dogs. The exact method of depredation prevention used by these dogs is not well known. Only 
 time will indicate if the coyotes will learn to circumvent the guard dogs. 
-
 PROPANE EXPLODERS 
 
 A variety of visual or auditory scare devices have been used for years to reduce coyote depredation 
@@ -287,7 +381,9 @@ along the coyote's approach route, and upwind of the depredation area. The timer
 
                                                  58 
 
-7-8 minutes. The landowner was advised to start the exploder before dark, shut it off at daybreak, and 
+
+
+7-8 minutes. The landowner was advised to start the exploder before dark, shut it off at daybreak, and 
 to change its location every 4-5 days. In all cases exploders were successful in stopping or reducing 
 losses until the offending coyotes could be removed. ADC personnel reported that exploders were an aid 
 to their operation and that most of the success or failure depended upon how the user operated the 
@@ -365,11 +461,15 @@ was especially effective when lambing occurred in range pastures. The exploder w
 establishment of a kill pattern. If the lambs can be protected for even a month, the use of the exploder 
 is economically feasible. 
 
+ 
 59 
 
- 
-Table 2. Results of propane exploder use in North Dakota. Information from 1980 and 1981 on 30 ranches 
+
+
+Table 2. Results of propane exploder use in North Dakota. Information from 1980 and 1981 on 30 ranches 
 where propane exploders were used to deter coyote depredation. 
+
+ 
 
 The most important factor determining the success of the tool was user operation and maintenance. 
 Results were greatly improved when the exploder was kept operational, moved, and used with different 
@@ -386,5 +486,100 @@ proper exploder use by the landowner. Proper use included changing exploder firi
 
 60 
 
+
+
+to prevent habituation by coyotes. The most effective use of the propane exploder was prevention; it 
+was easier to prevent the establishment of a kill pattern than to stop the killing after it had started. 
+Results of exploder use have varied but usually poor results were due to a lack of effort by the rancher. 
+Many times the exploder did a good job in spite of landowner inattention. Service field personnel will 
+continue to utilize the exploder as a valuable management control tool in conjunction with other methods 
+of control and prevention. 
+
+LITERATURE CITED 
+
+BLACK, H.L. 1981. Navaho sheep and goat guarding dogs: a new world solution to the coyote problem. 
+Rangelands 3(6):235-237.  
+
+BORDEAUX, E.S. 1974. Messengers from ancient civilizations. Academy Books, San Diego, California. 
+43 pp. 
+
+COPPINGER, L. and R. COPPINGER. 1980. So firm a friendship. Nat. History 89:12-26.  
+COPPINGER, R. and L. COPPINGER. 1978. Livestock guarding dogs for U.S. agriculture. Hampshire College, 
+
+Amherst, Massachusetts. 25 pp. 
+_____________________________ . 1980. Livestock guarding dogs, an old world solution to an age-old 
+
+problem. Country Journal 7(4):68-77. 
+DARWIN, C. 1839. The voyage of the Beagle. P.F. Collier and Son Corporation. 524 pp.  
+GEE, C.K. and R.S. MAGLEBY. 1976. Characteristics of sheep production in the western United States. 
+
+USDA Econ. Res. Ser. Ag. Econ. Rep. No. 345. 47 pp.  
+GREEN, J.S. 1981. Controlling coyote damage to sheep with non-lethal techniques. Presented at the 
+
+Fifth Great Plains Wildlife Damage Control Workshop. Lincoln, NE. 13-14 Oct. 1981. 
+_________  and R.A. WOODRUFF. 1981. In Press. Livestock guarding dogs: developments and current 
+
+status. Proc. Symp. Situation management of two intermountain species: aspen and coyotes. Utah 
+State Univ., Logan, 23-24 April 1981.  
+
+LINHART, S.B., R.T. STERNER, and G.J. DASCH. In preparation. Predation of pastured sheep reduced with 
+use of nocturnal, intermittent strobe-light and siren device. 
+
+___________________________  T.C. CARRIGAN, and D.R. HENNE. 1979. Komondor guard dogs reduce sheep 
+losses to coyotes: a preliminary evaluation. J. Range Manage. 32(3):238-241. 
+
+LYMAN, J.H. 1844. Shepherd dogs. The Amer. Agriculturists 3(11):241-242. 
  
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                              
+ 
+
+61 
+
+
+	University of Nebraska - Lincoln
+	DigitalCommons@University of Nebraska - Lincoln
+	2-23-1982
+
+	GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
+	William K. Pfeifer
+	Michael W. Goos
+
+
+
+

@@ -1,22 +1,117 @@
+data\Ausband, Mitchell, Bassing, & White, 2013.pdfdc:title: þÿ
+dc:creator: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
+access_permission:can_print_degraded: true
+access_permission:fill_in_form: true
+cp:subject: WR12176 207..216
+pdf:encrypted: false
+dcterms:modified: 2013-05-21T07:19:00Z
+pdf:docinfo:creator_tool: þÿ
+Creation-Date: 2016-06-22T21:14:40Z
+X-TIKA:parse_time_millis: 124
+pdf:docinfo:modified: 2013-05-21T07:19:00Z
+meta:creation-date: 2016-06-22T21:14:40Z
+xmpTPg:NPages: 11
+pdf:docinfo:title: þÿ
+pdf:docinfo:producer: Qt 5.3.0
+rgid: PB:286928861_AS:306991036076037@1450203774771
+producer: Qt 5.3.0
+Last-Modified: 2013-05-21T07:19:00Z
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+xmp:CreatorTool: þÿ
+Content-Type: application/pdf
+access_permission:extract_content: true
+access_permission:can_modify: true
+title: þÿ
+subject: WR12176 207..216
+pdf:docinfo:creator: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
+pdf:docinfo:created: 2016-06-22T21:14:40Z
+creator: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
+dcterms:created: 2016-06-22T21:14:40Z
+access_permission:assemble_document: true
+Last-Save-Date: 2013-05-21T07:19:00Z
+access_permission:modify_annotations: true
+meta:author: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
+Author: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
+access_permission:extract_for_accessibility: true
+meta:save-date: 2013-05-21T07:19:00Z
+access_permission:can_print: true
+date: 2013-05-21T07:19:00Z
+pdf:docinfo:subject: WR12176 207..216
+dc:format: application/pdf; version=1.4
+modified: 2013-05-21T07:19:00Z
+pdf:PDFVersion: 1.4
+created: Wed Jun 22 14:14:40 PDT 2016
+pdf:docinfo:custom:rgid: PB:286928861_AS:306991036076037@1450203774771
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+þÿ
+
+
 See	discussions,	stats,	and	author	profiles	for	this	publication	at:	https://www.researchgate.net/publication/286928861
 
 No	trespassing:	using	a	biofence	to	manipulate
-
 wolf	movements
 
-Article		in		Wildlife	Research	�	April	2013
+Article		in		Wildlife	Research	·	April	2013
 
-Impact	Factor:	1.49	�	DOI:	10.1071/WR12176
+Impact	Factor:	1.49	·	DOI:	10.1071/WR12176
 
 CITATIONS
 
 3
 
-4	authors,	including:
-
 READS
 
 32
+
+4	authors,	including:
 
 David	Ausband
 
@@ -34,4 +129,921 @@ Available	from:	David	Ausband
 
 Retrieved	on:	22	June	2016
 
-
+https://www.researchgate.net/publication/286928861_No_trespassing_using_a_biofence_to_manipulate_wolf_movements?enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ%3D%3D&el=1_x_2
+https://www.researchgate.net/publication/286928861_No_trespassing_using_a_biofence_to_manipulate_wolf_movements?enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ%3D%3D&el=1_x_3
+https://www.researchgate.net/?enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ%3D%3D&el=1_x_1
+https://www.researchgate.net/profile/David_Ausband?enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ%3D%3D&el=1_x_4
+https://www.researchgate.net/profile/David_Ausband?enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ%3D%3D&el=1_x_5
+https://www.researchgate.net/profile/David_Ausband?enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ%3D%3D&el=1_x_7
+
+
+No trespassing: using a biofence to manipulate wolf movements
+
+David E. AusbandA,C, Michael S. MitchellA, Sarah B. BassingA and Craig WhiteB
+
+AMontana Cooperative Wildlife Research Unit, 205 Natural Sciences Building, University of Montana,
+Missoula, MT 59812, USA.
+
+B600 S. Walnut Street, Boise, ID 83712, USA.
+CCorresponding author. Email: david.ausband@mso.umt.edu
+
+Abstract
+Context.Conserving large carnivores can be challenging because of conflicts with human land use and competition with
+
+humans for resources. Predation on domestic stock can have negative economic impacts particularly for owners of small
+herds, and tools for minimising carnivore depredation of livestock are needed. Canids use scent marking to establish
+territories and avoid intraspecific conflict. Exploiting scent-marking behaviour may provide ameans for manipulating canid
+movements.
+
+Aims.Wehypothesised that human-deployed scentmarks (i.e. ‘biofence’) could be used tomanipulate themovements of
+grey wolves (Canis lupus) in Idaho, USA.
+
+Methods. We deployed 65 km of biofence within three wolf-pack territories during summer 2010 and 2011 and used
+location data from satellite-collared wolves and sign surveys to assess the effectiveness of biofencing.
+
+Key results. Location data provided by satellite-collared wolves and sign surveys in 2010 showed little to no trespass of
+the biofence, even though the excluded areas were used by the packs in previous summers. We also opportunistically
+deployed a biofence in between a rendezvous site of a resident pack and a nearby sheep grazing allotment; the pack was
+not implicated in any depredations in summer 2010, even though they had killed sheep every year since 2006. Location data
+provided by satellite-collared wolves in summer 2011 showed that wolves did trespass biofences.
+
+Conclusions. Biofencing effectively manipulated the movements of wolves in the first year of our study, but not the
+second.
+
+Implications.Our work suggests that biofencing may be most limited by the apparent necessity to maintain a continuous
+presence once the biofence is established. The inherent labour and costs associatedwith such effortsmay limit the usefulness
+of biofencing. Our work can be improved on through further testing that maintains biofencing over a longer timeframe
+(>3 months), samples several animals per treatment pack, and uses a treatment and control design.
+
+Received 4 June 2012, accepted 12 March 2013, published online 8 April 2013
+
+Introduction
+
+Conserving large carnivores can be challenging because of
+conflicts with human land use and direct competition with
+humans for resources. Wild canids, in particular, have a long
+history of associatingwith humans (Zimen 1981;Robinson 2005;
+Hayes 2010); however, conflict arosemost notably when herding
+societies began to form and humans provided a new source of
+relatively docile livestock prey for large carnivores (Reynolds
+and Tapper 1996). Currently, much of the conflict between
+humans and canids arises from canid predation on domestic
+stock (Sillero-Zubiri et al. 2004). Predation on domestic stock
+can have negative economic impacts (Sillero-Zubiri et al. 2004),
+although Berger (2006) did not detect negative impacts at an
+industry-wide scale when analysing effects of coyote (C. latrans)
+depredation on sheep (Ovis spp.) production. For individual
+stock growers, particularly families in developing countries,
+the loss of livestock can have severe negative impacts. Further,
+predation on livestock creates a social environment where the
+benefits of conserving large carnivores are not apparent to
+
+people living with them on a daily basis. Numerous imperiled
+canid species occupy landscapes where humans and livestock
+are abundant, the potential for conflict is large, and the
+conservation challenge is great (Macdonald and Sillero-Zubiri
+2004).
+
+Some strategies exist for mitigating canid predation on
+livestock, including lethal techniques such as eradication,
+population reduction and selective lethal removal (Treves and
+Naughton-Treves 2005). Existing non-lethal tools include
+increased vigilance, relocation of offending animals, fladry,
+hazing, radio-activated guard (RAG) boxes, fencing, guard
+dogs and llamas, and covering stock with unpalatable
+substances (Nickel 1993; Green et al. 1994; Breck et al. 2002;
+Musiani et al. 2003; Bradley et al. 2005; Gehring et al. 2010). All
+of these methods have been tested to some extent on both wolves
+and coyotes in North America, with most producing temporarily
+effective, or generally ineffective, results. Although canids will
+avoid new objects in their environment, their ability to rapidly
+learn about and accept these objects (e.g. RAG boxes, fladry) is
+
+CSIRO PUBLISHING
+
+Wildlife Research, 2013, 40, 207–216
+http://dx.doi.org/10.1071/WR12176
+
+Journal compilation � CSIRO 2013 www.publish.csiro.au/journals/wr
+
+mailto:david.ausband@mso.umt.edu
+https://www.researchgate.net/publication/229775474_Evaluating_Wolf_Translocation_as_a_Nonlethal_Method_to_Reduce_Livestock_Conflicts_in_the_Northwestern_United_States?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/50220810_Non-lethal_Radio_Activated_Guard_for_Deterring_Wolf_Depredation_in_Idaho_Summary_and_Call_for_Research?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/48855713_Utility_of_livestock-protection_dogs_for_deterring_wildlife_from_cattle_farms?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+
+
+commonly observed. A non-lethal method to reduce canid and
+livestock conflicts is needed that does not rely on hazing,
+translocation, or a short-lived frightening device, yet
+effectively deters depredations.
+
+The scent-marking behaviour of wild canids provides an
+opportunity to develop a non-lethal tool that can be used to
+mitigate the canid–livestock conflict. Wild canids will often
+use chemicals to transfer information between individuals via
+scent marking. Scent marking involves deposition of urine or
+scat at a prominent landmark or trail junction (Barja et al. 2004),
+sometimes over another individual’s scent mark (i.e. over-
+marking). Scent marks contain pheromones, chemical signals
+that elicit responses from other individuals. Pheromones are
+substantially different from auditory or visual forms of
+communication because they can remain in the environment
+for extended periods of time, are effective even at night, and
+can transmit their message around objects (Feldhamer et al.
+2004). Canids, particularly dominant individuals (Rothman
+and Mech 1979), routinely use scent marks to maintain
+territories and avoid conflict. Moorcroft et al. (1999) showed
+that coyotes maintained territories and moved away from
+foreign scent marks of adjacent packs. Peterson (1977)
+reported that wolves on Isle Royale reversed direction of travel
+and retreated when they encountered a foreign scent mark along
+the edge of their territory. Scent marks are routinely maintained
+and are so important to territory maintenance that coyotes in
+Yellowstone National Park usurped the territory of an adjacent
+pack within 3 days of the death of one of the a animals of the
+adjacent pack (Gese 1998). Additionally, Rothman and Mech
+(1979) observed that lone wolves, in an apparent attempt to go
+undetected by resident wolves, seldom scent marked along
+roads and trails when dispersing through occupied wolf habitat.
+Because canids are generally territorial, we hypothesised that
+their movements could be manipulated by constructing
+‘biofences’ made of conspecific scent marks. Our objective
+was to manipulate grey wolf movements using human-
+distributed scent marks in central Idaho, USA, during
+summers 2010 and 2011. We predicted that the use of portions
+of wolf territories excluded by biofencing would decrease
+after biofence deployment.
+
+Materials and methods
+Study area
+
+We tested the effectiveness of biofencing near Garden Valley,
+Idaho, USA, from June to August 2010 and 2011. The study area
+is mountainous and is dominated by a mix of ponderosa pine
+(Pinus ponderosa), lodgepole pine (P. contorta) and spruce
+(Picea englemannii) forests. Annual precipitation ranges from
+89 to 178 cm and temperatures range from �34�C in winter to
+38�C in summer (Western Regional Climate Center 2011).
+
+Field methods
+
+We evaluated biofencing in three wolf packs (Archie Mountain,
+Timberline and Wapiti packs) that fluctuated between 8 and 14
+individuals andwhose annual movements werewell documented
+(USA Fish and Wildlife Service 2005, 2006, 2007, 2008, 2009).
+These three packs occupied a core area of wolf habitat in central
+
+Idaho where pack territories are contiguous and wolf density is
+relatively high (~12 wolves per 1000 km2; Stenglein et al. 2010).
+Location data from GPS-collared wolves in each pack provided
+from three to four locations per wolf each day. Several major
+roads and trails bisected the territories of these packs and
+provided reasonable access for deploying biofences and for
+sampling wolf signs. We wanted to select areas for biofencing
+that we could reasonably assume the pack would normally use
+if the biofence were not in place. We, therefore, mapped 2008
+and 2009 summer (from 15 May to 15 September) location data
+for satellite-collared wolves (Archie 2008, n= 3; Archie 2009,
+n = 4; Timberline 2008, n = 2; Timberline 2009, n= 4; Wapiti
+2009,n = 3) in the threewolf packs (only 2009datawere available
+for Wapiti). To supplement knowledge from local biologists
+about pack movements and habits, we pooled location data
+from collared wolves in each pack and used Home Range
+Tools in ArcGIS 9.3 (ESRI, Redlands, CA, USA) to generate
+a kernel-density estimator (smoothing parameter = 80% of href)
+andquantitatively determine areas usedby the residentwolf packs
+during two summers (except Wapiti pack, where just 1 year of
+data existed).We did not think that biofencingwould be effective
+atmanipulatingwolfmovements in the core of their territory.We,
+therefore, selected areas in the territories with >50% kernel
+density estimates and reasonable access for sampling, as
+candidates for biofencing. In early June 2010, we placed
+biofences that began at the 75% kernel-estimate areas of use
+and radiated out to the territory edge. We altered the Wapiti and
+Timberline biofences slightly in early June 2011, to attempt to
+achieve independence between years. We constructed theWapiti
+biofence, beginning at the 50% kernel-estimate areas of use and
+altered the Timberline biofence to begin at the 75% kernel
+estimate, to exclude more of their territory and bisect the 50%
+and 75% kernel-estimate areas of use (Figs 1–5). The Archie
+Mountain biofence remained the same in both years, to avoid
+potential interferencewith ongoing elk (Cervus elaphus) research
+in the area. In addition, we opportunistically placed a biofence in
+2010 between the rendezvous site of Timberline wolf pack and a
+band of domestic sheep (n= 2400) at a distance of <1.6 km. This
+area began at the edge of the estimated 50% kernel-density core
+area of the pack.
+
+We used scats and urine from wolves other than those in the
+resident pack when constructing our biofences, although we
+could not feasibly control for the sex and status of the wolves
+whose scats we collected. In winter 2009/2010, we collected
+scats from three wolf packs in western Montana where we had
+detailed knowledge of their historic movements and use of road
+and trail systems, specifically the Deborgia, Dutch and Ninemile
+wolf packs. In winter 2010/2011, we collected scats from the
+Big Hole, Dutch and Ninemile wolf packs in western Montana
+(30 8-h days each winter). We placed scats in individual plastic
+bags and labelled them by pack origin. We purchased wolf urine
+($60US L–1) from Leg Up Enterprises (Lovell, ME, USA). To
+create scratch marks, we initially used wolf paws collected by
+Idaho Department of Fish and Game from dead 42-kg and 41-kg
+male wolves, both of unknown pack status. We were unable to
+keep wolf paws from degrading in the field and, beginning in
+mid-summer 2010 through 2011, we placed a piece of scat on the
+tip of a stick and scratched the ground with the stick to simulate
+scratch marks.
+
+208 Wildlife Research D. E. Ausband et al.
+
+https://www.researchgate.net/publication/8363407_The_importance_of_crossroads_in_faecal_marking_behaviour_in_wolves_Canis_lupus?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/271240975_Mammalogy_Adaption_Diversity_and_Ecology?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/271240975_Mammalogy_Adaption_Diversity_and_Ecology?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/254637993_Wolf_Ecology_and_Prey_Relationships_on_Isle_Royale_National_Park_Service?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222604254_Scent-marking_in_lone_wolves_and_newly_formed_pairs?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222604254_Scent-marking_in_lone_wolves_and_newly_formed_pairs?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249541980_Response_of_neighboring_coyotes_Canis_latrans_to_social_disruption_in_an_adjacent_pack?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229867410_Efficient_Noninvasive_Genetic_Sampling_for_Monitoring_Reintroduced_Wolves?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/251734524_Home_Range_Analysis_Using_a_Mechanistic_Home_Range_Model?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+
+
+Each biofence consisted of a primary line of scent marks and
+a parallel secondary line that was offset from placement of marks
+in the primary line (at a 45� angle, and a distance of 100m). To
+create scent marks for our biofences, we simulated four
+behaviours used by wolves when marking territories, including
+raised-leg urinations (RLUs), squat urinations (SQUs), scats and
+scratch marks accompanied by a RLU and scat. We placed RLUs
+approximately every 500m by spraying a stream of 3.0mL
+of urine at 30.5-cm height on a rock or other prominent object.
+We deployed SQUs approximately every 750m, using 6.0mL
+of urine sprayed directly onto the ground, and placed scats
+approximately every 1 km. We deployed scratch marks
+approximately every 2 km by depositing a scat at the base of a
+
+prominent object, spraying the object with an RLU, and then
+scratching the ground 1.2m from the scat, throwing dirt towards
+the excrement. We also overmarked any observed scats from
+resident wolves with a RLU. We inserted toothpicks 75% into
+deployed scats to allow us to detect scats that may have been
+deposited as overmarks by resident wolves. We recorded
+simulated scent mark locations with a GPS and wrote a brief
+description of each site. Scats collected from a single pack in
+western Montana were deployed in a single pack in Idaho (e.g.
+scats from the Dutch pack in Montana were the only scats
+deployed in the territory of Timberline pack in Idaho). From
+early June to late August, we refreshed simulated scent marks
+between 10 and 14 days and recorded whether resident wolves
+
+N
+
+0 2.5 5 10 km
+
+Fig. 1. Locations of the biofence and satellite collars of Wapiti wolf pack in 2010, Idaho, USA. Dark squares
+are the locations of the biofence. Open circles are wolf locations before biofence deployment in Summer 2009 and
+black crosses are the locations of two resident wolves after biofence deployment (7 June–31 August 2010).
+
+Biofence and wolf movement Wildlife Research 209
+
+
+
+had investigated (via tracks present at scent mark) or overmarked
+the marks (Rothman and Mech 1979; Gese 1998; Jedrzejewski
+et al. 2001; Mech and Boitani 2003).
+
+We used a combination of metrics to assess the effectiveness
+of our biofencing. First, we used location data provided by
+satellite collars in Archie Mountain (n = 1 in 2010, n = 2 in
+2011), Timberline (n = 2 in 2011) and Wapiti (n = 2 in 2010,
+n = 3 in 2011) wolf packs to summarise the number of trespass
+locations across biofences. Some level of territorial trespass is
+common in wolf packs (Mech and Boitani 2003). Historically,
+the percentage of locations of wolves in Idaho that trespassed
+into the territory of an adjacent pack ranged from 0.6% to 10.0%
+and wolves were not detected farther than 2.8 km into the
+
+territory of the adjacent pack (D. Ausband, unpubl. data).
+Trespass distance was calculated as the shortest straight-line
+distance to thebiofence. Second, becausewe experienced a large
+number of collar failures, we conducted sign surveys at 20
+potential rendezvous sites (Ausband et al. 2010) in the exclusion
+areas created by our biofencing in the territories of Archie
+Mountain and Timberline packs. Technicians went to highly
+suitable rendezvous-site habitat, gave a series of wolf howls,
+then surveyed each site for�30min to look for tracks and scat.
+Third, because of the particular history and proximity to sheep
+of the pack, we assessed whether the Timberline wolf pack
+was implicated in any sheep depredations while the biofences
+were deployed.
+
+0 2 4 8 km
+
+N
+
+Fig. 2. Locations of the biofence and satellite collars of Archie wolf pack in 2010, Idaho, USA. Dark squares are
+the locations of the biofence. Open circles are wolf locations before biofence deployment in Summers 2008 and
+2009. Black crosses are the locations of one resident wolf after biofence deployment (3 July–2 September 2010).
+
+210 Wildlife Research D. E. Ausband et al.
+
+https://www.researchgate.net/publication/229873153_Surveying_Predicted_Rendezvous_Sites_to_Monitor_Gray_Wolf_Populations?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222604254_Scent-marking_in_lone_wolves_and_newly_formed_pairs?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249542043_Daily_movements_and_territory_use_by_radio-collared_wolves_Canis_lupus_in_Bialowieza_Primeval_Forest_in_Poland?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249542043_Daily_movements_and_territory_use_by_radio-collared_wolves_Canis_lupus_in_Bialowieza_Primeval_Forest_in_Poland?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249541980_Response_of_neighboring_coyotes_Canis_latrans_to_social_disruption_in_an_adjacent_pack?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+
+
+Results
+
+Effort of biofence deployment
+
+In 2010, we deployed 19.2 km of biofence in Archie Mountain,
+35.7 km in Timberline and 9.8 km in Wapiti wolf-pack
+territories, using 440 scats collected in winter 2009/2010 and
+11.4 L of urine. In 2011, we deployed 21.8 km of biofence in
+Archie Mountain, 23.0 km in Timberline and 20.0 km inWapiti
+wolf-pack territories.We deployed 505 scats collected in winter
+2010/2011 and 12.0 L of urine. Scat collection was most
+efficient in late spring when snow began to melt and scats
+deposited over winter were observable yet still intact. While
+
+deploying the biofences in 2010, we overmarked 27 resident
+wolf scats on the primary line and six resident wolf scats on the
+secondary line. In 2011, we overmarked 65 resident wolf
+scats on the primary line and two resident wolf scats on the
+secondary line while deploying the biofences. Resident
+wolves overmarked, or investigated, 6.1% of components on
+the primary line and 2.8% on the secondary line of the
+biofences in 2010, whereas in 2011, they overmarked or
+investigated 5.7% of components on the primary line and
+1.1% of components on the secondary line. It is difficult to
+detect RLU or SQU overmarks without snow cover and it is
+likely that some urine overmarks went undetected both years.
+
+0 2.5 5 10 km
+
+N
+
+Fig. 3. Locations of the biofence and satellite collars of Wapiti wolf pack in 2011, Idaho, USA. Dark squares are
+the locations of the biofence. Open circles are wolf locations before biofence deployment in Summers 2009 and
+2010. Black crosses are the locations of three resident wolves after biofence deployment (6 June–28 August 2011).
+
+Biofence and wolf movement Wildlife Research 211
+
+
+
+For both years, it took two technicians 1 day to deploy an
+average of 5.1 km and 1 day to refresh an average of 7.7 km
+of two-walled biofence.
+
+Biofence effectiveness in Summer 2010
+
+Location data from satellite-collared wolves in the Wapiti pack
+indicated no trespass of our biofences in 2010 (Table 1, Fig. 1).
+The collared wolf in the Archie Mountain pack had nine
+locations in the exclusion area, although the trespass distance
+was very short (average = 0.46, range 0.29–0.65 km), as was
+the average maximum duration of 17.5 h (range �15–22.5 h;
+Table 1, Fig. 2). This resident Archie wolf trespassed 10 days
+
+after the biofence was refreshed (s.e. = 1.4 days, range
+5–14 days). Sign surveys in 2010 yielded wolf scat at 20% of
+potential rendezvous sites in areas excluded by our biofences,
+although these scats (n = 4) appeared old (i.e. crumbly and
+chalky, or consisting of mostly hair, with little fecal matter
+present) and were likely deposited before biofence deployment.
+We detected seven incidental scats while travelling to the
+predicted rendezvous sites. These seven scats were clustered
+(1.3-km radius), appeared old and were 4.0 km from the den
+site of the resident pack used in the spring. We did not detect
+tracks or obtain howl responses at the 20 predicted rendezvous
+sites. The Timberline wolf pack did not depredate sheep during
+Summer 2010.
+
+0 2 4 8 km
+
+N
+
+Fig. 4. Locations of the biofence and satellite collars of Archie wolf pack in 2011, Idaho, USA. Dark squares are
+the locations of the biofence. Open circles are wolf locations before biofence deployment in Summers 2009 and
+2010. Black crosses are the locations of two resident wolves after biofence deployment (24 June–28 August 2011).
+
+212 Wildlife Research D. E. Ausband et al.
+
+
+
+Biofence effectiveness in Summer 2011
+
+In 2011, the collared wolves in the Wapiti pack showed
+limited trespassing, with seven trespasses averaging 1.87 km
+(s.e. = 0.87 km, range�0.10–3.45 km) and an average maximum
+duration of 22.5 h (range�15–30 h;Table 1, Fig. 3). The satellite-
+collared Archie Mountain wolves indicated no trespass of our
+biofences (Fig. 4), whereas the satellite-collared Timberline
+wolves trespassed 85 times, with an average distance of 1.56 km
+(s.e. = 0.29 km, range �0.87–6.90 km) and average maximum
+duration of 27.8 h (range �1.5–108.5 h; Table 1, Fig. 5).
+
+Similar to 2010, most trespassing of biofences occurred
+approximately 1 week or more after the biofence was
+
+refreshed. In 2011, resident wolves in the Wapiti and
+Timberline wolf packs trespassed 6 days after the biofences
+were refreshed. Wapiti wolves trespassed an average of
+6.8 days after refreshment (s.e. = 1.0 days, range 4–9 days) and
+Timberline wolves trespassed an average of 6.3 days after
+refreshment (s.e = 0.3 days, range 1–13 days).
+
+Discussion
+
+Results from 2010 suggested that the movements of wolves
+could be manipulated with biofencing; however, the results in
+2011 indicated that biofencing did not have a measurable
+effect on wolf-pack movements. In 2010, both location and
+
+0  3  6 12 km
+
+N
+
+Fig. 5. Locations of the biofence and satellite collars of Timberline wolf pack in 2011, Idaho, USA. Dark squares
+are the locations of the biofence. Open circles are wolf locations before biofence deployment in Summers 2008 and
+2009. Black crosses are the locations of two resident wolves after biofence deployment (28 June–31 August 2011).
+
+Biofence and wolf movement Wildlife Research 213
+
+
+
+sign-survey data indicated that resident wolf packs showed
+limited use of the exclusion areas. Overmark and collar-
+location data suggested these wolves approached the biofence,
+and even walked along it, but then returned in a direction towards
+the centre of their territory rather than trespass the biofence. In
+2011, however, the wolves, particularly the Timberlinea female,
+showed little aversion to trespassing the biofence. For most
+wolves, both the distance and duration of the trespasses
+we observed in both years were relatively short and within the
+normal range of trespass reported for neighbouring packs
+(Mech and Boitani 2003). Brief trespassing events may
+explain why sign and howling surveys indicated little to no
+wolf use of portions of the resident-wolf territories excluded
+by the biofences in 2010. For example, we observed no tracks in
+the exclusion areas in 2010, despite a historic track-detection rate
+of 18.8% at sites in this region (Ausband et al. 2010). Trespass
+that is short in duration and distance may also explain why
+wolves in the Timberline pack did not prey on sheep during
+summer 2010, despite their rendezvous site being <1.6 km from
+a band of 2400 sheep. This pack has been implicated in multiple
+depredations in one of the exclusion areas in previous years;
+however, none was reported in this area in Summer 2010 or
+Summer 2011. These results are unexpected, given the level of
+trespass we observed in Timberline in 2011; trespassing took
+place, but depredations did not. We readily acknowledge the
+role that sheep herders may have played in averting wolf
+depredations in 2010 and 2011, although herders were
+ineffective in previous years when their presence did not deter
+depredations on both sheep and guard dogs by this pack. The
+Archie Mountain pack did not trespass the biofence in 2011;
+however, this pack failed to successfully breed in 2011 and may
+be disbanding, making interpretation of their response to the
+biofence difficult (D. Ausband, unpubl. data). Two satellite
+collars in this pack failed to obtain locations on a regular
+basis, so knowledge of their movements is limited.
+
+One potential explanation for the disparity in biofence
+effectiveness between years may be that we did not deploy
+biofences year-round and maintain the perception of a
+continuous presence of the adjacent pack. Additionally,
+
+because of the difficulties in obtaining sufficient numbers of
+scats from the wild for use in biofence deployment, we were
+unable to control for whether a pack consistently encountered
+(via scent) the same individuals when visiting our biofences. If
+resident packs detected discontinuity in the presence of
+established, adjacent wolves (i.e. the biofence), they could
+have been less averse to crossing the biofence in 2011 than
+they were in 2010. Any further research on biofencing should
+attempt to maintain the biofence over a longer timeframe, while
+controlling for pack affiliation (or individual if possible) of the
+scats used during biofence and maintenance. Last, wolves may
+have showed less aversion to the biofence over time because
+there were no visual or auditory cues indicating the presence of
+another pack in the immediate area of the biofence.
+
+The social status of a wolf affects its response to foreign scent
+marks (Rothman andMech 1979); however, with four dominant-
+status wolves (6 wolf-years) radio-collared, we did not detect a
+strong trend between trespass and social status. Additionally, we
+would expect the dominance of the individual whose scent mark
+was deployed on the biofence to have an effect on biofence
+efficacy. Seasonality and associated pheromone levels in scats
+and urine also play a role in how canids respond to foreign scent
+marks. Controlling for these factors is, of course, difficult in a
+field-based study using wild wolf scats. Exploring the
+effectiveness of using more easily obtainable, and selectable,
+scats from captive wolves would be worthwhile.
+
+Wolves travel roads and established trails and the deployment
+andmaintenance of the primary line of the biofences required less
+time and effort than the secondary line which was generally off-
+trail.Wolves, however, seldom overmarked the secondary line of
+the biofence and one line may be sufficient, thereby greatly
+decreasing biofence deployment and refreshment time. Given
+that trespass between adjacent wolf packs is expected and
+common (Mech and Boitani 2003), we suggest placing
+biofences between 2 and 3 km from an attempted exclusion
+area. On the basis of the average trespass distances observed,
+we believe this would be a suitable distance when using
+biofencing to create an adequate buffer between resident
+wolves and the attempted exclusion area.
+
+Table 1. Resident wolf packs and their biofence trespass activity, central Idaho, USA, before and after biofence deployment, 2008–2011
+
+Year Pack Before or after
+biofence
+deployment
+
+Number of
+days pack
+monitored
+
+Number of
+locations
+
+Number of
+trespass
+
+locations (%)
+
+Average
+distance
+
+trespassed (km)
+
+Average
+max. time
+
+trespassed (h)
+
+2008 Archie Before 124 717 36 (5.0) 1.2 33.0
+2009 Archie Before 124 629 37 (5.9) 2.9 28.9
+2010 Archie After 87 40 9 (22.5) 0.4 17.5
+2011 Archie After 66 41 0 0 0
+2008 Timberline Before 124 622 8 (1.3) 0.8 18.1
+2009 Timberline Before 124 785 95 (12.1)A 3.1A 33.4A
+
+2011 Timberline After 65 425 85 (20.0) 1.6 27.8
+2009 Wapiti biofence 1 Before 100 323 7 (2.2) 1.4 27.5
+2010 Wapiti biofence 1 After 86 456 0 0 0
+2009 Wapiti biofence 2 Before 100 323 9 (2.8) 1.1 20.8
+2010 Wapiti biofence 2 Before 86 456 6 (1.3) 0.6 20.6
+2011 Wapiti biofence 2 After 84 358 7 (2.0) 1.9 22.5
+
+AIn 2009, Timberline had locations >10 km from where the biofence would be deployed in 2010. Including these ‘outlier’ locations, the number of trespass
+locations before deployment increased to 136 (17.3%) for an average distance of 10.2 km and an average maximum of 38.8 h.
+
+214 Wildlife Research D. E. Ausband et al.
+
+https://www.researchgate.net/publication/229873153_Surveying_Predicted_Rendezvous_Sites_to_Monitor_Gray_Wolf_Populations?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222604254_Scent-marking_in_lone_wolves_and_newly_formed_pairs?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+
+
+We have limited inference to other canids, although similar
+experiments with this technique have shown promise in African
+wild dogs (Lycaon pictus; Jackson et al. 2012). Shivik et al.
+(2011) recently found that biofencing using only urine was
+ineffective for manipulating the movements of three coyotes,
+whereas Arnold et al. (2011) found that the use of territory by
+red fox (Vulpes vulpes) decreased in females and increased in
+males following deployment of conspecific urine. We do not
+know why biofencing would be ineffective for coyotes and
+equivocal for red foxes, although the addition of scats and
+scratch marks may have made it more effective as a deterrent
+to movement, had they been used. Smaller canids may respond
+more strongly to biofences if they are constructed with scent
+marks of larger, dominant species (e.g. wolves). Indeed, some
+studies have indicated that urine and scat from dominant
+species can manipulate the movements of other species,
+although results have been mixed (Paquet 1991; Scheinin
+et al. 2006). A major goal when deploying a biofence is to
+have the target species visit, investigate and respond in a
+directional manner to the scent marks; therefore, any future
+work should continue to focus on the animal’s response after
+encountering the scent mark and not just whether the animal
+investigated the urine or scat deposit.
+
+Our sample size (n= 3 packs) and limited study design (i.e.
+no controls) limit generalisation, and further evaluation of
+biofencing is needed to determine its efficacy for deterring
+depredations by wolves and other canids. Furthermore,
+surrounding natural prey density may confound the
+effectiveness of biofencing near livestock. A study that
+samples many animals per pack and employs a treatment and
+control design would be beneficial, albeit expensive and
+logistically difficult. Additionally, testing the efficacy of
+biofencing in core portions of an animal’s territory or near
+livestock producers that have experienced persistent
+depredation events would be useful. More frequent refreshing,
+an adequate buffer distance (range 2–3 km) from the area to be
+excluded, and the use of automated howling devices (Ausband
+et al. 2011) may fortify biofencing (Harrington and Mech 1979)
+and increase its effectiveness. Our work suggests, however, that
+biofencing may be most limited by the apparent necessity to
+maintain a continuous presence once the biofence is established.
+The inherent labour and costs associated with such efforts may
+limit the usefulness of biofencing.
+
+Acknowledgements
+
+Funding was provided by the Animal Welfare Institute (Christine Stevens
+Wildlife Award), Bernice Barbour Foundation, Leonard X. Bosack & Bette
+M. Kruger Foundation, Kampe Foundation, and the Wolf Recovery
+Foundation. We received support from Idaho Fish & Game and the Nez
+Perce Tribe. We thank P. Apps, N. Borg, L. Bradley, T. Carolin, H. Cooley,
+B. Fannin, M. Hart, C. Hay, USFS Idaho City Ranger District, Leg Up
+Enterprises for an educational discount on wolf urine, J. Linch, T. McNutt,
+D. Mech, W. Melquist, C. Niemeyer, NPS Polebridge Ranger Station,
+K. Oelrich, G. Pauley, J. Rachael, Sawtooth Wilderness Manager L. Dean,
+R. Schultz, S. Thompson, C. Tobalske, USFS Lowman Ranger Station, West
+Yellowstone Grizzly andWolf Discovery Center D.Meetz, and P. Zager.We
+also extend thanks to our technicians B. Oates, C. Henderson, J. Demianew,
+L. Kaiser, R. Kindermann, R. Wilbur and L. Nelson. We operated under
+Glacier National Park collection permit #GLAC-2010-SCI-0150 when
+collecting scats in winter 2009/2010 and 2010/2011. Last, we are
+
+appreciative of the critique provided by two anonymous reviewers. Our
+manuscript was greatly improved as a result of their time and insights.
+
+References
+
+Arnold, J., Soulsbury, C. D., and Harris, S. (2011). Spatial and behavioral
+changes by red fox (Vulpes vulpes) in response to artificial territory
+intrusion. Canadian Journal of Zoology 89, 808–815. doi:10.1139/
+z11-069
+
+Ausband, D. E., Mitchell, M. S., Doherty, K., Zager, P., Mack, C. M., and
+Holyan, J. (2010). Surveying predicted rendezvous sites to monitor gray
+wolf populations. The Journal of Wildlife Management 74, 1043–1049.
+doi:10.2193/2009-303
+
+Ausband, D. E., Skrivseth, J., and Mitchell, M. S. (2011). An automated
+device for provoking and capturingwildlife calls.Wildlife SocietyBulletin
+35, 498–503. doi:10.1002/wsb.80
+
+Barja, I., de Miguel, F. J., and Barcena, F. (2004). The importance of
+crossroads in faecal marking behaviour of the wolves (Canis lupus).
+Naturwissenschaften 91, 489–492. doi:10.1007/s00114-004-0557-1
+
+Berger, K. (2006). Carnivore–livestock conflicts: effects of subsidized predator
+control and economic correlates on the sheep industry. Conservation
+Biology 20, 751–761. doi:10.1111/j.1523-1739.2006.00336.x
+
+Bradley, E. H., Pletscher, D. H., Bangs, E. E., Kunkel, K. E., Smith, D. W.,
+Mack, C. M., Meier, T. J., Fontaine, J. A., Niemeyer, C. C., and Jimenez,
+M. D. (2005). Evaluating wolf translocation as a nonlethal method to
+reduce livestock conflicts in the northwesternUnitedStates.Conservation
+Biology 19, 1498–1508. doi:10.1111/j.1523-1739.2005.00102.x
+
+Breck, S. W., Niemeyer, C., Williamson, R., and Shivik, J. A. (2002). Non-
+lethal radio activated guard for deterring wolf depredation in Idaho:
+summary and call for research. USDA National Wildlife Research
+Center, Staff Publications. University of Nebraska, Lincoln, NE.
+
+Feldhamer, G. A., Drickamer, L. C., Vessey, S. H., and Merritt, J. F. (2004)
+‘Mammalogy: Adaptation, Diversity, Ecology.’ (McGraw-Hill: New
+York.)
+
+Gehring, T.M., VerCauteren, K. C., Provost, M. L., and Cellar, A. C. (2010).
+Utility of livestock-protection dogs for deterring wildlife from cattle
+farms. Wildlife Research 37, 715–721. doi:10.1071/WR10023
+
+Gese, E. M. (1998). Response of neighboring coyotes (Canis latrans) to
+social disruption in an adjacent pack. Canadian Journal of Zoology 76,
+1960–1963.
+
+Green, J. S., Henderson, F. R., and Collinge, M. D. (1994). Coyotes: damage
+prevention and control methods. Cooperative Extension Division,
+University of Nebraska, Lincoln, NE.
+
+Harrington, F. H., and Mech, L. D. (1979). Wolf howling and its role
+in territory maintenance. Behaviour 68, 207–249. doi:10.1163/
+156853979X00322
+
+Hayes, B. (2010). ‘Wolves of the Yukon.’ (Wolves of the Yukon Publishing:
+Whitehorse, Yukon Territory, Canada.)
+
+Jackson, C. R., McNutt, J. W., and Apps, P. J. (2012). Managing the ranging
+the ranging behaviour of African wild dogs (Lycaon pictus) using
+translocated scent marks. Wildlife Research doi:10.1071/WR11070
+
+Jedrzejewski,W., Schmidt,K.,Theuerkauf, J., Jedrzejewska,B., andOkarma,
+H. (2001). Daily movements and territory use by radiocollared wolves
+(Canis lupus) inBialowieza Primeval Forest in Poland.Canadian Journal
+of Zoology 79, 1993–2004. doi:10.1139/cjz-79-11-1993
+
+Macdonald, D. W., and Sillero-Zubiri, C. (2004). Conservation: from theory
+to practice without bluster. In ‘The Biology and Conservation of Wild
+Canids’. (Eds D. W. Macdonald and C. Sillero-Zubiri.) pp. 353–372.
+(Oxford University Press: Oxford, UK.)
+
+Mech, L. D., and Boitani, L. (2003). Wolf social ecology. In ‘Wolves:
+Behavior, Ecology, and Conservation’ (Eds L. D. Mech and
+L. Boitani.) pp. 1–34. (The University of Chicago Press: Chicago, IL.)
+
+Moorcroft, P. R., Lewis, M. A., and Crabtree, R. L. (1999). Home range
+analysis using amechanistic home range model. Ecology 80, 1656–1665.
+doi:10.1890/0012-9658(1999)080[1656:HRAUAM]2.0.CO;2
+
+Biofence and wolf movement Wildlife Research 215
+
+dx.doi.org/10.1139/z11-069
+dx.doi.org/10.1139/z11-069
+dx.doi.org/10.2193/2009-303
+dx.doi.org/10.1002/wsb.80
+dx.doi.org/10.1007/s00114-004-0557-1
+dx.doi.org/10.1111/j.1523-1739.2006.00336.x
+dx.doi.org/10.1111/j.1523-1739.2005.00102.x
+dx.doi.org/10.1071/WR10023
+dx.doi.org/10.1163/156853979X00322
+dx.doi.org/10.1163/156853979X00322
+dx.doi.org/10.1071/WR11070
+dx.doi.org/10.1139/cjz-79-11-1993
+dx.doi.org/10.1890/0012-9658(1999)080[1656:HRAUAM]2.0.CO;2
+dx.doi.org/10.1890/0012-9658(1999)080[1656:HRAUAM]2.0.CO;2
+https://www.researchgate.net/publication/216793289_Spatial_and_behavioral_changes_by_red_foxes_Vulpes_vulpes_L_1758_in_response_to_artificial_territory_intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/216793289_Spatial_and_behavioral_changes_by_red_foxes_Vulpes_vulpes_L_1758_in_response_to_artificial_territory_intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/216793289_Spatial_and_behavioral_changes_by_red_foxes_Vulpes_vulpes_L_1758_in_response_to_artificial_territory_intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/216793289_Spatial_and_behavioral_changes_by_red_foxes_Vulpes_vulpes_L_1758_in_response_to_artificial_territory_intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/216793289_Spatial_and_behavioral_changes_by_red_foxes_Vulpes_vulpes_L_1758_in_response_to_artificial_territory_intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229873153_Surveying_Predicted_Rendezvous_Sites_to_Monitor_Gray_Wolf_Populations?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229873153_Surveying_Predicted_Rendezvous_Sites_to_Monitor_Gray_Wolf_Populations?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229873153_Surveying_Predicted_Rendezvous_Sites_to_Monitor_Gray_Wolf_Populations?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229873153_Surveying_Predicted_Rendezvous_Sites_to_Monitor_Gray_Wolf_Populations?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264747178_An_Automated_Device_for_Provoking_and_Capturing_Wildlife_Calls?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264747178_An_Automated_Device_for_Provoking_and_Capturing_Wildlife_Calls?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264747178_An_Automated_Device_for_Provoking_and_Capturing_Wildlife_Calls?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264747178_An_Automated_Device_for_Provoking_and_Capturing_Wildlife_Calls?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264747178_An_Automated_Device_for_Provoking_and_Capturing_Wildlife_Calls?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/8363407_The_importance_of_crossroads_in_faecal_marking_behaviour_in_wolves_Canis_lupus?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/8363407_The_importance_of_crossroads_in_faecal_marking_behaviour_in_wolves_Canis_lupus?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/8363407_The_importance_of_crossroads_in_faecal_marking_behaviour_in_wolves_Canis_lupus?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/271240975_Mammalogy_Adaption_Diversity_and_Ecology?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/271240975_Mammalogy_Adaption_Diversity_and_Ecology?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/271240975_Mammalogy_Adaption_Diversity_and_Ecology?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249575584_Wolf_Howling_and_Its_Role_in_Territory_Maintenance?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249575584_Wolf_Howling_and_Its_Role_in_Territory_Maintenance?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249575584_Wolf_Howling_and_Its_Role_in_Territory_Maintenance?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249575584_Wolf_Howling_and_Its_Role_in_Territory_Maintenance?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/238023971_Scent-marking_behavior_of_sympatric_wolves_Canis_lupus_and_coyotes_C_latrans_in_Riding_Mountain_National_Park?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222668326_Behavioural_responses_of_red_foxes_to_an_increase_in_the_presence_of_golden_jackals_A_field_experiment?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222668326_Behavioural_responses_of_red_foxes_to_an_increase_in_the_presence_of_golden_jackals_A_field_experiment?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264753058_Will_an_Artificial_Scent_Boundary_Prevent_Coyote_Intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264753058_Will_an_Artificial_Scent_Boundary_Prevent_Coyote_Intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229775474_Evaluating_Wolf_Translocation_as_a_Nonlethal_Method_to_Reduce_Livestock_Conflicts_in_the_Northwestern_United_States?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229775474_Evaluating_Wolf_Translocation_as_a_Nonlethal_Method_to_Reduce_Livestock_Conflicts_in_the_Northwestern_United_States?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229775474_Evaluating_Wolf_Translocation_as_a_Nonlethal_Method_to_Reduce_Livestock_Conflicts_in_the_Northwestern_United_States?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229775474_Evaluating_Wolf_Translocation_as_a_Nonlethal_Method_to_Reduce_Livestock_Conflicts_in_the_Northwestern_United_States?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229775474_Evaluating_Wolf_Translocation_as_a_Nonlethal_Method_to_Reduce_Livestock_Conflicts_in_the_Northwestern_United_States?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/6877097_Carnivore-Livestock_Conflicts_Effects_of_Subsidized_Predator_Control_and_Economic_Correlates_on_the_Sheep_Industry?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/6877097_Carnivore-Livestock_Conflicts_Effects_of_Subsidized_Predator_Control_and_Economic_Correlates_on_the_Sheep_Industry?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/6877097_Carnivore-Livestock_Conflicts_Effects_of_Subsidized_Predator_Control_and_Economic_Correlates_on_the_Sheep_Industry?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249542043_Daily_movements_and_territory_use_by_radio-collared_wolves_Canis_lupus_in_Bialowieza_Primeval_Forest_in_Poland?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249542043_Daily_movements_and_territory_use_by_radio-collared_wolves_Canis_lupus_in_Bialowieza_Primeval_Forest_in_Poland?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249542043_Daily_movements_and_territory_use_by_radio-collared_wolves_Canis_lupus_in_Bialowieza_Primeval_Forest_in_Poland?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249542043_Daily_movements_and_territory_use_by_radio-collared_wolves_Canis_lupus_in_Bialowieza_Primeval_Forest_in_Poland?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249541980_Response_of_neighboring_coyotes_Canis_latrans_to_social_disruption_in_an_adjacent_pack?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249541980_Response_of_neighboring_coyotes_Canis_latrans_to_social_disruption_in_an_adjacent_pack?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/249541980_Response_of_neighboring_coyotes_Canis_latrans_to_social_disruption_in_an_adjacent_pack?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/50220810_Non-lethal_Radio_Activated_Guard_for_Deterring_Wolf_Depredation_in_Idaho_Summary_and_Call_for_Research?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/50220810_Non-lethal_Radio_Activated_Guard_for_Deterring_Wolf_Depredation_in_Idaho_Summary_and_Call_for_Research?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/50220810_Non-lethal_Radio_Activated_Guard_for_Deterring_Wolf_Depredation_in_Idaho_Summary_and_Call_for_Research?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/50220810_Non-lethal_Radio_Activated_Guard_for_Deterring_Wolf_Depredation_in_Idaho_Summary_and_Call_for_Research?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/233754593_Managing_the_ranging_behaviour_of_African_wild_dogs_Lycaon_pictus_using_translocated_scent_marks?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/233754593_Managing_the_ranging_behaviour_of_African_wild_dogs_Lycaon_pictus_using_translocated_scent_marks?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/233754593_Managing_the_ranging_behaviour_of_African_wild_dogs_Lycaon_pictus_using_translocated_scent_marks?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/233754593_Managing_the_ranging_behaviour_of_African_wild_dogs_Lycaon_pictus_using_translocated_scent_marks?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/251734524_Home_Range_Analysis_Using_a_Mechanistic_Home_Range_Model?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/251734524_Home_Range_Analysis_Using_a_Mechanistic_Home_Range_Model?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/251734524_Home_Range_Analysis_Using_a_Mechanistic_Home_Range_Model?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/48855713_Utility_of_livestock-protection_dogs_for_deterring_wildlife_from_cattle_farms?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/48855713_Utility_of_livestock-protection_dogs_for_deterring_wildlife_from_cattle_farms?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/48855713_Utility_of_livestock-protection_dogs_for_deterring_wildlife_from_cattle_farms?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+
+
+Musiani, M., Mamo, C., Boitani, L., Callaghan, C., Gates, C. C., Mattei, L.,
+Visalberghi, E., Breck, S., and Volpi, G. (2003). Wolf depredation
+trends and the use of fladry barriers to protect livestock in western
+North America. Conservation Biology 17, 1538–1547. doi:10.1111/
+j.1523-1739.2003.00063.x
+
+Nickel, B. (1993). Livestock guardian dogs. Countryside & Small Stock
+Journal 77, 56–62.
+
+Paquet, P. C. (1991). Scent-marking behavior of sympatric wolves (Canis
+lupus) and coyotes (C. latrans) in Riding Mountain National Park.
+Canadian Journal of Zoology 69, 1721–1727. doi:10.1139/z91-240
+
+Peterson, R. O. (1977). Wolf ecology and prey relationships on Isle Royale.
+US National Park Service Scientific Monograph Series, No. 11.
+Washington, DC.
+
+Reynolds, J. C., and Tapper, S. C. (1996). Control of mammalian predators
+in game management and conservation. Mammal Review 26, 127–155.
+doi:10.1111/j.1365-2907.1996.tb00150.x
+
+Robinson, M. J. (2005). ‘Predatory Bureaucracy: the Extermination of
+Wolves and the Transformation of the West’. (University of Colorado
+Press: Boulder, CO.)
+
+Rothman, R. J., and Mech, L. D. (1979). Scent-marking in lone wolves
+and newly formed pairs. Animal Behaviour 27, 750–760. doi:10.1016/
+0003-3472(79)90010-1
+
+Scheinin, S., Yom-Tov, Y., Motro, U., and Geffen, E. (2006). Behavioural
+responses of red foxes to an increase in the presence of golden jackals: a
+field experiment.Animal Behaviour 71, 577–584. doi:10.1016/j.anbehav.
+2005.05.022
+
+Shivik, J. A., Wilson, R. R., and Gilbert-Norton, L. (2011). Will an artificial
+scent boundary prevent coyote intrusion? Wildlife Society Bulletin 35,
+494–497. doi:10.1002/wsb.68
+
+Sillero-Zubiri, C., Reynolds, J., and Novaro, A. J. (2004). Management
+and control of wild canids alongside people. In ‘The Biology and
+
+Conservation of Wild Canids’. (Eds D. W. Macdonald and C. Sillero-
+Zubiri.) pp. 107–122. (Oxford University Press: Oxford, UK.)
+
+Stenglein, J. L., Waits, L. P., Ausband, D. E., Zager, P., and Mack, C. M.
+(2010). Efficient noninvasive genetic sampling for monitoring
+reintroduced wolves. The Journal of Wildlife Management 74,
+1050–1058. doi:10.2193/2009-305
+
+Treves, A., and Naughton-Treves, L. (2005). Evaluating lethal control in the
+management of human–wildlife conflict. In ‘People andWildlife:Conflict
+or Coexistence’? (Eds R. Woodroffe, S. Thirgood and A. Rabinowiotz.)
+pp. 86–106. (Cambridge University Press: Cambridge, UK.)
+
+USA Fish and Wildlife Service, Nez Perce Tribe, National Park Service,
+and USDA Wildlife Services (2005). Rocky Mountain wolf recovery
+2004. Annual report. Helena, MT.
+
+USA Fish and Wildlife Service, Nez Perce Tribe, National Park Service,
+and USDA Wildlife Services (2006). Rocky Mountain wolf recovery
+2005. Annual report. Helena, MT.
+
+USA Fish and Wildlife Service, Nez Perce Tribe, National Park Service,
+and USDA Wildlife Services (2007). Rocky Mountain wolf recovery
+2006. Annual report. Helena, MT.
+
+USA Fish and Wildlife Service, Nez Perce Tribe, National Park Service,
+and USDA Wildlife Services (2008). Rocky Mountain wolf recovery
+2007. Annual report. Helena, MT.
+
+USA Fish and Wildlife Service, Nez Perce Tribe, National Park Service,
+Montana Fish, Wildlife & Parks, Blackfeet Nation, Confederated Salish
+and Kootenai Tribes, Idaho Fish and Game, and USDAWildlife Services
+(2009). Rocky Mountain wolf recovery 2008. Interagency annual report.
+(Eds C. A. Sime and E. E. Bangs.) Helena, MT.
+
+Western Regional Climate Center (2011). Historical climate information.
+Available at http://www.wrcc.dri.edu [verified 12 November 2011].
+
+Zimen, E. (1981). ‘The Wolf: a Species in Danger.’ (Delacorte Press: New
+York.)
+
+216 Wildlife Research D. E. Ausband et al.
+
+www.publish.csiro.au/journals/wr
+
+dx.doi.org/10.1111/j.1523-1739.2003.00063.x
+dx.doi.org/10.1111/j.1523-1739.2003.00063.x
+dx.doi.org/10.1139/z91-240
+dx.doi.org/10.1111/j.1365-2907.1996.tb00150.x
+dx.doi.org/10.1016/0003-3472(79)90010-1
+dx.doi.org/10.1016/0003-3472(79)90010-1
+dx.doi.org/10.1016/j.anbehav.2005.05.022
+dx.doi.org/10.1016/j.anbehav.2005.05.022
+dx.doi.org/10.1002/wsb.68
+dx.doi.org/10.2193/2009-305
+http://www.wrcc.dri.edu
+https://www.researchgate.net/publication/238023971_Scent-marking_behavior_of_sympatric_wolves_Canis_lupus_and_coyotes_C_latrans_in_Riding_Mountain_National_Park?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/238023971_Scent-marking_behavior_of_sympatric_wolves_Canis_lupus_and_coyotes_C_latrans_in_Riding_Mountain_National_Park?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/238023971_Scent-marking_behavior_of_sympatric_wolves_Canis_lupus_and_coyotes_C_latrans_in_Riding_Mountain_National_Park?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/254637993_Wolf_Ecology_and_Prey_Relationships_on_Isle_Royale_National_Park_Service?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/254637993_Wolf_Ecology_and_Prey_Relationships_on_Isle_Royale_National_Park_Service?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/254637993_Wolf_Ecology_and_Prey_Relationships_on_Isle_Royale_National_Park_Service?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222604254_Scent-marking_in_lone_wolves_and_newly_formed_pairs?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222604254_Scent-marking_in_lone_wolves_and_newly_formed_pairs?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222604254_Scent-marking_in_lone_wolves_and_newly_formed_pairs?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222668326_Behavioural_responses_of_red_foxes_to_an_increase_in_the_presence_of_golden_jackals_A_field_experiment?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222668326_Behavioural_responses_of_red_foxes_to_an_increase_in_the_presence_of_golden_jackals_A_field_experiment?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222668326_Behavioural_responses_of_red_foxes_to_an_increase_in_the_presence_of_golden_jackals_A_field_experiment?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/222668326_Behavioural_responses_of_red_foxes_to_an_increase_in_the_presence_of_golden_jackals_A_field_experiment?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264753058_Will_an_Artificial_Scent_Boundary_Prevent_Coyote_Intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264753058_Will_an_Artificial_Scent_Boundary_Prevent_Coyote_Intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/264753058_Will_an_Artificial_Scent_Boundary_Prevent_Coyote_Intrusion?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229867410_Efficient_Noninvasive_Genetic_Sampling_for_Monitoring_Reintroduced_Wolves?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229867410_Efficient_Noninvasive_Genetic_Sampling_for_Monitoring_Reintroduced_Wolves?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229867410_Efficient_Noninvasive_Genetic_Sampling_for_Monitoring_Reintroduced_Wolves?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+https://www.researchgate.net/publication/229867410_Efficient_Noninvasive_Genetic_Sampling_for_Monitoring_Reintroduced_Wolves?el=1_x_8&enrichId=rgreq-63328c34490828d3bd269ccd1073ee84-XXX&enrichSource=Y292ZXJQYWdlOzI4NjkyODg2MTtBUzozMDY5OTEwMzYwNzYwMzdAMTQ1MDIwMzc3NDc3MQ==
+

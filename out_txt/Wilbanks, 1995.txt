@@ -1,8 +1,100 @@
+data\Wilbanks, 1995.pdfaccess_permission:can_modify: true
+title: ALTERNATIVE METHODS OF PREDATOR CONTROL
+dc:title: ALTERNATIVE METHODS OF PREDATOR CONTROL
+X-TIKA:parse_time_millis: 41
+access_permission:assemble_document: true
+dc:creator: Crystal A. Wilbanks
+pdf:docinfo:custom:Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+access_permission:can_print_degraded: true
+created: Wed Nov 06 06:00:38 PST 2013
+meta:save-date: 2013-11-06T14:00:38Z
+pdf:PDFVersion: 1.6
+access_permission:fill_in_form: true
+pdf:docinfo:modified: 2013-11-06T14:00:38Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2013-11-06T14:00:38Z
+SPDF: 1122.1
+dcterms:modified: 2013-11-06T14:00:38Z
+pdf:docinfo:creator_tool: Appligent APSetDocInfo 2.2.2
+Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+meta:author: Crystal A. Wilbanks
+Author: Crystal A. Wilbanks
+access_permission:extract_for_accessibility: true
+Creation-Date: 2013-11-06T14:00:38Z
+pdf:docinfo:creator: Crystal A. Wilbanks
+meta:creation-date: 2013-11-06T14:00:38Z
+xmpTPg:NPages: 7
+access_permission:extract_content: true
+access_permission:modify_annotations: true
+pdf:docinfo:custom:SPDF: 1122.1
+pdf:docinfo:title: ALTERNATIVE METHODS OF PREDATOR CONTROL
+access_permission:can_print: true
+date: 2013-11-06T14:00:38Z
+dc:format: application/pdf; version=1.6
+pdf:docinfo:producer: SPDF
+modified: 2013-11-06T14:00:38Z
+producer: SPDF
+Last-Modified: 2013-11-06T14:00:38Z
+pdf:docinfo:created: 2013-11-06T14:00:38Z
+creator: Crystal A. Wilbanks
+xmp:CreatorTool: Appligent APSetDocInfo 2.2.2
+Content-Type: application/pdf
+dcterms:created: 2013-11-06T14:00:38Z
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALTERNATIVE METHODS OF PREDATOR CONTROL
+
+
 University of Nebraska - Lincoln
-
 DigitalCommons@University of Nebraska - Lincoln
-
-Symposium Proceedings—Coyotes in the
+Symposium Proceedingsâ€”Coyotes in the
 Southwest: A Compendium of Our Knowledge
 (1995)
 
@@ -12,133 +104,117 @@ Wildlife Damage Management, Internet Center for
 
 ALTERNATIVE METHODS OF PREDATOR
 CONTROL
-
 Crystal A. Wilbanks
-
 Texas Department of Agriculture, Austin, TX
 
 Follow this and additional works at: http://digitalcommons.unl.edu/coyotesw
+Part of the Environmental Health and Protection Commons
 
-Part of the Env ironmental Health and Protection Commons
+This Article is brought to you for free and open access by the Wildlife Damage Management, Internet Center for at DigitalCommons@University of
+Nebraska - Lincoln. It has been accepted for inclusion in Symposium Proceedingsâ€”Coyotes in the Southwest: A Compendium of Our Knowledge
+(1995) by an authorized administrator of DigitalCommons@University of Nebraska - Lincoln.
 
-Wilbanks, Crystal A., "ALTERNATIVE METHODS OF PREDATOR CONTROL" (1995). Symposium Proceedings—Coyotes in the
+Wilbanks, Crystal A., "ALTERNATIVE METHODS OF PREDATOR CONTROL" (1995). Symposium Proceedingsâ€”Coyotes in the
 Southwest: A Compendium of Our Knowledge (1995). Paper 5.
 http://digitalcommons.unl.edu/coyotesw/5
 
-This Article is brought to you for free and open access by the Wildlife Damage Management, Internet Center for at DigitalCommons@University of
+http://digitalcommons.unl.edu?utm_source=digitalcommons.unl.edu%2Fcoyotesw%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/coyotesw?utm_source=digitalcommons.unl.edu%2Fcoyotesw%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/coyotesw?utm_source=digitalcommons.unl.edu%2Fcoyotesw%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/coyotesw?utm_source=digitalcommons.unl.edu%2Fcoyotesw%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/icwdm?utm_source=digitalcommons.unl.edu%2Fcoyotesw%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/coyotesw?utm_source=digitalcommons.unl.edu%2Fcoyotesw%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://network.bepress.com/hgg/discipline/172?utm_source=digitalcommons.unl.edu%2Fcoyotesw%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
+http://digitalcommons.unl.edu/coyotesw/5?utm_source=digitalcommons.unl.edu%2Fcoyotesw%2F5&utm_medium=PDF&utm_campaign=PDFCoverPages
 
-Nebraska - Lincoln. It has been accepted for inclusion in Symposium Proceedings—Coyotes in the Southwest: A Compendium of Our Knowledge
 
-(1995) by an authorized administrator of DigitalCommons@University of Nebraska - Lincoln.
+ALTERNATIVE METHODS OF PREDATOR CONTROL 
 
-ALTERNATIVE METHODS OF PREDATOR CONTROL 
+CRYSTAL A WILBANKS, Tesas Department of Agriculture, P 0. Bos 12847, Austin, TX 787 1 1 
 
-CRYSTAL A WILBANKS, Te sa s Department of Agriculture, P 0. B o s 12847 , Austin, T X 787 1 1 
-
-Abstract 
-Acceptable s o l u t~ o n s to animal damage problems must consider the social and recreational values of 
-wildlde, regulat~on of population levels, potential hazards of chemical use, human safety and d~ s t u r b a n c e to biotic 
-communities. The objcctive should be to reduce harm and economic loss of 
-livestock to an acceptable level. This 
-paper, reviews a l te~na t ive , i.e. nonlethal, predator management methods. 
-Alternative methods include guard 
+Abstract Acceptable solut~ons to animal damage problems must consider the social and recreational values of 
+wildlde, regulat~on of population levels, potential hazards of chemical use, human safety and d~sturbance to biotic 
+communities. The objcctive should be to reduce harm and economic loss of livestock to an acceptable level. This 
+paper, reviews alte~native, i.e. nonlethal, predator management methods. Alternative methods include guard 
 animals, fencing, I-epellents, frightening devices and perhaps someday, irnrnuno-contraception. The intent of animal 
 damage control should be an mtegrated pest management approach tailored to fit the individual landowner's needs 
 
-Te sa s leads the U .S . in sheep production with 
-1.7 million head 
-(Te sa s Agric. Statistics Sei-v. 
-1995). Another 1 95 n~illion goats resided 
-in Texas 
-in 1995. This count 
-includes Spanish, angora, Boer 
-and 
-a small number of daily and cashmere goats. 
-The Te sa s shecp and goat 
-lndustiy is located pri- 
+Tesas leads the U.S. in sheep production with 
+1.7 million head (Tesas Agric. Statistics Sei-v. 
+1995). Another 1 95 n~illion goats resided in Texas 
+in 1995. This count includes Spanish, angora, Boer 
+and a small number of daily and cashmere goats. 
+The Tesas shecp and goat lndustiy is located pri- 
 marily in the Edwards Platcau region of the state. 
-Rangelands used primarily for sheep and 
-goat 
-production are f a ~ r l y rugged 
-limestone hills with 
+Rangelands used primarily for sheep and goat 
+production are fa~rly rugged limestone hills with 
 moderate to dense brush 
 
-losses to 
-
-Under such c o n d ~ t ~ o n s , predation 
-coyotes (Cntirs la/t.utls), d o n i c s t~ c and feral dogs, 
-bobcats (Lytir 1 4 1 s ) , gray Sox 
-(Ut.oc,von c i t l e ~ e o - 
+Under such cond~t~ons, predation losses to 
+coyotes (Cntirs la/t.utls), donicst~c and feral dogs, 
+bobcats (Lytir 141s) ,  gray Sox (Ut.oc,von citle~eo- 
 atgetltells), red fox ([,il/pe.s vr~l/,es), feral hogs (SEIS 
-sct.ofa), golden eagle ( ,~ Iq r~ r lu chtysaeros) and other 
-predators \yere estimated 
-to be 168 ,000 head in 
-1994 (Te sa s Agnc S t a t ~ s t ~ c s Se lv 1995) . Coyote 
+sct.ofa), golden eagle (,~Iqr~rlu chtysaeros) and other 
+predators \yere estimated to be 168,000 head in 
+1994 (Tesas Agnc Stat~st~cs Selv 1995). Coyote 
 predation typically accounts for over 50% of preda- 
 tor losses Value of I~vestock losses fiom predators 
-on sheep 
-and lambs in Te sa s amounted to $ 1 . 2 
-million 
-in 1994 Predation 
-is considered as the 
+on sheep and lambs in Tesas amounted to $1.2 
+million in 1994 Predation is considered as the 
 priinaly problem of the sheep and goat industiy by 
 many producers 
 
-When 
-toxicants were banned 
-for predator 
-control in the 1970s , many producers ahd research- 
-ers began 
-to explore other methods of predator 
+When toxicants were banned for predator 
+control in the 1970s, many producers ahd research- 
+ers began to explore other methods of predator 
 management. Considerable attention was focused 
-on European and Euraslan breeds of 
-livestock 
+on European and Euraslan breeds of livestock 
 guarding dogs. While the use of dogs was gaining 
 populal-ity, many Texas sheep and goat producers 
 began to use donkeys and mules as guard animals 
-(Walton and F e ~ l d 1989) Llamas have also been 
-utilized as an e f k c t ~ v e means of predator deterrent 
-(Franklin 1993) , and othcr s p c c ~ c s ( e g. ratites) are 
+(Walton and Fe~ld 1989) Llamas have also been 
+utilized as an efkct~ve means of predator deterrent 
+(Franklin 1993), and othcr spcc~cs (e g. ratites) are 
 
 often promoted for guarding animals 
 
 The goal of predator management should be to 
 protect livestock and minimize losses due to preda- 
-tors, not nece s sa r~ ly maximizing the take of preda- 
+tors, not necessar~ly maximizing the take of preda- 
 tors. Public opposition to coyote population reduc- 
 tions will likely become even more apparent m the 
 iuture. 
 
-Livestock guard ing animals 
+Livestock guarding animals 
 
-Dogs . 
-Livestock guarding breeds originated m 
-E u r o p e and Asia, where they have been used for 
+Dogs. Livestock guarding breeds originated m 
+Europe and Asia, where they have been used for 
 centuries to protect sheep from wolves and bears. 
 American stockmen have used guarding dogs since 
 the mid- 1970s. Several breeds of dogs have been 
-used fo r predator control; no particular breed has 
+used for predator control; no particular breed has 
 emerged as the most effective. The more common 
-breeds 
-include the Great Pyrenees of France, the 
-Akba sh and Anatolian Shepherd of Turkey, the 
+breeds include the Great Pyrenees of France, the 
+Akbash and Anatolian Shepherd of Turkey, the 
 Maremma of Italy, the Shar Planinetz of Yugoslavia 
 and the Komondor of I-Iungaly. Most of the breeds 
-range from 7 5 to over 100 pounds and stand 25 
-inche s or taller at the shoulder. However, smaller 
+range from 75 to over 100 pounds and stand 25 
+inches or taller at the shoulder. However, smaller 
 mongl-el dogs have also been used successfully, 
 especially when accompanied by herders (Black and 
-Green 1985 , Coppinger et al 1985) . 
+Green 1985, Coppinger et al 1985). 
 
 Several research projects have been conducted 
 to deteimlne the eflectiveness of the various breeds 
-under field conditions. Dog s can be used effectively 
-in fa lm flock pastures, on open range and in feed- 
+under field conditions. Dogs can be used effectively 
+in falm flock pastures, on open range and in feed- 
 lots 
 
 Gua-d dogs have become a more widely recog- 
 
-nized foim of predator control and therefore have 
+
+
+nized foim of predator control and therefore have 
 increased in abundance and availability. In selecting 
 a dog for guarding pulposes, one should consider all 
 characteristics of that pal-ticular breed. Such traits 
@@ -147,96 +223,87 @@ and self-confidence, along with gender-specific traits
 and the number of dogs needed for the area to be 
 protected. 
 
-Buyers should also consider 
-the bloodline of 
-the guard dog and pmchase o r lease a dog based on 
+Buyers should also consider the bloodline of 
+the guard dog and pmchase or lease a dog based on 
 a history of proven results. There are many guard 
-dog breeders; the Texas D e p a~ tm e n t of Agriculture 
-maintains a c w e n t listing of breeders within Texas. 
+dog breeders; the Texas Depa~tment of Agriculture 
+maintains a cwent listing of breeders within Texas. 
 
 Guard dogs should be reared with a flock of 
 sheep in order to secure a close bond between the 
 dog(s) and the livestock. This act IS called socializa- 
-t ~ o n and can be 
-accompl~slied in vanous ways, 
+t ~ o n  and can be accompl~slied in vanous ways, 
 depending on the dog and your situation. Dogs 
-generally mature rather slowly, thus inc rea s~ng the 
+generally mature rather slowly, thus increas~ng the 
 need to folm a bond between the dog and the sheep 
-be fo re the dog 
-is introduced 
-to a specific flock of 
+before the dog is introduced to a specific flock of 
 sheep. Guard dogs may be pmchased as grown, 
 mature adults ready to work, 01- as young puppies 
 with little experience. In either case, there must be 
 some interaction with the dog and sheep before the 
-guard dog is asked to earn h ~ s keep. 
+guard dog is asked to earn h ~ s  keep. 
 
 Ideally, pupples should be placed with a flock 
-of sheep in an enclosed ciivirontnent s o the pup is 
-not allowed to 
-leave his flock. 
-Pen the newly- 
-weaned pup w ~ t h 6 or more sheep for 8 to 16 weeks 
+of sheep in an enclosed ciivirontnent so the pup is 
+not allowed to leave his flock. Pen the newly- 
+weaned pup w~th 6 or more sheep for 8 to 16 weeks 
 (until the pup reaches 5 months of age) near water, 
-bedding ground or other points, whel-e the 
-sheep 
-ga the r (Lol-cnz and C o p p~ n g e r 1986) Aftel- this 
-time , evaluate the dog's c a p b i l l t i e s to d e t e ~ m ~ n e 
-when it IS best s u ~ t e d to bc lcl't alone with sheep. 
+bedding ground or other points, whel-e the sheep 
+gather (Lol-cnz and Copp~nger 1986) Aftel- this 
+time, evaluate the dog's capbillties to dete~m~ne 
+when it IS best su~ted to bc lcl't alone with sheep. 
 
 Some ranchers choose to leave the dog with the 
-sheep during 
-the day and pen them at night T h ~ s 
+sheep during the day and pen them at night T h ~ s  
 allo\vs the puppy to become accustomed to being 
 alone with the sheep for extended periods of time in 
 an open environment. A pup is usually ready to 
 guard livestock at about 8 months of age A good 
 lnd~cator that you can leave your dog alone is that it 
 stays with the sheep rather than following you as 
-you leave the pasture (LoI-enz 1986) . 
+you leave the pasture (LoI-enz 1986). 
 
-associated with guardian dogs 
-include feeding, 
+The cost of a livestock guard~ng dog varies 
+among breeds and breeders, and depending on the 
+level of maturity and train~ng. Comnion costs 
+
+associated with guardian dogs include feeding, 
 veterinary care and mamtenance. Costs associated 
-with acqu~sition of the dog a s well as the dog's 
+with acqu~sition of the dog as well as the dog's 
 longevity need to be figured in the overall cost to 
 your operation. The average life span of a dog is 
 10- 12 years. However, untimely deaths take their 
 toll during the early years, primarily because of 
-a c c~ d c n t s 
+acc~dcnts 
 
 Effective use of dogs depends on their training, 
-ca re and feeding. Factors to consider in the use of 
-guard dogs include: severity of predation 
-losses, 
-pasture size, livestock habits (i .e . , herding tendency, 
+care and feeding. Factors to consider in the use of 
+guard dogs include: severity of predation losses, 
+pasture size, livestock habits (i.e., herding tendency, 
 acceptance of dog), expense, the time involved in 
-t ra in~ng the dog, compatibility with other predator 
+train~ng the dog, compatibility with other predator 
 control methods in practice, and also the predator 
 control methods used by adjacent ranches 
 
-Dorzkeys arid tr lu les . Though livestock guarding 
+Dorzkeys arid trlules. Though livestock guarding 
 dogs have received much attention in recent years, 
-other a n ~m a l s (e g., donkeys) are also being used to 
+other an~mals (e g., donkeys) are also being used to 
 deter predators. Donkeys and mules have been used 
-w ~ t h some success to reduce predation on sheep and 
+w~th some success to reduce predation on sheep and 
 goats from coyotes and dogs (Walton and Feild 
 1989). The effective use of guard donkeys capital- 
-ize s on the equines' herding ~n s t inc t s and natural 
-dislike of, and 
-aggsessiveness towards, canines. 
-Loud b r a y~ n g may also be helpful in d~ scou rag ing 
+izes on the equines' herding ~nstincts and natural 
+dislike of, and aggsessiveness towards, canines. 
+Loud bray~ng may also be helpful in d~scouraging 
 some predators 
 
-Unda - proper conditions, guard donkeys can 
-p lpv~de a h ~ g h degree of a-ound the clock protection 
+Unda- proper conditions, guard donkeys can 
+plpv~de a h~gh degree of a-ound the clock protection 
 aga~nst dogs and coyotes. They may also offer some 
 protection against foxes and bobcats. However, 
-l a g e r prcdato~s such as mountain lions, gray wolves 
-and black and gi-izzly bears ( U ~ s u s spp .) may prey 
-on 
-donkeys. 
-Because individual differences in 
+lager prcdato~s such as mountain lions, gray wolves 
+and black and gi-izzly bears ( U ~ s u s  spp.) may prey 
+on donkeys. Because individual differences in 
 guarding abilities exist among donkeys, management 
 practices may need to be tailored to capitalize on 
 particular qualities of a donkey 
@@ -246,89 +313,65 @@ methods of predator control and can be used in an
 integrated predator management program. Because 
 they can forage with sheep or goats, are inexpensive 
 to maintam, and they have an expected useful life of 
-10- 1 5 years a s guard animals. 
+10- 1 5 years as guard animals. 
 
-T h e cost of a livestock g u a r d~ n g dog varies 
-among breeds and breeders, and depending on the 
-level of 
-maturity and 
-t ra in~ng . Comnion costs 
-
-Donkey s me easy t o obtain and can be pur- 
+Donkeys me easy to obtain and can be pur- 
 chased from breeders or from auction barns. Most 
-often, jenn~e s we sultable for guard animals and cost 
+often, jenn~es we sultable for guard animals and cost 
 
-$75 to $150 (I 995 prices) Jacks cost half as much 
-a s jennies, but should be neutered before use a s a 
-guard animal due to an 
-intact jack's aggressive 
+
+
+$75 to $150 (I 995 prices) Jacks cost half as much 
+as jennies, but should be neutered before use as a 
+guard animal due to an intact jack's aggressive 
 behavior to all animals. Proven guard donkeys may 
-b e mo re 
-espensive . After 
-initial acquisition of 
+be more espensive. After initial acquisition of 
 breeding stock, some guard donkey users produce 
 their own stock. This practice allows selection for 
-donkeys with good g u a r d~ n g tendencies. 
+donkeys with good guard~ng tendencies. 
 
-Care and maintenance of donkeys is m~ n im a l . 
+Care and maintenance of donkeys is m~nimal. 
 Annual health care such as worming and vaccina- 
-tion a g a~ n s t common equlne diseases 
-is recom- 
+tion aga~nst common equlne diseases is recom- 
 mended Supplemental feeding during periods of 
 poor range conditions may also be required. Don- 
 keys should not be allowed access to feed containing 
-ionophore feed a d d~ t i v e s (e .g . lumensin), urea or 
+ionophore feed add~tives (e.g. lumensin), urea or 
 other products intcnded only for ruminants. Other 
 vetel-inary care, e g , floating of teeth or hoof trim- 
-ming may be needed periodically Average m a ~ n t e - 
+ming may be needed periodically Average ma~nte- 
 nance costs avel-aged less than $70 in 1989 (Walton 
-and F e ~ l d 1989) 
+and Fe~ld 1989) 
 
-I S 
-
-Guard donkeys rcqun-e no special 
-tralning 
-Ho\vever, bondlng w ~ t h thc l~ve s tock to be protected 
-necessaly in some Instances to ensure that the 
-donkey will stay w ~ t h the flock. FIalter-breaking and 
+Guard donkeys rcqun-e no special tralning 
+Ho\vever, bondlng w~th thc l~vestock to be protected 
+IS necessaly in some Instances to ensure that the 
+donkey will stay w ~ t h  the flock. FIalter-breaking and 
 teaching a donkey to load in a trailer will increase 
-ease of handling. 
-Donkeys can be used with rela- 
-tive safety in conjunction with snares , traps, M-44 
+ease of handling. Donkeys can be used with rela- 
+tive safety in conjunction with snares, traps, M-44 
 devices and Livestock Protection Collars. 
 
-Guard 
-donkeys 
-should 
-be 
-selected 
-from 
+Guard donkeys should be selected from 
 medium- to large-s~zed stock Do not use estremely 
 small or miniahre donkeys Always select a donkey 
-that can be sold or culled ~f 11 falls to p e ~ f o ~ m 
-prop- 
-erly ( w h ~ c h may PI-eclude a n ~m a l s from such pro- 
+that can be sold or culled ~f 11 falls to p e ~ f o ~ m  prop- 
+erly (wh~ch may PI-eclude an~mals from such pro- 
 grams as the Bureau of Land Management's Adopt- 
 a-Burro program) 
 
-Donkeys ~dea l ly should be 
-raised with 
-the 
-a n ~ m a l s they will guard 
-If possible, place the 
-donkey with die sheep at b ~ ~ t h 
-o r at time of weanlng 
-Jennies 1\~1~1i 
-ncwbol-n foals may be overly protec- 
-tlve or too aggressive to sheep 
-Further, guard 
-donkeys should be mon~ to red during lambing or 
+Donkeys ~deally should be raised with the 
+an~mals they will guard If possible, place the 
+donkey with die sheep at b ~ ~ t h  or at time of weanlng 
+
+Jennies 1\~1~1i ncwbol-n foals may be overly protec- 
+tlve or too aggressive to sheep Further, guard 
+donkeys should be mon~tored during lambing or 
 k~dding times as some donkeys may be aggressive or 
-overly possessive of the n e \ v b o~ n lan ib sk id s . The 
-donkey(s) may he 
-temporarily removed In these 
+overly possessive of the ne\vbo~n lanibskids. The 
+donkey(s) may he temporarily removed In these 
 instances Guard donkeys should also be raised away 
-from dogs , and the use of herding dogs around 
+from dogs, and the use of herding dogs around 
 do~llieys should be avoided 
 
 When placing a donkey into a pasture, isolate ~t 
@@ -336,68 +379,63 @@ fiom other equines Donkeys tend to socialize with
 other equines and will stray away from the flock rf 
 given the opportunity to mix with other equines. 
 Donkeys tend to be most effective when used in 
-small (less than 6 0 0 acres) open pastures with not 
-more than 200 head of sheep o r goats (Walton and 
-Feild 1989) . Large pastures, rough t e r r a ~ n , dense 
-blush , too large a herd and sheep o r goats that 
-become scattered all 
-lessen 
-the effectiveness of 
+small (less than 600 acres) open pastures with not 
+more than 200 head of sheep or goats (Walton and 
+Feild 1989). Large pastures, rough terra~n , dense 
+blush, too large a herd and sheep or goats that 
+become scattered all lessen the effectiveness of 
 guard donkeys. 
 
-Llat~ras . Llamas (Llattra glattra), like donkeys, have 
-a natural dislike for canines. T h ~ s ~n s t inc t allows 
-l lama s to work well as guard animals The use of 
-llamas as guard animals is not a s extensive a s either 
-guard dogs or donkeys at h
-s
- time. However, llamas 
+Llat~ras. Llamas (Llattra glattra), like donkeys, have 
+a natural dislike for canines. T h ~ s  ~nstinct allows 
+llamas to work well as guard animals The use of 
+llamas as guard animals is not as extensive as either 
+guard dogs or donkeys at h s  time. However, llamas 
 are becoming more common, less expensive and 
-therefore b e ~ n g utilized a s guard animals more 
-frequently 
-(F r a n k l~ n 1993) . Research on guard 
+therefore be~ng utilized as guard animals more 
+frequently (Frankl~n 1993). Research on guard 
 llamas has bcen undetway at Iowa State University 
 slnce 198 1 with positive results. 
 
 Llamas are generally more expenslve than guard 
 dogs and considerably more espensive than donkeys. 
 Most guard llamas are gelded males costing $700 to 
-$800; intact males are about $ I 0 0 cheaper (Franklin 
-1993) . The average l~ f e s p a n of a llama i s 10-1 5 
-years . Llamas fit easily into a sheep herd, readily 
+$800; intact males are about $ I00 cheaper (Franklin 
+1993). The average l~fespan of a llama is 10-1 5 
+years. Llamas fit easily into a sheep herd, readily 
 foraging on whatever the sheep are eating. They do 
-not require special feed, except in t ~ m e s of drought 
-o r adverse conditions. Other veterinarian practices 
+not require special feed, except in t~mes of drought 
+or adverse conditions. Other veterinarian practices 
 such as vaccinat~ons and regular deworming are 
-recommended. 
-G u a r d~ n g effectiveness of llamas 
+recommended. Guard~ng effectiveness of llamas 
 may be adversely aiTected by hot weather, but proper 
 shearing may help with this problem 
 
 Introduction of llamas to sheep has been accom- 
-p l~ shed at various ages. Llama breeders traditionally 
-wean offspring at 6 - 8 months of age and castrate 
+pl~shed at various ages. Llama breeders traditionally 
+wean offspring at 6-8 months of age and castrate 
 males at 6-24 months of age. In the study conducted 
 at Iowa State University (Franklin 1993), nearly all 
-llamas had no p r ~ o r experience with sheep before 
-b e ~ n g ~ntroduced to the herd they were to protect 
-Average age of llamas used wa s 2 years but ranged 
+llamas had no pr~or  experience with sheep before 
+b e ~ n g  ~ntroduced to the herd they were to protect 
+Average age of llamas used was 2 years but ranged 
 from a few months to over 12 years. Most introduc- 
 tions of llamas to sheep required only a few days 
 before bonding between species occurred. Many 
 producers reported that guard llamas show intense 
 interest and attachment to young lambs (Franklin 
-1993) . 
+1993). 
 
-Repellents and frightening devices 
+
+
+Repellents and frightening devices 
 
 Several devices or chemicals have been promo- 
-ted a s having utility for d e t e ~ r i n g predation. How- 
-ever , the use of d e v ~ c e s to frighten andlor repel 
-predators 
-i s almost always short-term, ~f any re- 
-spon se is noted at all (Lehner 1987 , Shelton and 
-Thompson 1975) . Experiences to date suggest they 
+ted as having utility for dete~ring predation. How- 
+ever, the use of dev~ces to frighten andlor repel 
+predators is almost always short-term, ~f any re- 
+sponse is noted at all (Lehner 1987, Shelton and 
+Thompson 1975). Experiences to date suggest they 
 offer no real solution to predator problems. 
 
 Various repellents including capsaicin, cinna- 
@@ -405,89 +443,68 @@ maldehyde, uiidecenovannillylamie, coal-tar deriva-
 tives and other chemicals have been evaluated as 
 either pow-ons or in collars that are attached to the 
 target sheep (see surnmaly in Lehner 1987). M. 
-Shelton (Texas Agric. Exp . Sta., San Angelo, pers 
-cornrnun.) 
-reported 
-that 
-short-term 
-relief 
-from 
+Shelton (Texas Agric. Exp. Sta., San Angelo, pers 
+cornrnun.) reported that short-term relief from 
 predat~on is sometimes observed after treating goats 
-with insecticides used to control l ~ c e 
+with insecticides used to control l ~ c e  
 
 Predators tend to become accustomed to these 
-dev~cedchemicals , therefore most authors suggest a 
-diversity or comb ina t~on of methods be used 
-Linhart 
-(1983) and Lehner 
-(1987) sununarized 
-research studies involving gu s ta to~y and o l fac to~y 
+dev~cedchemicals, therefore most authors suggest a 
+diversity or combinat~on of methods be used 
+Linhart (1983) and Lehner (1987) sununarized 
+research studies involving gustato~y and olfacto~y 
 repellents and concluded that such repellents offer 
-little potential for r e s o l v~ n g coyote damage prob- 
+little potential for resolv~ng coyote damage prob- 
 lems 
 
 Propane cannons, horns, slrens and radios are 
 sometimes used in attempting to repel coyotes from 
 lambing grounds These devices may also adversely 
 affect the livestock to be protected. They may also 
-result In d~ s tu rbance to neighbors and non-target 
-species. W h ~ l e sonic repellents usually have only 
-s h o r t - t e~m efyects, they are generally conlpatible 
-with other f o ~ m s of predator management. 
-The 
+result In d~sturbance to neighbors and non-target 
+species. Wh~le  sonic repellents usually have only 
+short-te~m efyects, they are generally conlpatible 
+with other f o ~ m s  of predator management. The 
 "Electronic Guard" emits periodic sirens and strobe 
-lights and has been used successfully 
-t o cu rb 
+lights and has been used successfully to curb 
 predation losses on sheep bedding grounds (Linhai-t 
-et al . 1984) . 
+et al. 1984). 
 
 Aversive conditioning 
 
-Considerable research was undertaken du l -~ng 
+Considerable research was undertaken dul-~ng 
 the 1970s and 1980s to evaluate the concept of 
-aversive c o n d ~ t ~ o n ~ n g 
-(Lehnel- 1987 , Olsen and 
-Lehner 1978) . 
-A v e r s~ v e c o n d ~ t ~ o n i n g ~ n v o l v e s 
-dosing a prey item with an emetic compound (e .g . , 
+aversive cond~t~on~ng (Lehnel- 1987, Olsen and 
+Lehner 1978). Avers~ve cond~t~oning ~nvolves 
+dosing a prey item with an emetic compound (e.g., 
 lithium chloride) to produce an induced nausea In 
 the coyote. Ideally, the coyote associates the illness 
 
-with the novel food, and lea ln s to avoid that food 
+with the novel food, and lealns to avoid that food 
 (prey). Although results m field trials varied, aver- 
-slve conditioning is generally not con s~de red as a 
+slve conditioning is generally not cons~dered as a 
 viable damage control tool 
 
 Lithium chloride is a chemical that has been 
-used 
-in research studies conducted In 
-the United 
-S ta te s and Canada 
-It is an emetic, and when con- 
+used in research studies conducted In the United 
+States and Canada It is an emetic, and when con- 
 sumed results in the animal experiencing short-term, 
 severe gastrointestinal discomfort, usually accompa- 
-nied by vomiting. 
-Taste aversion has variable 
-succe s s in deterring predators 
-from 
-particular 
-species of 
-livestock. 
-In order to be successful, 
+nied by vomiting. Taste aversion has variable 
+success in deterring predators from particular 
+species of livestock. In order to be successful, 
 predator must make the association between the 
 illness produced and the tzste of the species. 
 
-Ba i t s injected with lithium chloride solution 
+Baits injected with lithium chloride solution 
 may be prepared and placed in strategic locations to 
 encourage uptake by predators. Baits should be 
 made out of hides and ground mutton from cull ewes 
-or 
-losses. Carcasses may also be injected w ~ t h the 
+or losses. Carcasses may also be injected w ~ t h  the 
 solur~on Proponents of this technique rna~ntain that 
 coyotes with a condit~oned taste aversion will avoid 
 sheep and lambs and also will not teach offspring to 
-use sheep as a food source 
-These claims are 
+use sheep as a food source These claims are 
 speculative and have not been documented by other 
 researcha-s. 
 
@@ -498,140 +515,243 @@ proven to be effective In deterring predators. These
 methods should be practiced in conjunction with 
 other forms of predator control. 
 
-Total confinement offers the h ~ g h e s t degree of 
+Total confinement offers the h~ghest degree of 
 protection, but has it's drawbacks These include 
 increased cost of feed, disease control, quality of 
 wool and mohair production, increased labor costs, 
 etc. Thus, total confinement 1s impractical for range 
-operations 
-Shed birthing of lambs and kids pro- 
-vides protection at the most vulnerable age T h ~ s 
-method requires increased c a p~ t a l investment and 
-costs associated with labor and d ~ s e a s e control, but 
+operations Shed birthing of lambs and kids pro- 
+vides protection at the most vulnerable age T h ~ s  
+method requires increased cap~tal investment and 
+costs associated with labor and d~sease control, but 
 these costs may be offset by an Increase in lamb and 
 kid crops 
 
 Predators often respond to the most abundant 
-and available food source , therefore, alternating 
-lamb~ng and k~ d d i n g seasons 
-to prevent a build-up 
+and available food source, therefore, alternating 
+lamb~ng and k~dding seasons to prevent a build-up 
 of predators dependent on this food source may 
 
-result in a decrease in predation. Coyotes typically 
+
+
+result in a decrease in predation. Coyotes typically 
 whelp in the early summer (April-May) and food 
 demands of the parents are highest during early- 
-summer (Till and Knowlton 1983) . Fall-lambing 
-may a v o ~ d the period of greatest demand for food by 
+summer (Till and Knowlton 1983). Fall-lambing 
+may avo~d the period of greatest demand for food by 
 these predators 
 
 Penning of sheep at night may be another 
-option . Predation by coyotes, 
-foxes and bobcats 
-most often occurs p n ~ n a i l y between dusk and dawn; 
+option. Predation by coyotes, foxes and bobcats 
+most often occurs pn~naily between dusk and dawn; 
 therefore, night penning provides protection during 
-the perlod of greatest 
-\wlnerability This method 
-does involve tncreased lahor a s a result of move- 
+the perlod of greatest \wlnerability This method 
+does involve tncreased lahor as a result of move- 
 ment of livestock and maintenance of facilities. 
 
 Removal and proper disposal of dead livestock 
-and other sources of can-ion may b e 
-helpful in 
-reducing ~nc idence of predation by 
-r e d u c~ n g the 
+and other sources of can-ion may be helpful in 
+reducing ~ncidence of predation by reduc~ng the 
 attraction of predators to areas used by livestock. It 
 also reduces the artific~al food supply available to 
-predators, w ~ t h predators becoming less likely to 
+predators, w ~ t h  predators becoming less likely to 
 develop a taste for livestock. 
 
-S e l e c t~ v e use of pastures is a t e c h n~ q u e rela- 
-t~ v e l y easy to ~mp lemen t , given alternate grazing 
+Select~ve use of pastures is a techn~que rela- 
+t~vely easy to ~mplement, given alternate grazing 
 lands are available. Some pastures, due to vegetative 
 and physiogr-aph~c features or proximity to preferred 
-habitat , lend tlien~selves to higher predation rates. 
-Changes in seasonal use o r class of livestock used in 
-such pastures may p r o v ~ d e some relief. 
+habitat, lend tlien~selves to higher predation rates. 
+Changes in seasonal use or class of livestock used in 
+such pastures may prov~de some relief. 
 
 Fencing 
 
 The use of convent~onal and electric fencing has 
-increased as a predator management method 
-be- 
-cause of restnctlons o n a l t c~ u n t e methods Various 
-types of f e n c ~ n g e s ~ s t s that may be u t i l~zed a s 
+increased as a predator management method be- 
+cause of restnctlons on altc~unte methods Various 
+types of fenc~ng es~sts  that may be util~zed as 
 predator deten-ents (Shclton and Gates 1987, Linhart 
-et al. 1981). 
-Fencing is most successful if it is 
+et al. 1981). Fencing is most successful if it is 
 implemented before a pattern of movement has been 
-e s t a b l~ s h e d by a predator. If coyotes have been 
-feeding on a n ~m a l s w t t h ~ n a given pasture, 
-the 
-construction of a fence w ~ l l probably not deter them, 
-as they recogntze these a n ~m a l s as a food source. 
+establ~shed by a predator. If coyotes have been 
+feeding on an~mals wtth~n a given pasture, the 
+construction of a fence w ~ l l  probably not deter them, 
+as they recogntze these an~mals as a food source. 
 
 Cost ~Kectiveness of fences is I-elated to the type 
-and dens~t); of predators, along with acreage 
-in- 
-volved and 
-land productiv~ty . Other factors that 
+and dens~t); of predators, along with acreage in- 
+volved and land productiv~ty. Other factors that 
 contribute to the cost ell'ectiveness of fences are 
-construction and maintenance cost , stocking density, 
+construction and maintenance cost, stocking density, 
 tel-ra~n and soil type Fencing to ward offpredators 
 
-has been proven to b e most useful and cost effective 
-on small, 
-level, open pastures with a minimum of 
-brush (Shelton 1984 , . 
+has been proven to be most useful and cost effective 
+on small, level, open pastures with a minimum of 
+brush (Shelton 1984, . 
 
 There are many types of fencing used to manage 
 predators; however, the most common types are net 
 wire and electric fencing. A fence should be at least 
 5.5 feet tall to dtscourage predators from attempting 
-t o jump the fence. An overhang on the outside of 
+to jump the fence. An overhang on the outside of 
 the fence prevents cllrnbing. Digging under the fence 
 can be prevented by a buried barb wire or mesh 
-apron The mesh size of 
-the fence should be a 
-maximum of 4 ~ n c h e s by 6 ~ n c h e s , but preferably 
+apron The mesh size of the fence should be a 
+maximum of 4 ~nches by 6 ~nches, but preferably 
 smaller to ensure that coyotes won't attempt to crawl 
 through the fence. 
 
 Nehvire may be fatal to livestock and deer after 
 feeding through the wire or attempting to jump over 
-and becoming entangled T h ~ s optton is also very 
-expensive. By using informat~on on s t o c k~ n g rate, 
+and becoming entangled T h ~ s  optton is also very 
+expensive. By using informat~on on stock~ng rate, 
 fencing costs, size and shape of area fenced and 
 estimated life of the fence, producers can calculate 
 relatively easily the annual per-head costs to deter- 
 mine if this approach is feasible (Shelton 1984) 
 
 EIechic fenc~ng may be suitable as temporary or 
-pe~manent fencmg Tlus type of fencing will p r o v ~ d e 
-a physical b i u ~ i e r as well as , a psychological batrier 
-t o predators. T h ~ s 
-type of fencing is less expensive 
+pe~manent fencmg Tlus type of fencing will prov~de 
+a physical biu~ier as well as, a psychological batrier 
+to predators. T h ~ s  type of fencing is less expensive 
 than net-wre fencing but it requires a higher degree 
 of maintenance. 
 
 Modifying existing net-wire fences by adding 
 one or more electric wires have proven effective at 
-d e t e r r ~ n g coyotes (Shelton 1984 , R o l l ~ n s 1991) . 
-T h ~ s may include adding a trip wire to the bottom, 
+deterr~ng coyotes (Shelton 1984, Roll~ns 1991). 
+T h ~ s  may include adding a trip wire to the bottom, 
 middle or top of the fence. When adding a wire to 
-the bottom of the fence, it i s necessary to place it in 
+the bottom of the fence, it is necessary to place it in 
 the proper position. Placing the wire too high or too 
-far away f o ~ m the fence may prove to be ineffectwe. 
-Generally, the e lec td ied trip wire should be located 
-about 8 - 1 0 ~ n c h e s outside the fence and about 6 
+far away fo~m the fence may prove to be ineffectwe. 
+Generally, the electdied trip wire should be located 
+about 8-10 ~nches outside the fence and about 6 
 inches off the ground. Brush in fencelines may be 
 a chronic problem with placing and servicing such 
-t r ~ p w ~ r e s . Adding an electrified wlre t o the top of 
+t r ~ p  w~res.  Adding an electrified wlre to the top of 
 a fence will glve added height to the fence and 
 discourage climbing by predators 
 
 It should be noted that fencing is not a cure-all 
-fo r predator problems; however , w ~ t h proper use 
-fencing can b e very effective in a predator manage- 
+for predator problems; however, w ~ t h  proper use 
+fencing can be very effective in a predator manage- 
 ment program 
 
-
+
+
+Conclusion 
+
+Predator management continues to be a problem 
+that livestock producers must address. With ever- 
+increasing pressure against the use of lethal methods 
+of control, producers inct-easing have adopted 
+alternative, non-lethal control methods. The use of 
+guard animals, including donkeys, dogs and llamas 
+has provided some relief from predation. Other 
+fo~ms of control andlor deten-ents are the repellents 
+and frightening devices, along with proper use of 
+fencing. An altelnative that is currently under prod- 
+uct registration revlew is the use of lithium chloride 
+as a taste aversion product. 
+
+At any rate, an effectwe predator management 
+program must ~nco~porate the use of several meth- 
+ods of control into an ~ntcgrated pest management 
+philosophy. This approach should comblne the 
+ranchers' concerns over predator- related livestock 
+losses with the equally valid need to protect wildl~fe, 
+the environment and the publ~c. 
+
+Literature Citetl 
+
+Black, H. L and J. S. Green. 1985. Navajo use of 
+mixed-breed dogs for management of predators. 
+J. Range Manage. 38: 1 1 - 15. 
+
+Coppinger, R , C. K. Smith, and L. Miller. 1985 
+Observations on why mongrels may make 
+effective livestock protecting dogs. J. Range 
+Manage 38,560-56 I .  
+
+Franklin, W L. 1993 Guard llamas Iowa State 
+Univ. Ext. Pub. PM- 1527 1 2pp 
+
+Lehner, P. N. 1987 Repellents and conditioned 
+avoidance Pages 56-6 1 r t ~  J. S. Green (Ed.) 
+Protecting livestock from coyotes. USDA 
+A~I- ic  Res Serv Publ 105pp 
+
+Linhal-t, S B 1983 Managing coyote damage 
+problems with nonlethal techniques: recent 
+advances in research. Proc. East. Wildl Dam 
+age Control Conf 1.105- 1 18 
+
+. 1984. Strobe light and siren devices for 
+protecting fenced-pasture and range sheep from 
+coyote predation. Proc. Vel-tebr Pest Control 
+C o d  1 1 : 154- 156. 
+
+., J. D Roberts, and G. J. Dasch. 1981. 
+Electric fencing reduces coyote predation on 
+pastured sheep. J Range Manage. 35:276-281. 
+
+Lorenz, J. R., and L. Coppinger. 1986. Raising and 
+training a livestock-guarding dog. Oregon 
+St. Univ. Ext. Serv. Circular 1238. 8pp. 
+
+Olsen, A,, and P. N. Lehner. 1978. Conditioned 
+avoidance of prey in coyotes. J. Wildl. Manage. 
+42:676-679. 
+
+Rollms, D. 1991. Coping w~th coyotes. Tex. Agric. 
+Ext. Serv. Bull 1664. 8pp. 
+
+Shelton, M. 3 984. The use of conventional and 
+electric fencing to reduce coyote predation on 
+sheep and goats. Tex. Agric. Expt. Sta. MP- 
+1556. 12pp. 
+
+, and P Thompson 1 975. Use of chemical 
+repellents to reduce coyote predation on sheep 
+and goats. Unpubl. Rept. PR-3396. 8pp. 
+
+., and N. L. Gates Ant~predator fencing. 
+Pages 30-37 in J. S. Green (Ed.) Protecting 
+livestock fsom coyotes. USDA Agric. Res. 
+Setv. Publ. 105pp. 
+
+Till, J. A , and F. F. Knowlton. Efficacy of dennlng 
+in allevlatlng coyote predation on domestic 
+sheep. J. Wildl. Manage. 47.101 8-1025. 
+
+Texas Agricultmal Stat~stics Se~vice. 1995. 
+
+U S Department of Agriculture. 1990. Livestock 
+guarding dogs: protecting sheep from predators. 
+Animal and Plant Health Inspection Servlce. 
+Animal Damage Control. Agric. Info. Bull. 
+No. 588. 3 1 pp. 
+
+U S Depal-tnient of Agriculture. 1992 A pro- 
+ducer's gu~de to preventing predation of 
+livestock. Anlmal and Plant Health Inspection 
+Service. Agric. Info. Bull. No. 650. 14pp. 
+
+Walton, M.T., and C.A. Field. 1989. Use of 
+donkeys to guard sheep and goats in Texas. 
+Proc. Easte~n Wildl. Damage Control Conf. 
+4.87-94. 
+
+
+	University of Nebraska - Lincoln
+	DigitalCommons@University of Nebraska - Lincoln
+	4-1-1995
+
+	ALTERNATIVE METHODS OF PREDATOR CONTROL
+	Crystal A. Wilbanks
+
+
+
+

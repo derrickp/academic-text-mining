@@ -1,3 +1,93 @@
+data\Beckmann, Lackey, Berger, 2002.pdfaccess_permission:can_modify: true
+title: 1 May 2002
+access_permission:assemble_document: true
+X-TIKA:parse_time_millis: 66
+dc:creator: jbeckmann
+access_permission:can_print_degraded: true
+created: Fri Jul 22 07:40:47 PDT 2011
+meta:save-date: 2013-05-30T22:02:25Z
+creator: jbeckmann
+access_permission:fill_in_form: true
+dcterms:modified: 2013-05-30T22:02:25Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2013-05-30T22:02:25Z
+access_permission:modify_annotations: true
+pdf:docinfo:creator_tool: MicrosoftÂ® Office Word 2007
+meta:author: jbeckmann
+Content-Type: application/pdf
+access_permission:extract_for_accessibility: true
+Creation-Date: 2011-07-22T14:40:47Z
+pdf:docinfo:creator: jbeckmann
+meta:creation-date: 2011-07-22T14:40:47Z
+date: 2013-05-30T22:02:25Z
+xmpMM:DocumentID: uuid:c97dd48f-f09d-458f-968f-628d1c4a8370
+xmpTPg:NPages: 16
+access_permission:extract_content: true
+pdf:docinfo:title: 1 May 2002
+access_permission:can_print: true
+dc:title: 1 May 2002
+dc:format: application/pdf; version=1.5
+Author: jbeckmann
+modified: 2013-05-30T22:02:25Z
+producer: MicrosoftÂ® Office Word 2007
+Last-Modified: 2013-05-30T22:02:25Z
+xmp:CreatorTool: MicrosoftÂ® Office Word 2007
+pdf:docinfo:created: 2011-07-22T14:40:47Z
+pdf:PDFVersion: 1.5
+pdf:docinfo:modified: 2013-05-30T22:02:25Z
+dcterms:created: 2011-07-22T14:40:47Z
+pdf:docinfo:producer: MicrosoftÂ® Office Word 2007
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 May 2002
+
+
+  
+
 14 May 2002 
 
 Jon P. Beckmann 
@@ -14,9 +104,11 @@ Phone: 775-784-6393
 
 Fax: 775-784-4583  
 
-E-Mail: beckmann@unr.nevada.edu 
+E-Mail: beckmann@unr.nevada.edu  
 
-Running head: Deterrent techniques for bears. Beckmann et al. 
+Running head: Deterrent techniques for bears
+.
+ Beckmann et al. 
 
 EVALUATION OF DETERRENT TECHNIQUES ON ALTERING BEHAVIOR 
 
@@ -32,7 +124,8 @@ Reno, Nevada 89512, USA; beckmann@unr.nevada.edu
 
 Carl W. Lackey, Nevada Division of Wildlife, 1100 Valley Road, Reno, Nevada 89512, 
 
-USA 
+USA
+ 
 
 Joel Berger, Program in Ecology, Evolution, and Conservation Biology, University of 
 
@@ -50,12 +143,9 @@ assigned to an experimental (treatment) or to a control (no treatment) group.
 
 Experimental bears were pepper sprayed, shot with 12-gauge rubber buckshot and a 
 
- 
- 
- 
-Beckmann et al. 
 
-2 
+
+Beckmann et al. 2 
 
 rubber slug, and exposed to cracker shells.  Additionally, half the bears that received the 
 
@@ -103,11 +193,11 @@ localized predation on livestock, property damage, and even human deaths
 
 (approximately 40 from black bears since 1900 in North America).  Many state and 
 
-Beckmann et al. 
 
-3 
 
-federal entities seek non-lethal solutions (i.e., deterrents) for dealing with ‘nuisance’ 
+Beckmann et al. 3 
+
+federal entities seek non-lethal solutions (i.e., deterrents) for dealing with â€˜nuisanceâ€™ 
 
 carnivores, especially black bears.  Deterrents such as lithium chloride, protection collars, 
 
@@ -117,7 +207,7 @@ latrans) (Giffiths et al. 1978, Burns 1983, Jelinski et al. 1983, Burns et al. 1
 
 there is a paucity of rigorous study of the effectiveness of the most common deterrent 
 
-techniques management agencies currently use to alter the behavior of ‘nuisance’ bears, 
+techniques management agencies currently use to alter the behavior of â€˜nuisanceâ€™ bears, 
 
 although exceptions clearly exist (e.g., Gilllin et al. 1994, Ternent and Garshelis 1999, 
 
@@ -127,15 +217,15 @@ A survey conducted by the Virginia Department of Game and Inland Fisheries in
 
 2001 revealed that 33 states currently manage black bears and respond to citizen 
 
-complaints about ‘nuisance’ bears (D. Kocka, Virginia Department of Game and Inland 
+complaints about â€˜nuisanceâ€™ bears (D. Kocka, Virginia Department of Game and Inland 
 
 Fisheries, personal communication).  Of those, 26 administer deterrent techniques with 
 
-the aim of behavioral alteration of ‘nuisance’ individuals.  The use of deterrent 
+the aim of behavioral alteration of â€˜nuisanceâ€™ individuals.  The use of deterrent 
 
 techniques, although not a new management tool, has been increasing rapidly in both 
 
-Canada and the USA, primarily in response to the public’s request for non-lethal 
+Canada and the USA, primarily in response to the publicâ€™s request for non-lethal 
 
 management of bears near urban-wildland interface areas.  Fifteen of 26 states that 
 
@@ -153,9 +243,9 @@ Department of Game and Inland Fisheries, personal communication).  Although many
 
 states and other entities, such as national parks (e.g., Yosemite National Park, California), 
 
-Beckmann et al. 
 
-4 
+
+Beckmann et al. 4 
 
 spend many dollars on an annual basis for such deterrents, to date no research has 
 
@@ -201,11 +291,11 @@ mortality sensors were attached to adults (Advanced Telemetry Systems, Isanti,
 
 Minnesota).  Age was estimated from annuli of the first upper premolar (PM1), the 
 
-standard tooth for age analysis in black bears (Matson’s Laboratory, Milltown, Montana; 
+standard tooth for age analysis in black bears (Matsonâ€™s Laboratory, Milltown, Montana; 
 
-Beckmann et al. 
 
-5 
+
+Beckmann et al. 5 
 
 Stoneberg and Jonkel 1966) and animals were classified as cubs (<1.5 years), juveniles 
 
@@ -233,13 +323,11 @@ km and distance was included as a continuous variable in the model.
 
 We measured effectiveness as time (in days) required between treatment and for 
 
-the bear to ‘return to urban patch’, designated as RUP.  Animals were located weekly, 
+the bear to â€˜return to urban patchâ€™, designated as RUP.  Animals were located weekly, 
 
 weather permitting, from a Cessna 206 fixed-wing airplane, and from the ground 
 
-(
-
-number of locations per individual + 1SD = 105 + 39).  Most flights occurred from 0500 to 1600 
+( X number of locations per individual + 1SD = 105 + 39).  Most flights occurred from 0500 to 1600 
 
 Pacific Standard Time.  We assigned Universal Transverse Mercator coordinates to each 
 
@@ -247,7 +335,7 @@ location from a global positioning system unit on-board the aircraft.  All locat
 
 entered into coverage maps and urban areas were defined by town and city delineation in 
 
-ArcView 3.2.  If an individual’s RUP was separated by the approximately weeklong 
+ArcView 3.2.  If an individualâ€™s RUP was separated by the approximately weeklong 
 
 interval between flights, we averaged date of return.   The time interval between flights 
 
@@ -255,9 +343,9 @@ never exceeded two weeks.
 
 Statistical analyses 
 
-XBeckmann et al. 
 
-6 
+
+Beckmann et al. 6 
 
 We modeled the effectiveness of deterrents using a multivariate approach that 
 
@@ -265,13 +353,13 @@ included a survival analysis utilizing a Cox proportional hazards model (through
 
 PHREG in SAS statistical software; SAS Institute 2001).  The analysis of survival data, 
 
-in this case time to return (i.e., ‘failure’ or ‘death’), requires special techniques because 
+in this case time to return (i.e., â€˜failureâ€™ or â€˜deathâ€™), requires special techniques because 
 
 the data are almost always incomplete, and thus parametric assumptions may be 
 
 unjustifiable.  For example, in our case, 5 individuals failed to RUP at the time of our 
 
-analyses and thus, beyond that time their status was ‘unknown’.  The problem is onerous 
+analyses and thus, beyond that time their status was â€˜unknownâ€™.  The problem is onerous 
 
 because, the 5 bears may never come back, or they could return at any unknown future 
 
@@ -305,9 +393,9 @@ information criteria (AIC) and adjusted these for small sample sizes (AICc) as s
 
 by Hurvich and Tsai (1989) and Anderson et al. (1994).  These values (AICc) were used 
 
-Beckmann et al. 
 
-7 
+
+Beckmann et al. 7 
 
 to compare candidate models to achieve the most parsimonious one that accurately 
 
@@ -333,37 +421,29 @@ RUP varied significantly, but only the use of dogs fit in the most parsimonious 
 
 (hazard ratiodogs = 0.454; P = 0.0061; Figure 1; Table 1).  RUP was greater when chased 
 
-by dogs (
-
-days = 154 + 202; range 5-641 days) than in their absence (
-
-days = 55 + 83; 
+by dogs ( X days = 154 + 202; range 5-641 days) than in their absence ( X days = 55 + 83; 
 
 range 1-283 days).  Dogs chased individuals in 4 of the 5 cases in which they had yet to 
 
-‘fail’ (i.e., return) at time of the analysis.  The mean number of days that had elapsed 
+â€˜failâ€™ (i.e., return) at time of the analysis.  The mean number of days that had elapsed 
 
-between the deterrent and time of analysis for the 5 bears that had not yet ‘failed’ was 
+between the deterrent and time of analysis for the 5 bears that had not yet â€˜failedâ€™ was 
 
 481 days (range 224-641 days).  In all 255 possible models, none of the other predictor 
 
 variables or any interactions accounted for a significant amount of the variation in RUP.   
 
-However, mean RUP was slightly greater when deterrents were given (
+However, mean RUP was slightly greater when deterrents were given ( X days = 104 + 
 
-days = 104 + 
-
-165; range 1-641 days) than that for the control group (
-
-days = 71 + 102; range 2-283 
+165; range 1-641 days) than that for the control group ( X days = 71 + 102; range 2-283 
 
 days; Figure 2). 
 
 Discussion 
 
-XXXXBeckmann et al. 
 
-8 
+
+Beckmann et al. 8 
 
 In our analyses, we included 8 ecological and biological parameters of individuals 
 
@@ -391,7 +471,7 @@ chased by either hounds or Karelian bear dogs returned approximately 100 days la
 
 average than bears that were not chased by dogs.  The use of dogs in combination with 
 
-the other 6 deterrents did significantly alter the ‘return curve’ (RUP) (Figure 1).  
+the other 6 deterrents did significantly alter the â€˜return curveâ€™ (RUP) (Figure 1).  
 
 However, an indication that even dogs may not be an effective deterrent is that of the 
 
@@ -411,17 +491,17 @@ limited sample.  Additional research in the area of deterrents on black bears sh
 
 examine the effectiveness of dogs when used alone. 
 
-Beckmann et al. 
 
-9 
 
-We recommend that any group that deals with ‘nuisance’ black bears conduct a 
+Beckmann et al. 9 
+
+We recommend that any group that deals with â€˜nuisanceâ€™ black bears conduct a 
 
 serious cost/benefit analysis to decide if monetary investments in deterrents are worth it.  
 
 If, a priori, agencies define success of deterrents as never having to deal with a 
 
-‘nuisance’ bear again, then our data suggest that this objective will most likely always be 
+â€˜nuisanceâ€™ bear again, then our data suggest that this objective will most likely always be 
 
 met with failure.  If the goal is to establish positive public relations or not having to deal 
 
@@ -451,20 +531,19 @@ Association, personal communication).
 
 Management implications 
 
-Our results indicate that the most commonly used deterrents to alter the behavior 
+ Our results indicate that the most commonly used deterrents to alter the behavior 
 
-of ‘nuisance’ black bears: 1) rubber buckshot; 2) rubber slugs; 3) pepper spray; 4) cracker 
+of â€˜nuisanceâ€™ black bears: 1) rubber buckshot; 2) rubber slugs; 3) pepper spray; 4) cracker 
 
 shells; and 5) loud noises, are not effective at altering the behavior of bears.  The only 
 
 significant factor in RUP was the use of dogs.  We recommend that management 
 
-agencies that deal with ‘nuisance’ black bears pursue non-lethal strategies or programs by 
+agencies that deal with â€˜nuisanceâ€™ black bears pursue non-lethal strategies or programs by 
 
- 
-Beckmann et al. 
 
-10 
+
+Beckmann et al. 10 
 
 incorporation of hounds, Karelian bear dogs, or both.  Bears that are both human-food 
 
@@ -512,9 +591,9 @@ Anderson, D. R., K. P. Burnham, and G. C. White.  1994.  AIC model selection in
 
 overdispersed capture-recapture data.  Ecology 75:1780-1793. 
 
-Beckmann et al. 
 
-11 
+
+Beckmann et al. 11 
 
 Anderson, D. R., K. P. Burnham, and W. L. Thompson.  2000.  Null hypothesis testing: 
 
@@ -562,9 +641,9 @@ samples.  Biometrika 76:297-307.
 
 Jelinski, D. E., R. C. Rounds, and J. R. Jowsey.  1983.  Coyote predation on sheep, and 
 
-Beckmann et al. 
 
-12 
+
+Beckmann et al. 12 
 
 control by aversive conditioning in Saskatchewan.  Journal of Wildlife 
 
@@ -585,21 +664,34 @@ nuisance activity by black bears in a Minnesota military reservation.  Wildlife
 Society Bulletin 27:720-728.       
 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Beckmann et al. 
 
-13 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Beckmann et al. 13 
 
 Figure 1.  Probability curves for failing to return to an urban patch (i.e., success) over 
 
@@ -607,7 +699,9 @@ time following the administration of deterrents for adult black bears (Ursus ame
 
 that were either chased (dashed line) or not chased (solid line) by dogs.  A bear that 
 
-returned to an urban area was equivalent to ‘failure’ or ‘death’ in the survival analysis.  
+returned to an urban area was equivalent to â€˜failureâ€™ or â€˜deathâ€™ in the survival analysis.  
+
+ 
 
 Figure 2.  Probability curves for failing to return to an urban patch (i.e., success) over 
 
@@ -615,20 +709,225 @@ time for adult black bears (Ursus americanus) that were either exposed (dashed l
 
 not (solid line) to deterrents.  A bear that returned to an urban area was equivalent to 
 
-‘failure’ or ‘death’ in the survival analysis.  
+â€˜failureâ€™ or â€˜deathâ€™ in the survival analysis.  
+
+  
 
  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Beckmann et al. 14 
+
+Table 1.  Multi-model inference of behavioral responses of bears to deterrent techniques.  
+
+All 255 possible models across all number of parameters were examined.  The best model 
+
+for each of the respective number of parameters is presented as examples.  Overall, the 
+
+model containing only the use of dogs was the most parsimonious.  Î”AIC is the rank of 
+
+each model by rescaling the model with a minimum AIC value to zero (Î”AIC = AICi â€“ 
+
+minAIC).  AIC weights are the likelihood of the model given the data (Akaike weights).            
+
+      
+
+ 
+
+Model
+i
+         # parameters          Î”AIC        AIC weight  
+
+ 
+
+Number of Days to Return to Urban Area 
+
+{D}       1  0  0.529  
+
+{D, Det}      2  1.631  0.234 
+
+{D, S, Dis}      3  2.811  0.130 
+
+{D, S, W, Dis}     4  4.133  0.067 
+
+{D, S, E, W, Dis}     5  5.944  0.027 
+
+{D, S, G, E, W, Dis}     6  8.151  0.009 
+
+{D, Det, S, G, E, W, Dis}    7  10.691  0.002 
+
+{D, Det, A, S, G, E, W, Dis}    8  13.309         0.0005  
+
+  i 
+D = Dogs (chased, not chased), Det = deterrent (yes, control), A = age, S = season 
+
+(spring, summer, winter, fall), G = gender (male, female), E = experience (number of 
+
+previous times treatment has been administered), W = weight, Dis = distance moved from 
+
+capture site to where deterrents were administered. 
+
   
+
+
+
+Beckmann et al. 15 
+
  
+
  
+
  
+
  
+
  
+
  
+
  
+
  
+
  
+
  
+
  
+
  
-
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1
+
+0 50 100 150 200 250 300 350 400
+
+Time (Days)
+
+P
+ro
+
+b
+. 
+
+o
+f 
+
+N
+o
+
+ R
+e
+
+tu
+rn
+
+No Dogs
+
+Dogs
+
+
+
+Beckmann et al. 16 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1
+
+0 50 100 150 200 250 300 350 400
+
+Time (Days)
+
+P
+ro
+
+b
+. 
+
+o
+f 
+
+N
+o
+
+ R
+e
+
+tu
+rn
+
+No Deterrents
+
+Deterrents
+
+

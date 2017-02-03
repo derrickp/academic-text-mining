@@ -6,9 +6,13 @@ academic-text-mining (actemin)
 - A Python package whose goal is to be able to take the text from academic papers and retrieve information from it.  
 - The academic papers used for this were geographic papers. The key piece of information intended to be retrieved from the papers is where the study took place, and the time of the study.
 
+## Configuration
+- Configuration for the application is stored in YAML format. By default the application looks for configurations in `actemin/config/config.yml`
+
 ## Dependencies
 
 - [spaCy](https://spacy.io/)
-- [pdfrw](https://github.com/pmaupin/pdfrw)
-    - pdfrw is a library for reading and writing pdf files.  
-      In this package it will be used to read the text from the pdf files in the configured directories. This text will then be sent through spaCy to eventually pull out information.
+- [tika](https://github.com/chrismattmann/tika-python)
+  - As part of this you will also need tika server
+  - [tika-server](https://wiki.apache.org/tika/TikaJAXRS)
+  - Start the tika server and then you can run the pdf parsing portion of the application

@@ -1,0 +1,4 @@
+text_file_directory: "out_txt"
+read_pdfs: true
+pdf_directory: "data"
+tika_endpoint: "http://localhost:9998"

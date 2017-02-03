@@ -1,0 +1,1074 @@
+data\Rossler et al, 2012.pdfCreation-Date: 2012-03-22T10:33:35Z
+title: Shock collars as a siteaversive conditioning tool for wolves
+pdf:docinfo:custom:WPS-ARTICLEDOI: 10.1002/wsb.93
+access_permission:assemble_document: true
+WPS-PROCLEVEL: 2
+access_permission:can_print_degraded: true
+created: Thu Mar 22 03:33:35 PDT 2012
+meta:save-date: 2012-03-23T13:13:14Z
+dcterms:created: 2012-03-22T10:33:35Z
+access_permission:fill_in_form: true
+dcterms:modified: 2012-03-23T13:13:14Z
+pdf:encrypted: false
+X-Parsed-By: 
+org.apache.tika.parser.DefaultParser
+org.apache.tika.parser.pdf.PDFParser
+Last-Save-Date: 2012-03-23T13:13:14Z
+WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
+access_permission:modify_annotations: true
+access_permission:can_modify: true
+pdf:docinfo:creator_tool: 3B2 Total Publishing System 8.06a/W
+access_permission:extract_for_accessibility: true
+WPS-ARTICLEDOI: 10.1002/wsb.93
+X-TIKA:parse_time_millis: 80
+pdf:docinfo:custom:WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
+meta:creation-date: 2012-03-22T10:33:35Z
+date: 2012-03-23T13:13:14Z
+access_permission:extract_content: true
+xmpTPg:NPages: 9
+pdf:docinfo:title: Shock collars as a siteaversive conditioning tool for wolves
+access_permission:can_print: true
+dc:title: Shock collars as a siteaversive conditioning tool for wolves
+dc:format: application/pdf; version=1.3
+Content-Type: application/pdf
+modified: 2012-03-23T13:13:14Z
+producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0.5 (Windows)
+Last-Modified: 2012-03-23T13:13:14Z
+pdf:docinfo:modified: 2012-03-23T13:13:14Z
+pdf:docinfo:created: 2012-03-22T10:33:35Z
+pdf:PDFVersion: 1.3
+xmp:CreatorTool: 3B2 Total Publishing System 8.06a/W
+pdf:docinfo:custom:WPS-PROCLEVEL: 2
+pdf:docinfo:producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0.5 (Windows)
+!PDF_CONTENT!
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shock collars as a siteaversive conditioning tool for wolves
+
+
+Tools and Technology
+
+Shock Collars as a Site-Aversive Conditioning
+Tool for Wolves
+
+SHAWN T. ROSSLER,1 Department of Biology, Central Michigan University, Mount Pleasant, MI 48859, USA
+
+THOMAS M. GEHRING,2 Department of Biology, Central Michigan University, Mount Pleasant, MI 48859, USA
+
+RONALD N. SCHULTZ, Wisconsin Department of Natural Resources, Woodruff, WI 54568, USA
+
+MICHAEL T. ROSSLER, Department of Biology, Central Michigan University, Mount Pleasant, MI 48859, USA
+
+ADRIAN P. WYDEVEN, Wisconsin Department of Natural Resources, Park Falls, WI 54552, USA
+
+JASON E. HAWLEY,3 Department of Biology, Central Michigan University, Mount Pleasant, MI 48859, USA
+
+ABSTRACT Reduction of livestock losses from predators is a complex problem that requires the integration
+of lethal and nonlethal management tools. During 2005 and 2006, we tested shock collars for conditioning
+wild wolves (Canis lupus) in Wisconsin, USA, to avoid bait sites over an 80-day period. Treatment wolves
+(n ¼ 10) visited shock zones less and spent less time at shock zones compared to control wolves (n ¼ 4)
+during 40-day shock periods and 40-day post-shock periods. Treatment wolves remained away from shock
+zones for a greater number of days compared to control wolves. A smaller proportion of treatment pack
+members visited shock zones during shock and post-shock periods compared to control packs. Shock collars
+conditioned treatment wolves to avoid bait sites for>40 days and reduced visitation by other pack members.
+We also demonstrated the application of shock collars at the scale of livestock farms. Shock collars could serve
+as a useful nonlethal tool for managing livestock depredations, particularly in chronic problem areas and with
+endangered populations. � 2012 The Wildlife Society.
+
+KEY WORDS behavior, Canis lupus, depredation, gray wolf, human–wildlife conflict, nonlethal management, shock
+collars, site-aversive conditioning.
+
+Gray wolf (Canis lupus) populations have rebounded in the
+Upper Great Lakes region of the United States (Refsnider
+2009). Greater numbers of wolves on the landscape can lead
+to an increase in the number of livestock depredations (Mech
+1995). Increased levels of depredations and development of
+chronic depredation areas (i.e., farms that suffer livestock
+depredations for �3 consecutive year) will lead to greater
+animosity toward wolves, greater economic losses, and in-
+creased compensation payments made by state governments
+(Fritts et al. 1992, Mech et al. 2000, Treves et al. 2002).
+Thus, effective resolution of livestock depredations is neces-
+sary to ensure maintenance of recovered wolf populations and
+recovery of wolves in additional areas of their historic range.
+Wolf managers in the United States primarily use lethal
+
+control as a management tool for minimizing conflict be-
+tween wolves and human economic interests (Mech 1995).
+Lethal control is a valuable tool for managing wolf–human
+conflict (Berryman 1972, Archibald et al. 1991, Mech et al.
+
+2000, Harper et al. 2008); however, it typically only reduces
+depredation for �1 yr (Fritts et al. 1992, Shivik et al. 2003,
+Bradley et al. 2005, Ruid et al. 2009) and may not reduce
+depredations at a regional scale (Musiani et al. 2005).
+Integrating lethal and nonlethal management tools would
+likely further reduce livestock depredations (Gehring et al.
+2006, Hawley et al. 2009). Nonlethal management tools are
+generally more acceptable to the general public compared to
+lethal control (Reynolds and Tapper 1996, Reiter et al.
+1999). Nonlethal management tools also may be the only
+option available for endangered wolf populations. However,
+few nonlethal tools have been rigorously tested on free-
+ranging wolves (Gehring et al. 2006, Hawley et al. 2009,
+Davidson-Nelson and Gehring 2010, Gehring et al.
+2010a,b).
+Shock collars may be a useful nonlethal management tool
+
+for depredation management (Andelt et al. 1999, Schultz
+et al. 2005, Hawley et al. 2009). Andelt et al. (1999) found
+that shock collars prevented captive coyotes (C. latrans) from
+attacking sheep for >4 months after corrective shocks were
+given. Shivik et al. (2003) found no evidence that long-term
+conditioning occurred in trials with captive wolves. Schultz
+et al. (2005) found shock collars prevented free-ranging
+wolves in one pack from visiting a study farm, and had no
+effect on the size of home range or maintenance of rendez-
+vous site behaviors. Hawley et al. (2009) used an experimen-
+tal design to test shock collars on wild wolves. They found
+that shock collars restricted wolf access to specific sites but
+
+Received: 23 May 2011; Accepted: 16 October 2011;
+Published: 4 January 2012
+
+1Present address: Wisconsin Department of Natural Resources, 101 S
+Webster Street, Madison, WI 53707, USA
+2E-mail: gehri1tm@cmich.edu
+3Present address: State of Connecticut Department of Environmental
+Protection, Sessions Woods Wildlife Management Area, P.O. Box 1550,
+Burlington, CT 06013, USA
+
+Wildlife Society Bulletin 36(1):176–184; 2012; DOI: 10.1002/wsb.93
+
+176 Wildlife Society Bulletin � 36(1)
+
+
+
+did not lead to site-aversive conditioning. Our objectives
+were to 1) determine the ability of shock collars to reduce use
+of a specific site and lead to site-aversive conditioning, 2)
+determine whether avoidance behavior of a site was trans-
+ferred to uncollared pack members, and 3) apply shock-collar
+technology to livestock farms in a depredation management
+scenario.
+
+STUDY AREA
+
+Our study area was located in northwestern Wisconsin,
+USA, including Ashland, Bayfield, Douglas, Sawyer, and
+Washburn counties. A majority of the land was publicly
+accessible and under county, state, federal, or commercial
+paper company ownership. The study area was comprised
+of 4 distinct ecological landscapes, as classified by the
+Wisconsin Department of Natural Resources (WDNR),
+including northwest lowlands, Superior coastal plains,
+northwest sands, and north-central forest (WDNR 2000).
+Agricultural land use did not add significantly to the econo-
+my of the 5-county region; however, farm operations that
+raised cattle, sheep, horses, and hay were dispersed
+across the landscape and comprised a small percentage of
+overall land cover (WDNR 2000). Approximately 33 wolf
+packs were located within the study area. Human density
+averaged between 7 persons/km2 and 12 persons/km2, con-
+siderably less than the statewide average of 37 persons/km2
+
+(WDNR 2000). A more detailed study area description was
+provided by Rossler (2007).
+
+METHODS
+
+We usedWDNR track surveys and conducted our own track
+and scat surveys along roads and trails within our study
+area to identify potential study packs. Study packs contained
+�3 adult wolves. We randomly assigned each pack to treat-
+ment or control, but we prioritized gaining a greater
+sample of treatment packs. During 15 May–15 June 2005
+and 2006, we captured one wolf from each pack using
+modified, Newhouse number 14 foot-hold traps (Kuehn
+et al. 1986). We chemically immobilized wolves using an
+intramuscular injection of 10 mg/kg ketamine hydrochloride
+and 2 mg/kg xylazine hydrochloride (Wydeven et al. 1995).
+We targeted adult wolves of either sex. We used tooth
+eruption patterns, tooth wear, and animal weight to estimate
+age and social status of captured wolves (Van Ballenberghe
+and Mech 1975, Gipson et al. 2000). Lactating female,
+diseased, and/or injured wolves were not included in our
+study. We fitted treatment wolves with a modified shock
+collar with an 80-day battery life (Rossler 2007). Shock
+collars included a 400-g radiocollar (Telonics, Inc., Mesa,
+AZ), to which we attached an Innotek (Invisible Fence
+Technologies, Garrett, IN) shock unit (Rossler 2007,
+Hawley et al. 2009). The total weight of the shock collar
+did not exceed 4% of body mass of wolves (Kenward 2001). A
+section of hair (10 cm � 10 cm) was shaved on the back of
+the neck of treatment wolves to ensure contact between the
+skin and probes of the shock collar (Andelt et al. 1999,
+Rossler 2007, Hawley et al. 2009). We fitted control wolves
+with only a radiocollar. Our research was approved by the
+
+Institutional Animal Care and Use Committee at Central
+Michigan University (IACUC no. 13-04).
+
+Site-Aversive Conditioning to Bait Sites
+We established an area known as a bait site within the
+territory of each study pack. Bait sites were created
+>1.6 km from where a wolf had been trapped to ensure
+no aversive conditioning due to trapping and handling near
+the capture site (Hawley et al. 2009). We located bait sites at
+the center of a primitive forest road intersection to allow
+wolves to associate with particular spatial features of the
+specific site. Similar criteria for bait sites were used to reduce
+variation between sites, thereby controlling for any con-
+founding factors. We placed one road-killed deer (with
+minimal decomposition or destruction) at the center of
+each bait site every 3 days during the 80-day experiment.
+During each visit to the bait site, we noted whether the deer
+was consumed before placing a fresh carcass. At each site we
+defined a shock zone (circular area; Hawley et al. 2009)
+extending 70 m from the center of the bait site (Fig. 1).
+We placed radio data-loggers (HABIT Research Ltd.,
+Victoria, BC, Canada) at the center of the bait site to
+determine the frequency of visitation by wolves and time
+spent by wolves in the shock zone. We programmed data-
+loggers to scan for the very high frequency (VHF) of the
+collared wolf in a study pack, and we included a dummy
+frequency to ensure that wolf locations (48–51 pulses/min)
+were legitimate (Hawley et al. 2009). Data-loggers recorded
+percent signal strength of radiocollars and date and time that
+wolves spent in the area.We calibrated data-loggers to record
+signal strength as a function of distance from the center of
+bait sites (Hawley et al. 2009). Signal strength of 60–100%
+identified a wolf in the shock zone.
+We placed shock towers (Schultz et al. 2005, Hawley et al.
+
+2009) at the center of bait sites (adjacent to data-loggers) in
+control and treatment packs. A reed switch timer, controlling
+the shock tower, was placed on a 1-min setting, which
+
+Figure 1. Experimental bait sites used to test the effectiveness of shock
+collars on gray wolves in northern Wisconsin, USA, May–September 2005
+and 2006. The shock zone extended 70 m from the center bait site and track
+swaths were located 35 m from the center.
+
+Rossler et al. � Shock Collars and Wolves 177
+
+
+
+signaled the shock tower to emit a low-frequency impulse
+for 12-s intervals with a 48-s delay prior to the next
+impulse. Remote triggering of the shock tower allowed shock
+treatments to be administered to treatment wolves when
+researchers were not present at the bait site (Schultz et al.
+2005, Hawley et al. 2009). We adjusted the shock-tower
+antenna to create a 70-m shocking radius around the bait site.
+No wolves received a shock when they were located outside
+the shock zone. Control wolves did not receive a shock collar,
+but data-loggers monitored their use of bait site zones,
+identical to treatment wolves.
+We established track swaths on the primitive roads
+
+approaching each bait site by clearing all vegetation and
+large debris in 5-m-long strips as wide as the forest road.
+Removal of debris and vegetation created loose dirt where
+wolf tracks could be distinguished. We placed track swaths
+on the primitive roads to utilize wolf behavioral tendencies of
+traveling along paths of least resistance (Mech 1970,
+Gehring 1995). Track swaths were placed 35 m from center
+of bait sites and monitored every 3 days, concurrent with
+baiting the sites (Fig. 1). A single set of tracks entering the
+site was considered a single visitation. Tracks exiting the site
+were not recorded to prevent double-counting. Once data
+were collected, we raked track swaths to remove previous
+tracks. We used track swaths to record collared and uncol-
+lared wolf use of bait sites for treatment and control packs
+(i.e., proportion of wolf pack visiting bait sites). Wolves may
+travel as a pack in single-file lines (i.e., walking within each
+other’s tracks;Mech 1970); therefore, our track-swath counts
+may have underestimated the number of wolves visiting bait
+sites. However, we assumed this potential bias would be
+consistent across control and treatment packs.
+Radiocollared wolves visited bait sites at least once within
+
+2–4 days of capture (Rossler 2007, Hawley et al. 2009). On
+the 5th day, post-capture, we began experimentation. Our
+experimental design included recording treatment and con-
+trol wolf movements over 1) a 40-day shock period during
+which we shocked treatment wolves when they entered the
+shock zone, and 2) a 40-day post-shock period during
+which no wolves were shocked. This design simulated a
+depredation management scenario whereby shock-collar
+technology would immediately be implemented on a farm.
+The 40-day post-shock period was used to determine wheth-
+er site-aversive conditioning of the bait sites occurred in
+treatment packs. We monitored treatment and control packs
+concurrently throughout the field season in order to decrease
+experimental bias due to time.
+After the 80-day study period, we downloaded data from the
+
+data-loggers to a laptop computer using a HABIT Research
+Ltd. program. We chronologically sorted wolf visitation data
+from static recordings (pulse rate >1,000 pulses/min) and
+dummy frequencies (Hawley et al. 2009) using Excel
+(Microsoft Corporation, Redmond, WA). Data-loggers pro-
+vided information for treatment and control wolves on 1)
+amount of time spent in the shock zone, 2) number of visits
+to the shock zone, and 3) number of days between shock zone
+visits. We standardized the time spent in the shock zone as
+mean number of minutes per day spent in the shock zone
+
+during the shock and post-shock periods. We counted a
+visitation to the shock zone when a wolf remained in this
+zone for �48 s because of the delay mechanism (48 s) in our
+shock-tower timer system. As such, a treatment wolf would
+need to be in the shock zone �48 s to receive a shock. We
+summed visitations to the shock zone and standardized them
+as number of visits per day for shock and post-shock periods.
+To determine site-aversive conditioning, we recorded the
+number of days between the last visitation to the shock
+zone during the shock period and the first visitation to the
+shock zone during the post-shock period for treatment and
+control packs.
+For each check of track swaths, we summed wolf visits and
+
+divided total number of visits by estimated wolf pack size,
+which yielded number of visits proportional to pack size.
+Wolf pack size was estimated using track evidence from
+routine scouting of packs and howling surveys conducted
+at the completion of experimental testing. We conducted
+howling surveys at the end of experimentation so as to not
+bias wolf movements. We summed visitation data at track
+swaths for shock and post-shock periods, respectively. We
+divided wolf visits for each study period by the number of
+days track swaths were operational. We excluded days when
+rain interfered with our ability to accurately record wolf
+tracks. Standardized wolf visits at track swaths were recorded
+as number of visits in proportion to pack size per track-swath
+day.
+Treatment and control wolves were located daily using
+
+vehicle-mounted ground telemetry. Our vehicle-mounted
+telemetry system consisted of a 5-element Yagi antenna,
+electronic compass, and compass rosette to gain accurate
+locations (Lovallo et al. 1994). We estimated locations
+with �3 bearings and triangulation using Locate 3 (V. O.
+Nams, Truro, NS, Canada). We used the maximum likeli-
+hood estimator to generate error polygons for each location.
+We used the 100% minimum convex polygon (MCP) meth-
+od to estimate home-range size of treatment and control
+wolves over the 80-day study period (Powell 2000). We used
+ABODE (P. N. Laver, Blacksburg, VA) within ArcGIS and
+Excel to conduct asymptotic analysis to determine the num-
+ber of radio locations required to reach a stable home-range
+size (Harris et al. 1990). We used the MCP estimator for
+comparison to home-range size of Wisconsin wolves not
+included in our study (Wydeven et al. 2004). We used the
+Point Distance Tool within ArcToolbox to calculate the
+linear distance each telemetry point (for treatment and con-
+trol wolves) was from the bait site during the shock and post-
+shock periods. We standardized the distance of locations
+from the bait site by dividing by the home-range size for each
+study pack.
+We used the Shapiro–Wilk test within SAS (SAS Institute
+
+Inc., Cary, NC) to determine whether data were normally
+distributed.We log-transformed data that were not normally
+distributed and checked again for normality. All data ana-
+lyzed met assumptions for normality and equal variance after
+transformation. We used Minitab 14 (Minitab Inc., State
+College, PA) and a paired t-test (Zar 1996) to compare shock
+period and post-shock period data for treatment and control
+
+178 Wildlife Society Bulletin � 36(1)
+
+
+
+wolves, respectively. We used a 2-sample t-test (Zar 1996) to
+compare treatment and control packs during the shock and
+post-shock periods, respectively. We used a significance level
+of a ¼ 0.05. All results presented in figures represent non-
+transformed data for ease of interpretation.
+We accounted for cost of use of shock collars in this
+
+research so that managers would have these data available
+for depredation management decisions. We quantified costs
+into 4 categories: 1) trapping wolves, 2) shock collars, 3)
+shock towers, and 4) labor for monitoring shock systems. We
+used WDNR estimates to calculate costs for trapping wolves
+by combining fuel, equipment, and labor expenses. The cost
+of shock collars included the shock unit and VHF radiocollar
+developed by Rossler (2007). We included costs of shock
+transmitters, batteries, and miscellaneous equipment for
+construction of shock towers. We estimated labor for moni-
+toring shock systems as monthly cost for one graduate re-
+search assistant (stipend and fringe benefits) involved in this
+study.
+
+Site-Aversive Conditioning to Livestock Farms
+During the study, we obtained permission to test shock
+systems on 2 farms that experienced wolf depredation in
+2004. The farms, designated as Farm A and Farm B, allowed
+us to place data-loggers and shock towers in the center of
+livestock pastures. We placed data-loggers on fence posts to
+elevate them 2–3 m off the ground in order to protect them
+from livestock damage and to maximize the range (800 m) of
+detection for radiocollared wolves.We used a 45-cm antenna
+on the shock transmitter to create a 0.8-km-radius shock
+zone around the shock tower. This distance was adequate to
+cover all pastures on each of the farms and create a 0.3-km
+shock-zone buffer on all sides of the pasture, outside the
+livestock fencing. We walked throughout livestock pastures
+and the perimeter of each farm with a test shock collar to
+ensure the shock transmitter and data-logger were commu-
+nicating with the shock collar. Shock towers were monitored
+and remained active during 7 June–23 August 2005. Data-
+loggers remained active on the farms during 7 June–8
+October 2005, to determine visitation to the farm after shock
+collars were no longer functional. Shock-collared wolf visi-
+
+tation to farms was determined using data downloaded from
+the data-loggers and recorded as number of visits per day.
+
+RESULTS
+
+During 2005 and 2006, we monitored 10 treatment (8 M, 2
+F; Table 1) and 4 control wolves (2 M, 2 F; Table 1).
+One control wolf (W444) was previously trapped and
+radiocollared by the WDNR. However, during trapping
+attempts in 2005, she was captured and later pulled out of
+the trap before immobilization. We considered her to have
+been retrapped even though she was not immobilized
+and processed. A female wolf, previously collared by the
+WDNR in 2005 and not used in previous research, was
+also used as a control in 2006. We collected 466 ground
+telemetry locations on treatment wolves (x ¼ 22 locations=
+wolf during shock period and x ¼ 23 locations=wolf during
+post-shock period). We collected 144 locations on control
+wolves (x ¼ 23 locations=wolf during both shock and post-
+shock periods).
+
+Site-Aversive Conditioning to Bait Sites
+Treatment wolves spent an equal amount of time in the
+shock zone during the shock period (x ¼ 1:1min=day,
+SE ¼ 0.4) and post-shock period (x ¼ 1:3min=day, SE ¼
+0.5; t ¼ �0.30, P ¼ 0.385). Control wolves spent less
+time in the shock zone during the shock period (x ¼
+13:6min=day, SE ¼ 3.0) compared to the post-shock period
+(x ¼ 21:2min=day, SE ¼ 4.2; t ¼ �5.55, P ¼ 0.006).
+Treatment wolves spent less time in the shock zone
+during the shock (t ¼ �4.26, P ¼ 0.001) and post-shock
+(t ¼ �5.78, P � 0.001) periods compared to control wolves
+(Fig. 2a).
+We found no difference in the number of visits treatment
+
+wolves made to the shock zone during the shock period
+(x ¼ 0:2 times=day, SE ¼ 0.06) and post-shock period
+(x ¼ 0:2 times=day, SE ¼ 0.06; t ¼ 0.26, P ¼ 0.400).
+Control wolves visited the shock zone less during the shock
+period (x ¼ 0:9 times=day, SE ¼ 0.15) compared to the
+post-shock period (x ¼ 1:4 times=day, SE ¼ 0.25;
+t ¼ �2.55, P ¼ 0.042). Treatment wolves visited the shock
+zone less than control wolves during the shock (t ¼ �4.26,
+
+Table 1. Capture data and status of wolves in shock-collar research in northern Wisconsin, USA, May–September 2005 and 2006.
+
+Wolf Sex Weight (kg) Capture date Pack Study year Status
+
+W523 M 32 27 May 2005 Bearsdale 2005 Treatment
+W518 M 36 31 May 2005 Smokey Hill 2005 Treatment
+W519 M 45 3 Jun 2005 Bibon Swamp 2005 Treatment
+W556 M nwa 26 May 2005 Moreland Lake 2005 Treatment
+W498 F nwa 9 Jun 2005 Shoberg Lake 2005 Treatment
+W522 M 35 27 May 2005 Rainbow Lake 2005 Control
+W444 F nwa 13 Jun 2005 Hellhole Creek 2005 Control
+W524 M 34 24 May 2006 Casey Creek 2006 Treatment
+W526 F nwa 10 Aug 2005b Lake Nebagamon 2006 Control
+W565 M 34 5 May 2006 Bird Sanctuary 2006 Control
+W520 F 30 13 Jun 2006 Foxboro 2006 Treatment
+W517 M 32 16 May 2006 North Empire 2006 Treatment
+W473 M 42 23 May 2006 Moose Lake 2006 Treatment
+W552 M 29 18 May 2006 Moose Road 2006 Treatment
+
+a No wt recorded at capture.
+b Previously captured by Wisconsin Department of Natural Resources personnel.
+
+Rossler et al. � Shock Collars and Wolves 179
+
+
+
+P ¼ 0.001) and post-shock (t ¼ �5.78, P � 0.001) periods
+(Fig. 2b). We also found that a greater number of days
+elapsed between visits to the shock zone for treatment
+wolves (x ¼ 41:5days, SE ¼ 4.5) compared to control
+wolves (x ¼ 5:8days, SE ¼ 2.6; t ¼ 4.83, P � 0.001).
+We found no difference in the proportion of the wolf pack
+
+visiting bait sites each day during the shock and post-shock
+periods for treatment (t ¼ 1.30, P ¼ 0.112) and control
+(t ¼ �1.96, P ¼ 0.072) packs. However, a smaller propor-
+tion of treatment pack members visited the shock zone
+during the shock period (t ¼ �3.53, P ¼ 0.002) and
+post-shock period (t ¼ �9.70, P � 0.001) compared to
+
+control packs (Fig. 2c). In 7 of 10 treatment packs, no
+pack members visited bait sites once shocking occurred
+during the shock period.
+Home-range size was greater for treatment wolves
+
+(x ¼ 82 km2, SE ¼ 10) compared to control wolves
+(x ¼ 35 km2, SE ¼ 6) for the 80-day monitoring period
+(t ¼ 2.91, P ¼ 0.013; Fig. 3). Treatment wolves were locat-
+ed closer to bait sites during the shock period (x ¼ 3:5 km,
+SE ¼ 0.5) compared to the post-shock period (x ¼ 4:5 km,
+SE ¼ 0.4; t ¼ �2.03, P ¼ 0.037). We found no difference
+in the distance control wolves were located from bait sites
+between the shock and post-shock periods (t ¼ �0.14,
+P ¼ 0.551). Treatment wolves were located farther from
+bait sites during the shock period (t ¼ �2.46, P ¼ 0.030),
+and the same distance during the post-shock monitoring
+period (t ¼ �0.49, P ¼ 0.631) compared to control wolves.
+Wolf trapping costs ranged from US$ 1,000–1,500/wolf
+
+(A. P. Wydeven, unpublished data). Our shock-collar design
+incorporating a modified Innotek shock unit (US$ 145/unit)
+and Telonics radiocollar (US$ 280/unit) was an estimated
+US$ 425/collar. We constructed shock towers at an estimat-
+ed cost of US$ 300/tower. Graduate research assistant costs
+were US$ 1,579/month. Total costs to trap and establish the
+shock-collar system ranged from US$ 1,725 to US$ 2,225/
+wolf, excluding labor costs for monitoring. Shock-collar
+equipment cost (i.e., shock collar and shock tower) was
+US$ 725/site.
+
+Site-Aversive Conditioning to Livestock Farms
+We recorded 2 visits on Farm A by a shock-collared wolf
+during the shock period (4 Jul and 20 Aug 2005; Fig. 4). No
+other visitations were recorded on Farm A during the moni-
+toring period. We recorded zero visitations on Farm B.
+However, U.S. Department of Agriculture Animal and
+Plant Health Inspection Service-Wildlife Services (USDA
+APHIS-WS) confirmed a depredation of a pony foal on
+Farm B on 12 August 2005. We suspect this was caused
+by members of an adjacent pack. Farm B was located near the
+eastern edge of the treatment pack and proximate to 3 known
+neighboring wolf packs. U.S. Department of Agriculture
+
+Figure 2. Mean minutes per day (a), mean visits per day (b), and mean
+proportion of pack visits per track-swath day (c) by treatment and control
+wolves during shock and post-shock periods in northern Wisconsin, USA,
+May–September 2005 and 2006. Error bars are �2 standard errors.
+
+Figure 3. Minimum convex polygon home ranges for shock-collared and
+control wolves in northern Wisconsin, USA, May–September 2005 and
+2006.
+
+180 Wildlife Society Bulletin � 36(1)
+
+
+
+APHIS-WS trapped and euthanized 2 adult male wolves
+within 0.8 km of Farm B. Neither of the 2 adult wolves
+trapped by USDA APHIS-WS had been radiocollared or
+fitted with a shock collar. Track evidence before the 2 adult
+wolves were euthanized, and howling surveys conducted
+afterward, indicated there were 4 adult wolves and 1–
+3 pups in the treatment pack. We found no evidence that
+the size of the treatment pack decreased after removal of the
+2 adult males by USDA APHIS-WS. Of the 4 adult wolves
+in the treatment pack, 2 were radiocollared adult males. The
+presence of pups indicated �1 of the other 2 wolves to be a
+female.
+
+DISCUSSION
+
+Shock collars appear to be effective in modifying foraging
+behaviors and/or movements in captive coyotes (Linhart
+et al. 1976, Andelt et al. 1999), captive wolves (Shivik
+et al. 2003), island foxes (Urocyon littoralis; Cooper et al.
+2005), and wild wolves (Schultz et al. 2005, Hawley et al.
+2009; this study). Similar to Hawley et al. (2009), we found
+that shock collars reduced the amount of time and the
+number of visits by wolves to specific sites. We found a
+12- to 16-fold reduction in amount of time at sites and 4-
+to 7-fold reduction in visitation by shock-collared wolves
+compared to control wolves. During active shocking, treat-
+ment wolves also were displaced a greater distance away from
+bait sites compared to control wolves.We found shock collars
+aversively conditioned wolves to avoid bait sites for �1
+month, whereas control wolves visited bait sites approxi-
+mately weekly. Further, with only 1 member of a wolf
+pack shock-collared, we reduced the use of bait sites by other
+pack members compared to control packs. We also success-
+fully used shock-collar systems on livestock farms as a dem-
+
+onstration of a depredation management scenario similar to
+Schultz et al. (2005).
+Operant conditioning is applicable to our results. Operant
+
+conditioning is characterized by a response to a stimulus
+becoming more frequent if followed by positive con-
+sequences but less frequent if followed by negative conse-
+quences (Skinner 1981). Aversive conditioning is learning in
+which a punishment or other unpleasant stimulation is used
+to associate negative consequences with an undesirable re-
+sponse, therefore reducing the frequency of that response.
+Our design relied on a shock (negative consequence) received
+by wolves when visiting the bait site (undesirable response).
+Our design used free-operant avoidance learning, whereby
+no discrete stimulus was used to signal a subsequent conse-
+quence (Sidman 1953). Often psychological studies incor-
+porate a signal stimulus with an unpleasant stimulus to
+condition test animals to avoid undesirable responses
+(Olton 1973). Schultz et al. (2005) relied on an auditory,
+beeper system as a signal stimulus to aversive shock stimuli.
+We relied on the specific site where the road-killed deer was
+placed to act as the signal stimulus.
+Many animals are capable of spatial learning and use cog-
+
+nitive maps for travel and habitat use (Bell 1991). Wolves are
+intelligent, territorial animals with the ability to learn readily
+and retain what is learned for extended lengths of time
+(Mech 1970). We suggest avoidance of bait sites by treat-
+ment wolves was due to their ability to learn and associate the
+negative stimulus (shock) with the location (signal stimulus)
+in which the shock was administered. Denny et al. (1959)
+found lab rats preferentially associated a shock with a given
+location rather than with coextensive auditory stimuli. All
+treatment wolves were shocked more than one time at the
+same bait site, and bait sites remained consistent throughout
+the entire 80-day study period. Biegler and Morris (1996)
+found that consistency in environmental features increased
+the potential for spatial learning. We suggest that reinforce-
+ment of negative shock stimuli with the signal stimulus and
+environmental features of the bait site allowed wolves to
+associate the shock with the bait site and use cognitive
+mapping and spatial learning to associate negative conse-
+quences with the bait site. Treatment wolves likely associated
+negative stimuli with bait site locations and not road-killed
+deer placed at sites. Wolves were shocked when they
+entered the shock zone surrounding bait sites, but not
+shocked coincident with consuming deer. If wolves were
+shocked instantaneously with consumption of deer, it is
+likely aversive conditioning would occur to the deer bait.
+For example, Andelt et al. (1999) conditioned coyotes to
+avoid attacking sheep via shocking coyotes immediately
+during their attempted attacks on sheep. Treatment wolves
+remained within their home ranges and none died of starva-
+tion throughout the course of the study or after the research
+was completed.
+Coppinger and Coppinger (2001) found most domestic
+
+dogs would not learn to avoid a specific behavior after
+only one correction. Shivik et al. (2003) noted high variabil-
+ity in the response of captive wolves to corrective shocks,
+which likely leads to the lack of aversive conditioning.
+
+Figure 4. Minimum convex polygon home range and radio locations for
+shock-collared wolf and test farm (Farm A) in northern Wisconsin, USA, 7
+June–23 August 2005. The test farm and shock zone is shown by the light
+gray circle with lightning bolt in center. The shock tower was active through-
+out this time period.
+
+Rossler et al. � Shock Collars and Wolves 181
+
+
+
+Hawley et al. (2009) suggested that variability in the pulsing
+of shock in collars was a likely explanation for variation in
+response of wolves to shock collars. Similar to Hawley et al.
+(2009) we removed this technological variation in shock
+collars via testing of individual collars. The short duration
+of the shock trial (14 days) in the Hawley et al. (2009) study
+likely reduced the probability of long-term aversive condi-
+tioning. We used a 40-day shocking period to allow treat-
+ment wolves to be shocked at least once, with time for
+additional shocking treatments to reinforce the negative
+stimulus upon return to bait sites. Our study suggests that
+shock collars influenced behavior of wolves around bait sites
+and wolves developed avoidance learning and aversion to
+specific areas for >40 days after 40 days of shock treatment.
+Control wolves, experiencing no shock stimulus, increased
+time spent at and visitation rates to bait sites by 56%. Control
+wolves had a positive association or conditioning (Bell 1991)
+to bait sites (i.e., repeated positive, food stimulus with no
+negative stimuli). Hawley et al. (2009) also found similar
+results with control wolves, which increased visitation 18%
+during trial periods.
+No previous study has addressed questions dealing with
+
+behavior of uncollared wolf-pack members in relation to a
+wolf fitted with a shock collar. We found uncollared
+wolves in treatment packs visited bait sites less than uncol-
+lared wolves in control packs. Wolves are social animals
+and there is continuous information transfer and communi-
+cation between pack members related to social hierarchy—
+dominance, temperament, injury, and hunting strategy
+(Mech 1970). Information transfer between pack members
+occurs directly via physical contact, eye contact, and body
+postures (Mech 1970). Weingrill et al. (2005) suggested
+direct visual contact during shocking was necessary for social
+learning to occur in vervet monkeys (Chlorocebus aethiops).
+Thus, if a treatment wolf entered a bait site and received a
+shock, but no other members of the pack were with that wolf,
+it is unlikely that information transfer would occur. Transfer
+of information may occur later upon subsequent visits. Direct
+transfer of information is more likely to occur when members
+of a pack are together while visiting a specific site and a
+shock-collared wolf receives a shock and then proceeds to
+retreat from the site. Indirect communication is also an
+important part of wolf social interaction, particularly during
+denning and rendezvous periods when pack cohesion is
+reduced (Mech 1970). Avoidance of bait sites could be
+communicated through scent marking in the form of defe-
+cation, urination, scratching, and/or gland secretion (Mech
+and Boitani 2003). Other wolves visiting the site may
+smell these secretions associated with distress and avoid
+the site. However, washing away of scent or diminished
+concentration over time may occur before other pack mem-
+bers visit the site, thus prohibiting indirect communication.
+The loss or decreased effectiveness of scent and lack of direct
+communication may account for continued visitation by
+some nonshock-collared pack members in 3 of 10 treatment
+packs.
+Although shock-collared wolves were displaced from spe-
+
+cific locations within their home range, the size of their
+
+summer home ranges was the same as summer home
+ranges for Wisconsin wolf packs not included in our study
+(Wydeven et al. 2004, WDNR 2006). Schultz et al. (2005)
+found shock collars did not negatively impact movement
+behavior, with regard to home range, of treatment wolves.
+In our study, shock-collared wolves did not disperse outside
+their home range after receiving a shock at bait sites. Home-
+range size for control wolves was less than half the size of
+summer home ranges for Wisconsin wolf packs not included
+in our study (Wydeven et al. 2004,WDNR 2006). Localized
+feeding of wolves (i.e., at bait sites) on a consistent schedule
+was likely the reason for reduced home-range size. Control
+wolves likely regarded bait sites as a regular source of food
+resources, without a negative consequence. We also found
+that control wolves shifted their movements and spent more
+time proximal to bait sites. Hawley et al. (2009) suggested
+the localized feeding of wolves, which were not subjected to a
+negative stimulus, influenced the distribution of wolves upon
+the landscape. Fritts et al. (1992) suggested that carcass
+disposal sites (i.e., localized areas where dead livestock are
+disposed by farmers) could increase wolf use of agricultural
+areas. We suggest that localized feeding could be used as a
+possible nonlethal depredation-management tool by divert-
+ing wolf use away from livestock areas. Diversionary feeding
+(as shown in our study) could constrict home-range size and
+shift wolf movements away from livestock. Boertje et al.
+(2010) demonstrated that diversionary feeding could reduce
+predation on moose calves in Alaska, USA. Further research
+should investigate the use of diversionary feeding as a non-
+lethal management tool.
+Schultz et al. (2005) and our tests on livestock farms
+
+demonstrate the application of shock collars for depredation
+management. However, our sample size was low and we
+lacked control farms in this portion of our study to
+gauge overall effectiveness of shock collars in a depreda-
+tion-management scenario. An understanding of where his-
+torical home-range boundaries are located is a major issue
+that must be addressed before implementing shock collars.
+Schultz et al. (2005) found shock collars can shift an indi-
+vidual wolf away from an agricultural area. If a farm resides
+on the boundary of 2 or more wolf packs, shifting the move-
+ments of only 1 pack may leave the territory around the
+farm vacant for other wolves to occupy. A nonshock-collared
+pack shifting its territory to encompass the farm may con-
+tinue with depredation behavior. We believe this may
+have happened on 1 of our farms. Treves et al. (2002)
+reported that 61% of all verified wolf depredations in
+Wisconsin and 83% of verified wolf depredations in
+Minnesota, USA, occurred during May–September. Our
+current shock-collar design, with an 80-day battery life,
+would provide 2.6 months of reduced visitation by a
+shock-collared wolf to a farm. Based on our results, we
+predict additional avoidance of farms by wolves after expira-
+tion of the batteries via aversive conditioning. Thus, a sig-
+nificant portion of the season when depredations occur
+could be addressed with shock collars. Increasing shock-
+collar battery life could extend the shocking period and
+likely enhance aversive conditioning.
+
+182 Wildlife Society Bulletin � 36(1)
+
+
+
+MANAGEMENT IMPLICATIONS
+
+Shock collars could serve as an important management tool
+in chronic depredation areas and/or where wolves are
+endangered (e.g., southwestern United States). The use of
+shock collars on farms experiencing chronic depredation
+activity that is not alleviated through other control measures
+is an appropriate wolf management consideration. Shock
+collars may also be appropriate when wolf depredations occur
+on isolated farms in the midst or edge of a large protected
+area where lethal control is undesirable or prohibited. Future
+research should examine long-term avoidance patterns of
+wolves fitted with shock collars and the influence shock
+collars have on pack dynamics and social learning.
+
+ACKNOWLEDGMENTS
+
+We are grateful for the valuable support provided byG. Kessler,
+J. Wiedenhoeft, B. Follis, Wisconsin Department of Natural
+Resources, P. Callahan andWildlife Science Center, R. Clark,
+A. Cellar, M. Provost, and J. Detraz. This study was funded
+by Central Michigan University (Research Excellence
+Fund Award), Wisconsin Department of Natural Resources,
+Defenders of Wildlife, and CITGO Petroleum Inc. We thank
+Associate Editor Rollins and 2 anonymous reviewers for com-
+ments that improved this manuscript.
+
+LITERATURE CITED
+Andelt,W. F., R. L. Phillips, K. S. Gruver, and J.W.Guthrie. 1999. Coyote
+predation on domestic sheep deterred with electronic dog-training collar.
+Wildlife Society Bulletin 27:12–18.
+
+Archibald, W. R., D. Janz, and K. Atkinson. 1991. Wolf control: a man-
+agement dilemma. Transactions of the North American Wildlife and
+Natural Resources Conference 56:497–511.
+
+Bell, W. J. 1991. Searching behavior: the behavioural ecology of finding
+resources. Chapman and Hall, New York, New York, USA.
+
+Berryman, J. H. 1972. The principles of predator control. Journal ofWildlife
+Management 36:395–400.
+
+Biegler, R., and R. G. M. Morris. 1996. Landmark stability: further studies
+pointing to a role in spatial learning. The Quarterly Journal of
+Experimental Psychology 49B:307–345.
+
+Boertje, R. D., M. A. Keech, and T. F. Paragi. 2010. Science and values
+influencing predator control for Alaska moose management. Journal of
+Wildlife Management 74:917–928.
+
+Bradley, E. H., D. H. Pletscher, E. E. Bangs, K. E. Kunkel, D. W. Smith,
+C. M. Mack, T. J. Meier, J. A. Fontaine, C. C. Niemeyer, and M. D.
+Jimenez. 2005. Evaluating wolf translocations as a non-lethal method to
+reduce livestock conflicts in the northwestern United States. Conservation
+Biology 19:1498–1508.
+
+Cooper, D.M., E. L. Kershner, and D. K. Garcelon. 2005. The use of shock
+collars to prevent island fox (Urocyon littoralis) predation on the endan-
+gered San Clemente loggerhead shrike (Lanius ludovicianus mearnsi).
+Institute for Wildlife Studies, Arcata, California, USA.
+
+Coppinger, R., and L. Coppinger. 2001. Dogs: a new understanding of
+canine origin, behavior, and evolution. University of Chicago Press,
+Chicago, Illinois, USA.
+
+Davidson-Nelson, S. J., and T. M. Gehring. 2010. Testing fladry as a non-
+lethal management tool for wolves and coyotes in Michigan. Human–
+Wildlife Interactions 4:87–94.
+
+Denny, M. R., P. B. Koons, and J. E. Mason. 1959. Extinction of avoidance
+behavior as a function of shock intensity using a trace conditioning
+procedure. American Psychologist 13:419.
+
+Fritts, S. H., W. J. Paul, L. D. Mech, and D. P. Scott. 1992. Trends and
+management of wolf–livestock conflicts in Minnesota. U.S. Fish and
+Wildlife Service Resource Publication 181, Washington, D.C., USA.
+
+Gehring, T. M. 1995. Winter wolf movements in northwestern Wisconsin
+and east central Minnesota: a quantitative approach. Thesis, University of
+Wisconsin, Stevens Point, USA.
+
+Gehring, T. M., J. E. Hawley, S. J. Davidson, S. T. Rossler, A. C. Cellar,
+R. N. Schultz, A. P. Wydeven, and K. C. VerCauteren. 2006. Are viable
+non-lethal management tools available for reducing wolf–human conflict?:
+preliminary results from field experiments. Pages 2–6 in R. M. Timm and
+J. M. O’Brien, editors. Proceedings of the 22nd Vertebrate Pest
+Conference, 6–9 March 2006. University of California, Davis, USA.
+
+Gehring, T. M., K. C. VerCauteren, and J.-M. Landry. 2010a. Livestock
+protection dogs in the 21st century: is an ancient tool relevant to modern
+conservation challenges? BioScience 60:299–308.
+
+Gehring, T.M., K. C. VerCauteren,M. L. Provost, and A. C. Cellar. 2010b.
+Utility of livestock-protection dogs for deterring wildlife from cattle farms.
+Wildlife Research 37:715–721.
+
+Gipson, P. S., W. B. Ballard, R. M. Nowak, and L. D. Mech. 2000.
+Accuracy and precision of estimating age of gray wolves by tooth wear.
+Journal of Wildlife Management 64:752–758.
+
+Harper, E. K.,W. J. Paul, L. D.Mech, and S.Weisberg. 2008. Effectiveness
+of lethal, directed wolf-depredation control in Minnesota. Journal of
+Wildlife Management 72:778–784.
+
+Harris, S., W. J. Cresswell, P. G. Forde, W. J. Trewhella, T. Woollard, and
+S. Wray. 1990. Home-range analysis using radio-tracking data—a review
+of problems and techniques particularly as applied to the study of mam-
+mals. Mammal Review 20:97–123.
+
+Hawley, J. E., T. M. Gehring, R. N. Schultz, S. T. Rossler, and A. P.
+Wydeven. 2009. Assessment of shock collars as nonlethal management for
+wolves in Wisconsin. Journal of Wildlife Management 73:518–525.
+
+Kenward, R. E. 2001. A manual for wildlife radio tagging. Academic Press,
+San Diego, California, USA.
+
+Kuehn, D.W., T. K. Fuller, L. D. Mech,W. J. Paul, S. H. Fritts, andW. E.
+Berg. 1986. Trap-related injuries to gray wolves in Minnesota. Journal of
+Wildlife Management 50:90–91.
+
+Linhart, S. B., J. D. Roberts, S. A. Shumake, and R. Johnson. 1976.
+Avoidance of prey by captive coyotes punished with electric shock.
+Proceedings of the Vertebrate Pest Conference 7:302–306.
+
+Lovallo, M. J., K. C. VerCauteren, N. C. Hedge, E. M. Anderson, and S. E.
+Hygnstrom. 1994. An evaluation of electronic versus hand-held compasses
+for telemetry studies. Wildlife Society Bulletin 22:662–667.
+
+Mech, L. D. 1970. The wolf: the ecology and behavior of an endangered
+species. University of Minnesota Press, Minneapolis, USA.
+
+Mech, L. D. 1995. The challenge and opportunity of recovering wolf
+populations. Conservation Biology 9:270–278.
+
+Mech, L. D., and L. Boitani. 2003. Wolves: behavior, ecology, and conser-
+vation. University of Chicago Press, Chicago, Illinois, USA.
+
+Mech, L. D., E. K. Harper, T. J. Meier, and W. J. Paul. 2000. Assessing
+factors that may predispose Minnesota farms to wolf depredations on
+cattle. Wildlife Society Bulletin 28:623–629.
+
+Musiani, M., T. Muhly, C. C. Gates, C. Callaghan, M. Smith, and E.
+Tosoni. 2005. Seasonality and reoccurrence of depredation and wolf
+control in western North America. Wildlife Society Bulletin 33:876–887.
+
+Olton, D. S. 1973. Shock-motivated avoidance and the analysis of behavior.
+Psychological Bulletin 79:243–251.
+
+Powell, R. A. 2000. Animal home ranges and territories and home range
+estimators. Pages 79–80 in L. Boitani and T. K. Fuller, editors. Research
+techniques in animal ecology: controversies and consequences. Columbia
+University Press, New York, New York, USA.
+
+Refsnider, R. L. 2009. The role of the Endangered Species Act in Midwest
+wolf recovery. Pages 311–329 in A. P. Wydeven, T. R. Van Deelen, and
+E. J. Heske, editors. Recovery of gray wolves in the Great Lakes region of
+the United States an endangered species success story. Springer, New
+York, New York, USA.
+
+Reiter, D. K., M. W. Brunson, and R. H. Schmidt. 1999. Public attitudes
+toward wildlife damage management and policy. Wildlife Society Bulletin
+27:746–758.
+
+Reynolds, J. C., and S. C. Tapper. 1996. Control of mammalian predators in
+game management and conservation. Mammal Review 26:127–156.
+
+Rossler, S. T. 2007. Determining the effectiveness of shock collars as a non-
+lethal control for site-aversive conditioning of wild wolves in Wisconsin.
+Thesis, Central Michigan University, Mt. Pleasant, USA.
+
+Ruid, D. B., W. J. Paul, B. J. Roell, A. P. Wydeven, R. C. Willging, R. L.
+Jurewicz, and D. H. Lonsway. 2009. Wolf–human conflicts and manage-
+
+Rossler et al. � Shock Collars and Wolves 183
+
+
+
+ment in Minnesota, Wisconsin, and Michigan. Pages 279–295 in A. P.
+Wydeven, T. R. Van Deelen, and E. J. Heske, editors. Recovery of gray
+wolves in the Great Lakes region of the United States an endangered
+species success story. Springer, New York, New York, USA.
+
+Schultz, R. N., K. W. Jonas, L. H. Skuldt, and A. P. Wydeven.
+2005. Experimental use of dog-training shock collars to deter depreda-
+tion by gray wolves (Canis lupus). Wildlife Society Bulletin 33:142–
+148.
+
+Shivik, J. A., A. Treves, and P. Callahan. 2003. Nonlethal techniques for
+managing predation: primary and secondary repellents. Conservation
+Biology 17:1531–1537.
+
+Sidman, M. 1953. Avoidance conditioning with brief shock and no extero-
+ceptive warning signal. Science 118:157–158.
+
+Skinner, B. F. 1981. Selection by consequences. Science 231:501–504.
+Treves, A., R. R. Juewicz, L. Naughton-Treves, R. A. Rose, R. C.Willging,
+and A. P. Wydeven. 2002. Wolf depredation on domestic animals in
+Wisconsin, 1976–2000. Wildlife Society Bulletin 30:231–241.
+
+Van Ballenberghe, V., and L. D.Mech. 1975.Weights, growth, and survival
+of timber wolf pups in Minnesota. Journal of Mammalogy 56:44–63.
+
+Weingrill, T., C. Stanisiere, and R. Noe. 2005. Training vervet monkeys to
+avoid electric wires: is there evidence for social learning? Zoo Biology
+24:145–151.
+
+Wisconsin Department of Natural Resources [WDNR]. 2000. A fisheries,
+wildlife, and habitat management plan for Wisconsin. Wisconsin
+Department of Natural Resources, Madison, USA.
+
+Wisconsin Department of Natural Resources [WDNR]. 2006. Progress
+report of wolf population monitoring in Wisconsin for the period
+April–September 2006 & annual summaries for 2006. Wisconsin
+Department of Natural Resources, Park Falls, USA.
+
+Wydeven, A. P., R. N. Schultz, and R. P. Thiel. 1995. Monitoring of a
+recovering wolf population inWisconsin. Pages 147–156 in L. N. Carbyn,
+S. H. Fritts, andD. R. Siep, editors. Ecology and conservation of wolves in
+a changing world. Canadian Circumpolar Institute, Edmonton, Alberta,
+Canada.
+
+Wydeven, A. P., A. Treves, B. Brost, and J. E. Wiedenhoeft. 2004.
+Characteristics of wolf packs in Wisconsin: identification of traits influ-
+encing depredation. Pages 28–50 in N. Fascione, A. Delach, and M. E.
+Smith, editors. People and predators: from conflict to coexistence. Island
+Press, Washington, D.C., USA.
+
+Zar, J. H. 1996. Biostatistical analysis. Third edition. Prentice Hall, Upper
+Saddle River, New Jersey, USA.
+
+Associate Editor: Rollins.
+
+184 Wildlife Society Bulletin � 36(1)
+
+
