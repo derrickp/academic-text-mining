@@ -1,36 +1,36 @@
-data\Anhalt et al, 2014.pdfdcterms:modified: 2014-11-13T18:35:45Z
-access_permission:can_modify: true
-access_permission:assemble_document: true
-access_permission:can_print_degraded: true
-created: Thu Nov 13 10:35:45 PST 2014
+data\Anhalt et al, 2014.pdfaccess_permission:can_modify: true
+access_permission:extract_content: true
+xmpMM:DocumentID: uuid:9e2df6e0-b456-4cb5-b2e6-6e8251410b9f
+producer: iTextSharp 4.1.6 by 1T3XT
 meta:save-date: 2014-11-13T18:35:45Z
+Last-Modified: 2014-11-13T18:35:45Z
+dcterms:created: 2014-11-13T18:35:45Z
 access_permission:can_print: true
-pdf:docinfo:modified: 2014-11-13T18:35:45Z
-pdf:encrypted: false
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2014-11-13T18:35:45Z
-access_permission:modify_annotations: true
-Content-Type: application/pdf
-dcterms:created: 2014-11-13T18:35:45Z
-Creation-Date: 2014-11-13T18:35:45Z
-X-TIKA:parse_time_millis: 88
-meta:creation-date: 2014-11-13T18:35:45Z
-date: 2014-11-13T18:35:45Z
-xmpMM:DocumentID: uuid:9e2df6e0-b456-4cb5-b2e6-6e8251410b9f
-xmpTPg:NPages: 9
-access_permission:extract_content: true
-pdf:docinfo:title: 
-dc:format: application/pdf; version=1.6
-pdf:docinfo:producer: iTextSharp 4.1.6 by 1T3XT
-modified: 2014-11-13T18:35:45Z
-producer: iTextSharp 4.1.6 by 1T3XT
-access_permission:fill_in_form: true
 pdf:docinfo:created: 2014-11-13T18:35:45Z
-pdf:PDFVersion: 1.6
-Last-Modified: 2014-11-13T18:35:45Z
 access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
+pdf:docinfo:producer: iTextSharp 4.1.6 by 1T3XT
+dc:format: application/pdf; version=1.6
+access_permission:can_print_degraded: true
+Creation-Date: 2014-11-13T18:35:45Z
+pdf:docinfo:modified: 2014-11-13T18:35:45Z
+access_permission:assemble_document: true
+Last-Save-Date: 2014-11-13T18:35:45Z
+X-TIKA:parse_time_millis: 154
+date: 2014-11-13T18:35:45Z
+pdf:docinfo:title: 
+created: Thu Nov 13 10:35:45 PST 2014
+modified: 2014-11-13T18:35:45Z
+meta:creation-date: 2014-11-13T18:35:45Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.6
+xmpTPg:NPages: 9
+dcterms:modified: 2014-11-13T18:35:45Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

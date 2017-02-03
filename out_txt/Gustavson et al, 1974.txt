@@ -1,35 +1,35 @@
-data\Gustavson et al, 1974.pdfdcterms:modified: 2015-04-20T15:29:43Z
-access_permission:can_modify: true
-access_permission:assemble_document: true
-access_permission:can_print_degraded: true
-created: Mon Apr 20 08:29:43 PDT 2015
+data\Gustavson et al, 1974.pdfaccess_permission:can_modify: true
+access_permission:extract_content: true
+xmpMM:DocumentID: uuid:3c720e53-1dd2-11b2-0a00-000008a7cfff
+producer: Adobe PDF Library 9.1
 meta:save-date: 2015-04-20T15:29:43Z
+Last-Modified: 2015-04-20T15:29:43Z
+dcterms:created: 2015-04-20T15:29:43Z
 access_permission:can_print: true
-pdf:docinfo:modified: 2015-04-20T15:29:43Z
-pdf:encrypted: false
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2015-04-20T15:29:43Z
-access_permission:modify_annotations: true
-Content-Type: application/pdf
-dcterms:created: 2015-04-20T15:29:43Z
-Creation-Date: 2015-04-20T15:29:43Z
-X-TIKA:parse_time_millis: 38
-meta:creation-date: 2015-04-20T15:29:43Z
-date: 2015-04-20T15:29:43Z
-xmpMM:DocumentID: uuid:3c720e53-1dd2-11b2-0a00-000008a7cfff
-xmpTPg:NPages: 3
-access_permission:extract_content: true
-dc:format: application/pdf; version=1.4
-pdf:docinfo:producer: Adobe PDF Library 9.1
-modified: 2015-04-20T15:29:43Z
-producer: Adobe PDF Library 9.1
-access_permission:fill_in_form: true
 pdf:docinfo:created: 2015-04-20T15:29:43Z
-pdf:PDFVersion: 1.4
-Last-Modified: 2015-04-20T15:29:43Z
 access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
+pdf:docinfo:producer: Adobe PDF Library 9.1
+dc:format: application/pdf; version=1.4
+access_permission:can_print_degraded: true
+Creation-Date: 2015-04-20T15:29:43Z
+pdf:docinfo:modified: 2015-04-20T15:29:43Z
+access_permission:assemble_document: true
+Last-Save-Date: 2015-04-20T15:29:43Z
+X-TIKA:parse_time_millis: 60
+date: 2015-04-20T15:29:43Z
+created: Mon Apr 20 08:29:43 PDT 2015
+modified: 2015-04-20T15:29:43Z
+meta:creation-date: 2015-04-20T15:29:43Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.4
+xmpTPg:NPages: 3
+dcterms:modified: 2015-04-20T15:29:43Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

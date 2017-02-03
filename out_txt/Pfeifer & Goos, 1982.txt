@@ -1,48 +1,48 @@
 data\Pfeifer & Goos, 1982.pdfaccess_permission:can_modify: true
-title: GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
+access_permission:extract_content: true
+producer: SPDF
+Author: William K. Pfeifer and Michael W. Goos
 dc:title: GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
-X-TIKA:parse_time_millis: 44
-access_permission:assemble_document: true
-dc:creator: William K. Pfeifer and Michael W. Goos
-pdf:docinfo:custom:Appligent: APSetDocInfo 2.2.2 Jan 16 2008
-access_permission:can_print_degraded: true
-created: Wed Nov 06 11:04:56 PST 2013
 meta:save-date: 2013-11-06T19:04:56Z
-pdf:PDFVersion: 1.6
-access_permission:fill_in_form: true
-pdf:docinfo:modified: 2013-11-06T19:04:56Z
-pdf:encrypted: false
+Last-Modified: 2013-11-06T19:04:56Z
+xmp:CreatorTool: Appligent APSetDocInfo 2.2.2
+dcterms:created: 2013-11-06T19:04:56Z
+access_permission:can_print: true
+meta:author: William K. Pfeifer and Michael W. Goos
+pdf:docinfo:custom:Appligent: APSetDocInfo 2.2.2 Jan 16 2008
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2013-11-06T19:04:56Z
-SPDF: 1122.1
-dcterms:modified: 2013-11-06T19:04:56Z
-pdf:docinfo:creator_tool: Appligent APSetDocInfo 2.2.2
-Appligent: APSetDocInfo 2.2.2 Jan 16 2008
-meta:author: William K. Pfeifer and Michael W. Goos
-Author: William K. Pfeifer and Michael W. Goos
-access_permission:extract_for_accessibility: true
-Creation-Date: 2013-11-06T19:04:56Z
 pdf:docinfo:creator: William K. Pfeifer and Michael W. Goos
-meta:creation-date: 2013-11-06T19:04:56Z
-xmpTPg:NPages: 8
-access_permission:extract_content: true
-access_permission:modify_annotations: true
-pdf:docinfo:custom:SPDF: 1122.1
-pdf:docinfo:title: GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
-access_permission:can_print: true
-date: 2013-11-06T19:04:56Z
-dc:format: application/pdf; version=1.6
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
 pdf:docinfo:producer: SPDF
-modified: 2013-11-06T19:04:56Z
-producer: SPDF
-Last-Modified: 2013-11-06T19:04:56Z
-pdf:docinfo:created: 2013-11-06T19:04:56Z
 creator: William K. Pfeifer and Michael W. Goos
-xmp:CreatorTool: Appligent APSetDocInfo 2.2.2
+pdf:docinfo:custom:SPDF: 1122.1
+dc:format: application/pdf; version=1.6
+access_permission:can_print_degraded: true
+Creation-Date: 2013-11-06T19:04:56Z
+pdf:docinfo:creator_tool: Appligent APSetDocInfo 2.2.2
+SPDF: 1122.1
+pdf:docinfo:modified: 2013-11-06T19:04:56Z
+access_permission:assemble_document: true
+pdf:docinfo:created: 2013-11-06T19:04:56Z
+Last-Save-Date: 2013-11-06T19:04:56Z
+X-TIKA:parse_time_millis: 57
+date: 2013-11-06T19:04:56Z
+Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+pdf:docinfo:title: GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
+created: Wed Nov 06 11:04:56 PST 2013
+dc:creator: William K. Pfeifer and Michael W. Goos
+modified: 2013-11-06T19:04:56Z
+meta:creation-date: 2013-11-06T19:04:56Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.6
+xmpTPg:NPages: 8
+title: GUARD DOGS AND GAS EXPLODERS AS COYOTE DEPREDATION CONTROL TOOLS IN NORTH DAKOTA
+dcterms:modified: 2013-11-06T19:04:56Z
 Content-Type: application/pdf
-dcterms:created: 2013-11-06T19:04:56Z
 !PDF_CONTENT!
 --------------------------------
 

@@ -1,45 +1,45 @@
 data\Davidson-Nelson & Gehring, 2010.pdfaccess_permission:can_modify: true
-title: HWC_4.1.indb
-access_permission:assemble_document: true
-X-TIKA:parse_time_millis: 51
-dc:creator: philipparisi
-access_permission:can_print_degraded: true
-created: Wed Mar 24 15:25:42 PDT 2010
+access_permission:extract_content: true
+xmpMM:DocumentID: uuid:7a2e563e-714a-42b3-9469-ee3c163dce2d
+producer: Acrobat Distiller 8.2.0 (Macintosh)
+Author: philipparisi
+dc:title: HWC_4.1.indb
 meta:save-date: 2010-03-24T22:26:15Z
-creator: philipparisi
-access_permission:fill_in_form: true
-dcterms:modified: 2010-03-24T22:26:15Z
-pdf:encrypted: false
+Last-Modified: 2010-03-24T22:26:15Z
+xmp:CreatorTool: Adobe InDesign CS3 (5.0.4)
+dcterms:created: 2010-03-24T22:25:42Z
+access_permission:can_print: true
+meta:author: philipparisi
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2010-03-24T22:26:15Z
-access_permission:modify_annotations: true
-pdf:docinfo:creator_tool: Adobe InDesign CS3 (5.0.4)
-meta:author: philipparisi
-Content-Type: application/pdf
-access_permission:extract_for_accessibility: true
-Creation-Date: 2010-03-24T22:25:42Z
 pdf:docinfo:creator: philipparisi
-meta:creation-date: 2010-03-24T22:25:42Z
-date: 2010-03-24T22:26:15Z
-xmpMM:DocumentID: uuid:7a2e563e-714a-42b3-9469-ee3c163dce2d
-xmpTPg:NPages: 8
-access_permission:extract_content: true
-pdf:docinfo:title: HWC_4.1.indb
-access_permission:can_print: true
-dc:title: HWC_4.1.indb
-dc:format: application/pdf; version=1.6
-Author: philipparisi
-modified: 2010-03-24T22:26:15Z
-producer: Acrobat Distiller 8.2.0 (Macintosh)
-Last-Modified: 2010-03-24T22:26:15Z
-xmp:CreatorTool: Adobe InDesign CS3 (5.0.4)
-pdf:docinfo:created: 2010-03-24T22:25:42Z
-pdf:PDFVersion: 1.6
-pdf:docinfo:modified: 2010-03-24T22:26:15Z
-dcterms:created: 2010-03-24T22:25:42Z
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
 pdf:docinfo:producer: Acrobat Distiller 8.2.0 (Macintosh)
+creator: philipparisi
+dc:format: application/pdf; version=1.6
+access_permission:can_print_degraded: true
+Creation-Date: 2010-03-24T22:25:42Z
+pdf:docinfo:creator_tool: Adobe InDesign CS3 (5.0.4)
+pdf:docinfo:modified: 2010-03-24T22:26:15Z
+access_permission:assemble_document: true
+pdf:docinfo:created: 2010-03-24T22:25:42Z
+Last-Save-Date: 2010-03-24T22:26:15Z
+X-TIKA:parse_time_millis: 121
+date: 2010-03-24T22:26:15Z
+pdf:docinfo:title: HWC_4.1.indb
+created: Wed Mar 24 15:25:42 PDT 2010
+dc:creator: philipparisi
+modified: 2010-03-24T22:26:15Z
+meta:creation-date: 2010-03-24T22:25:42Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.6
+xmpTPg:NPages: 8
+title: HWC_4.1.indb
+dcterms:modified: 2010-03-24T22:26:15Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

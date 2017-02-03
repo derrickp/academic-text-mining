@@ -1,45 +1,45 @@
-data\Shivik, Wilson, & Gilbert-Norton, 2011.pdfCreation-Date: 2011-12-22T05:10:03Z
-title: Will an artificial scent boundary prevent coyote intrusion?
-pdf:docinfo:custom:WPS-ARTICLEDOI: 10.1002/wsb.68
-access_permission:assemble_document: true
-WPS-PROCLEVEL: 2
-access_permission:can_print_degraded: true
-created: Wed Dec 21 21:10:03 PST 2011
+data\Shivik, Wilson, & Gilbert-Norton, 2011.pdfaccess_permission:can_modify: true
+access_permission:extract_content: true
+producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0 (Windows)
+dc:title: Will an artificial scent boundary prevent coyote intrusion?
 meta:save-date: 2011-12-22T11:00:33Z
+Last-Modified: 2011-12-22T11:00:33Z
+xmp:CreatorTool: 3B2 Total Publishing System 8.06a/W
 dcterms:created: 2011-12-22T05:10:03Z
-access_permission:fill_in_form: true
-dcterms:modified: 2011-12-22T11:00:33Z
-pdf:encrypted: false
+access_permission:can_print: true
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2011-12-22T11:00:33Z
-WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
-access_permission:modify_annotations: true
-access_permission:can_modify: true
-pdf:docinfo:creator_tool: 3B2 Total Publishing System 8.06a/W
-access_permission:extract_for_accessibility: true
-WPS-ARTICLEDOI: 10.1002/wsb.68
-X-TIKA:parse_time_millis: 36
-pdf:docinfo:custom:WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
-meta:creation-date: 2011-12-22T05:10:03Z
-date: 2011-12-22T11:00:33Z
-access_permission:extract_content: true
-xmpTPg:NPages: 4
-pdf:docinfo:title: Will an artificial scent boundary prevent coyote intrusion?
-access_permission:can_print: true
-dc:title: Will an artificial scent boundary prevent coyote intrusion?
-dc:format: application/pdf; version=1.3
-Content-Type: application/pdf
-modified: 2011-12-22T11:00:33Z
-producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0 (Windows)
-Last-Modified: 2011-12-22T11:00:33Z
-pdf:docinfo:modified: 2011-12-22T11:00:33Z
-pdf:docinfo:created: 2011-12-22T05:10:03Z
-pdf:PDFVersion: 1.3
-xmp:CreatorTool: 3B2 Total Publishing System 8.06a/W
 pdf:docinfo:custom:WPS-PROCLEVEL: 2
+pdf:docinfo:created: 2011-12-22T05:10:03Z
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
 pdf:docinfo:producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0 (Windows)
+dc:format: application/pdf; version=1.3
+access_permission:can_print_degraded: true
+Creation-Date: 2011-12-22T05:10:03Z
+pdf:docinfo:creator_tool: 3B2 Total Publishing System 8.06a/W
+pdf:docinfo:modified: 2011-12-22T11:00:33Z
+access_permission:assemble_document: true
+WPS-PROCLEVEL: 2
+WPS-ARTICLEDOI: 10.1002/wsb.68
+pdf:docinfo:custom:WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
+Last-Save-Date: 2011-12-22T11:00:33Z
+X-TIKA:parse_time_millis: 42
+date: 2011-12-22T11:00:33Z
+pdf:docinfo:custom:WPS-ARTICLEDOI: 10.1002/wsb.68
+pdf:docinfo:title: Will an artificial scent boundary prevent coyote intrusion?
+created: Wed Dec 21 21:10:03 PST 2011
+WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
+title: Will an artificial scent boundary prevent coyote intrusion?
+modified: 2011-12-22T11:00:33Z
+meta:creation-date: 2011-12-22T05:10:03Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.3
+xmpTPg:NPages: 4
+dcterms:modified: 2011-12-22T11:00:33Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

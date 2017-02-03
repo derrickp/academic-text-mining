@@ -1,39 +1,39 @@
-data\Bromley & Gese, 2001.pdfdcterms:modified: 2017-01-09T18:14:55Z
-access_permission:can_modify: true
-title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
-dc:title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
-pdf:docinfo:custom:Source: SEQ
-access_permission:can_print_degraded: true
-created: Mon Jan 09 10:14:55 PST 2017
-meta:save-date: 2017-01-09T18:14:55Z
-access_permission:can_print: true
-pdf:docinfo:modified: 2017-01-09T18:14:55Z
-pdf:encrypted: false
-access_permission:assemble_document: true
-Last-Save-Date: 2017-01-09T18:14:55Z
-access_permission:modify_annotations: true
-Content-Type: application/pdf
-dcterms:created: 2017-01-09T18:14:55Z
-Creation-Date: 2017-01-09T18:14:55Z
-X-TIKA:parse_time_millis: 99
-meta:creation-date: 2017-01-09T18:14:55Z
-date: 2017-01-09T18:14:55Z
+data\Bromley & Gese, 2001.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
-Source: SEQ
-xmpTPg:NPages: 11
-pdf:docinfo:title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
-dc:format: application/pdf; version=1.4
-pdf:docinfo:producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
-modified: 2017-01-09T18:14:55Z
 producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
-access_permission:fill_in_form: true
-pdf:docinfo:created: 2017-01-09T18:14:55Z
+dc:title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
+meta:save-date: 2017-01-09T18:14:55Z
+Last-Modified: 2017-01-09T18:14:55Z
+dcterms:created: 2017-01-09T18:14:55Z
+access_permission:can_print: true
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-pdf:PDFVersion: 1.4
-Last-Modified: 2017-01-09T18:14:55Z
+pdf:docinfo:created: 2017-01-09T18:14:55Z
 access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
+pdf:docinfo:producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
+dc:format: application/pdf; version=1.4
+access_permission:can_print_degraded: true
+Creation-Date: 2017-01-09T18:14:55Z
+pdf:docinfo:modified: 2017-01-09T18:14:55Z
+access_permission:assemble_document: true
+Last-Save-Date: 2017-01-09T18:14:55Z
+X-TIKA:parse_time_millis: 399
+date: 2017-01-09T18:14:55Z
+pdf:docinfo:custom:Source: SEQ
+pdf:docinfo:title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
+created: Mon Jan 09 10:14:55 PST 2017
+Source: SEQ
+title: Surgical Sterilization as a Method of Reducing Coyote Predation on Domestic Sheep
+modified: 2017-01-09T18:14:55Z
+meta:creation-date: 2017-01-09T18:14:55Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.4
+xmpTPg:NPages: 11
+dcterms:modified: 2017-01-09T18:14:55Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

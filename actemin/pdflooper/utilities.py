@@ -6,6 +6,7 @@ and writes the contents of the pdf to disk at location. If it can be parsed corr
 
 from os import walk, path
 from tika import parser
+import codecs
 
 def get_pdf_filenames(folder_path):
     """ Returns array of pdf file names that are in specified path """
@@ -27,7 +28,7 @@ def write_text_file(pdf_file_path, out_path, server_endpoint="http://localhost:9
 
     if parsed["content"] != None:
         success = True
-        with open(text_file_path, "w", encoding='utf-8') as text_file:
+        with codecs.open(text_file_path, "w", encoding='utf-8') as text_file:
             text_file.write(pdf_file_path)
             write_dictionary_to_file(text_file, parsed["metadata"])
             write_content_to_file(text_file, parsed["content"])

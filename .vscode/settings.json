@@ -12,6 +12,7 @@
         "tcl": true,
         "**/__pycache__": true,
         "Lib": true,
-        "Include": true
+        "Include": true,
+        "**/*.pyc": true
     }
 }

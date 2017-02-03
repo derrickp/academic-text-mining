@@ -1,45 +1,45 @@
 data\Beckmann, Lackey, Berger, 2002.pdfaccess_permission:can_modify: true
-title: 1 May 2002
-access_permission:assemble_document: true
-X-TIKA:parse_time_millis: 66
-dc:creator: jbeckmann
-access_permission:can_print_degraded: true
-created: Fri Jul 22 07:40:47 PDT 2011
+access_permission:extract_content: true
+xmpMM:DocumentID: uuid:c97dd48f-f09d-458f-968f-628d1c4a8370
+producer: Microsoft® Office Word 2007
+Author: jbeckmann
+dc:title: 1 May 2002
 meta:save-date: 2013-05-30T22:02:25Z
-creator: jbeckmann
-access_permission:fill_in_form: true
-dcterms:modified: 2013-05-30T22:02:25Z
-pdf:encrypted: false
+Last-Modified: 2013-05-30T22:02:25Z
+xmp:CreatorTool: Microsoft® Office Word 2007
+dcterms:created: 2011-07-22T14:40:47Z
+access_permission:can_print: true
+meta:author: jbeckmann
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2013-05-30T22:02:25Z
-access_permission:modify_annotations: true
-pdf:docinfo:creator_tool: Microsoft® Office Word 2007
-meta:author: jbeckmann
-Content-Type: application/pdf
-access_permission:extract_for_accessibility: true
-Creation-Date: 2011-07-22T14:40:47Z
 pdf:docinfo:creator: jbeckmann
-meta:creation-date: 2011-07-22T14:40:47Z
-date: 2013-05-30T22:02:25Z
-xmpMM:DocumentID: uuid:c97dd48f-f09d-458f-968f-628d1c4a8370
-xmpTPg:NPages: 16
-access_permission:extract_content: true
-pdf:docinfo:title: 1 May 2002
-access_permission:can_print: true
-dc:title: 1 May 2002
-dc:format: application/pdf; version=1.5
-Author: jbeckmann
-modified: 2013-05-30T22:02:25Z
-producer: Microsoft® Office Word 2007
-Last-Modified: 2013-05-30T22:02:25Z
-xmp:CreatorTool: Microsoft® Office Word 2007
-pdf:docinfo:created: 2011-07-22T14:40:47Z
-pdf:PDFVersion: 1.5
-pdf:docinfo:modified: 2013-05-30T22:02:25Z
-dcterms:created: 2011-07-22T14:40:47Z
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
 pdf:docinfo:producer: Microsoft® Office Word 2007
+creator: jbeckmann
+dc:format: application/pdf; version=1.5
+access_permission:can_print_degraded: true
+Creation-Date: 2011-07-22T14:40:47Z
+pdf:docinfo:creator_tool: Microsoft® Office Word 2007
+pdf:docinfo:modified: 2013-05-30T22:02:25Z
+access_permission:assemble_document: true
+pdf:docinfo:created: 2011-07-22T14:40:47Z
+Last-Save-Date: 2013-05-30T22:02:25Z
+X-TIKA:parse_time_millis: 229
+date: 2013-05-30T22:02:25Z
+pdf:docinfo:title: 1 May 2002
+created: Fri Jul 22 07:40:47 PDT 2011
+dc:creator: jbeckmann
+modified: 2013-05-30T22:02:25Z
+meta:creation-date: 2011-07-22T14:40:47Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.5
+xmpTPg:NPages: 16
+title: 1 May 2002
+dcterms:modified: 2013-05-30T22:02:25Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

@@ -1,49 +1,49 @@
-data\Ausband, Mitchell, Bassing, & White, 2013.pdfdc:title: þÿ
-dc:creator: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
-access_permission:can_print_degraded: true
-access_permission:fill_in_form: true
-cp:subject: WR12176 207..216
-pdf:encrypted: false
-dcterms:modified: 2013-05-21T07:19:00Z
-pdf:docinfo:creator_tool: þÿ
-Creation-Date: 2016-06-22T21:14:40Z
-X-TIKA:parse_time_millis: 124
-pdf:docinfo:modified: 2013-05-21T07:19:00Z
-meta:creation-date: 2016-06-22T21:14:40Z
-xmpTPg:NPages: 11
-pdf:docinfo:title: þÿ
-pdf:docinfo:producer: Qt 5.3.0
-rgid: PB:286928861_AS:306991036076037@1450203774771
+data\Ausband, Mitchell, Bassing, & White, 2013.pdfaccess_permission:can_modify: true
+access_permission:extract_content: true
 producer: Qt 5.3.0
+Author: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
+dc:title: þÿ
+cp:subject: WR12176 207..216
+meta:save-date: 2013-05-21T07:19:00Z
 Last-Modified: 2013-05-21T07:19:00Z
+xmp:CreatorTool: þÿ
+dcterms:created: 2016-06-22T21:14:40Z
+access_permission:can_print: true
+pdf:docinfo:subject: WR12176 207..216
+meta:author: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-xmp:CreatorTool: þÿ
-Content-Type: application/pdf
-access_permission:extract_content: true
-access_permission:can_modify: true
-title: þÿ
-subject: WR12176 207..216
 pdf:docinfo:creator: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
-pdf:docinfo:created: 2016-06-22T21:14:40Z
-creator: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
-dcterms:created: 2016-06-22T21:14:40Z
-access_permission:assemble_document: true
-Last-Save-Date: 2013-05-21T07:19:00Z
-access_permission:modify_annotations: true
-meta:author: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
-Author: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
 access_permission:extract_for_accessibility: true
-meta:save-date: 2013-05-21T07:19:00Z
-access_permission:can_print: true
-date: 2013-05-21T07:19:00Z
-pdf:docinfo:subject: WR12176 207..216
+access_permission:fill_in_form: true
+pdf:encrypted: false
+pdf:docinfo:producer: Qt 5.3.0
+creator: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
 dc:format: application/pdf; version=1.4
-modified: 2013-05-21T07:19:00Z
-pdf:PDFVersion: 1.4
-created: Wed Jun 22 14:14:40 PDT 2016
+access_permission:can_print_degraded: true
+Creation-Date: 2016-06-22T21:14:40Z
+subject: WR12176 207..216
 pdf:docinfo:custom:rgid: PB:286928861_AS:306991036076037@1450203774771
+pdf:docinfo:creator_tool: þÿ
+pdf:docinfo:modified: 2013-05-21T07:19:00Z
+access_permission:assemble_document: true
+rgid: PB:286928861_AS:306991036076037@1450203774771
+pdf:docinfo:created: 2016-06-22T21:14:40Z
+Last-Save-Date: 2013-05-21T07:19:00Z
+X-TIKA:parse_time_millis: 477
+date: 2013-05-21T07:19:00Z
+pdf:docinfo:title: þÿ
+created: Wed Jun 22 14:14:40 PDT 2016
+dc:creator: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
+modified: 2013-05-21T07:19:00Z
+meta:creation-date: 2016-06-22T21:14:40Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.4
+xmpTPg:NPages: 11
+title: þÿ
+dcterms:modified: 2013-05-21T07:19:00Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

@@ -1,48 +1,48 @@
 data\Zemlicka & Mason, 2000.pdfaccess_permission:can_modify: true
-title: Response of Captive Coyotes to Renardine Coyote Repellent
+access_permission:extract_content: true
+producer: SPDF
+Author: D. E. Zemlicka and J. R. Mason
 dc:title: Response of Captive Coyotes to Renardine Coyote Repellent
-X-TIKA:parse_time_millis: 29
-access_permission:assemble_document: true
-dc:creator: D. E. Zemlicka and J. R. Mason
-pdf:docinfo:custom:Appligent: APSetDocInfo 2.2.2 Jan 16 2008
-access_permission:can_print_degraded: true
-created: Tue Nov 05 06:44:14 PST 2013
 meta:save-date: 2013-11-05T14:44:14Z
-pdf:PDFVersion: 1.6
-access_permission:fill_in_form: true
-pdf:docinfo:modified: 2013-11-05T14:44:14Z
-pdf:encrypted: false
+Last-Modified: 2013-11-05T14:44:14Z
+xmp:CreatorTool: Appligent APSetDocInfo 2.2.2
+dcterms:created: 2013-11-05T14:44:14Z
+access_permission:can_print: true
+meta:author: D. E. Zemlicka and J. R. Mason
+pdf:docinfo:custom:Appligent: APSetDocInfo 2.2.2 Jan 16 2008
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2013-11-05T14:44:14Z
-SPDF: 1122.1
-dcterms:modified: 2013-11-05T14:44:14Z
-pdf:docinfo:creator_tool: Appligent APSetDocInfo 2.2.2
-Appligent: APSetDocInfo 2.2.2 Jan 16 2008
-meta:author: D. E. Zemlicka and J. R. Mason
-Author: D. E. Zemlicka and J. R. Mason
-access_permission:extract_for_accessibility: true
-Creation-Date: 2013-11-05T14:44:14Z
 pdf:docinfo:creator: D. E. Zemlicka and J. R. Mason
-meta:creation-date: 2013-11-05T14:44:14Z
-xmpTPg:NPages: 4
-access_permission:extract_content: true
-access_permission:modify_annotations: true
-pdf:docinfo:custom:SPDF: 1122.1
-pdf:docinfo:title: Response of Captive Coyotes to Renardine Coyote Repellent
-access_permission:can_print: true
-date: 2013-11-05T14:44:14Z
-dc:format: application/pdf; version=1.6
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
 pdf:docinfo:producer: SPDF
-modified: 2013-11-05T14:44:14Z
-producer: SPDF
-Last-Modified: 2013-11-05T14:44:14Z
-pdf:docinfo:created: 2013-11-05T14:44:14Z
 creator: D. E. Zemlicka and J. R. Mason
-xmp:CreatorTool: Appligent APSetDocInfo 2.2.2
+pdf:docinfo:custom:SPDF: 1122.1
+dc:format: application/pdf; version=1.6
+access_permission:can_print_degraded: true
+Creation-Date: 2013-11-05T14:44:14Z
+pdf:docinfo:creator_tool: Appligent APSetDocInfo 2.2.2
+SPDF: 1122.1
+pdf:docinfo:modified: 2013-11-05T14:44:14Z
+access_permission:assemble_document: true
+pdf:docinfo:created: 2013-11-05T14:44:14Z
+Last-Save-Date: 2013-11-05T14:44:14Z
+X-TIKA:parse_time_millis: 29
+date: 2013-11-05T14:44:14Z
+Appligent: APSetDocInfo 2.2.2 Jan 16 2008
+pdf:docinfo:title: Response of Captive Coyotes to Renardine Coyote Repellent
+created: Tue Nov 05 06:44:14 PST 2013
+dc:creator: D. E. Zemlicka and J. R. Mason
+modified: 2013-11-05T14:44:14Z
+meta:creation-date: 2013-11-05T14:44:14Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.6
+xmpTPg:NPages: 4
+title: Response of Captive Coyotes to Renardine Coyote Repellent
+dcterms:modified: 2013-11-05T14:44:14Z
 Content-Type: application/pdf
-dcterms:created: 2013-11-05T14:44:14Z
 !PDF_CONTENT!
 --------------------------------
 

@@ -1,40 +1,40 @@
 data\Hawley et al 2009.pdfaccess_permission:can_modify: true
-title: wild-73-04-19 518..525
-dc:title: wild-73-04-19 518..525
-access_permission:can_print_degraded: true
-created: Tue Apr 21 00:11:53 PDT 2009
-meta:save-date: 2009-04-21T07:51:37Z
-pdf:PDFVersion: 1.3
-access_permission:can_print: true
-pdf:docinfo:modified: 2009-04-21T07:51:37Z
-pdf:encrypted: false
-access_permission:assemble_document: true
-Last-Save-Date: 2009-04-21T07:51:37Z
-dcterms:modified: 2009-04-21T07:51:37Z
-pdf:docinfo:creator_tool: 3B2 Total Publishing System 8.07c/W
-Content-Type: application/pdf
-dcterms:created: 2009-04-21T07:11:53Z
-Creation-Date: 2009-04-21T07:11:53Z
-X-TIKA:parse_time_millis: 67
-meta:creation-date: 2009-04-21T07:11:53Z
-date: 2009-04-21T07:51:37Z
-xmpMM:DocumentID: uuid:5b54d0f7-945e-4571-b168-2d532131968a
-access_permission:modify_annotations: true
-xmpTPg:NPages: 8
 access_permission:extract_content: true
-pdf:docinfo:title: wild-73-04-19 518..525
-dc:format: application/pdf; version=1.3
-pdf:docinfo:producer: Acrobat Distiller 7.0.5 (Windows)
-modified: 2009-04-21T07:51:37Z
+xmpMM:DocumentID: uuid:5b54d0f7-945e-4571-b168-2d532131968a
 producer: Acrobat Distiller 7.0.5 (Windows)
-access_permission:fill_in_form: true
-pdf:docinfo:created: 2009-04-21T07:11:53Z
+dc:title: wild-73-04-19 518..525
+meta:save-date: 2009-04-21T07:51:37Z
+Last-Modified: 2009-04-21T07:51:37Z
+xmp:CreatorTool: 3B2 Total Publishing System 8.07c/W
+dcterms:created: 2009-04-21T07:11:53Z
+access_permission:can_print: true
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-xmp:CreatorTool: 3B2 Total Publishing System 8.07c/W
+pdf:docinfo:created: 2009-04-21T07:11:53Z
 access_permission:extract_for_accessibility: true
-Last-Modified: 2009-04-21T07:51:37Z
+access_permission:fill_in_form: true
+pdf:encrypted: false
+pdf:docinfo:producer: Acrobat Distiller 7.0.5 (Windows)
+dc:format: application/pdf; version=1.3
+access_permission:can_print_degraded: true
+Creation-Date: 2009-04-21T07:11:53Z
+pdf:docinfo:creator_tool: 3B2 Total Publishing System 8.07c/W
+pdf:docinfo:modified: 2009-04-21T07:51:37Z
+access_permission:assemble_document: true
+Last-Save-Date: 2009-04-21T07:51:37Z
+X-TIKA:parse_time_millis: 85
+date: 2009-04-21T07:51:37Z
+pdf:docinfo:title: wild-73-04-19 518..525
+created: Tue Apr 21 00:11:53 PDT 2009
+title: wild-73-04-19 518..525
+modified: 2009-04-21T07:51:37Z
+meta:creation-date: 2009-04-21T07:11:53Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.3
+xmpTPg:NPages: 8
+dcterms:modified: 2009-04-21T07:51:37Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

@@ -1,44 +1,44 @@
 data\Mason, 2001.pdfaccess_permission:can_modify: true
-title: C:\My Documents\Kerris Documents\Web Pages\TEXNAT\To Dale\u-Mason.wpd
-access_permission:assemble_document: true
-X-TIKA:parse_time_millis: 65
-dc:creator: kjmichalewicz
-access_permission:can_print_degraded: true
-created: Thu Apr 18 07:06:47 PDT 2002
+access_permission:extract_content: true
+producer: Acrobat Distiller 5.0.5 (Windows)
+Author: kjmichalewicz
+dc:title: C:\My Documents\Kerris Documents\Web Pages\TEXNAT\To Dale\u-Mason.wpd
 meta:save-date: 2002-04-18T14:06:47Z
-creator: kjmichalewicz
-access_permission:fill_in_form: true
-dcterms:modified: 2002-04-18T14:06:47Z
-pdf:encrypted: false
+Last-Modified: 2002-04-18T14:06:47Z
+xmp:CreatorTool: ADOBEPS4.DRV Version 4.50
+dcterms:created: 2002-04-18T14:06:47Z
+access_permission:can_print: true
+meta:author: kjmichalewicz
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2002-04-18T14:06:47Z
-access_permission:modify_annotations: true
-pdf:docinfo:creator_tool: ADOBEPS4.DRV Version 4.50
-meta:author: kjmichalewicz
-Content-Type: application/pdf
-access_permission:extract_for_accessibility: true
-Creation-Date: 2002-04-18T14:06:47Z
 pdf:docinfo:creator: kjmichalewicz
-meta:creation-date: 2002-04-18T14:06:47Z
-date: 2002-04-18T14:06:47Z
-xmp:CreatorTool: ADOBEPS4.DRV Version 4.50
-xmpTPg:NPages: 14
-access_permission:extract_content: true
-pdf:docinfo:title: C:\My Documents\Kerris Documents\Web Pages\TEXNAT\To Dale\u-Mason.wpd
-access_permission:can_print: true
-dc:title: C:\My Documents\Kerris Documents\Web Pages\TEXNAT\To Dale\u-Mason.wpd
-dc:format: application/pdf; version=1.3
-Author: kjmichalewicz
-modified: 2002-04-18T14:06:47Z
-producer: Acrobat Distiller 5.0.5 (Windows)
-Last-Modified: 2002-04-18T14:06:47Z
-pdf:docinfo:created: 2002-04-18T14:06:47Z
-pdf:PDFVersion: 1.3
-pdf:docinfo:modified: 2002-04-18T14:06:47Z
-dcterms:created: 2002-04-18T14:06:47Z
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
 pdf:docinfo:producer: Acrobat Distiller 5.0.5 (Windows)
+creator: kjmichalewicz
+dc:format: application/pdf; version=1.3
+access_permission:can_print_degraded: true
+Creation-Date: 2002-04-18T14:06:47Z
+pdf:docinfo:creator_tool: ADOBEPS4.DRV Version 4.50
+pdf:docinfo:modified: 2002-04-18T14:06:47Z
+access_permission:assemble_document: true
+pdf:docinfo:created: 2002-04-18T14:06:47Z
+Last-Save-Date: 2002-04-18T14:06:47Z
+X-TIKA:parse_time_millis: 69
+date: 2002-04-18T14:06:47Z
+pdf:docinfo:title: C:\My Documents\Kerris Documents\Web Pages\TEXNAT\To Dale\u-Mason.wpd
+created: Thu Apr 18 07:06:47 PDT 2002
+dc:creator: kjmichalewicz
+modified: 2002-04-18T14:06:47Z
+meta:creation-date: 2002-04-18T14:06:47Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.3
+xmpTPg:NPages: 14
+title: C:\My Documents\Kerris Documents\Web Pages\TEXNAT\To Dale\u-Mason.wpd
+dcterms:modified: 2002-04-18T14:06:47Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

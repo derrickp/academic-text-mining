@@ -1,45 +1,45 @@
 data\Shivik, 2006.pdfaccess_permission:can_modify: true
-title: BISI5603_253-259
-access_permission:assemble_document: true
-X-TIKA:parse_time_millis: 110
-dc:creator: Prepress09
-access_permission:can_print_degraded: true
-created: Tue Feb 28 06:41:57 PST 2006
+access_permission:extract_content: true
+xmpMM:DocumentID: uuid:6bf6d59c-a868-11da-ac1f-000a95787900
+producer: Acrobat Distiller 7.0.5 for Macintosh
+Author: Prepress09
+dc:title: BISI5603_253-259
 meta:save-date: 2013-09-07T05:43:14Z
-creator: Prepress09
-access_permission:fill_in_form: true
-dcterms:modified: 2013-09-07T05:43:14Z
-pdf:encrypted: false
+Last-Modified: 2013-09-07T05:43:14Z
+xmp:CreatorTool: QuarkXPress: pictwpstops filter 1.0
+dcterms:created: 2006-02-28T14:41:57Z
+access_permission:can_print: true
+meta:author: Prepress09
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2013-09-07T05:43:14Z
-access_permission:modify_annotations: true
-pdf:docinfo:creator_tool: QuarkXPress: pictwpstops filter 1.0
-meta:author: Prepress09
-Content-Type: application/pdf
-access_permission:extract_for_accessibility: true
-Creation-Date: 2006-02-28T14:41:57Z
 pdf:docinfo:creator: Prepress09
-meta:creation-date: 2006-02-28T14:41:57Z
-date: 2013-09-07T05:43:14Z
-xmpMM:DocumentID: uuid:6bf6d59c-a868-11da-ac1f-000a95787900
-xmpTPg:NPages: 7
-access_permission:extract_content: true
-pdf:docinfo:title: BISI5603_253-259
-access_permission:can_print: true
-dc:title: BISI5603_253-259
-dc:format: application/pdf; version=1.4
-Author: Prepress09
-modified: 2013-09-07T05:43:14Z
-producer: Acrobat Distiller 7.0.5 for Macintosh
-Last-Modified: 2013-09-07T05:43:14Z
-xmp:CreatorTool: QuarkXPress: pictwpstops filter 1.0
-pdf:docinfo:created: 2006-02-28T14:41:57Z
-pdf:PDFVersion: 1.4
-pdf:docinfo:modified: 2013-09-07T05:43:14Z
-dcterms:created: 2006-02-28T14:41:57Z
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
 pdf:docinfo:producer: Acrobat Distiller 7.0.5 for Macintosh
+creator: Prepress09
+dc:format: application/pdf; version=1.4
+access_permission:can_print_degraded: true
+Creation-Date: 2006-02-28T14:41:57Z
+pdf:docinfo:creator_tool: QuarkXPress: pictwpstops filter 1.0
+pdf:docinfo:modified: 2013-09-07T05:43:14Z
+access_permission:assemble_document: true
+pdf:docinfo:created: 2006-02-28T14:41:57Z
+Last-Save-Date: 2013-09-07T05:43:14Z
+X-TIKA:parse_time_millis: 104
+date: 2013-09-07T05:43:14Z
+pdf:docinfo:title: BISI5603_253-259
+created: Tue Feb 28 06:41:57 PST 2006
+dc:creator: Prepress09
+modified: 2013-09-07T05:43:14Z
+meta:creation-date: 2006-02-28T14:41:57Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.4
+xmpTPg:NPages: 7
+title: BISI5603_253-259
+dcterms:modified: 2013-09-07T05:43:14Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

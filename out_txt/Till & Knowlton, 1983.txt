@@ -1,39 +1,39 @@
-data\Till & Knowlton, 1983.pdfdcterms:modified: 2017-01-09T18:15:10Z
-access_permission:can_modify: true
-title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
-dc:title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
-pdf:docinfo:custom:Source: SEQ
-access_permission:can_print_degraded: true
-created: Mon Jan 09 10:15:10 PST 2017
-meta:save-date: 2017-01-09T18:15:10Z
-access_permission:can_print: true
-pdf:docinfo:modified: 2017-01-09T18:15:10Z
-pdf:encrypted: false
-access_permission:assemble_document: true
-Last-Save-Date: 2017-01-09T18:15:10Z
-access_permission:modify_annotations: true
-Content-Type: application/pdf
-dcterms:created: 2017-01-09T18:15:10Z
-Creation-Date: 2017-01-09T18:15:10Z
-X-TIKA:parse_time_millis: 75
-meta:creation-date: 2017-01-09T18:15:10Z
-date: 2017-01-09T18:15:10Z
+data\Till & Knowlton, 1983.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
-Source: SEQ
-xmpTPg:NPages: 9
-pdf:docinfo:title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
-dc:format: application/pdf; version=1.4
-pdf:docinfo:producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
-modified: 2017-01-09T18:15:10Z
 producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
-access_permission:fill_in_form: true
-pdf:docinfo:created: 2017-01-09T18:15:10Z
+dc:title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
+meta:save-date: 2017-01-09T18:15:10Z
+Last-Modified: 2017-01-09T18:15:10Z
+dcterms:created: 2017-01-09T18:15:10Z
+access_permission:can_print: true
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-pdf:PDFVersion: 1.4
-Last-Modified: 2017-01-09T18:15:10Z
+pdf:docinfo:created: 2017-01-09T18:15:10Z
 access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
+pdf:docinfo:producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
+dc:format: application/pdf; version=1.4
+access_permission:can_print_degraded: true
+Creation-Date: 2017-01-09T18:15:10Z
+pdf:docinfo:modified: 2017-01-09T18:15:10Z
+access_permission:assemble_document: true
+Last-Save-Date: 2017-01-09T18:15:10Z
+X-TIKA:parse_time_millis: 117
+date: 2017-01-09T18:15:10Z
+pdf:docinfo:custom:Source: SEQ
+pdf:docinfo:title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
+created: Mon Jan 09 10:15:10 PST 2017
+Source: SEQ
+title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
+modified: 2017-01-09T18:15:10Z
+meta:creation-date: 2017-01-09T18:15:10Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.4
+xmpTPg:NPages: 9
+dcterms:modified: 2017-01-09T18:15:10Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

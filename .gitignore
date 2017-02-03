@@ -5,3 +5,4 @@ Include/
 *.pyc
 tcl/
 data/
+venv/

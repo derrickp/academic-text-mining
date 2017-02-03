@@ -1,40 +1,40 @@
 data\Andelt et al 1999.pdfaccess_permission:can_modify: true
-title: Coyote Predation on Domestic Sheep Deterred with Electronic Dog-Training Collar
-dc:title: Coyote Predation on Domestic Sheep Deterred with Electronic Dog-Training Collar
-access_permission:can_print_degraded: true
-created: Mon Aug 25 07:30:33 PDT 2014
-meta:save-date: 2014-08-25T14:30:33Z
-pdf:PDFVersion: 1.3
-access_permission:can_print: true
-pdf:docinfo:modified: 2014-08-25T14:30:33Z
-pdf:encrypted: false
-access_permission:assemble_document: true
-Last-Save-Date: 2014-08-25T14:30:33Z
-dcterms:modified: 2014-08-25T14:30:33Z
-pdf:docinfo:creator_tool: JstorPdfGenerator v1.0
-Content-Type: application/pdf
-dcterms:created: 2014-08-25T14:30:33Z
-Creation-Date: 2014-08-25T14:30:33Z
-X-TIKA:parse_time_millis: 59
-meta:creation-date: 2014-08-25T14:30:33Z
-date: 2014-08-25T14:30:33Z
-xmpMM:DocumentID: uuid:123a8451-d0e0-497b-a7e5-e321feafcab1
-access_permission:modify_annotations: true
-xmpTPg:NPages: 7
 access_permission:extract_content: true
-pdf:docinfo:title: Coyote Predation on Domestic Sheep Deterred with Electronic Dog-Training Collar
-dc:format: application/pdf; version=1.3
-pdf:docinfo:producer: Mac OS X 10.9.4 Quartz PDFContext
-modified: 2014-08-25T14:30:33Z
+xmpMM:DocumentID: uuid:123a8451-d0e0-497b-a7e5-e321feafcab1
 producer: Mac OS X 10.9.4 Quartz PDFContext
-access_permission:fill_in_form: true
-pdf:docinfo:created: 2014-08-25T14:30:33Z
+dc:title: Coyote Predation on Domestic Sheep Deterred with Electronic Dog-Training Collar
+meta:save-date: 2014-08-25T14:30:33Z
+Last-Modified: 2014-08-25T14:30:33Z
+xmp:CreatorTool: JstorPdfGenerator v1.0
+dcterms:created: 2014-08-25T14:30:33Z
+access_permission:can_print: true
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-xmp:CreatorTool: JstorPdfGenerator v1.0
+pdf:docinfo:created: 2014-08-25T14:30:33Z
 access_permission:extract_for_accessibility: true
-Last-Modified: 2014-08-25T14:30:33Z
+access_permission:fill_in_form: true
+pdf:encrypted: false
+pdf:docinfo:producer: Mac OS X 10.9.4 Quartz PDFContext
+dc:format: application/pdf; version=1.3
+access_permission:can_print_degraded: true
+Creation-Date: 2014-08-25T14:30:33Z
+pdf:docinfo:creator_tool: JstorPdfGenerator v1.0
+pdf:docinfo:modified: 2014-08-25T14:30:33Z
+access_permission:assemble_document: true
+Last-Save-Date: 2014-08-25T14:30:33Z
+X-TIKA:parse_time_millis: 153
+date: 2014-08-25T14:30:33Z
+pdf:docinfo:title: Coyote Predation on Domestic Sheep Deterred with Electronic Dog-Training Collar
+created: Mon Aug 25 07:30:33 PDT 2014
+title: Coyote Predation on Domestic Sheep Deterred with Electronic Dog-Training Collar
+modified: 2014-08-25T14:30:33Z
+meta:creation-date: 2014-08-25T14:30:33Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.3
+xmpTPg:NPages: 7
+dcterms:modified: 2014-08-25T14:30:33Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

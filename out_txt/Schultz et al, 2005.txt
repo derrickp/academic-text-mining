@@ -1,34 +1,34 @@
-data\Schultz et al, 2005.pdfdcterms:modified: 2016-04-09T23:04:16Z
-access_permission:can_modify: true
-access_permission:assemble_document: true
-access_permission:can_print_degraded: true
-created: Sat Apr 09 16:04:16 PDT 2016
+data\Schultz et al, 2005.pdfaccess_permission:can_modify: true
+access_permission:extract_content: true
+producer: iText 4.2.0 by 1T3XT
 meta:save-date: 2016-04-09T23:04:16Z
+Last-Modified: 2016-04-09T23:04:16Z
+dcterms:created: 2016-04-09T23:04:16Z
 access_permission:can_print: true
-pdf:docinfo:modified: 2016-04-09T23:04:16Z
-pdf:encrypted: false
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-Last-Save-Date: 2016-04-09T23:04:16Z
-access_permission:modify_annotations: true
-Content-Type: application/pdf
-dcterms:created: 2016-04-09T23:04:16Z
-Creation-Date: 2016-04-09T23:04:16Z
-X-TIKA:parse_time_millis: 58
-meta:creation-date: 2016-04-09T23:04:16Z
-date: 2016-04-09T23:04:16Z
-access_permission:extract_content: true
-xmpTPg:NPages: 8
-dc:format: application/pdf; version=1.4
-pdf:docinfo:producer: iText 4.2.0 by 1T3XT
-modified: 2016-04-09T23:04:16Z
-producer: iText 4.2.0 by 1T3XT
-access_permission:fill_in_form: true
 pdf:docinfo:created: 2016-04-09T23:04:16Z
-pdf:PDFVersion: 1.4
-Last-Modified: 2016-04-09T23:04:16Z
 access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+pdf:encrypted: false
+pdf:docinfo:producer: iText 4.2.0 by 1T3XT
+dc:format: application/pdf; version=1.4
+access_permission:can_print_degraded: true
+Creation-Date: 2016-04-09T23:04:16Z
+pdf:docinfo:modified: 2016-04-09T23:04:16Z
+access_permission:assemble_document: true
+Last-Save-Date: 2016-04-09T23:04:16Z
+X-TIKA:parse_time_millis: 57
+date: 2016-04-09T23:04:16Z
+created: Sat Apr 09 16:04:16 PDT 2016
+modified: 2016-04-09T23:04:16Z
+meta:creation-date: 2016-04-09T23:04:16Z
+access_permission:modify_annotations: true
+pdf:PDFVersion: 1.4
+xmpTPg:NPages: 8
+dcterms:modified: 2016-04-09T23:04:16Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 

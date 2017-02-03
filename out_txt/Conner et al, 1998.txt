@@ -1,36 +1,36 @@
-data\Conner et al, 1998.pdfdcterms:modified: 2015-05-12T16:49:48Z
-access_permission:can_modify: true
+data\Conner et al, 1998.pdfaccess_permission:can_modify: true
+access_permission:extract_content: true
+producer: iText® 5.5.5 ©2000-2014 iText Group NV (AGPL-version); modified using iText® 5.5.5 ©2000-2014 iText Group NV (AGPL-version)
+meta:save-date: 2015-05-12T16:49:48Z
+Last-Modified: 2015-05-12T16:49:48Z
+dcterms:created: 2015-05-12T16:49:48Z
+access_permission:can_print: true
 X-Parsed-By: 
 org.apache.tika.parser.DefaultParser
 org.apache.tika.parser.pdf.PDFParser
-pdf:docinfo:custom:Source: SEQ
-access_permission:can_print_degraded: true
-created: Tue May 12 09:49:48 PDT 2015
-meta:save-date: 2015-05-12T16:49:48Z
-access_permission:can_print: true
-pdf:docinfo:modified: 2015-05-12T16:49:48Z
+pdf:docinfo:created: 2015-05-12T16:49:48Z
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
 pdf:encrypted: false
+pdf:docinfo:producer: iText® 5.5.5 ©2000-2014 iText Group NV (AGPL-version); modified using iText® 5.5.5 ©2000-2014 iText Group NV (AGPL-version)
+dc:format: application/pdf; version=1.4
+access_permission:can_print_degraded: true
+Creation-Date: 2015-05-12T16:49:48Z
+pdf:docinfo:modified: 2015-05-12T16:49:48Z
 access_permission:assemble_document: true
 Last-Save-Date: 2015-05-12T16:49:48Z
-xmpTPg:NPages: 11
-Content-Type: application/pdf
-dcterms:created: 2015-05-12T16:49:48Z
-Creation-Date: 2015-05-12T16:49:48Z
-X-TIKA:parse_time_millis: 91
-meta:creation-date: 2015-05-12T16:49:48Z
+X-TIKA:parse_time_millis: 191
 date: 2015-05-12T16:49:48Z
-access_permission:extract_content: true
+pdf:docinfo:custom:Source: SEQ
+created: Tue May 12 09:49:48 PDT 2015
 Source: SEQ
-access_permission:modify_annotations: true
-dc:format: application/pdf; version=1.4
-pdf:docinfo:producer: iText® 5.5.5 ©2000-2014 iText Group NV (AGPL-version); modified using iText® 5.5.5 ©2000-2014 iText Group NV (AGPL-version)
 modified: 2015-05-12T16:49:48Z
-producer: iText® 5.5.5 ©2000-2014 iText Group NV (AGPL-version); modified using iText® 5.5.5 ©2000-2014 iText Group NV (AGPL-version)
-access_permission:fill_in_form: true
-pdf:docinfo:created: 2015-05-12T16:49:48Z
+meta:creation-date: 2015-05-12T16:49:48Z
+access_permission:modify_annotations: true
 pdf:PDFVersion: 1.4
-Last-Modified: 2015-05-12T16:49:48Z
-access_permission:extract_for_accessibility: true
+xmpTPg:NPages: 11
+dcterms:modified: 2015-05-12T16:49:48Z
+Content-Type: application/pdf
 !PDF_CONTENT!
 --------------------------------
 
