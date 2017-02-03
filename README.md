@@ -11,6 +11,7 @@ academic-text-mining (actemin)
 
 ## Dependencies
 
+- Python 2.7 - Using Python 2.7 because of rasa. rasa requires Python 2.7 (3 is in the roadmap)
 - [spaCy](https://spacy.io/)
 - [tika](https://github.com/chrismattmann/tika-python)
   - As part of this you will also need tika server

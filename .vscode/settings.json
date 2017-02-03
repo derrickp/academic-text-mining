@@ -13,6 +13,7 @@
         "**/__pycache__": true,
         "Lib": true,
         "Include": true,
-        "**/*.pyc": true
+        "**/*.pyc": true,
+        "venv": true
     }
 }
