@@ -1,4 +1,4 @@
-data\Ausband, Mitchell, Bassing, & White, 2013.pdfaccess_permission:can_modify: true
+../data\Ausband, Mitchell, Bassing, & White, 2013.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 producer: Qt 5.3.0
 Author: David E. Ausband, Michael S. Mitchell, Sarah B. Bassing, Craig White
@@ -31,7 +31,7 @@ access_permission:assemble_document: true
 rgid: PB:286928861_AS:306991036076037@1450203774771
 pdf:docinfo:created: 2016-06-22T21:14:40Z
 Last-Save-Date: 2013-05-21T07:19:00Z
-X-TIKA:parse_time_millis: 477
+X-TIKA:parse_time_millis: 1040
 date: 2013-05-21T07:19:00Z
 pdf:docinfo:title: þÿ
 created: Wed Jun 22 14:14:40 PDT 2016

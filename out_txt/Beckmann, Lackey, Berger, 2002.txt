@@ -1,4 +1,4 @@
-data\Beckmann, Lackey, Berger, 2002.pdfaccess_permission:can_modify: true
+../data\Beckmann, Lackey, Berger, 2002.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 xmpMM:DocumentID: uuid:c97dd48f-f09d-458f-968f-628d1c4a8370
 producer: Microsoft® Office Word 2007
@@ -27,7 +27,7 @@ pdf:docinfo:modified: 2013-05-30T22:02:25Z
 access_permission:assemble_document: true
 pdf:docinfo:created: 2011-07-22T14:40:47Z
 Last-Save-Date: 2013-05-30T22:02:25Z
-X-TIKA:parse_time_millis: 229
+X-TIKA:parse_time_millis: 357
 date: 2013-05-30T22:02:25Z
 pdf:docinfo:title: 1 May 2002
 created: Fri Jul 22 07:40:47 PDT 2011

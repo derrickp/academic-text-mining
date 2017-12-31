@@ -1,4 +1,4 @@
-data\Ellins et al, 1977.pdfaccess_permission:can_modify: true
+../data\Ellins et al, 1977.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 producer: PageGenie PDFGenerator
 cp:subject: 
@@ -29,7 +29,7 @@ Keywords:
 pdf:docinfo:created: 2004-08-28T12:54:09Z
 pdf:docinfo:keywords: 
 Last-Save-Date: 2004-09-19T01:26:06Z
-X-TIKA:parse_time_millis: 194
+X-TIKA:parse_time_millis: 401
 date: 2004-09-19T01:26:06Z
 pdf:docinfo:title: PII: S0091-6773(77)90568-5
 created: Sat Aug 28 05:54:09 PDT 2004

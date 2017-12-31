@@ -1,4 +1,4 @@
-data\Gustavson et al, 1976.pdfaccess_permission:can_modify: true
+../data\Gustavson et al, 1976.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 producer: PageGenie PDFGenerator
 cp:subject: 
@@ -29,7 +29,7 @@ Keywords:
 pdf:docinfo:created: 2004-08-19T18:05:58Z
 pdf:docinfo:keywords: 
 Last-Save-Date: 2004-09-17T12:35:38Z
-X-TIKA:parse_time_millis: 151
+X-TIKA:parse_time_millis: 445
 date: 2004-09-17T12:35:38Z
 pdf:docinfo:title: PII: S0091-6773(76)90272-8
 created: Thu Aug 19 11:05:58 PDT 2004

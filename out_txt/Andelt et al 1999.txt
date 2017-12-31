@@ -1,4 +1,4 @@
-data\Andelt et al 1999.pdfaccess_permission:can_modify: true
+../data\Andelt et al 1999.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 xmpMM:DocumentID: uuid:123a8451-d0e0-497b-a7e5-e321feafcab1
 producer: Mac OS X 10.9.4 Quartz PDFContext
@@ -23,7 +23,7 @@ pdf:docinfo:creator_tool: JstorPdfGenerator v1.0
 pdf:docinfo:modified: 2014-08-25T14:30:33Z
 access_permission:assemble_document: true
 Last-Save-Date: 2014-08-25T14:30:33Z
-X-TIKA:parse_time_millis: 153
+X-TIKA:parse_time_millis: 784
 date: 2014-08-25T14:30:33Z
 pdf:docinfo:title: Coyote Predation on Domestic Sheep Deterred with Electronic Dog-Training Collar
 created: Mon Aug 25 07:30:33 PDT 2014

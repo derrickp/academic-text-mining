@@ -1,5 +1,6 @@
 {
   "backend": "spacy_sklearn",
   "path" : "./",
-  "data" : "./data/demo-restaurants.json"
+  "data" : "./data/coyote-research.json",
+  "server_model_dir" : "./model_20170226-120323"
 }

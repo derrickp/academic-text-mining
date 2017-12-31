@@ -1,4 +1,4 @@
-data\Shivik, Wilson, & Gilbert-Norton, 2011.pdfaccess_permission:can_modify: true
+../data\Shivik, Wilson, & Gilbert-Norton, 2011.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0 (Windows)
 dc:title: Will an artificial scent boundary prevent coyote intrusion?
@@ -26,7 +26,7 @@ WPS-PROCLEVEL: 2
 WPS-ARTICLEDOI: 10.1002/wsb.68
 pdf:docinfo:custom:WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
 Last-Save-Date: 2011-12-22T11:00:33Z
-X-TIKA:parse_time_millis: 42
+X-TIKA:parse_time_millis: 217
 date: 2011-12-22T11:00:33Z
 pdf:docinfo:custom:WPS-ARTICLEDOI: 10.1002/wsb.68
 pdf:docinfo:title: Will an artificial scent boundary prevent coyote intrusion?

@@ -2,6 +2,7 @@
 """
 
 import sys
+from os import path
 import yaml
 from pdflooper.utilities import write_text_file, get_pdf_filenames
 
@@ -9,6 +10,7 @@ def read_pdfs(pdf_directory, out_path):
     """ Read the contents of a directory of pdfs to text files
         Text files placed in out_path
     """
+    print(pdf_directory)
     file_names = get_pdf_filenames(pdf_directory)
     print(file_names)
     for file_name in file_names:
@@ -23,7 +25,8 @@ def main(config_path):
     """ main function for actemin
     """
     if config_path is None:
-        config_path = "./config/config.yml"
+        config_path = path.join("config","config.yml")
+    print(config_path)
     with open(config_path) as config_file:
         config = yaml.load(config_file)
 
@@ -33,5 +36,8 @@ def main(config_path):
 
 
 if __name__ == "__main__":
-    CONFIG_FILE_PATH = sys.argv[1]
+    if len(sys.argv) > 1:
+        CONFIG_FILE_PATH = sys.argv[1]
+    else:
+        CONFIG_FILE_PATH = None
     main(CONFIG_FILE_PATH)

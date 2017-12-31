@@ -1,4 +1,4 @@
-data\Mason, 2001.pdfaccess_permission:can_modify: true
+../data\Mason, 2001.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 producer: Acrobat Distiller 5.0.5 (Windows)
 Author: kjmichalewicz
@@ -26,7 +26,7 @@ pdf:docinfo:modified: 2002-04-18T14:06:47Z
 access_permission:assemble_document: true
 pdf:docinfo:created: 2002-04-18T14:06:47Z
 Last-Save-Date: 2002-04-18T14:06:47Z
-X-TIKA:parse_time_millis: 69
+X-TIKA:parse_time_millis: 333
 date: 2002-04-18T14:06:47Z
 pdf:docinfo:title: C:\My Documents\Kerris Documents\Web Pages\TEXNAT\To Dale\u-Mason.wpd
 created: Thu Apr 18 07:06:47 PDT 2002

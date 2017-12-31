@@ -1,4 +1,4 @@
-data\Till & Knowlton, 1983.pdfaccess_permission:can_modify: true
+../data\Till & Knowlton, 1983.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 producer: iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version); modified using iText® 5.5.10 ©2000-2015 iText Group NV (Ithaka Harbors Inc.; licensed version)
 dc:title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep
@@ -20,7 +20,7 @@ Creation-Date: 2017-01-09T18:15:10Z
 pdf:docinfo:modified: 2017-01-09T18:15:10Z
 access_permission:assemble_document: true
 Last-Save-Date: 2017-01-09T18:15:10Z
-X-TIKA:parse_time_millis: 117
+X-TIKA:parse_time_millis: 341
 date: 2017-01-09T18:15:10Z
 pdf:docinfo:custom:Source: SEQ
 pdf:docinfo:title: Efficacy of Denning in Alleviating Coyote Depredations upon Domestic Sheep

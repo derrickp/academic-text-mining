@@ -1,4 +1,4 @@
-data\Hawley et al 2009.pdfaccess_permission:can_modify: true
+../data\Hawley et al 2009.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 xmpMM:DocumentID: uuid:5b54d0f7-945e-4571-b168-2d532131968a
 producer: Acrobat Distiller 7.0.5 (Windows)
@@ -23,7 +23,7 @@ pdf:docinfo:creator_tool: 3B2 Total Publishing System 8.07c/W
 pdf:docinfo:modified: 2009-04-21T07:51:37Z
 access_permission:assemble_document: true
 Last-Save-Date: 2009-04-21T07:51:37Z
-X-TIKA:parse_time_millis: 85
+X-TIKA:parse_time_millis: 317
 date: 2009-04-21T07:51:37Z
 pdf:docinfo:title: wild-73-04-19 518..525
 created: Tue Apr 21 00:11:53 PDT 2009

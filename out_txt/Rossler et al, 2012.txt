@@ -1,4 +1,4 @@
-data\Rossler et al, 2012.pdfaccess_permission:can_modify: true
+../data\Rossler et al, 2012.pdfaccess_permission:can_modify: true
 access_permission:extract_content: true
 producer: PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0.5 (Windows)
 dc:title: Shock collars as a siteaversive conditioning tool for wolves
@@ -26,7 +26,7 @@ WPS-PROCLEVEL: 2
 WPS-ARTICLEDOI: 10.1002/wsb.93
 pdf:docinfo:custom:WPS-JOURNALDOI: 10.1002/(ISSN)1938-5463a
 Last-Save-Date: 2012-03-23T13:13:14Z
-X-TIKA:parse_time_millis: 84
+X-TIKA:parse_time_millis: 281
 date: 2012-03-23T13:13:14Z
 pdf:docinfo:custom:WPS-ARTICLEDOI: 10.1002/wsb.93
 pdf:docinfo:title: Shock collars as a siteaversive conditioning tool for wolves
